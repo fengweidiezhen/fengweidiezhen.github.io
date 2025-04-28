@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Huang Chunhao & Andy</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: #fff;
+            padding: 2rem;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .download-btn, .lang-toggle {
+            display: inline-block;
+            margin: 1em 0.5em;
+            padding: 0.6em 1.4em;
+            background-color: #128c91;
+            color: white;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background 0.3s;
+            cursor: pointer;
+        }
+        .download-btn:hover, .lang-toggle:hover {
+            background-color: #0d6f72;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        header img.profile {
+            height: 100px;
+            border-radius: 8px;
+        }
+        header img.logo {
+            height: 100px;
+            margin-top: -100px;
+        }
+        h1 {
+            margin: 0;
+            font-size: 1.8rem;
+        }
+        .contact i {
+            margin-right: 8px;
+        }
+        section {
+            margin-top: 2rem;
+        }
+        section h2 {
+            border-bottom: 2px solid #128c91;
+            padding-bottom: 0.3rem;
+            color: #128c91;
+        }
+        ul {
+            padding-left: 1.2rem;
+        }
+        .footer {
+            background: #128c91;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+            margin-top: 2rem;
+        }
+        .footer a {
+            color: white;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="images/cuhk_logo.png" class="logo" alt="CUHK Logo">
+            <div>
+                <h1>Huang Chunhao & Andy</h1>
+                <p>Intended Position: Artificial Intelligence Engineer &bull; Age: 22</p>
+                <p class="contact">
+                    <i class="fas fa-phone"></i> +86 18382282858 &nbsp;
+                    <i class="fas fa-envelope"></i> <a href="mailto:fengweidiezhen@gmail.com">fengweidiezhen@gmail.com</a>
+                </p>
+            </div>
+            <img src="images/profile.jpg" class="profile" alt="Profile Photo">
+            
+        </header>
+        
+        <section>
+            <a class="download-btn" href="assets/resume.pdf" download>📄 Download PDF Resume</a>
+            <button class="lang-toggle" onclick="toggleLang()">🌐 中文 / English</button>
+        </section>
+
+        <section>
+            <h2><i class="fas fa-graduation-cap"></i> Education</h2>
+            <p><strong>The Chinese University of Hong Kong</strong> (2020.09 - 2024.07)<br>
+                B.Eng. Artificial Intelligence: System & Technology<br>
+                <em>Courses:</em> Foundation of Applied DL, Computer Networks, Fund. of ML, Design & Analysis of Algorithm, Data Structures, Numerical Optimization, Intro to Database System
+            </p>
+            <p><strong>University of California, Berkeley</strong> (2023.06 - 2023.08)<br>
+                Summer School, Computer Science Engineering<br>
+                <em>Courses:</em> Python Programming, Computer Hardware
+            </p>
+        </section>
+
+        <section>
+            <h2><i class="fas fa-trophy"></i> Awards</h2>
+            <ul>
+                <li>Mr. Michael Wong Student Exchange Scholarship</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2><i class="fas fa-file-alt"></i> Scores and Learning Outcomes</h2>
+            <p><strong>Major GPA:</strong> 3.44 / 4.0</p>
+            <p><strong>Summer School GPA:</strong> 3.50 / 4.0</p>
+            <p><strong>TOEFL:</strong> 92</p>
+            <p><strong>Final Year Project:</strong> Combining LEGO with AI – Training AI models for text/image-based LEGO generation with contrastive loss. Top-3 text accuracy exceeded 60%.</p>
+            <p><strong>AI training - Kaggle Competitions:</strong> Achieved 84% image classification accuracy (9/43), and ~97% BERT text classification accuracy (2/43).</p>
+            <p><strong>Mobile Development:</strong> Android app "NaviRoute" developed using Java and Android SDK. Responsibilities included UI design, map and navigation integration.</p>
+        </section>
+
+        <section>
+            <h2><i class="fas fa-briefcase"></i> Work Experience</h2>
+            <p><strong>Shenzhen Qianqi Technology Co., Ltd.</strong> (2023.08–2024.06)<br>
+                <em>Algorithm Engineer</em><br>
+                Led AI development for custom LEGO model generation. Managed a team, trained linear regression models to fix printing deviations, and optimized rendering and synthesis pipeline.
+            </p>
+            <p><strong>ThingX Technologies Limited</strong> (2024.06–Present)<br>
+                <em>AI Algorithm Engineer</em><br>
+                Led development of fall detection product using TCN and YOWO models for thermal camera data. Achieved ~80% precision, optimized for RV-1106 chipset.
+            </p>
+        </section>
+
+        <section>
+            <h2><i class="fas fa-wrench"></i> Skills</h2>
+            <ul>
+                <li>Programming Languages: Python, C, C++, Java</li>
+                <li>ML Framework: PyTorch</li>
+                <li>Tools & Frameworks: Android SDK, Xcode</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2><i class="fas fa-tags"></i> Others</h2>
+            <p>Hobbies: AI technology, piano and painting (self-learned), Unity/RPGMaker game development, cycling, and ball sports.</p>
+        </section>
+    </div>
+
+    <div class="footer">
+        <i class="fab fa-github"></i> <a href="https://github.com/fengweidiezhen">github.com/fengweidiezhen</a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,165 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>My Art Album</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="assets/css/main.css">
+  <style>
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      justify-items: center;
+      gap: 2rem;
+      padding: 2rem;
+    }
+    .gallery-item {
+      width: 300px;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+      background: #fff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 0;
+      cursor: pointer;
+    }
+    .gallery-item img {
+      width: 100%;
+      height: 460px;
+      display: block;
+    }
+    .gallery-item-caption {
+      padding: 0.5rem 1rem;
+      background: #f2f2f2;
+      font-size: 0.9rem;
+      color: #333;
+      text-align: center;
+      width: 100%;
+    }
+
+    /* Modal styles */
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 999;
+      padding-top: 60px;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgba(0,0,0,0.8);
+    }
+    .modal-content {
+      margin: auto;
+      display: block;
+      max-width: 90%;
+      max-height: 80%;
+    }
+    .modal-caption {
+      text-align: center;
+      color: white;
+      margin-top: 10px;
+    }
+    .close {
+      position: absolute;
+      top: 50px;
+      right: 50px;
+      color: white;
+      font-size: 40px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <header id="header">
+    <div class="logo"><a href="index.html">fengweidiezhen</a></div>
+    <a href="#menu">Menu</a>
+  </header>
+
+  <nav id="menu">
+    <ul class="links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="profile.html">Profile</a></li>
+      <li><a href="album.html">Album</a></li>
+    </ul>
+  </nav>
+
+  <section class="wrapper style2">
+    <div class="inner">
+      <header class="align-center">
+        <h2>My Art Album</h2>
+        <p>A collection of drawings and creative pieces</p>
+      </header>
+      <div class="gallery">
+        <div class="gallery-item" onclick="openModal(this)">
+          <img src="images/makima.jpeg" alt="Makima">
+          <div class="gallery-item-caption">Makima</div>
+        </div>
+        <div class="gallery-item" onclick="openModal(this)">
+          <img src="images/kafka.jpeg" alt="Kafka">
+          <div class="gallery-item-caption">Kafka</div>
+        </div>
+        <!-- 🎨 Add more images below -->
+        <div class="gallery-item" onclick="openModal(this)">
+          <img src="images/ganyu.jpeg" alt="Ganyu">
+          <div class="gallery-item-caption">Ganyu</div>
+        </div>
+        <div class="gallery-item" onclick="openModal(this)">
+          <img src="images/octopus.jpeg" alt="Octopus">
+          <div class="gallery-item-caption">Octopus</div>
+        </div>
+        <div class="gallery-item" onclick="openModal(this)">
+            <img src="images/amiya.jpeg" alt="Amiya">
+            <div class="gallery-item-caption">Amiya</div>
+        </div>
+        <div class="gallery-item" onclick="openModal(this)">
+            <img src="images/kamado.jpeg" alt="Kamado">
+            <div class="gallery-item-caption">Kamado</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Modal -->
+  <div id="imageModal" class="modal">
+    <span class="close" onclick="closeModal()">&times;</span>
+    <img class="modal-content" id="modalImage">
+    <div class="modal-caption" id="modalCaption"></div>
+  </div>
+
+  <footer id="footer">
+    <div class="container">
+      <ul class="icons">
+        <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+        <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+        <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+      </ul>
+    </div>
+  </footer>
+
+  <script>
+    function openModal(el) {
+      const modal = document.getElementById("imageModal");
+      const modalImg = document.getElementById("modalImage");
+      const modalCaption = document.getElementById("modalCaption");
+      modal.style.display = "block";
+      modalImg.src = el.querySelector("img").src;
+      modalCaption.innerText = el.querySelector(".gallery-item-caption").innerText;
+    }
+    function closeModal() {
+      document.getElementById("imageModal").style.display = "none";
+    }
+  </script>
+  <!-- Scripts -->
+  <script src="assets/js/jquery.min.js"></script>
+  <script src="assets/js/jquery.scrollex.min.js"></script>
+  <script src="assets/js/skel.min.js"></script>
+  <script src="assets/js/util.js"></script>
+  <script src="assets/js/main.js"></script>
+
+</body>
+</html>
