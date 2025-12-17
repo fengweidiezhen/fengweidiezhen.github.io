@@ -79,6 +79,10 @@
       min-height: 100vh;
       padding: 2rem;
       box-sizing: border-box;
+      pointer-events: none;
+    }
+    .modal-container > * {
+      pointer-events: auto;
     }
     .modal-content, .modal-info {
       pointer-events: auto;
@@ -206,9 +210,9 @@
   <!-- Modal -->
   <div id="imageModal" class="modal" onclick="closeModal()">
     <span class="close" onclick="closeModal()">&times;</span>
-    <div class="modal-container" onclick="event.stopPropagation()">
-      <img class="modal-content" id="modalImage">
-      <div class="modal-info">
+    <div class="modal-container">
+      <img class="modal-content" id="modalImage" onclick="event.stopPropagation()">
+      <div class="modal-info" onclick="event.stopPropagation()">
         <h3 id="modalTitle"></h3>
         <div class="draw-date" id="modalDate"></div>
         <div class="description" id="modalDescription"></div>

@@ -27,6 +27,60 @@
         #menu {
           background: #000 !important;
         }
+        .post-card {
+          position: relative;
+          width: 100%;
+          max-width: 800px;
+          margin: 2rem auto;
+          border-radius: 12px;
+          overflow: hidden;
+          box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+          transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .post-card:hover {
+          transform: translateY(-5px);
+          box-shadow: 0 8px 30px rgba(0,0,0,0.25);
+        }
+        .post-card-bg {
+          position: relative;
+          width: 100%;
+          height: 400px;
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+        }
+        .post-card-overlay {
+          position: absolute;
+          bottom: 0;
+          left: 0;
+          right: 0;
+          background: linear-gradient(to top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%, transparent 100%);
+          padding: 2rem;
+          color: white;
+        }
+        .post-card-content {
+          padding: 2rem;
+          background: white;
+        }
+        .post-card-date {
+          color: rgba(255,255,255,0.9);
+          font-size: 0.9rem;
+          margin-bottom: 0.5rem;
+        }
+        .post-card-title {
+          color: white;
+          font-size: 2rem;
+          margin: 0.5rem 0;
+        }
+        .post-card-summary {
+          color: #333;
+          line-height: 1.6;
+          margin: 1rem 0;
+        }
+        .post-card-button {
+          text-align: center;
+          margin-top: 1.5rem;
+        }
     </style>
       
 
@@ -37,23 +91,20 @@
 				<p>A collection of my latest posts and travel experiences</p>
 				<h2>Posts</h2>
 			</header>
-			<div class="grid-style">
+			<div style="display: flex; flex-direction: column; align-items: center; gap: 2rem;">
 
 				<!-- Example Post -->
-				<div>
-					<div class="box">
-						<div class="image fit">
-							<img src="images/akihabara-thumb.jpg" alt="Akihabara Post Thumbnail">
+				<div class="post-card">
+					<div class="post-card-bg" style="background-image: url('images/japan.jpg');">
+						<div class="post-card-overlay">
+							<div class="post-card-date">2025.03.29</div>
+							<h2 class="post-card-title">Japan Trip: Tokyo (Day 1) - Akihabara</h2>
 						</div>
-						<div class="content">
-							<header class="align-center">
-								<p>2025.03.29</p>
-								<h2>Japan Trip: Tokyo (Day 1) - Akihabara</h2>
-							</header>
-							<p>First day in Tokyo! Explored Akihabara, checked out anime shops, gaming arcades, and tried some local food.</p>
-							<footer class="align-center">
-								<a href="posts/2025-03-29-akihabara.html" class="button alt">Read More</a>
-							</footer>
+					</div>
+					<div class="post-card-content">
+						<p class="post-card-summary">First day in Tokyo! Explored Akihabara, checked out anime shops, gaming arcades, and tried some local food.</p>
+						<div class="post-card-button">
+							<a href="posts/2025-03-29-akihabara.html" class="button alt">Read More</a>
 						</div>
 					</div>
 				</div>
@@ -68,13 +119,17 @@
 	<footer id="footer">
 		<div class="container">
 			<ul class="icons">
-				<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-				<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-				<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-				<li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+				<li><a href="https://github.com/fengweidiezhen" class="icon fa-github"><span class="label">Github</span></a></li>
+				<li><a href="#" class="icon fa-wechat"><span class="label">Wechat</span></a></li>
+				<li><a href="https://www.linkedin.com/in/%E6%98%A5%E7%9A%93-%E9%BB%84-596393306/" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
+				<li><a href="mailto:fengweidiezhen@gmail.com" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
 			</ul>
 		</div>
 	</footer>
+
+	<div class="copyright">
+		Made with <a href="https://templated.co/">Templated</a>.
+	</div>
 	<div class="copyright">
 		Made with <a href="https://templated.co/">Templated</a>.
 	</div>
