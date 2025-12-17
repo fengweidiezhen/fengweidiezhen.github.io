@@ -69,6 +69,7 @@
       height: 100%;
       overflow: auto;
       background-color: rgba(0,0,0,0.9);
+      cursor: pointer;
     }
     .modal-container {
       display: flex;
@@ -78,10 +79,9 @@
       min-height: 100vh;
       padding: 2rem;
       box-sizing: border-box;
-      cursor: pointer;
     }
-    .modal-container > * {
-      cursor: default;
+    .modal-content, .modal-info {
+      pointer-events: auto;
     }
     .modal-content {
       margin: 0 auto;
@@ -204,9 +204,9 @@
   </section>
 
   <!-- Modal -->
-  <div id="imageModal" class="modal">
+  <div id="imageModal" class="modal" onclick="closeModal()">
     <span class="close" onclick="closeModal()">&times;</span>
-    <div class="modal-container">
+    <div class="modal-container" onclick="event.stopPropagation()">
       <img class="modal-content" id="modalImage">
       <div class="modal-info">
         <h3 id="modalTitle"></h3>
@@ -263,15 +263,6 @@
       // Restore body scroll
       document.body.style.overflow = "auto";
     }
-    
-    // Close modal when clicking on the modal background (but not on the content)
-    const modal = document.getElementById("imageModal");
-    modal.addEventListener('click', function(event) {
-      // Close if clicking directly on the modal background (not on the container or its children)
-      if (event.target === modal) {
-        closeModal();
-      }
-    });
     
     // Also close with Escape key
     document.addEventListener('keydown', function(event) {
