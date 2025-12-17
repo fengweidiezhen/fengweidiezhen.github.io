@@ -78,6 +78,10 @@
       min-height: 100vh;
       padding: 2rem;
       box-sizing: border-box;
+      cursor: pointer;
+    }
+    .modal-container > * {
+      cursor: default;
     }
     .modal-content {
       margin: 0 auto;
@@ -148,35 +152,51 @@
       </header>
       <div class="gallery">
         <div class="gallery-item" onclick="openModal(this)" data-title="Makima" data-date="" data-description="">
-          <img src="images/makima.jpeg" alt="Makima">
+          <div class="gallery-item-image-container">
+            <img src="images/makima.jpeg" alt="Makima">
+          </div>
           <div class="gallery-item-caption">Makima</div>
         </div>
         <div class="gallery-item" onclick="openModal(this)" data-title="Kafka" data-date="" data-description="">
-          <img src="images/kafka.jpeg" alt="Kafka">
+          <div class="gallery-item-image-container">
+            <img src="images/kafka.jpeg" alt="Kafka">
+          </div>
           <div class="gallery-item-caption">Kafka</div>
         </div>
         <div class="gallery-item" onclick="openModal(this)" data-title="Ganyu" data-date="" data-description="">
-          <img src="images/ganyu.jpeg" alt="Ganyu">
+          <div class="gallery-item-image-container">
+            <img src="images/ganyu.jpeg" alt="Ganyu">
+          </div>
           <div class="gallery-item-caption">Ganyu</div>
         </div>
         <div class="gallery-item" onclick="openModal(this)" data-title="Octopus" data-date="" data-description="">
-          <img src="images/octopus.jpeg" alt="Octopus">
+          <div class="gallery-item-image-container">
+            <img src="images/octopus.jpeg" alt="Octopus">
+          </div>
           <div class="gallery-item-caption">Octopus</div>
         </div>
         <div class="gallery-item" onclick="openModal(this)" data-title="Amiya" data-date="" data-description="">
-          <img src="images/amiya.jpeg" alt="Amiya">
+          <div class="gallery-item-image-container">
+            <img src="images/amiya.jpeg" alt="Amiya">
+          </div>
           <div class="gallery-item-caption">Amiya</div>
         </div>
         <div class="gallery-item" onclick="openModal(this)" data-title="Kamado" data-date="" data-description="">
-          <img src="images/kamado.jpeg" alt="Kamado">
+          <div class="gallery-item-image-container">
+            <img src="images/kamado.jpeg" alt="Kamado">
+          </div>
           <div class="gallery-item-caption">Kamado</div>
         </div>
         <div class="gallery-item" onclick="openModal(this)" data-title="Kuromi" data-date="" data-description="">
-          <img src="images/kuromi.jpeg" alt="Kuromi">
+          <div class="gallery-item-image-container">
+            <img src="images/kuromi.jpeg" alt="Kuromi">
+          </div>
           <div class="gallery-item-caption">Kuromi</div>
         </div>
         <div class="gallery-item" onclick="openModal(this)" data-title="Illori" data-date="" data-description="">
-          <img src="images/illori.jpg" alt="Illori">
+          <div class="gallery-item-image-container">
+            <img src="images/illori.jpg" alt="Illori">
+          </div>
           <div class="gallery-item-caption">Illori</div>
         </div>
       </div>
@@ -220,8 +240,10 @@
       const modalDescription = document.getElementById("modalDescription");
       
       modal.style.display = "block";
-      modalImg.src = el.querySelector("img").src;
-      modalImg.alt = el.querySelector("img").alt;
+      // Get image from the image container
+      const imgElement = el.querySelector(".gallery-item-image-container img") || el.querySelector("img");
+      modalImg.src = imgElement.src;
+      modalImg.alt = imgElement.alt;
       
       // Get data attributes
       const title = el.getAttribute("data-title") || el.querySelector(".gallery-item-caption").innerText;
@@ -231,19 +253,32 @@
       modalTitle.innerText = title;
       modalDate.innerText = date;
       modalDescription.innerText = description;
+      
+      // Prevent body scroll when modal is open
+      document.body.style.overflow = "hidden";
     }
     
     function closeModal() {
       document.getElementById("imageModal").style.display = "none";
+      // Restore body scroll
+      document.body.style.overflow = "auto";
     }
     
-    // Close modal when clicking outside the image
-    window.onclick = function(event) {
-      const modal = document.getElementById("imageModal");
-      if (event.target == modal) {
+    // Close modal when clicking on the modal background (but not on the content)
+    const modal = document.getElementById("imageModal");
+    modal.addEventListener('click', function(event) {
+      // Close if clicking directly on the modal background (not on the container or its children)
+      if (event.target === modal) {
         closeModal();
       }
-    }
+    });
+    
+    // Also close with Escape key
+    document.addEventListener('keydown', function(event) {
+      if (event.key === "Escape") {
+        closeModal();
+      }
+    });
   </script>
   <!-- Scripts -->
   <script src="assets/js/jquery.min.js"></script>
