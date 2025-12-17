@@ -38,12 +38,8 @@
       height: 100px;
       border-radius: 8px;
     }
-    .resume-actions {
-      text-align: center;
-      margin: 2rem 0;
-    }
-    .resume-actions .button {
-      margin: 0.5rem;
+    .resume-download {
+      margin-top: 1rem;
     }
     .resume-section {
       margin: 2rem 0;
@@ -78,19 +74,6 @@
     .contact-info a {
       color: inherit;
       text-decoration: none;
-    }
-    .lang-toggle {
-      background: transparent;
-      border: 2px solid rgba(0, 0, 0, 0.15);
-      color: #000;
-      padding: 0.75rem 1.5rem;
-      cursor: pointer;
-      font-size: 1em;
-      transition: all 0.3s;
-    }
-    .lang-toggle:hover {
-      border-color: rgba(0, 0, 0, 0.3);
-      background: rgba(0, 0, 0, 0.075);
     }
   </style>
 </head>
@@ -139,17 +122,14 @@
                 <span><i class="icon fa-phone"></i> +86 18382282858</span>
                 <span><i class="icon fa-envelope-o"></i> <a href="mailto:fengweidiezhen@gmail.com">fengweidiezhen@gmail.com</a></span>
               </div>
+              <div class="resume-download">
+                <a href="assets/resume.pdf" class="button alt" download>📄 Download PDF Resume</a>
+              </div>
             </div>
             <div class="resume-header-images">
               <img src="images/cuhk_logo.png" class="resume-logo" alt="CUHK Logo">
               <img src="images/profile.jpg" class="resume-profile-img" alt="Profile Photo">
             </div>
-          </div>
-
-          <!-- Download Actions -->
-          <div class="resume-actions">
-            <a href="assets/resume.pdf" class="button alt" download>📄 Download PDF Resume</a>
-            <button class="lang-toggle button alt" onclick="toggleLang()">🌐 中文 / English</button>
           </div>
 
           <!-- Education -->
@@ -270,11 +250,5 @@
   <script src="assets/js/skel.min.js"></script>
   <script src="assets/js/util.js"></script>
   <script src="assets/js/main.js"></script>
-  <script>
-    function toggleLang() {
-      // Placeholder for language toggle functionality
-      alert('Language toggle feature coming soon!');
-    }
-  </script>
 </body>
 </html>
