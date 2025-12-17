@@ -57,10 +57,14 @@
     .resume-section p {
       margin: 0.8rem 0;
     }
-    .resume-section ul {
+    .resume-section ul,
+    .resume-section ol {
       list-style: disc;
       padding-left: 2rem;
       margin: 1rem 0;
+    }
+    .resume-section ol {
+      list-style: decimal;
     }
     .resume-section li {
       margin: 0.5rem 0;
@@ -130,7 +134,7 @@
             <div class="resume-header-info">
               <h2>Huang Chunhao (Andy)</h2>
               <p><strong>Intended Position:</strong> Artificial Intelligence Engineer</p>
-              <p><strong>Age:</strong> 22</p>
+              <p><strong>Age:</strong> 23</p>
               <div class="contact-info">
                 <span><i class="icon fa-phone"></i> +86 18382282858</span>
                 <span><i class="icon fa-envelope-o"></i> <a href="mailto:fengweidiezhen@gmail.com">fengweidiezhen@gmail.com</a></span>
@@ -152,12 +156,14 @@
           <div class="resume-section">
             <h3><i class="icon fa-graduation-cap"></i> Education</h3>
             <p><strong>The Chinese University of Hong Kong</strong> (2020.09 - 2024.07)<br>
-              <em>B.Eng. Artificial Intelligence: System & Technology</em><br>
-              <strong>Courses:</strong> Foundation of Applied DL, Computer Networks, Fund. of ML, Design & Analysis of Algorithm, Data Structures, Numerical Optimization, Intro to Database System
+              <em>B.Eng. Degree Artificial Intelligence: System & Technology</em><br>
+              <strong>Major Courses:</strong><br>
+              Foundation of Applied DL, Computer Networks, Fund. of ML, Design & Analysis of Algorithm, Data Structures, Numerical Optimization, Intro to Database System
             </p>
             <p><strong>University of California, Berkeley</strong> (2023.06 - 2023.08)<br>
-              <em>Summer School, Computer Science Engineering</em><br>
-              <strong>Courses:</strong> Python Programming, Computer Hardware
+              <em>Summer School Computer Science Engineering</em><br>
+              <strong>Major Courses:</strong><br>
+              Python Programming, Computer Hardware
             </p>
           </div>
 
@@ -165,31 +171,59 @@
           <div class="resume-section">
             <h3><i class="icon fa-trophy"></i> Awards</h3>
             <ul>
-              <li>Mr. Michael Wong Student Exchange Scholarship</li>
+              <li><strong>Scholarship:</strong> Mr. Michael Wong Student Exchange Scholarship, 2023</li>
             </ul>
           </div>
 
           <!-- Scores and Learning Outcomes -->
           <div class="resume-section">
             <h3><i class="icon fa-file-alt"></i> Scores and Learning Outcomes</h3>
-            <p><strong>Major GPA:</strong> 3.44 / 4.0</p>
-            <p><strong>Summer School GPA:</strong> 3.50 / 4.0</p>
+            <p><strong>Major GPA:</strong> 3.44/4.0</p>
+            <p><strong>Summer School GPA:</strong> 3.50/4.0</p>
             <p><strong>TOEFL:</strong> 92</p>
-            <p><strong>Final Year Project:</strong> Combining LEGO with AI – Training AI models for text/image-based LEGO generation with contrastive loss. Top-3 text accuracy exceeded 60%.</p>
-            <p><strong>AI training - Kaggle Competitions:</strong> Achieved 84% image classification accuracy (9/43), and ~97% BERT text classification accuracy (2/43).</p>
-            <p><strong>Mobile Development:</strong> Android app "NaviRoute" developed using Java and Android SDK. Responsibilities included UI design, map and navigation integration.</p>
+            <p><strong>Final Year Project: Combining LEGO with AI</strong><br>
+              <strong>Target:</strong> Using AI models to assist in generating LEGO character models.<br>
+              By utilizing contrastive loss, training AI models for text-based image retrieval and image-based image retrieval was accomplished. There are over 1000 pairs of text and corresponding image data, and 40,000+ pairs of image and image data. Finally, the top-3 accuracy of text exceeds 60%, the top-1 accuracy of text exceeds 10%, and the top-10 accuracy exceeds 50%. Additionally, preprocessing of data for training Stable Diffusion was completed.
+            </p>
+            <p><strong>AI Training: Kaggle Competition</strong><br>
+              During this year's deep learning course, I participated in two Kaggle competitions. The first competition was about image classification, where we trained various CNN models such as ResNet series, AlexNet, and GoogLeNet. Ultimately, the Inception model achieved 84% accuracy, placing 9th out of 43. The second competition focused on protein sentence classification. We trained a pre-trained BERT model, achieving around 97% accuracy and securing the 2nd position out of 43.
+            </p>
+            <p><strong>Mobile Development: Android application</strong><br>
+              In a course project, I collaborated with two team members to develop an Android app named NaviRoute. This app is designed to guide users through their routes. I was responsible for creating the home fragment and integrating it with other fragments to display route information. I developed core features using Java and the Android SDK, including map display, route planning, and real-time navigation. Additionally, I designed and implemented the user interface to ensure a user-friendly and responsive experience.
+            </p>
+          </div>
+
+          <!-- Publications -->
+          <div class="resume-section">
+            <h3><i class="icon fa-book"></i> Publications</h3>
+            <ol>
+              <li>Lan Zeng, Chunhao Huang, Ruihan Xie, Zhuohan Huang, Yunqi Guo, Lixing He, Zhiyuan Xie, and Guoliang Xing. "ThermiKit: Edge-Optimized LWIR Analytics with Agent-Driven Interactions." HotSense, Accepted, 2025. <a href="https://github.com/fengweidiezhen">https://github.com/fengweidiezhen</a></li>
+              <li>Yunqi Guo, Lan Zeng, Zhuohan Huang, Lixing He, Yingfang Wang, Ruihan Xie, Chunhao Huang, and Guoliang Xing. ""Don't Give Me Money, Give Me Meaning": Designing Value-Driven Mutual Aid for Rural Eldercare" CHI, Submitted, 2026.</li>
+            </ol>
           </div>
 
           <!-- Work Experience -->
           <div class="resume-section">
             <h3><i class="icon fa-briefcase"></i> Work Experience</h3>
+            <p><strong>Internship</strong></p>
             <p><strong>Shenzhen Qianqi Technology Co., Ltd.</strong> (2023.08–2024.06)<br>
               <em>Algorithm Engineer</em><br>
-              Led AI development for custom LEGO model generation. Managed a team, trained linear regression models to fix printing deviations, and optimized rendering and synthesis pipeline.
+              <strong>Custom LEGO Model Production</strong><br>
+              Within the company focused on custom LEGO model production, I oversee AI algorithm development and data structure conversions. Leading a project team, we generated complete LEGO models from user images. I delegated tasks to designers for data preprocessing and model synthesis. Successfully, we implemented retrieval and synthesis of component models. Addressing printing deviation issues, I trained linear regression models. I also managed rendering performance, model data restructuring, and other optimizations.
             </p>
-            <p><strong>ThingX Technologies Limited</strong> (2024.06–Present)<br>
+            <p><strong>ThingX Technologies Limited</strong> (2024.06–present)<br>
               <em>AI Algorithm Engineer</em><br>
-              Led development of fall detection product using TCN and YOWO models for thermal camera data. Achieved ~80% precision, optimized for RV-1106 chipset.
+              <strong>Thermal Fall Detection Device</strong><br>
+              At ThingX Technologies Limited, I led AI model development for a thermal camera–based fall detection system targeting elder care. To address hardware constraints (RV-1106 chipset, 62×80 resolution), I transitioned the approach from single-frame to temporal multi-frame detection and introduced Temporal Convolutional Networks (TCN), replacing RNN models to better fit limited resources. Later, I integrated YOWO (You Only Watch Once) as an end-to-end solution, achieving ∼80% precision through iterative optimization. Currently, I manage the entire algorithm pipeline, from research and prototyping to deployment.<br><br>
+              <strong>Emotion Detection Necklace</strong><br>
+              Developed the complete emotion recognition algorithm for a wearable emotion-detection necklace. Designed and trained a lightweight 4-class emotion recognition model, achieving 94% accuracy while optimizing for mobile deployment. Delivered an efficient solution that runs in real time on smartphones.
+            </p>
+            <p><strong>The Chinese University of Hong Kong</strong> (2024.10–present)<br>
+              <em>Research Assistant (part time)</em><br>
+              <strong>ThermiKit: Thermal Analytics Stack</strong><br>
+              Developed ThermiKit, a plug-and-play thermal analytics stack integrating detection, pose estimation, and tracking on low-cost LWIR cameras. Built a multi-camera thermal dataset and fine-tuned YOLO models, maintaining real-time operation on resource-constrained edge devices.<br><br>
+              <strong>ContriCare: Rural Eldercare Communication Tool</strong><br>
+              Conducted a mixed-methods study on rural ageing in China; co-designed and prototyped ContriCare, a recognition-driven help platform for elders. The prototype integrates smart speakers, IoT safeguards, and lightweight incentive mechanisms to enhance social recognition, trust, and neighborly support in village communities.
             </p>
           </div>
 
@@ -199,14 +233,14 @@
             <ul>
               <li><strong>Programming Languages:</strong> Python, C, C++, Java</li>
               <li><strong>ML Framework:</strong> PyTorch</li>
-              <li><strong>Tools & Frameworks:</strong> Android SDK, Xcode</li>
+              <li><strong>Tools and Frameworks:</strong> Android SDK, Xcode</li>
             </ul>
           </div>
 
           <!-- Others -->
           <div class="resume-section">
             <h3><i class="icon fa-tags"></i> Others</h3>
-            <p><strong>Hobbies:</strong> AI technology, piano and painting (self-learned), Unity/RPGMaker game development, cycling, and ball sports.</p>
+            <p><strong>Hobbies:</strong> AI-related cutting-edge technology, self-learning piano and painting, self-learning game development (Unity, RPGMaker), cycling, and badminton.</p>
           </div>
 
         </div>
