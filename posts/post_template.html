@@ -1,0 +1,212 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>{{TITLE}} - fengweidiezhen</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../assets/css/main.css">
+  <style>
+    body {
+      background: #fff;
+    }
+    .post-header-image {
+      width: 100%;
+      height: 500px;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+    .post-images-gallery {
+      width: 100%;
+      overflow-x: auto;
+      overflow-y: hidden;
+      white-space: nowrap;
+      padding: 2rem 0;
+      background: #f5f5f5;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: thin;
+      scrollbar-color: #888 #f5f5f5;
+    }
+    .post-images-gallery::-webkit-scrollbar {
+      height: 8px;
+    }
+    .post-images-gallery::-webkit-scrollbar-track {
+      background: #f5f5f5;
+    }
+    .post-images-gallery::-webkit-scrollbar-thumb {
+      background: #888;
+      border-radius: 4px;
+    }
+    .post-images-gallery::-webkit-scrollbar-thumb:hover {
+      background: #555;
+    }
+    .post-image-item {
+      display: inline-block;
+      width: auto;
+      height: 400px;
+      margin-right: 1rem;
+      vertical-align: top;
+    }
+    .post-image-item img {
+      height: 100%;
+      width: auto;
+      max-width: 800px;
+      object-fit: contain;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    .post-image-item:first-child {
+      margin-left: 2rem;
+    }
+    .post-image-item:last-child {
+      margin-right: 2rem;
+    }
+    .post-content {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 3rem 2rem;
+    }
+    .post-title {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+      color: #000;
+    }
+    .post-date {
+      color: #666;
+      font-size: 1rem;
+      margin-bottom: 2rem;
+    }
+    .post-body {
+      line-height: 1.8;
+      color: #333;
+      font-size: 1.1rem;
+    }
+    .post-body p {
+      margin-bottom: 1.5rem;
+    }
+    .post-body h2 {
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      font-size: 1.8rem;
+      color: #000;
+    }
+    .post-body h3 {
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+      font-size: 1.4rem;
+      color: #000;
+    }
+    .empty-image-placeholder {
+      display: inline-block;
+      width: 400px;
+      height: 400px;
+      background: #e0e0e0;
+      border: 2px dashed #999;
+      border-radius: 8px;
+      margin-right: 1rem;
+      vertical-align: top;
+      position: relative;
+    }
+    .empty-image-placeholder::after {
+      content: 'Add Image';
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: #999;
+      font-size: 1.2rem;
+    }
+    @media (max-width: 768px) {
+      .post-image-item {
+        height: 300px;
+      }
+      .post-title {
+        font-size: 2rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header -->
+  <header id="header">
+    <div class="logo"><a href="../index.html">fengweidiezhen</a></div>
+    <a href="#menu">Menu</a>
+  </header>
+
+  <!-- Nav -->
+  <nav id="menu">
+    <ul class="links">
+      <li><a href="../index.html">Home</a></li>
+      <li><a href="../profile.html">Profile</a></li>
+      <li><a href="../resume.html">Resume</a></li>
+      <li><a href="../album.html">Album</a></li>
+      <li><a href="../post.html">Post</a></li>
+    </ul>
+  </nav>
+
+  <!-- Post Header Image -->
+  <div class="post-header-image" style="background-image: url('{{HEADER_IMAGE}}');"></div>
+
+  <!-- Post Images Gallery (Scrollable) -->
+  <div class="post-images-gallery">
+    <!-- Image 1 -->
+    <div class="post-image-item">
+      <img src="{{IMAGE_1}}" alt="Post Image 1">
+    </div>
+    <!-- Image 2 -->
+    <div class="post-image-item">
+      <img src="{{IMAGE_2}}" alt="Post Image 2">
+    </div>
+    <!-- Image 3 -->
+    <div class="post-image-item">
+      <img src="{{IMAGE_3}}" alt="Post Image 3">
+    </div>
+    <!-- Image 4 -->
+    <div class="post-image-item">
+      <img src="{{IMAGE_4}}" alt="Post Image 4">
+    </div>
+    <!-- Image 5 -->
+    <div class="post-image-item">
+      <img src="{{IMAGE_5}}" alt="Post Image 5">
+    </div>
+    <!-- Add more images as needed -->
+  </div>
+
+  <!-- Post Content -->
+  <section class="wrapper style2">
+    <div class="post-content">
+      <h1 class="post-title">{{TITLE}}</h1>
+      <div class="post-date">{{DATE}}</div>
+      <div class="post-body">
+        {{CONTENT}}
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer id="footer">
+    <div class="container">
+      <ul class="icons">
+        <li><a href="https://github.com/fengweidiezhen" class="icon fa-github"><span class="label">Github</span></a></li>
+        <li><a href="#" class="icon fa-wechat"><span class="label">Wechat</span></a></li>
+        <li><a href="https://www.linkedin.com/in/%E6%98%A5%E7%9A%93-%E9%BB%84-596393306/" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
+        <li><a href="mailto:fengweidiezhen@gmail.com" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+      </ul>
+    </div>
+  </footer>
+
+  <div class="copyright">
+    Made with <a href="https://templated.co/">Templated</a>.
+  </div>
+
+  <!-- Scripts -->
+  <script src="../assets/js/jquery.min.js"></script>
+  <script src="../assets/js/jquery.scrollex.min.js"></script>
+  <script src="../assets/js/skel.min.js"></script>
+  <script src="../assets/js/util.js"></script>
+  <script src="../assets/js/main.js"></script>
+
+</body>
+</html>
+
