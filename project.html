@@ -1,0 +1,175 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>Projects - fengweidiezhen</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="assets/css/main.css">
+  <style>
+    .projects-intro {
+      max-width: 900px;
+      margin: 0 auto 2rem auto;
+      text-align: center;
+    }
+    .projects-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 2rem;
+    }
+    @media (max-width: 980px) {
+      .projects-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+    .project-card {
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      background: #fff;
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+    }
+    .project-card-header {
+      padding: 1.5rem 1.75rem 0.75rem 1.75rem;
+    }
+    .project-card-header h3 {
+      margin: 0;
+    }
+    .project-card-header p {
+      margin-top: 0.4rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+    .project-card-body {
+      padding: 0 1.75rem 1.5rem 1.75rem;
+      flex: 1;
+    }
+    .project-card-body ul {
+      list-style: disc;
+      padding-left: 1.25rem;
+      margin: 0.5rem 0 0 0;
+    }
+    .project-card-body li {
+      margin: 0.3rem 0;
+    }
+    .project-card-footer {
+      padding: 0 1.75rem 1.75rem 1.75rem;
+      text-align: right;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header -->
+  <header id="header">
+    <div class="logo"><a href="index.html">fengweidiezhen</a></div>
+    <a href="#menu">Menu</a>
+  </header>
+
+  <!-- Nav -->
+  <nav id="menu">
+    <ul class="links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="profile.html">Profile</a></li>
+      <li><a href="resume.html">Resume</a></li>
+      <li><a href="album.html">Album</a></li>
+      <li><a href="post.html">Post</a></li>
+      <li><a href="project.html">Projects</a></li>
+    </ul>
+  </nav>
+
+  <!-- Projects Header -->
+  <section id="one" class="wrapper style3">
+    <div class="inner">
+      <header class="align-center">
+        <p>Code, games and experiments I have been working on</p>
+        <h2>Projects</h2>
+      </header>
+    </div>
+  </section>
+
+  <!-- Projects Content -->
+  <section id="two" class="wrapper style2">
+    <div class="inner">
+      <div class="projects-intro">
+        <p>
+          This page collects my public GitHub repositories and personal projects, including small games,
+          prototypes and experiments with AI and graphics. The sections below are placeholders that we can
+          fill in with more details and links later.
+        </p>
+      </div>
+
+      <div class="projects-grid">
+        <!-- GitHub Repositories -->
+        <div class="project-card">
+          <div class="project-card-header">
+            <h3>GitHub Repositories</h3>
+            <p>Main hub for my open-source work and experiments.</p>
+          </div>
+          <div class="project-card-body">
+            <p>You can find my latest code, experiments and side-projects on GitHub:</p>
+            <ul>
+              <li><strong>Main profile:</strong> github.com/fengweidiezhen</li>
+              <li>(Placeholder) Featured repo 1</li>
+              <li>(Placeholder) Featured repo 2</li>
+              <li>(Placeholder) Featured repo 3</li>
+            </ul>
+          </div>
+          <div class="project-card-footer">
+            <a href="https://github.com/fengweidiezhen" class="button alt" target="_blank">View GitHub</a>
+          </div>
+        </div>
+
+        <!-- Games & Interactive Projects -->
+        <div class="project-card">
+          <div class="project-card-header">
+            <h3>Games & Interactive Projects</h3>
+            <p>Prototypes and small games built with engines and custom tools.</p>
+          </div>
+          <div class="project-card-body">
+            <p>
+              This section is for listing my game and interactive projects. We can later add thumbnails,
+              links to builds, and short descriptions for each project.
+            </p>
+            <ul>
+              <li>(Placeholder) Unity / RPGMaker game project</li>
+              <li>(Placeholder) Small web-based game or toy</li>
+              <li>(Placeholder) Experimental AI-powered interactive demo</li>
+            </ul>
+          </div>
+          <div class="project-card-footer">
+            <a href="#" class="button alt">More Details (coming soon)</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer id="footer">
+    <div class="container">
+      <ul class="icons">
+        <li><a href="https://github.com/fengweidiezhen" class="icon fa-github"><span class="label">Github</span></a></li>
+        <li><a href="#" class="icon fa-wechat"><span class="label">Wechat</span></a></li>
+        <li><a href="https://www.linkedin.com/in/%E6%98%A5%E7%9A%93-%E9%BB%84-596393306/" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
+        <li><a href="mailto:fengweidiezhen@gmail.com" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+      </ul>
+    </div>
+  </footer>
+
+  <div class="copyright">
+    Made with <a href="https://templated.co/">Templated</a>.
+  </div>
+
+  <!-- Scripts -->
+  <script src="assets/js/jquery.min.js"></script>
+  <script src="assets/js/jquery.scrollex.min.js"></script>
+  <script src="assets/js/skel.min.js"></script>
+  <script src="assets/js/util.js"></script>
+  <script src="assets/js/main.js"></script>
+
+</body>
+</html>
+
+
