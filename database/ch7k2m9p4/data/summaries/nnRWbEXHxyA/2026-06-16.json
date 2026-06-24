@@ -1,0 +1,260 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-06-16",
+  "generated_at": "2026-06-22T10:52:33.150894+08:00",
+  "model": "qwen3.7-max-preview",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 3760,
+    "char_count": 80000,
+    "es_refreshed": true,
+    "truncated": true
+  },
+  "summary": {
+    "title": "36氪活动参会及公司人事财务问题讨论",
+    "overview": "主体用户与同伴全天参加36氪相关活动（含路演及晚宴）。期间重点与律师沟通了问题员工的开除及劳动仲裁应对策略，讨论了公司招聘计划、员工管理、京东订单数据异常、包装标签问题以及下一轮融资计划。",
+    "events": [
+      {
+        "time": "06:19",
+        "what_happened": "用户与同伴开车出发，导航前往梁仓新造创意园参加活动。",
+        "outcome": "08:32到达目的地并寻找车位。"
+      },
+      {
+        "time": "09:00",
+        "what_happened": "在会场准备路演及参会，与工作人员确认手环及演讲环节细节。",
+        "outcome": "顺利完成上午的会议及路演环节。"
+      },
+      {
+        "time": "11:12",
+        "what_happened": "用户与高律师通电话，详细咨询问题员工的开除及劳动仲裁应对方案。",
+        "outcome": "律师建议引导员工主动提出被迫解除劳动合同，以降低公司法律风险。"
+      },
+      {
+        "time": "11:39",
+        "what_happened": "午餐期间，用户与同伴讨论上午路演项目、公司人事管理及招聘计划。",
+        "outcome": "梳理了现有员工表现，并计划在上海组建大模型团队。"
+      },
+      {
+        "time": "14:57",
+        "what_happened": "讨论京东订单数据异常（需求单240，实际订单560，下单800）及包装标签问题。",
+        "outcome": "决定进一步核实数据并确认标签张贴位置。"
+      },
+      {
+        "time": "15:57",
+        "what_happened": "讨论36氪U36榜单及上榜人物，评估对公司融资的影响。",
+        "outcome": "预计8月或10月完成新一轮融资。"
+      },
+      {
+        "time": "17:00",
+        "what_happened": "准备参加晚宴，期间讨论电脑屏幕清洁、记账公司滞纳金及次日工作安排。",
+        "outcome": "确认次日去香港并于下午三点半与毅城开立项会。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "问题员工开除与劳动仲裁应对",
+        "summary": "员工因绩效被打低（少发1000元）引发不满，且存在供应商投诉、向同事/合作方借款、工作态度差等问题。高律师建议收集证据，并顺着员工意愿让其提出被迫解除劳动合同，从而降低公司仲裁风险。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "高律师",
+          "H (HR)"
+        ],
+        "decisions_or_todos": [
+          "让HR引导员工提被迫解除劳动合同",
+          "固定供应商投诉及工作失职证据",
+          "防范员工举报社保公积金未足额缴纳"
+        ]
+      },
+      {
+        "topic": "公司人事管理与招聘计划",
+        "summary": "讨论现有员工表现（周姐执行力强但不变通，因老师像管培生），反思管理内耗。计划在上海招募5-6人的大模型团队，并考虑培养玉军为项目经理。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "同伴",
+          "周姐",
+          "因老师",
+          "玉军"
+        ],
+        "decisions_or_todos": [
+          "推进上海大模型团队招聘",
+          "评估玉军作为项目经理的潜力"
+        ]
+      },
+      {
+        "topic": "业务订单与融资计划",
+        "summary": "发现京东订单数据存在异常（需求单240，实际订单560，系统显示800），需核实原因。讨论36氪U36榜单对公司背书的积极作用，预计8月或10月close新一轮融资。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "同伴"
+        ],
+        "decisions_or_todos": [
+          "核实京东订单数据",
+          "确认京东包装标签位置",
+          "推进下一轮融资"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "全天与同伴参加36氪活动，主导处理员工劳动仲裁咨询，参与讨论公司管理、招聘、订单异常及融资计划。",
+      "others_activity": "同伴（女性）全程参与驾驶、参会及讨论，在人事管理和业务细节上提供意见，并负责部分文案及公众号排版工作。",
+      "mentioned": [
+        {
+          "name_or_alias": "高律师",
+          "context": "提供劳动仲裁法律咨询",
+          "relation_guess": "公司外部法律顾问"
+        },
+        {
+          "name_or_alias": "H",
+          "context": "负责与问题员工沟通离职",
+          "relation_guess": "公司HR"
+        },
+        {
+          "name_or_alias": "陈刚",
+          "context": "解决了接口调用问题",
+          "relation_guess": "研发人员"
+        },
+        {
+          "name_or_alias": "周姐",
+          "context": "被评价执行力强但有时不变通",
+          "relation_guess": "公司员工"
+        },
+        {
+          "name_or_alias": "因老师",
+          "context": "被评价工作方式像管培生",
+          "relation_guess": "公司员工"
+        },
+        {
+          "name_or_alias": "玉军",
+          "context": "被建议培养为项目经理",
+          "relation_guess": "公司员工"
+        },
+        {
+          "name_or_alias": "郭应期",
+          "context": "前员工，被讨论其管理风格",
+          "relation_guess": "前员工/前合伙人"
+        },
+        {
+          "name_or_alias": "Bob",
+          "context": "前员工，涉及竞业及股权讨论",
+          "relation_guess": "前员工/前合伙人"
+        },
+        {
+          "name_or_alias": "毅城",
+          "context": "次日需与其开立项会",
+          "relation_guess": "合作伙伴/客户"
+        },
+        {
+          "name_or_alias": "谢赛宁",
+          "context": "36氪U36榜单上榜人物",
+          "relation_guess": "行业人士"
+        },
+        {
+          "name_or_alias": "王兴兴",
+          "context": "36氪U36榜单上榜人物",
+          "relation_guess": "行业人士"
+        },
+        {
+          "name_or_alias": "姚顺雨",
+          "context": "36氪U36榜单上榜人物",
+          "relation_guess": "行业人士"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "预计8月或10月完成新一轮融资",
+        "计划在上海组建5-6人的大模型团队",
+        "次日去香港，下午三点半与毅城召开立项会"
+      ],
+      "projects_or_business": [
+        "参加36氪活动及路演（涉及具身智能、柔性PCB等项目）",
+        "处理京东订单及包装标签问题"
+      ],
+      "risks_or_blockers": [
+        "问题员工可能发起劳动仲裁或举报社保公积金未足额缴纳",
+        "京东订单数据存在异常（需求单240，实际订单560，下单800），需排查原因",
+        "公司内部存在管理内耗及沟通效率问题"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "salary",
+          "detail": "讨论开除员工的赔偿，最多2N（两个月工资），员工月薪约两万。",
+          "amount_or_terms": "2N, 两万"
+        },
+        {
+          "category": "salary",
+          "detail": "员工因绩效被打低（少发1000元）引发不满。",
+          "amount_or_terms": "1000元"
+        },
+        {
+          "category": "other",
+          "detail": "讨论在亚马逊购买25个物品的价格。",
+          "amount_or_terms": "4000美金/7500美金"
+        },
+        {
+          "category": "tax",
+          "detail": "记账公司产生滞纳金。",
+          "amount_or_terms": "4.19元"
+        },
+        {
+          "category": "other",
+          "detail": "讨论公司融资计划，预计8月、10月再close一波。",
+          "amount_or_terms": "未提及"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "resignation",
+          "detail": "处理一名员工开除事宜，员工因绩效问题不满并威胁仲裁，律师建议引导其提被迫解除劳动合同。"
+        },
+        {
+          "category": "hiring",
+          "detail": "讨论招聘计划，考虑在上海组建5-6人的大模型团队。"
+        },
+        {
+          "category": "performance",
+          "detail": "讨论员工周姐（执行力强但不变通）、因老师（像管培生）的工作表现。"
+        },
+        {
+          "category": "role_change",
+          "detail": "Gave老师建议培养玉军做项目经理。"
+        },
+        {
+          "category": "policy",
+          "detail": "讨论员工向同事/合作方借款、工作态度差、不服从管理等违规行为及证据收集。"
+        }
+      ]
+    },
+    "open_questions": [
+      "问题员工劳动仲裁的最终走向及证据固定情况",
+      "京东订单数据异常（需求单240，实际订单560，下单800）的原因核实",
+      "京东包装标签（贴在塑封膜上）的确认与修改",
+      "记账公司产生的4.19元滞纳金处理",
+      "次日与毅城的立项会具体安排"
+    ],
+    "keywords": [
+      "36氪",
+      "劳动仲裁",
+      "绩效",
+      "融资",
+      "京东订单",
+      "大模型团队",
+      "U36榜单"
+    ]
+  }
+}

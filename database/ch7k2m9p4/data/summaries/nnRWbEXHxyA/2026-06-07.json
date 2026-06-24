@@ -1,0 +1,136 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-06-07",
+  "generated_at": "2026-06-22T10:27:26.190033+08:00",
+  "model": "qwen3.7-max-preview",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 259,
+    "char_count": 5867,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "智能眼镜功能测试与京东订单备货讨论",
+    "overview": "用户测试了智能眼镜的录音与声纹识别功能，随后与他人通话讨论了智能眼镜的控车等功能。重点沟通了产品试产与量产进度，针对京东3500套订单制定了低风险的备货策略，并提及了线下十万代售合同的业绩压力。",
+    "events": [
+      {
+        "time": "19:43",
+        "what_happened": "测试智能眼镜录音与声纹识别功能",
+        "outcome": "确认了语速和音量对声纹匹配度的影响。"
+      },
+      {
+        "time": "20:17",
+        "what_happened": "通话讨论产品进度与订单策略",
+        "outcome": "明确了下周量产及发货京东的计划，制定了先备1000套并用国外版应急的备货策略。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "智能眼镜功能体验",
+        "summary": "测试声纹识别，讨论眼镜控车（空调、后备箱、泊车）、拍照、定位等功能。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "产品生产与京东订单备货",
+        "summary": "上周试产有小问题，下周量产并发货京东。针对京东3500套订单，考虑到转化率和备货周期，决定先备1000套，用国外版换包装应急，以控制几十万的备货成本风险。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "下周开量产",
+          "周四周五去北京京东出差",
+          "先备1000套货，用国外版换包装应急"
+        ]
+      },
+      {
+        "topic": "线下代售合同",
+        "summary": "线下签了十万的代售合同，要求一个月内达到十万毛利，否则需要补差额，目前已卖出两百台。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": []
+      }
+    ],
+    "people": {
+      "subject_user_activity": "测试智能眼镜录音功能；与同事/朋友通话讨论产品量产、京东订单、备货策略及线下合同；提到自己快30岁（29岁），压力大想吃东西。",
+      "others_activity": "配合测试录音；使用智能眼镜打电话并展示控车功能；讨论吃饭、天气（台风、下雨）等日常话题。",
+      "mentioned": [
+        {
+          "name_or_alias": "京东",
+          "context": "客户/合作方，压住AI智能眼镜这一波，有3500套订单需求",
+          "relation_guess": "客户"
+        },
+        {
+          "name_or_alias": "父母",
+          "context": "闲聊中提及父母做各种准备",
+          "relation_guess": "家属"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "下周开始量产",
+        "周四周五去北京出差拜访京东",
+        "针对京东订单先备1000套货，用国外版换包装应急"
+      ],
+      "projects_or_business": [
+        "AI智能眼镜研发与销售",
+        "京东渠道合作",
+        "线下代售业务"
+      ],
+      "risks_or_blockers": [
+        "核心新品备货周期长（一两个月），备大货风险高",
+        "线下代售合同有十万毛利对赌压力，目前仅卖出两百台"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "cost",
+          "detail": "3500套备货成本",
+          "amount_or_terms": "几十万"
+        },
+        {
+          "category": "other",
+          "detail": "线下代售合同毛利对赌",
+          "amount_or_terms": "十万"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "京东3500套订单最终的实际转化率能达到多少？",
+      "线下代售合同一个月内能否达到十万毛利目标？"
+    ],
+    "keywords": [
+      "智能眼镜",
+      "声纹识别",
+      "试产",
+      "量产",
+      "京东",
+      "备货",
+      "成本",
+      "代售合同"
+    ]
+  }
+}

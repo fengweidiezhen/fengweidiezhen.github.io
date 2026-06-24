@@ -1,0 +1,142 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-06-16",
+  "generated_at": "2026-06-23T15:03:20.424380+08:00",
+  "model": "qwen3.6-35b-a3b",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 774,
+    "char_count": 18002,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-06-16 企业日常对话纪要",
+    "overview": "今日对话主要围绕办公室环境改善采购的报销与发票流程核对、合同付款条款修改，以及“万校深中湾”项目面向消费者的首发活动筹备展开。重点讨论了数据演示的全天模拟需求、现场展示页面优化及活动人员排班安排。",
+    "events": [
+      {
+        "time": "09:30",
+        "what_happened": "others讨论办公室空气质量问题，并提及购入空气净化器",
+        "outcome": "确认该采购需走公司报销流程"
+      },
+      {
+        "time": "15:04",
+        "what_happened": "others与财务核对采购物品的发票开具方式及合同签署细节",
+        "outcome": "确认可开具公司抬头发票，指出合同付款日期尚未同步修改"
+      },
+      {
+        "time": "18:05",
+        "what_happened": "others汇报“万校深中湾”项目首发筹备进展，强调消费者体验演示的数据需求",
+        "outcome": "明确需准备全天全量数据模拟，并启动现场人员排班讨论"
+      },
+      {
+        "time": "18:30",
+        "what_happened": "others评估首发活动现场人力配置",
+        "outcome": "指出原定五人可能不足，需重新规划排班"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "采购报销与发票合同流程",
+        "summary": "针对办公室空气净化器及其他物料采购，讨论发票抬头（个人转公司）、电子发票开具、合同盖章及付款日期修改等财务合规事项。",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": [
+          "确认所有采购物品统一开具公司抬头发票",
+          "跟进合同付款日期的同步修改",
+          "按公司流程提交报销申请"
+        ]
+      },
+      {
+        "topic": "万校深中湾项目首发筹备",
+        "summary": "讨论项目面向消费者的首发体验活动，重点聚焦现场数据展示页面的逻辑、全量数据模拟的必要性，以及活动当天的人员排班与分工。",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": [
+          "完善数据看板UI与底层逻辑",
+          "准备满足全天演示需求的完整数据集",
+          "落实活动现场排班表，解决人手缺口"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与审核报销与发票合规性，核对合同付款条款；听取项目首发数据准备与排班进展汇报。",
+      "others_activity": "汇报办公设备采购与报销事宜；沟通合同签署与发票抬头细节；推进项目首发数据模拟方案与现场排班规划。",
+      "mentioned": [
+        {
+          "name_or_alias": "谢总",
+          "context": "日常交流中提及",
+          "relation_guess": "管理层"
+        },
+        {
+          "name_or_alias": "道哥",
+          "context": "物流单号对接相关",
+          "relation_guess": "同事或合作方"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "筹备“万校深中湾”项目消费者首发体验活动",
+        "制定活动当天现场人员排班表"
+      ],
+      "projects_or_business": [
+        "万校深中湾项目首发",
+        "内部数据看板与演示系统优化"
+      ],
+      "risks_or_blockers": [
+        "首发演示依赖全天全量数据，当前数据模拟可能未完全达标",
+        "现场执行人员预估不足（五人不够）"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "reimbursement",
+          "detail": "购买办公室空气净化器及相关物料，需走公司报销流程",
+          "amount_or_terms": "约900元"
+        },
+        {
+          "category": "invoice",
+          "detail": "讨论采购物品发票抬头问题，确认可从个人抬头变更为公司抬头开具电子发票",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "payment",
+          "detail": "核对合同条款，发现合同签署日期已修改，但付款日期尚未同步更新",
+          "amount_or_terms": "未提及"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "项目首发所需的全天全量数据模拟是否已准备就绪？",
+      "现场排班如何调整以弥补五人的人力缺口？",
+      "合同付款日期何时完成最终修改与归档？"
+    ],
+    "keywords": [
+      "报销",
+      "发票",
+      "合同",
+      "首发",
+      "排班",
+      "数据模拟",
+      "空气净化器"
+    ]
+  }
+}

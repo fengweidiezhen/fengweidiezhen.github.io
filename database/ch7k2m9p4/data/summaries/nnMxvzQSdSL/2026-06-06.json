@@ -1,0 +1,177 @@
+{
+  "user_id": "nnMxvzQSdSL",
+  "user_name": "amanda2",
+  "date": "2026-06-06",
+  "generated_at": "2026-06-07T00:18:37.551534+08:00",
+  "model": "qwen3.7-max-preview",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda2",
+    "aliases": [
+      "amanda2",
+      "amanda2"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 125,
+    "char_count": 6703,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "nooc品牌AI智能吊坠市集活动线上对接会",
+    "overview": "amanda2（公司联创/COO）与兼职人员徐信平进行线上会议，详细介绍nooc品牌AI智能吊坠的产品特点、核心功能及隐私保护技术，并对接明日市集活动的物料准备、价格标签、收款方式及潜在的销售提成方案。",
+    "events": [
+      {
+        "time": "14:06",
+        "what_happened": "线上会议开始，双方测试麦克风与声音。",
+        "outcome": "成功建立连接并确认通讯正常。"
+      },
+      {
+        "time": "14:11",
+        "what_happened": "amanda2进行自我介绍及公司品牌nooc的背景介绍。",
+        "outcome": "向兼职人员展示了公司团队背景（港深两地、博士团队）和产品理念。"
+      },
+      {
+        "time": "14:13",
+        "what_happened": "兼职人员徐信平进行自我介绍。",
+        "outcome": "确认其心理学/教师专业背景及兼职身份。"
+      },
+      {
+        "time": "14:14",
+        "what_happened": "amanda2对接明日市集活动的物料安排。",
+        "outcome": "确认产品样品和50份海报已寄出，双方将加微信私下确认物料到达情况。"
+      },
+      {
+        "time": "14:15",
+        "what_happened": "amanda2结合投屏详细介绍产品外观、功能及技术优势。",
+        "outcome": "兼职人员全面了解了产品的情绪追踪、记忆结构化、解压功能及端侧隐私保护等核心卖点。"
+      },
+      {
+        "time": "14:26",
+        "what_happened": "讨论市集现场的价格牌及收款方式。",
+        "outcome": "确认产品价格为1499元和1399元，决定明日现场打印支付宝收款码和价格牌。"
+      },
+      {
+        "time": "14:27",
+        "what_happened": "amanda2提及产品销售现状及激励措施。",
+        "outcome": "约定若市集动销良好，将考虑为兼职人员提供提成方案。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "nooc AI智能吊坠产品培训",
+        "summary": "amanda2详细介绍了nooc智能吊坠的外观设计（获多项国际设计奖）、核心功能（情绪追踪、心率HRV监测、记忆球与记忆罐、解压震动、冥想）以及采用联邦学习等端侧AI算法带来的隐私保护优势。",
+        "participants_mentioned": [
+          "amanda2",
+          "徐信平"
+        ],
+        "decisions_or_todos": [
+          "兼职人员需下载APP以体验产品详细功能。"
+        ]
+      },
+      {
+        "topic": "明日市集活动物料与执行对接",
+        "summary": "确认产品样品和50份海报已寄出，可能陆续到达。讨论了现场价格标签和收款码的准备方式。",
+        "participants_mentioned": [
+          "amanda2",
+          "徐信平"
+        ],
+        "decisions_or_todos": [
+          "双方加微信建群对接物料；",
+          "明天现场打印支付宝收款码和价格牌。"
+        ]
+      },
+      {
+        "topic": "销售现状与提成方案",
+        "summary": "amanda2提到产品将于6月20日官方上市，近期在京东等渠道已有销量和声量。",
+        "participants_mentioned": [
+          "amanda2",
+          "徐信平"
+        ],
+        "decisions_or_todos": [
+          "若市集动销较好，将考虑为兼职人员提供提成方案。"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "作为公司联创/COO，主导线上会议，全面介绍公司背景、产品功能、技术优势，并安排市集活动的物料对接与销售激励。",
+      "others_activity": "兼职人员徐信平参与线上会议，进行自我介绍，学习产品知识，并确认明日市集活动的执行细节。",
+      "mentioned": [
+        {
+          "name_or_alias": "徐信平",
+          "context": "本次活动的兼职人员，专业为心理学/教师，负责明日市集的产品展示与介绍。",
+          "relation_guess": "活动兼职人员"
+        },
+        {
+          "name_or_alias": "谢总",
+          "context": "公司创始人之一，北大和香港中文大学博士，负责核心算法和端侧隐私保护技术。",
+          "relation_guess": "公司创始人/技术负责人"
+        },
+        {
+          "name_or_alias": "面亚",
+          "context": "amanda2提到将品牌资料发给面亚帮忙share。",
+          "relation_guess": "公司同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "明日开始市集活动，需每日跟进物料到达情况。",
+        "产品计划于6月20日官方上市。",
+        "建立微信群对接市集活动资料和物料。"
+      ],
+      "projects_or_business": [
+        "nooc（no娜）AI智能吊坠项目，主打情绪追踪、记忆结构化和隐私保护。",
+        "产品已在京东上线，并在美国CES展出。"
+      ],
+      "risks_or_blockers": [
+        "产品样品和物料可能陆续到达，需每日确认以防遗漏影响活动。",
+        "产品不具备完全防水功能，洗澡时不能佩戴，需向客户说明。"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "payment",
+          "detail": "明日市集活动使用支付宝收款码进行收款。",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "other",
+          "detail": "产品定价为1499元和1399元。",
+          "amount_or_terms": "1499元, 1399元"
+        },
+        {
+          "category": "other",
+          "detail": "若市集动销较好，考虑为兼职人员提供提成方案。",
+          "amount_or_terms": "未提及具体比例"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "招募徐信平作为本次市集活动的兼职人员，负责产品介绍与展示。"
+        }
+      ]
+    },
+    "open_questions": [
+      "产品样品和物料是否能按时全部到达市集现场？",
+      "市集活动的具体动销情况如何，是否会触发兼职人员的提成方案？"
+    ],
+    "keywords": [
+      "nooc",
+      "AI智能吊坠",
+      "情绪追踪",
+      "隐私保护",
+      "市集活动",
+      "物料对接",
+      "提成方案"
+    ]
+  }
+}

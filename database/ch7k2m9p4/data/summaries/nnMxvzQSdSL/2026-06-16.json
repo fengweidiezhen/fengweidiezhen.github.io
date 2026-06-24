@@ -1,0 +1,254 @@
+{
+  "user_id": "nnMxvzQSdSL",
+  "user_name": "amanda2",
+  "date": "2026-06-16",
+  "generated_at": "2026-06-18T10:15:39.338881+08:00",
+  "model": "qwen3.7-max-preview",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda2",
+    "aliases": [
+      "amanda2",
+      "amanda2"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 2009,
+    "char_count": 60222,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "参加路演与36氪活动及处理员工劳动纠纷",
+    "overview": "主体用户与合伙人全天在广州参加活动（包括项目路演和36氪活动），期间重点讨论了公司内部的员工劳动纠纷及HR（凯立）的沟通问题，并咨询了律师。此外，还讨论了公司招聘、管理整顿、财务报销及未来融资规划。",
+    "events": [
+      {
+        "time": "10:28",
+        "what_happened": "参加项目路演活动，听取多家科技公司（如秋脑智能、万达机器人等）的演讲。",
+        "outcome": "了解了行业竞品及前沿技术，并对部分项目进行了评价。"
+      },
+      {
+        "time": "11:12",
+        "what_happened": "与高律师电话沟通员工徐丽的劳动仲裁事宜。",
+        "outcome": "律师建议收集绩效考评及供应商投诉证据，或引导员工主动提被迫离职以降低公司风险。"
+      },
+      {
+        "time": "12:09",
+        "what_happened": "午餐期间讨论公司管理与招聘计划。",
+        "outcome": "决定整顿职场，计划招聘营销人员，并安排实习生一恋协助招聘。"
+      },
+      {
+        "time": "15:40",
+        "what_happened": "参加36氪活动并上榜。",
+        "outcome": "拓展了行业人脉，提升了公司知名度。"
+      },
+      {
+        "time": "17:50",
+        "what_happened": "活动结束返程，继续复盘HR凯立的沟通失误。",
+        "outcome": "决定次日由谢总直接与涉事员工单聊，并考虑更换HR。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "员工劳动纠纷与仲裁应对",
+        "summary": "员工徐丽因绩效被打B少发1000元及供应商投诉等问题与公司产生纠纷，HR凯立沟通不当导致矛盾激化。",
+        "participants_mentioned": [
+          "高律师",
+          "徐丽",
+          "凯立",
+          "谢总"
+        ],
+        "decisions_or_todos": [
+          "收集绩效打分标准及供应商投诉记录作为证据",
+          "引导员工提被迫解除劳动合同",
+          "次日由谢总与员工单聊",
+          "考虑更换HR凯立"
+        ]
+      },
+      {
+        "topic": "公司管理与HR工作",
+        "summary": "认为现任HR凯立沟通存在严重问题，不仅未能解决问题反而激化矛盾，且对劳动法不熟悉。",
+        "participants_mentioned": [
+          "凯立",
+          "谢总",
+          "一恋"
+        ],
+        "decisions_or_todos": [
+          "尽快招聘新HR",
+          "新员工手册由新HR审核发布",
+          "实施股权激励但仅宣布入围资格",
+          "整顿职场纪律"
+        ]
+      },
+      {
+        "topic": "招聘计划",
+        "summary": "讨论在上海等地招聘研发及营销人员，计划让实习生一恋负责前期招聘沟通。",
+        "participants_mentioned": [
+          "一恋"
+        ],
+        "decisions_or_todos": [
+          "招聘营销人员",
+          "在上海设立办公室并招聘5-6人",
+          "严格把控试用期转正标准"
+        ]
+      },
+      {
+        "topic": "财务与报销",
+        "summary": "讨论员工为公司垫钱及报销流程问题，强调应通过正规公司采购渠道而非个人垫资报销。",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "规范公司采购流程，避免员工垫资"
+        ]
+      },
+      {
+        "topic": "融资与投资人关系",
+        "summary": "讨论准备PPT向投资人展示，并提到36氪活动上榜。提到优先给T1和哨音额度。",
+        "participants_mentioned": [
+          "梁总",
+          "T1",
+          "哨音"
+        ],
+        "decisions_or_todos": [
+          "准备PPT向投资人汇报",
+          "维护与核心投资人的关系"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参加路演和36氪活动，与合伙人讨论公司管理、人事纠纷、招聘及融资，主导应对劳动仲裁的策略，对HR的工作表现表示强烈不满。",
+      "others_activity": "开车，参与讨论公司管理和人事问题，与律师和HR沟通，参加36氪活动。",
+      "mentioned": [
+        {
+          "name_or_alias": "高律师",
+          "context": "提供劳动仲裁的法律建议",
+          "relation_guess": "公司外部法律顾问"
+        },
+        {
+          "name_or_alias": "徐丽",
+          "context": "因绩效问题与公司产生纠纷并威胁仲裁的员工",
+          "relation_guess": "公司员工"
+        },
+        {
+          "name_or_alias": "凯立",
+          "context": "公司现任HR，因沟通不当激化员工矛盾被批评",
+          "relation_guess": "公司HR"
+        },
+        {
+          "name_or_alias": "谢总",
+          "context": "被安排次日与涉事员工单聊的高管",
+          "relation_guess": "公司高管/合伙人"
+        },
+        {
+          "name_or_alias": "一恋",
+          "context": "被安排协助招聘的实习生",
+          "relation_guess": "公司实习生"
+        },
+        {
+          "name_or_alias": "梁总",
+          "context": "36氪活动中提到的人，可能提供媒体资源",
+          "relation_guess": "投资人或合作伙伴"
+        },
+        {
+          "name_or_alias": "周姐",
+          "context": "被评价为能扎实落地想法但有时固执的员工",
+          "relation_guess": "公司员工"
+        },
+        {
+          "name_or_alias": "玉军",
+          "context": "被评价为可以做项目经理的人",
+          "relation_guess": "公司员工"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "在上海设立办公室并招聘5-6人",
+        "招聘营销人员及新HR",
+        "发布新员工手册及股权激励计划",
+        "整顿职场纪律，严格试用期考核",
+        "规范公司采购流程，避免员工垫资"
+      ],
+      "projects_or_business": [
+        "准备PPT向投资人汇报",
+        "参加36氪活动并上榜",
+        "研发产品（涉及包装、贴纸等物料）"
+      ],
+      "risks_or_blockers": [
+        "员工劳动仲裁风险",
+        "HR沟通不当导致内部管理混乱",
+        "部分员工工作态度消极"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "salary",
+          "detail": "员工因绩效被打B少发1000元引发纠纷",
+          "amount_or_terms": "1000元"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "讨论员工为公司垫钱及报销流程问题，强调应走公司采购渠道",
+          "amount_or_terms": "未提及"
+        },
+        {
+          "category": "cost",
+          "detail": "认为线下活动装置成本太高决定取消",
+          "amount_or_terms": "未提及"
+        },
+        {
+          "category": "tax",
+          "detail": "提到前期需要找购两百万的税",
+          "amount_or_terms": "两百万"
+        },
+        {
+          "category": "salary",
+          "detail": "提到帮a米垫付工资",
+          "amount_or_terms": "未提及"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "resignation",
+          "detail": "处理员工徐丽的离职及劳动仲裁威胁"
+        },
+        {
+          "category": "performance",
+          "detail": "员工因绩效考评被打B少发奖金产生争议"
+        },
+        {
+          "category": "hiring",
+          "detail": "计划招聘新HR、营销人员，并在上海招聘5-6人，安排实习生一恋协助招聘"
+        },
+        {
+          "category": "policy",
+          "detail": "计划发布新员工手册，实施股权激励，严格试用期转正标准"
+        },
+        {
+          "category": "team",
+          "detail": "批评现任HR凯立沟通不当，考虑将其开除；讨论整顿职场纪律"
+        }
+      ]
+    },
+    "open_questions": [
+      "如何妥善解决徐丽的劳动仲裁威胁并降低公司风险？",
+      "何时正式开除现任HR凯立并找到合适的替代者？",
+      "新员工手册和股权激励计划的具体发布时间？"
+    ],
+    "keywords": [
+      "劳动仲裁",
+      "HR管理",
+      "招聘",
+      "绩效",
+      "36氪",
+      "融资",
+      "报销",
+      "股权激励"
+    ]
+  }
+}

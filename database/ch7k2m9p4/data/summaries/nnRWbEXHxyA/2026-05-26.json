@@ -1,0 +1,220 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-05-26",
+  "generated_at": "2026-06-01T11:55:25.512068+08:00",
+  "model": "qwen3.7-max-2026-05-17",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 3376,
+    "char_count": 100838,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-05-26 日常业务与产品讨论纪要",
+    "overview": "主体用户zhiyuan今日主要行程包括通勤、与投资人及合作伙伴面谈、处理公司财务与税务事宜、跟进APP研发与UI设计、处理用户客诉，以及参与京东平台创始人纪念版产品拍卖。重点讨论了硬件产品迭代、AI数据入口商业化、融资与上市路径、供应商付款及税务年报等事宜。",
+    "events": [
+      {
+        "time": "08:55",
+        "what_happened": "与合伙人/同事确认合同签署及三方协议盖章事宜。",
+        "outcome": "确认了多份合同及BVI相关协议的签署与盖章流程。"
+      },
+      {
+        "time": "11:07",
+        "what_happened": "与投资人/合作伙伴（谢总等）进行深度业务交流。",
+        "outcome": "探讨了产品形态、数据入口价值、商业化路径及融资上市规划。"
+      },
+      {
+        "time": "16:16",
+        "what_happened": "接听“庙总”电话。",
+        "outcome": "介绍了情绪吊坠产品，并预约周六在深圳南山线下体验。"
+      },
+      {
+        "time": "18:39",
+        "what_happened": "处理公司税务年报及电子税务局权限问题。",
+        "outcome": "核查了公司资产、负债数据及财务负责人权限，确认税务年报数据。"
+      },
+      {
+        "time": "19:41",
+        "what_happened": "参与京东平台“创始人纪念版001号”产品拍卖。",
+        "outcome": "产品最终被用户以1499元拍得，安排了签名与发货事宜。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "硬件产品迭代与AI数据入口商业化",
+        "summary": "讨论了第一代与第二代产品的规划，强调音频作为数据入口的商业化价值高于视频，因其功耗低且更易实现无感佩戴。产品核心在于通过长期连续的音频数据构建个人AI画像。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "谢总"
+        ],
+        "decisions_or_todos": [
+          "第二代产品需破圈，适应更广泛人群。",
+          "坚持音频入口路线，优化端侧算力与无感体验。"
+        ]
+      },
+      {
+        "topic": "公司融资、上市路径与财务合规",
+        "summary": "讨论了上一轮融资（估值八千万）及资金跑道，确认资金可支撑至年底。探讨了港股上市路径及37号文登记的合规性问题。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "谢总"
+        ],
+        "decisions_or_todos": [
+          "确认港股上市路径最便捷。",
+          "需关注创始人身份及37号文登记的合规要求，必要时咨询律师。"
+        ]
+      },
+      {
+        "topic": "APP功能研发与UI/UX设计",
+        "summary": "讨论了会议纪要生成的时间轴选择、卡片删除逻辑、抽屉式弹窗设计，以及前端“情绪球”大小随字数自适应的分段函数算法。处理了用户更新APP后数据丢失的客诉。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "研发团队"
+        ],
+        "decisions_or_todos": [
+          "优化情绪球大小自适应算法（按字数分段计算）。",
+          "排查并修复用户数据丢失问题，考虑增加注销冷静期。"
+        ]
+      },
+      {
+        "topic": "供应商付款与财务出纳管理",
+        "summary": "讨论了近期供应商付款审批流程，强调大额付款前需与zhiyuan确认。提及近期将有几百万资金入账，要求财务注意保密及合规。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "财务人员"
+        ],
+        "decisions_or_todos": [
+          "规范供应商付款审批流程，大额付款前需zhiyuan确认。",
+          "寻找靠谱透明的出纳人员。"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与合同签署、与投资人面谈、接听客户电话、处理税务及财务审批、跟进APP研发细节、参与京东拍卖。",
+      "others_activity": "谢总参与产品与战略讨论；财务人员处理付款与税务年报；研发/设计人员跟进APP功能与UI调整；“庙总”预约线下体验。",
+      "mentioned": [
+        {
+          "name_or_alias": "谢总",
+          "context": "投资人/合作伙伴，参与产品形态、商业化及上市路径讨论。",
+          "relation_guess": "投资人/合伙人"
+        },
+        {
+          "name_or_alias": "黄总",
+          "context": "合同签署相关方。",
+          "relation_guess": "业务合作伙伴"
+        },
+        {
+          "name_or_alias": "庙总",
+          "context": "潜在客户/合作伙伴，预约周六体验产品。",
+          "relation_guess": "客户/渠道合作伙伴"
+        },
+        {
+          "name_or_alias": "吴双喜/吴总",
+          "context": "京东3C数码事业部总裁，提及京东直播支持。",
+          "relation_guess": "平台高管"
+        },
+        {
+          "name_or_alias": "项平",
+          "context": "提及的投资人/相关方。",
+          "relation_guess": "投资人"
+        },
+        {
+          "name_or_alias": "高律师",
+          "context": "负责审核设计外包合同。",
+          "relation_guess": "法务顾问"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "618前在国内正式上市产品。",
+        "计划周六在深圳南山接待“庙总”及华为/运营商相关人员进行产品体验。",
+        "推进第二代硬件产品研发，扩大受众圈层。",
+        "考虑在上海设立品牌运营或研发中心。"
+      ],
+      "projects_or_business": [
+        "情绪吊坠/智能穿戴硬件（主打情绪识别、个人AI记忆、音频数据入口）。",
+        "配套APP（包含会议纪要、情绪球、时光缩影等功能）。"
+      ],
+      "risks_or_blockers": [
+        "前同事/学弟离职后在苏州元禾创业，存在竞业及赛道重合风险。",
+        "APP更新导致部分用户数据丢失的客诉风险。",
+        "37号文登记及创始人身份可能影响港股上市路径。"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "payment",
+          "detail": "规范供应商付款流程，大额付款前需zhiyuan确认，提及部分供应商关联付款问题。",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "budget",
+          "detail": "讨论公司账面资金及跑道，上一轮融资估值八千万，资金可支撑至年底。",
+          "amount_or_terms": "估值8000万"
+        },
+        {
+          "category": "tax",
+          "detail": "处理电子税务局权限及税务年报问题，核查公司资产总额（一千多万）与负债情况。",
+          "amount_or_terms": "资产总额1000多万"
+        },
+        {
+          "category": "other",
+          "detail": "提及近期将有几百万资金入账，要求财务注意保密。",
+          "amount_or_terms": "几百万"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "提及员工报销及五险一金付款事宜。",
+          "amount_or_terms": "未提及具体金额"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "resignation",
+          "detail": "提及前同事/学弟离职创业，存在竞业协议纠纷及起诉准备。"
+        },
+        {
+          "category": "hiring",
+          "detail": "讨论寻找靠谱、透明的出纳人员，以及设计外包团队（ID和MD）的合作。"
+        },
+        {
+          "category": "team",
+          "detail": "提及京东直播后获得大量关注，团队需应对增加的运营和客服压力。"
+        }
+      ]
+    },
+    "open_questions": [
+      "用户更新APP后数据及账户信息丢失的具体原因（是否为用户误触注销）需进一步排查。",
+      "设计外包合同中ID与MD的比例及预付款条款需与高律师进一步确认。",
+      "37号文登记及创始人香港身份对港股上市的具体影响需咨询专业律师。"
+    ],
+    "keywords": [
+      "情绪吊坠",
+      "音频入口",
+      "个人AI",
+      "京东拍卖",
+      "港股上市",
+      "37号文",
+      "供应商付款",
+      "税务年报",
+      "情绪球算法",
+      "会议纪要"
+    ]
+  }
+}

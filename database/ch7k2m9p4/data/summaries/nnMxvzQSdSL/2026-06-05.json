@@ -1,0 +1,248 @@
+{
+  "user_id": "nnMxvzQSdSL",
+  "user_name": "amanda2",
+  "date": "2026-06-05",
+  "generated_at": "2026-06-07T00:22:40.387958+08:00",
+  "model": "qwen3.7-max-preview",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda2",
+    "aliases": [
+      "amanda2",
+      "amanda2"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1054,
+    "char_count": 34780,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "日常工作会议与财务、设计、产品周边及人员安排讨论",
+    "overview": "当日主要讨论了公司财务预算框架的搭建、各项付款与报销处理；随后进行了产品UI设计及包装、周边礼物的细节确认；晚间与合伙人/同事探讨了团队人员安排、绩效状态及外部合作（如京东活动）等事宜。",
+    "events": [
+      {
+        "time": "16:53",
+        "what_happened": "财务工作汇报与预算框架讨论",
+        "outcome": "确认了工资发放、付款申请处理，并梳理了固定成本与可变成本的预算逻辑。"
+      },
+      {
+        "time": "17:26",
+        "what_happened": "产品UI设计与交互细节讨论",
+        "outcome": "确认了界面颜色、图标样式及情绪记录功能的视觉效果。"
+      },
+      {
+        "time": "18:49",
+        "what_happened": "产品销售情况与包装成本核算",
+        "outcome": "确认了线下销售火爆，讨论了说明书特种纸的成本及包装方案。"
+      },
+      {
+        "time": "19:00",
+        "what_happened": "品牌周边礼物方案讨论",
+        "outcome": "评估了钥匙扣、贴纸等周边礼物的定制成本与可行性。"
+      },
+      {
+        "time": "20:28",
+        "what_happened": "团队人员安排与绩效状态复盘",
+        "outcome": "讨论了人员外包、组织架构调整后的员工状态及绩效自评情况。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "财务预算与报销管理",
+        "summary": "梳理了公司的预算框架，分为固定成本（如房租、工资）和可变成本，并按中央、市场、研发进行部门拆分。讨论了股东欠款、借款利息及员工的报销问题。",
+        "participants_mentioned": [
+          "amanda2",
+          "谢总",
+          "运老师",
+          "一练"
+        ],
+        "decisions_or_todos": [
+          "使用Excel建立预算表，区分fixed和variable costs",
+          "将费用按中央、市场、研发三大类拆分",
+          "处理积压的报销款项"
+        ]
+      },
+      {
+        "topic": "产品UI设计与功能交互",
+        "summary": "讨论了App界面的视觉设计，包括字体大小、颜色渐变、图标样式（如项链简笔画）。针对情绪记录功能，探讨了always on状态的透明度及3D玻璃效果。",
+        "participants_mentioned": [
+          "amanda2",
+          "设计同事"
+        ],
+        "decisions_or_todos": [
+          "调整界面元素的视觉层次，增加透明度或3D效果",
+          "统一图标和星星的颜色逻辑"
+        ]
+      },
+      {
+        "topic": "包装物料与周边礼物定制",
+        "summary": "讨论了产品说明书的纸张材质及成本，评估了周边礼物（如oc娜钥匙扣、情绪球、冰箱贴、贴纸）的定制方案，强调控制成本。",
+        "participants_mentioned": [
+          "amanda2",
+          "设计同事"
+        ],
+        "decisions_or_todos": [
+          "确认说明书特种纸成本在可接受范围内",
+          "考虑定制带有品牌logo的钥匙扣或贴纸作为礼物"
+        ]
+      },
+      {
+        "topic": "团队人员安排与绩效评估",
+        "summary": "讨论了接下来的团队人员安排，考虑将部分工作外包。复盘了员工近期的工作状态和绩效自评情况，提到有人自评过高或过低。",
+        "participants_mentioned": [
+          "amanda2",
+          "谢总",
+          "四帆",
+          "一练",
+          "陈晨"
+        ],
+        "decisions_or_todos": [
+          "盘点人员，评估外包可行性",
+          "与高律师集中沟通",
+          "关注员工状态并进行组织架构调整"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "指导同事搭建财务预算框架，参与产品UI设计评审，核算包装与周边成本，与合伙人讨论团队人员安排及外部合作。",
+      "others_activity": "汇报财务付款及报销进度，展示UI设计稿并修改，讨论周边礼物方案，反馈团队员工状态。",
+      "mentioned": [
+        {
+          "name_or_alias": "谢总",
+          "context": "欠谢总一些钱，谢总报销云服务费",
+          "relation_guess": "公司高管/合伙人"
+        },
+        {
+          "name_or_alias": "运老师",
+          "context": "运老师有很多东西没报销",
+          "relation_guess": "公司员工/顾问"
+        },
+        {
+          "name_or_alias": "四帆",
+          "context": "市场同学，比之前的市场同学好很多",
+          "relation_guess": "市场部员工"
+        },
+        {
+          "name_or_alias": "一练",
+          "context": "财务同学，在学习做预算",
+          "relation_guess": "财务部员工"
+        },
+        {
+          "name_or_alias": "刘玉婷",
+          "context": "有报销费用",
+          "relation_guess": "公司员工"
+        },
+        {
+          "name_or_alias": "陈晨",
+          "context": "主持人，愿意给支持，京东AI创造营",
+          "relation_guess": "外部合作伙伴/媒体人"
+        },
+        {
+          "name_or_alias": "高律师",
+          "context": "需要找时间集中沟通",
+          "relation_guess": "法务顾问"
+        },
+        {
+          "name_or_alias": "凯",
+          "context": "让凯去买碎纸机",
+          "relation_guess": "行政/后勤员工"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "6月18日至21日出差",
+        "下周二对预算",
+        "梳理人员安排，考虑部分工作外包",
+        "与高律师集中沟通法务问题"
+      ],
+      "projects_or_business": [
+        "第二代产品研发与市场合作",
+        "线下渠道销售（白鹅卵石热销）",
+        "京东618活动及AI创造营合作",
+        "品牌周边礼物（钥匙扣、贴纸等）定制"
+      ],
+      "risks_or_blockers": [
+        "白鹅卵石库存有限",
+        "部分员工工作状态不佳，需要调整组织架构",
+        "包装特种纸成本需要控制"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "salary",
+          "detail": "发放工资",
+          "amount_or_terms": "七万多"
+        },
+        {
+          "category": "payment",
+          "detail": "处理付款申请",
+          "amount_or_terms": "四个付款申请"
+        },
+        {
+          "category": "budget",
+          "detail": "搭建预算框架，区分固定成本(fixed costs)和可变成本(variable costs)，按中央、市场、研发拆分",
+          "amount_or_terms": "未提及具体总额"
+        },
+        {
+          "category": "cost",
+          "detail": "股东欠款、美元及岛币借款及利息",
+          "amount_or_terms": "五十七万加十二万五，零点五万美元利息等"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "处理员工报销，包括谢总、运老师、刘玉婷及user自己的报销",
+          "amount_or_terms": "三四十万"
+        },
+        {
+          "category": "cost",
+          "detail": "包装说明书特种纸成本",
+          "amount_or_terms": "一块钱到三块不等，均摊成本可接受"
+        },
+        {
+          "category": "cost",
+          "detail": "周边礼物定制成本",
+          "amount_or_terms": "钥匙扣成本约两块多不到三块"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "performance",
+          "detail": "讨论员工绩效自评情况，有人自评100分，有人55分，有人80分"
+        },
+        {
+          "category": "team",
+          "detail": "讨论团队人员安排，考虑将部分工作外包，评估员工状态"
+        },
+        {
+          "category": "role_change",
+          "detail": "提到组织架构调整后的过渡期"
+        }
+      ]
+    },
+    "open_questions": [
+      "白鹅卵石库存不足如何应对？",
+      "哪些岗位或工作适合外包？",
+      "情绪记录功能的always on视觉效果如何进一步优化？"
+    ],
+    "keywords": [
+      "预算",
+      "报销",
+      "UI设计",
+      "包装成本",
+      "周边礼物",
+      "人员安排",
+      "绩效",
+      "京东活动",
+      "外包"
+    ]
+  }
+}

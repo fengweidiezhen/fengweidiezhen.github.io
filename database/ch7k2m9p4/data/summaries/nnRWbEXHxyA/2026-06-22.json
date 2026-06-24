@@ -1,0 +1,288 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-06-22",
+  "generated_at": "2026-06-23T14:24:20.092806+08:00",
+  "model": "qwen3.7-max-preview",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 2964,
+    "char_count": 80000,
+    "es_refreshed": true,
+    "truncated": true
+  },
+  "summary": {
+    "title": "产品复盘、HR面试及软硬件技术讨论纪要",
+    "overview": "今日主要进行了端午节万象城新品发布会复盘，确认订单量与用户量上升；面试了HR候选人周老师并确定其7月1日入职，负责组织架构与流程规范化；讨论了APP功能优化、数据图表显示逻辑及硬件设备IQ数据质量排查方案；同时针对内部客诉甩锅现象明确了处理流程。",
+    "events": [
+      {
+        "time": "09:32",
+        "what_happened": "复盘端午节假期万象城新品发布会及科技集市",
+        "outcome": "确认线上线下订单量及真实注册用户量均有上升，但出货量大带来一定压力。"
+      },
+      {
+        "time": "09:58",
+        "what_happened": "面试HR候选人周老师",
+        "outcome": "深入讨论了招聘策略、薪酬体系、绩效考核及团队管理，候选人预计7月1日入职。"
+      },
+      {
+        "time": "11:22",
+        "what_happened": "讨论APP功能优化及数据图表显示逻辑",
+        "outcome": "明确了安卓/iOS语言选择、心率更新bug修复、情绪采样点加密及无效点合并策略（先按四个点合并测试）。"
+      },
+      {
+        "time": "15:17",
+        "what_happened": "讨论客诉处理流程规范",
+        "outcome": "决定严肃整顿随意将问题甩锅给研发（小红）的现象，要求先排查基础问题再流转。"
+      },
+      {
+        "time": "16:04",
+        "what_happened": "沟通新HR入职后的工作规划",
+        "outcome": "明确周老师入职后先以项目制切入，负责战略规划、运营管理、组织人才盘点及采购合规，逐步推进流程化。"
+      },
+      {
+        "time": "17:11",
+        "what_happened": "讨论数据清洗及用户画像逻辑",
+        "outcome": "梳理了时间戳切分、face切分及用户画像在会议纪要汇总中的应用链路。"
+      },
+      {
+        "time": "17:53",
+        "what_happened": "讨论硬件设备数据质量排查方案",
+        "outcome": "计划通过带壳与拆壳测试对比，排查IQ数据波动是源于外壳、材料还是装配问题。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "产品与技术优化",
+        "summary": "讨论了APP语言选择、心率更新bug、情绪采样点加密及数据图表显示逻辑。针对图表中无数据的时间段，决定采用掐头去尾及无效点合并策略，先按四个无效点合并测试效果。同时讨论了充电状态检测及V2展品的体积缩小评估。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "张赛",
+          "楚鼠",
+          "鼠国"
+        ],
+        "decisions_or_todos": [
+          "统一在APP内增加语言选择选项",
+          "先按四个无效点合并测试图表显示效果",
+          "增加充电状态检测提示"
+        ]
+      },
+      {
+        "topic": "HR面试与组织管理",
+        "summary": "与HR候选人周老师讨论了初创公司的招聘难点、薪酬策略（高级研发约30万，管理岗50-60万）、期权激励、绩效考核（PIP）及团队氛围建设。强调了自上而下拆目标、自下而上定细节的绩效落地方式，以及处理刺头员工和小团体风险的策略。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "周老师",
+          "曼娜"
+        ],
+        "decisions_or_todos": [
+          "周老师7月1日入职",
+          "人力预算控制在30人规模",
+          "大额采购（2万以上）需共同商定"
+        ]
+      },
+      {
+        "topic": "客诉与跨部门协作",
+        "summary": "针对运营/客服人员（斯拉）在群内随意将问题甩锅给研发（小红）的现象进行了讨论。要求规范问题反馈路径，必须先自行排查基础问题，无法解决再流转，后续将开会严肃强调。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "小红",
+          "斯拉"
+        ],
+        "decisions_or_todos": [
+          "制定客诉问题排查SOP",
+          "开会严肃批评甩锅行为"
+        ]
+      },
+      {
+        "topic": "新HR入职规划",
+        "summary": "与周老师沟通入职后的工作安排，前期以项目制切入，负责战略规划、运营管理、组织人才盘点及采购合规。讨论了创业公司流程化与规范化的推进节奏，强调要接受不确定性并逐步建立SOP。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "周老师",
+          "谢博",
+          "高律师"
+        ],
+        "decisions_or_todos": [
+          "周老师先轮岗摸底团队现状",
+          "逐步接手HR及合规工作",
+          "建立大型活动SOP"
+        ]
+      },
+      {
+        "topic": "硬件数据质量排查",
+        "summary": "针对部分设备IQ数据波动较大的问题，讨论了排查方案。计划先用带壳设备测试区分好坏，再拆壳换料验证，以确定数据质量差异是源于外壳、材料还是装配问题。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "鼠播"
+        ],
+        "decisions_or_todos": [
+          "用带壳设备测试区分好坏",
+          "拆壳换料验证数据波动原因"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与产品复盘、面试HR候选人、讨论APP功能及数据图表逻辑、规划新HR入职工作、讨论硬件数据质量排查方案。",
+      "others_activity": "汇报项目进度、参与面试、反馈APP bug、讨论客诉处理、沟通入职安排、分析硬件数据。",
+      "mentioned": [
+        {
+          "name_or_alias": "小红",
+          "context": "测试/运营人员，参与发布会，被提及客诉问题被甩锅给她。",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "楚鼠",
+          "context": "研发/测试人员，出具雷达检测报告。",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "鼠国",
+          "context": "研发/测试人员，出具雷达检测报告。",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "鼠播",
+          "context": "研发人员，讨论数据质量及IQ数据波动。",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "张赛",
+          "context": "提出电量读取方式建议。",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "周老师",
+          "context": "HR候选人，19年毕业，有猎头及甲方HRBP经验，7月1日入职。",
+          "relation_guess": "候选人/未来同事"
+        },
+        {
+          "name_or_alias": "曼娜",
+          "context": "合伙人，负责市场及管理。",
+          "relation_guess": "合伙人"
+        },
+        {
+          "name_or_alias": "凯里",
+          "context": "被提及组织归档，后续可能被优化或转岗。",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "高律师",
+          "context": "处理裁员及合规问题。",
+          "relation_guess": "外部顾问"
+        },
+        {
+          "name_or_alias": "谢博",
+          "context": "合伙人/高管，参与发布会演讲，被提及需要带节奏。",
+          "relation_guess": "合伙人"
+        },
+        {
+          "name_or_alias": "斯拉",
+          "context": "运营/客服人员，被指甩锅给研发，需要开会严肃批评。",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "陈刚",
+          "context": "负责APP统计。",
+          "relation_guess": "同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "7月1日周老师入职，先以项目制切入，负责战略、运营、组织人才及采购合规。",
+        "规范客诉处理流程，禁止随意甩锅研发。",
+        "推进公司内部流程化、规范化，建立活动SOP。",
+        "计划在上海组建团队，规模控制在30人左右的精兵强将。",
+        "9月份上线第二款产品。"
+      ],
+      "projects_or_business": [
+        "万象城新品发布会及科技集市",
+        "APP功能优化（语言选择、心率、情绪采样、数据图表）",
+        "V2展品开发及体积缩小评估",
+        "硬件设备数据质量（IQ数据）排查"
+      ],
+      "risks_or_blockers": [
+        "团队内部存在小团体、负面舆论及甩锅现象。",
+        "研发人员质量参差不齐，部分人员缺乏主动性。",
+        "创业公司流程不完善，一人多岗，存在管理盲区。",
+        "硬件设备存在数据质量差异，需排查根本原因。"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "salary",
+          "detail": "讨论高级研发人员及管理岗薪酬范围，高级研发约30万，管理岗（经理/总监）约50-60万年包。",
+          "amount_or_terms": "30万-60万"
+        },
+        {
+          "category": "budget",
+          "detail": "确认公司人力预算支持30人规模没有问题，现金流短期无风险。",
+          "amount_or_terms": "30人规模"
+        },
+        {
+          "category": "cost",
+          "detail": "讨论采购合规及降本增效，大额采购（2万以上）需共同商定。",
+          "amount_or_terms": "2万以上"
+        },
+        {
+          "category": "other",
+          "detail": "讨论裁员赔偿问题，因员工表现恶劣不想给赔偿，由高律师处理。",
+          "amount_or_terms": "未提及"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "面试HR候选人周老师，讨论招聘策略、渠道（Boss、猎聘、朋友圈）及到岗率。"
+        },
+        {
+          "category": "performance",
+          "detail": "讨论绩效考核体系搭建及PIP（绩效改进计划）的使用，强调自上而下拆目标，自下而上定细节。"
+        },
+        {
+          "category": "resignation",
+          "detail": "讨论裁员及离职管理，处理刺头员工及小团体风险，强调留存证据及合法合规。"
+        },
+        {
+          "category": "role_change",
+          "detail": "讨论凯里的转岗或优化，以及新HR入职后的轮岗与职责划分。"
+        },
+        {
+          "category": "team",
+          "detail": "讨论创业公司团队氛围建设、跨城市（深圳、上海）管理、一人多岗及灰色地带职责划分。"
+        }
+      ]
+    },
+    "open_questions": [
+      "硬件设备IQ数据波动的根本原因是什么（外壳、材料还是装配）？",
+      "如何在创业公司有效推行流程化与规范化，同时保持灵活性？",
+      "情绪采样点加密后，数据图表的无效点合并策略最终效果如何？"
+    ],
+    "keywords": [
+      "新品发布会",
+      "APP优化",
+      "HR面试",
+      "绩效考核",
+      "数据图表",
+      "客诉流程",
+      "组织管理",
+      "硬件数据质量",
+      "IQ数据",
+      "流程规范化"
+    ]
+  }
+}

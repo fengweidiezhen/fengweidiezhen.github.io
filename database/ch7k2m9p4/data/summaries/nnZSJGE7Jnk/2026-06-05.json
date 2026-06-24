@@ -1,0 +1,218 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-06-05",
+  "generated_at": "2026-06-22T17:57:12.260416+08:00",
+  "model": "qwen3.7-max-preview",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 470,
+    "char_count": 14211,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "财务记账规范讨论与日常工作汇报",
+    "overview": "主体用户（财务）与同事讨论了打卡补卡流程、日常财务记账的成本分类（固定成本、变动成本、人力成本、市场推广、合规成本等）、公司债务及报销情况，并确认了次日加班填表及开会安排。",
+    "events": [
+      {
+        "time": "16:41",
+        "what_happened": "讨论打卡与补卡问题",
+        "outcome": "确认系统补卡流程受限，建议设置极速打卡或闹钟提醒以防漏打卡。"
+      },
+      {
+        "time": "16:54",
+        "what_happened": "同事汇报当日工作进度",
+        "outcome": "完成四个付款申请、合同盖章寄出，并回复了关于下周一 DD（尽职调查）的邮件。"
+      },
+      {
+        "time": "16:56",
+        "what_happened": "讨论公司财务记账与成本分类",
+        "outcome": "明确了固定成本、变动成本、人力成本、市场费用及合规成本的分类逻辑，计划完善财务报表以测算公司现金流。"
+      },
+      {
+        "time": "17:12",
+        "what_happened": "讨论员工赴港工作及报销事宜",
+        "outcome": "确认部分员工可能转至香港发薪，梳理了谢总、刘伊婷及老师的报销情况，决定正常推进合理报销。"
+      },
+      {
+        "time": "18:31",
+        "what_happened": "确认次日工作安排",
+        "outcome": "同事计划周六加班完善财务数据表，并参加 11 点的会议。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "财务记账与成本分类",
+        "summary": "详细讨论了公司各项支出的归类，包括将房租、水电归为固定成本，云服务费归为研发费用，人力成本按中央、研发、市场拆分，以及市场推广和合规成本的界定。",
+        "participants_mentioned": [
+          "财务",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "按照新的分类逻辑完善财务明细账，将不可预知支出纳入系统。",
+          "测算公司在无盈利情况下的资金支撑月数。"
+        ]
+      },
+      {
+        "topic": "公司债务与报销处理",
+        "summary": "盘点了公司目前的欠款情况（如欠谢总 40 万、报销款 30-40 万等），并讨论了部分员工（如老师）未提交报销的问题。",
+        "participants_mentioned": [
+          "财务",
+          "others",
+          "谢总",
+          "老师"
+        ],
+        "decisions_or_todos": [
+          "继续推进未结清的报销流程，向员工传达合理报销都会处理的原则。"
+        ]
+      },
+      {
+        "topic": "人员赴港安排",
+        "summary": "讨论了未来可能将部分员工转移至香港发薪或签合同的计划，涉及签证费用等。",
+        "participants_mentioned": [
+          "财务",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "视具体情况推进，暂无明确决定。"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与讨论打卡问题，解答同事关于财务记账、成本分类的疑问，确认报销处理原则，关注工资发放的跨行转账情况。",
+      "others_activity": "汇报当日付款、盖章、邮件回复等工作，请教财务记账逻辑，盘点公司债务，计划周末加班完善数据表。",
+      "mentioned": [
+        {
+          "name_or_alias": "谢总",
+          "context": "欠款及报销涉及人员，被归类为中央成本。",
+          "relation_guess": "公司管理层/创始人"
+        },
+        {
+          "name_or_alias": "老师",
+          "context": "垫付资金未报销，表示等公司盈利再报。",
+          "relation_guess": "公司员工/顾问"
+        },
+        {
+          "name_or_alias": "刘伊婷",
+          "context": "报销已处理完毕。",
+          "relation_guess": "公司员工"
+        },
+        {
+          "name_or_alias": "郑浩林",
+          "context": "涉及订单或报销记录。",
+          "relation_guess": "公司员工/客户"
+        },
+        {
+          "name_or_alias": "丝帆",
+          "context": "被询问工资是否到账。",
+          "relation_guess": "公司员工"
+        },
+        {
+          "name_or_alias": "T士",
+          "context": "收到关于下周一 DD 的长邮件回复。",
+          "relation_guess": "外部合作方/投资人"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "测算公司在无盈利情况下的资金可支撑月数。",
+        "考虑未来将部分人员转移至香港发薪或签合同。",
+        "同事计划周六加班完善财务数据表，并参加 11 点的会议。"
+      ],
+      "projects_or_business": [
+        "涉及研发费用（云服务费、专利申请、打样等）。",
+        "市场推广（展会、投流、京东投放等）。",
+        "销售业务（卖货、服务费、渠道返点）。"
+      ],
+      "risks_or_blockers": [
+        "公司目前存在较多欠款（如欠谢总 40 万，报销款 30-40 万，以及外部债务如 157 万+12.5 万等）。",
+        "打卡系统补卡流程存在限制。"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "payment",
+          "detail": "处理了四个付款申请，支付了 B 的 0.5 万美元利息（提前还款）。",
+          "amount_or_terms": "0.5 万美元"
+        },
+        {
+          "category": "cost",
+          "detail": "讨论成本分类，包括固定成本（房租、水电、快递）、变动成本、研发费用（云服务）、市场推广费（展会、投流）、合规成本（法务、税务）。",
+          "amount_or_terms": "未提及"
+        },
+        {
+          "category": "other",
+          "detail": "盘点公司债务，包括秦教售（音）157 万加 12.5 万，发给老师私账约 150 万（含 20 万美金）。",
+          "amount_or_terms": "157万+12.5万，150万"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "欠谢总至少 40 万，未处理报销款约 30-40 万。刘伊婷报销已处理，老师垫付未报。谢总有很多研发和云服务报销未付。",
+          "amount_or_terms": "40万，30-40万"
+        },
+        {
+          "category": "salary",
+          "detail": "讨论工资分类（中央、市场、研发），确认发工资跨行转账情况（询问了丝帆）。",
+          "amount_or_terms": "未提及"
+        },
+        {
+          "category": "budget",
+          "detail": "计划完善财务明细账，测算公司在无盈利情况下的资金支撑月数。",
+          "amount_or_terms": "未提及"
+        },
+        {
+          "category": "tax",
+          "detail": "提及税务、法务、投融资等合规成本。",
+          "amount_or_terms": "未提及"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "policy",
+          "detail": "讨论打卡补卡流程限制，建议设置极速打卡或闹钟。"
+        },
+        {
+          "category": "team",
+          "detail": "讨论人力成本按部门拆分为中央成本、研发成本和市场成本。"
+        },
+        {
+          "category": "role_change",
+          "detail": "讨论未来可能将部分员工转移至香港发薪或签合同，涉及签证费用。"
+        }
+      ]
+    },
+    "open_questions": [
+      "公司在无任何盈利的情况下，现有资金还能支撑几个月？",
+      "老师垫付的款项何时正式提交报销流程？"
+    ],
+    "keywords": [
+      "打卡",
+      "付款申请",
+      "成本分类",
+      "固定成本",
+      "变动成本",
+      "报销",
+      "谢总",
+      "人力成本",
+      "市场推广",
+      "合规成本",
+      "现金流",
+      "香港发薪"
+    ]
+  }
+}

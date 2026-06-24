@@ -1,0 +1,293 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-06-09",
+  "generated_at": "2026-06-22T10:29:19.706098+08:00",
+  "model": "qwen3.7-max-preview",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1502,
+    "char_count": 47526,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "日常研发、生产与面试沟通纪要",
+    "overview": "全天涉及硬件工程师面试、产品数据清洗与接口排查、13号生产与出货安排、惠州日报采访准备、渠道发货计划以及团队管理与裁员讨论。",
+    "events": [
+      {
+        "time": "10:37",
+        "what_happened": "面试硬件工程师，讨论手表功耗、PCB设计及公司产品方向。",
+        "outcome": "面试过程顺利，沟通充分。"
+      },
+      {
+        "time": "15:04",
+        "what_happened": "与马总等人开会，讨论包材规范、13号惠州日报采访准备及20号发布会安排。",
+        "outcome": "确定采访稿由己方主笔突出技术，工厂作生产背书；规范后续包材提供流程。"
+      },
+      {
+        "time": "15:23",
+        "what_happened": "讨论研发团队管理与招聘问题。",
+        "outcome": "认为当前简历质量差，计划与开离沟通，考虑引入高级HR或管理人员。"
+      },
+      {
+        "time": "17:14",
+        "what_happened": "讨论13号及14号的出货计划与渠道分配。",
+        "outcome": "确定13号出货1000个，14号出货1700个，发往广州等地，并规划线上线下渠道策略。"
+      },
+      {
+        "time": "22:31",
+        "what_happened": "排查卡片添加接口超时问题。",
+        "outcome": "发现注册中心服务摘除逻辑问题，进行压测验证。"
+      },
+      {
+        "time": "23:28",
+        "what_happened": "电话沟通明日百联PPT汇报内容及团队人员优化计划。",
+        "outcome": "梳理了PPT技术名词讲解逻辑，确认将裁撤部分研发人员。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "硬件工程师面试",
+        "summary": "考察候选人过往在车载定位、陪伴机器人及手表项目的经验，重点询问功耗控制、PCB层数及信号完整性。介绍公司AI硬件及健康守护产品方向。",
+        "participants_mentioned": [
+          "院老师",
+          "H"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "生产与包材规范",
+        "summary": "讨论包材（标签、卡通箱等）提供混乱的问题，要求后续一次性整理好。确认13号惠州日报采访策略，以公司技术为主体，工厂生产能力为辅助背书。",
+        "participants_mentioned": [
+          "马总",
+          "丹博",
+          "阿曼娜",
+          "文静"
+        ],
+        "decisions_or_todos": [
+          "规范包材提供流程",
+          "准备采访稿并突出前沿科技技术"
+        ]
+      },
+      {
+        "topic": "出货计划与渠道策略",
+        "summary": "确认13号出货1000个，14号出货1700个，发往广州等京东仓库。讨论线上线下渠道策略，决定先跑通线上，线下不急于推进。讨论一代与二代产品切换，计划降低成本，摆脱方案商。",
+        "participants_mentioned": [
+          "陆姐"
+        ],
+        "decisions_or_todos": [
+          "按颜色比例分配发货",
+          "推进一代向二代切换以降低成本"
+        ]
+      },
+      {
+        "topic": "团队管理与人员优化",
+        "summary": "抱怨当前招聘简历质量差，研发管理缺乏情绪价值提供。计划引入高级HR。电话中提及准备“动刀子”裁撤部分研发人员。",
+        "participants_mentioned": [
+          "开离",
+          "Shan妮",
+          "白家",
+          "原心",
+          "陈杰",
+          "玉瑶"
+        ],
+        "decisions_or_todos": [
+          "与开离对齐招聘预期",
+          "考虑引入高级HR",
+          "裁撤部分研发人员"
+        ]
+      },
+      {
+        "topic": "数据清洗与接口排查",
+        "summary": "讨论数据清洗时间窗口逻辑，发现时间线错乱及数据重复问题。排查卡片添加接口超时，定位为注册中心服务摘除问题。",
+        "participants_mentioned": [
+          "陈刚"
+        ],
+        "decisions_or_todos": [
+          "修复数据清洗时间窗口逻辑",
+          "修复接口超时问题并进行压测"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与硬件工程师面试，讨论产品技术方向；跟进数据清洗与接口超时问题；规划出货与渠道策略；与同事电话沟通PPT汇报及裁员计划。",
+      "others_activity": "参与面试评估；与工厂方对接生产、包材及采访事宜；反馈招聘与管理问题；协助排查技术问题。",
+      "mentioned": [
+        {
+          "name_or_alias": "吴老师",
+          "context": "10:24 提到“爷你别等我吴老师”",
+          "relation_guess": "同事或合作伙伴"
+        },
+        {
+          "name_or_alias": "院老师",
+          "context": "11:03 面试中提到“刚才那个院老师跟你聊差不多”",
+          "relation_guess": "参与面试的同事"
+        },
+        {
+          "name_or_alias": "马总",
+          "context": "15:04 开会讨论采访与生产，被称赞写稿能力强",
+          "relation_guess": "合作伙伴或工厂负责人"
+        },
+        {
+          "name_or_alias": "丹博",
+          "context": "15:04 参与会议讨论",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "阿曼娜",
+          "context": "15:04 参与会议讨论",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "文静",
+          "context": "15:07 提到“我跟那个文静也说了”",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "开离",
+          "context": "15:23 讨论招聘问题，“找时间跟开离聊一下”",
+          "relation_guess": "负责招聘或HR的同事"
+        },
+        {
+          "name_or_alias": "Shan妮",
+          "context": "15:25 提到“你像我们 Shan妮 小孩聪秘着呢”",
+          "relation_guess": "团队成员"
+        },
+        {
+          "name_or_alias": "白家",
+          "context": "15:25 提到“白家可不是小孩人家是个大男孩”",
+          "relation_guess": "团队成员"
+        },
+        {
+          "name_or_alias": "陆姐",
+          "context": "17:28 提到“陆姐那块他最前很少找我”",
+          "relation_guess": "负责渠道或业务的同事"
+        },
+        {
+          "name_or_alias": "陈刚",
+          "context": "22:31 询问“陈刚那个卡片添加接口超时的那个排查出来什么原因了没”",
+          "relation_guess": "研发同事"
+        },
+        {
+          "name_or_alias": "原心",
+          "context": "23:42 提到“明天跟原新说然后宇原先给我安排了四个项目”",
+          "relation_guess": "领导或项目经理"
+        },
+        {
+          "name_or_alias": "陈杰",
+          "context": "23:41 提到“我就让陈杰陈杰回答嘛”",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "玉瑶",
+          "context": "23:43 提到“怎么去跟玉瑶聊升职加薪”",
+          "relation_guess": "领导或HR"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "13号进行产线生产，出货1000个，发往广州等地京东仓库。",
+        "14号出货1700个。",
+        "13号接受惠州日报采访，准备采访稿。",
+        "20号举办发布会。",
+        "推进一代产品向二代切换，降低成本，摆脱方案商。",
+        "计划裁撤部分研发人员。"
+      ],
+      "projects_or_business": [
+        "AI硬件数据入口端产品（健康守护、智能穿戴、跌倒检测）。",
+        "与工厂合作生产，规范包材与生产流程。",
+        "线上线下渠道销售（京东、移动等）。",
+        "百联项目PPT汇报。"
+      ],
+      "risks_or_blockers": [
+        "235Hz马达高频震动对人体有害，需调整为模拟敲击式。",
+        "数据清洗存在时间窗口逻辑问题，导致时间线错乱和数据重复。",
+        "卡片添加接口存在超时问题。",
+        "研发团队管理存在问题，缺乏情绪价值，招聘简历质量差。",
+        "韩国客户资金周转问题导致项目推迟。"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "payment",
+          "detail": "讨论采购账期",
+          "amount_or_terms": "60天或90天"
+        },
+        {
+          "category": "cost",
+          "detail": "讨论一代产品成本太高，计划切换二代以降低成本",
+          "amount_or_terms": "未提及"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "提到提交报销流程",
+          "amount_or_terms": "未提及"
+        },
+        {
+          "category": "salary",
+          "detail": "讨论给候选人的工资不低，以及员工想谈升职加薪",
+          "amount_or_terms": "未提及"
+        },
+        {
+          "category": "other",
+          "detail": "提到之前付某人500美金一个X，现在想打折给300，或者给期权",
+          "amount_or_terms": "500美金降至300，或20万期权"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "讨论招聘硬件工程师，抱怨简历质量差，计划与开离对齐预期"
+        },
+        {
+          "category": "role_change",
+          "detail": "考虑引入高级HR或管理人员来提供情绪价值和管理团队"
+        },
+        {
+          "category": "resignation",
+          "detail": "计划“动刀子”裁撤一批研发人员"
+        },
+        {
+          "category": "performance",
+          "detail": "员工觉得太辛苦，想找人请教如何谈升职加薪和绩效打分"
+        }
+      ]
+    },
+    "open_questions": [
+      "数据清洗时间窗口逻辑如何彻底修复以避免时间线错乱？",
+      "一代产品向二代切换的具体时间表和备料计划？",
+      "研发团队裁员的具体名单和后续交接安排？"
+    ],
+    "keywords": [
+      "面试",
+      "功耗",
+      "惠州日报",
+      "采访",
+      "发布会",
+      "出货",
+      "京东",
+      "数据清洗",
+      "接口超时",
+      "压测",
+      "裁员",
+      "升职加薪",
+      "百联",
+      "PPT"
+    ]
+  }
+}

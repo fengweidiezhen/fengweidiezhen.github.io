@@ -1,0 +1,216 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-05-31",
+  "generated_at": "2026-06-01T13:46:39.614472+08:00",
+  "model": "qwen3.7-max-2026-05-17",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1609,
+    "char_count": 52105,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "羽毛球活动及业务与人事管理讨论纪要",
+    "overview": "用户与伙伴前往羽毛球馆打球，随后前往前海万象附近餐厅就餐。期间重点讨论了产品包装打样、供应链代采模式、生产排期及法国团队接待安排。此外，深入探讨了公司人事管理问题，决定辞退存在财务/诚信问题的员工艾米，并强调核心供应链需由管理层亲自维护。",
+    "events": [
+      {
+        "time": "16:13",
+        "what_happened": "开车前往羽毛球馆打球。",
+        "outcome": "完成羽毛球运动。"
+      },
+      {
+        "time": "19:20",
+        "what_happened": "驾车前往前海万象附近餐厅。",
+        "outcome": "到达餐厅并拿到包装打样样品。"
+      },
+      {
+        "time": "19:45",
+        "what_happened": "与合作伙伴就餐并讨论业务。",
+        "outcome": "确定了包装代采模式、加工费标准及仓储代发安排。"
+      },
+      {
+        "time": "22:00",
+        "what_happened": "就餐结束驾车返回。",
+        "outcome": "途中复盘公司人事问题，决定辞退问题员工。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "产品包装与供应链采购",
+        "summary": "讨论包装盒子打样工艺及供应商选择。决定通用件由合作方统一采购以降低成本，明确了代采的加工费和管理费标准，并安排合作方协助仓储和一件代发。",
+        "participants_mentioned": [
+          "谢总",
+          "邓总",
+          "刘工",
+          "陈影"
+        ],
+        "decisions_or_todos": [
+          "通用件由合作方统一采购",
+          "明确代采加工费和管理费标准",
+          "安排合作方协助仓储和一件代发"
+        ]
+      },
+      {
+        "topic": "生产排期与外宾接待",
+        "summary": "确认雅马哈贴片机已到位，准备组装测试。讨论法国团队2号来工厂、3号来深圳的接待安排，包括预订万豪酒店和商务包车。提及13号有京东活动采访。",
+        "participants_mentioned": [
+          "谢总",
+          "法国团队"
+        ],
+        "decisions_or_todos": [
+          "预订万豪酒店及商务包车接待法国团队",
+          "跟进13号京东活动采访"
+        ]
+      },
+      {
+        "topic": "人事管理与风险控制",
+        "summary": "讨论招聘难点。重点指出员工艾米存在涉及两万多块钱的财务/诚信问题，决定尽快辞退。强调管理层需与员工保持距离，核心供应链关系必须亲自维护，避免被员工牵制。",
+        "participants_mentioned": [
+          "艾米",
+          "刘健康",
+          "谢总"
+        ],
+        "decisions_or_todos": [
+          "尽快辞退员工艾米",
+          "收回核心供应链关系由管理层亲自维护",
+          "规范员工汇报机制"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与打羽毛球，与合作伙伴就餐并讨论产品包装、供应链采购、生产排期及公司人事管理问题，驾车往返。",
+      "others_activity": "与user一起打球、就餐，讨论包装工艺、代工采购细节、接待法国团队安排，以及对公司员工的评价和处理意见。",
+      "mentioned": [
+        {
+          "name_or_alias": "谢总",
+          "context": "参与打球和就餐，讨论业务和管理，被提及学历高。",
+          "relation_guess": "合作伙伴或公司高管"
+        },
+        {
+          "name_or_alias": "艾米",
+          "context": "公司员工，存在涉及两万多块钱的财务/诚信问题，被决定辞退。",
+          "relation_guess": "公司员工"
+        },
+        {
+          "name_or_alias": "刘工",
+          "context": "负责包装/生产对接的员工。",
+          "relation_guess": "公司员工"
+        },
+        {
+          "name_or_alias": "陈影",
+          "context": "负责对接的员工。",
+          "relation_guess": "公司员工"
+        },
+        {
+          "name_or_alias": "邓总",
+          "context": "讨论采购报价和代采模式。",
+          "relation_guess": "合作伙伴或高管"
+        },
+        {
+          "name_or_alias": "刘健康",
+          "context": "公司员工，被评价为性格有些中二。",
+          "relation_guess": "公司员工"
+        },
+        {
+          "name_or_alias": "法国团队",
+          "context": "客户或合作伙伴，2号来工厂，3号来深圳。",
+          "relation_guess": "客户/外宾"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "法国团队2号来工厂、3号来深圳，需安排万豪酒店及商务包车接送",
+        "13号参加京东活动并接受采访",
+        "后续通用件由合作方统一采购，并协助仓储和一件代发"
+      ],
+      "projects_or_business": [
+        "硬件产品包装打样及PCB贴片、组装测试",
+        "引入雅马哈贴片机提升生产能力",
+        "探讨制氧机/医疗器械相关业务及厂房租赁"
+      ],
+      "risks_or_blockers": [
+        "员工艾米存在诚信/财务问题，需尽快处理以规避风险",
+        "招聘困难，缺乏技术好且有责任心的员工",
+        "核心供应链关系过度依赖员工，存在信息差和管理风险"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "cost",
+          "detail": "讨论代为采购的加工费、管理费及物料单价，按行业惯例加点。",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "cost",
+          "detail": "购买雅马哈贴片机。",
+          "amount_or_terms": "七十多万"
+        },
+        {
+          "category": "other",
+          "detail": "员工艾米涉及财务或诚信问题。",
+          "amount_or_terms": "两万多块钱"
+        },
+        {
+          "category": "cost",
+          "detail": "讨论厂房租金。",
+          "amount_or_terms": "七块八块一平"
+        },
+        {
+          "category": "payment",
+          "detail": "讨论商务包车去机场接法国团队的费用。",
+          "amount_or_terms": "来回一千七 / 单趟七百"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "讨论招聘困难，很难碰到特别有技术、看得很细又有责任心的员工。"
+        },
+        {
+          "category": "resignation",
+          "detail": "发现员工艾米存在严重问题（涉及两万多块钱），决定尽快将其辞退。"
+        },
+        {
+          "category": "policy",
+          "detail": "讨论企业文化与管理方式，强调管理层不能与员工走得太近，核心供应链关系必须自己维护。"
+        },
+        {
+          "category": "team",
+          "detail": "评价员工刘健康性格有些中二；提到谢总学历高。"
+        }
+      ]
+    },
+    "open_questions": [
+      "法国团队的具体接待细节和行程确认",
+      "艾米离职后的工作交接及供应链关系梳理",
+      "包装打样最终确认及批量生产的排期"
+    ],
+    "keywords": [
+      "包装打样",
+      "供应链采购",
+      "贴片机",
+      "法国团队",
+      "艾米辞退",
+      "企业管理",
+      "羽毛球",
+      "脆肉鲩",
+      "商务包车"
+    ]
+  }
+}

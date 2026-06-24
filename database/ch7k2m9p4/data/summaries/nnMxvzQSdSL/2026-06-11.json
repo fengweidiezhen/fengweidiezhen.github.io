@@ -1,0 +1,280 @@
+{
+  "user_id": "nnMxvzQSdSL",
+  "user_name": "amanda2",
+  "date": "2026-06-11",
+  "generated_at": "2026-06-12T14:49:21.383293+08:00",
+  "model": "qwen3.7-max-preview",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda2",
+    "aliases": [
+      "amanda2",
+      "amanda2"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 2283,
+    "char_count": 70012,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "北京出差与科技节筹备纪要",
+    "overview": "amanda2与同伴前往北京出差，途中讨论了决赛安排、竞品动态及人事薪资谈判。抵达后参加了2026科技节租铺大会线上会议，明确了市集运营规范。晚间庆祝生日并深入探讨了公司财务合规风险、研发团队换血及核心人员招聘计划。",
+    "events": [
+      {
+        "time": "08:15",
+        "what_happened": "前往机场并安检候机，讨论出差行程与行李箱。",
+        "outcome": "顺利登机前往北京。"
+      },
+      {
+        "time": "10:00",
+        "what_happened": "候机时讨论决赛演讲准备、竞品抄袭现象及设计人员薪资谈判。",
+        "outcome": "明确了应对竞品抄袭的策略及人事谈判的底线。"
+      },
+      {
+        "time": "11:14",
+        "what_happened": "乘坐航班飞往北京，期间讨论前合作方的财务合规风险。",
+        "outcome": "识别了潜在的财务与税务风险，考虑注册新主体隔离风险。"
+      },
+      {
+        "time": "13:27",
+        "what_happened": "抵达北京首都机场，前往酒店办理入住。",
+        "outcome": "顺利入住全季酒店。"
+      },
+      {
+        "time": "17:04",
+        "what_happened": "参加2026科技节租铺大会线上会议，了解市集搭建与运营要求。",
+        "outcome": "明确了市集营业时间、仓库使用及消防规范。"
+      },
+      {
+        "time": "19:00",
+        "what_happened": "取生日蛋糕并前往巴奴火锅就餐，庆祝生日。",
+        "outcome": "完成生日庆祝，期间深入讨论了公司人事与财务规划。"
+      },
+      {
+        "time": "20:40",
+        "what_happened": "晚餐后返回酒店，规划次日拜访京东及返程行程。",
+        "outcome": "确定了次日见京东后前往机场的行程。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "决赛与活动安排",
+        "summary": "讨论决赛10分钟演讲准备、下午直播联排及返场流程。认为决赛更像走过场，嘉宾多为资方和政府人员。",
+        "participants_mentioned": [
+          "amanda2",
+          "丹尼斯",
+          "谢总"
+        ],
+        "decisions_or_todos": [
+          "准备10分钟演讲",
+          "修改P稿增加个人背景"
+        ]
+      },
+      {
+        "topic": "竞品抄袭与产品迭代",
+        "summary": "发现竞品在包装和文案上抄袭自家产品，认为对方缺乏核心主轴。强调需保持产品定义、技术和包装的迭代速度。",
+        "participants_mentioned": [
+          "amanda2",
+          "邹"
+        ],
+        "decisions_or_todos": [
+          "保持产品迭代速度",
+          "13号发布第一个脚本"
+        ]
+      },
+      {
+        "topic": "人事招聘与薪资谈判",
+        "summary": "讨论心姐的入职条件，对方要求期权加现金至少15万起，amanda2认为现金部分无法再增加，若谈不拢则维持兼职或让丝帆接手。计划让周新帮忙留意有华为/OPPO背景的研发人员，并给乙链涨薪30%。",
+        "participants_mentioned": [
+          "amanda2",
+          "心姐",
+          "丝帆",
+          "周新",
+          "乙链"
+        ],
+        "decisions_or_todos": [
+          "与心姐继续谈判或维持兼职",
+          "给乙链涨薪30%",
+          "寻找资深研发人员"
+        ]
+      },
+      {
+        "topic": "财务合规与风险",
+        "summary": "讨论前合作方及Bob、曹一文的财务问题，指出其存在大量虚假报销、公转私70万等高风险行为。amanda2考虑未来单独注册正规公司用于公开融资以隔离风险。",
+        "participants_mentioned": [
+          "amanda2",
+          "Bob",
+          "曹一文",
+          "老秦"
+        ],
+        "decisions_or_todos": [
+          "规范公司财务",
+          "考虑注册新主体用于融资"
+        ]
+      },
+      {
+        "topic": "2026科技节市集筹备",
+        "summary": "参加租铺大会，明确市集时间为6月18日-21日，营业时间为14:00-21:00。了解了仓库使用、垃圾清理、大件搬运及消防规范。",
+        "participants_mentioned": [
+          "若鱼",
+          "闪柱",
+          "听力熊"
+        ],
+        "decisions_or_todos": [
+          "6月14日晚进行场地验收",
+          "17日22:30后进场搭建"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "前往北京出差，处理P稿修改，参加科技节会议，庆祝生日，规划公司人事与财务合规。",
+      "others_activity": "陪同出差，协助处理行程与设备，参与公司事务讨论，为amanda2庆祝生日。",
+      "mentioned": [
+        {
+          "name_or_alias": "心姐",
+          "context": "设计人员，正在谈入职薪资，要求期权加现金至少15万起，远程办公。",
+          "relation_guess": "潜在核心员工/设计师"
+        },
+        {
+          "name_or_alias": "丝帆",
+          "context": "设计人员，学习能力强，若心姐谈不拢可由其带头把控设计。",
+          "relation_guess": "员工/设计师"
+        },
+        {
+          "name_or_alias": "周新",
+          "context": "帮amanda2处理事务，落地UGC素材，被委托留意研发人员。",
+          "relation_guess": "员工/核心骨干"
+        },
+        {
+          "name_or_alias": "乙链",
+          "context": "财务人员，工作细致，被承诺涨薪30%。",
+          "relation_guess": "员工/财务"
+        },
+        {
+          "name_or_alias": "Bob",
+          "context": "前合作方/相关人员，存在财务报销和公转私风险。",
+          "relation_guess": "前合作方/高管"
+        },
+        {
+          "name_or_alias": "曹一文",
+          "context": "做账人员，汇报给Bob，涉及财务风险。",
+          "relation_guess": "前员工/财务"
+        },
+        {
+          "name_or_alias": "若鱼",
+          "context": "网部人员，主持科技节租铺大会。",
+          "relation_guess": "活动主办方/合作方"
+        },
+        {
+          "name_or_alias": "丹尼斯",
+          "context": "找amanda2修改P稿，要求增加个人背景。",
+          "relation_guess": "同事/合作方"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "6月13日发布第一个营销脚本",
+        "6月14日晚进行科技节市集场地验收",
+        "6月17日22:30后开始市集物料进场搭建",
+        "6月18日-21日参加科技节市集，营业时间为14:00-21:00",
+        "次日拜访京东总部，随后前往机场",
+        "考虑单独注册一家完全正规的公司主体，用于后续公开融资"
+      ],
+      "projects_or_business": [
+        "2026科技节市集（弯弯区万向科技节）",
+        "AI应用商店黑客松（7月份）",
+        "产品包装与定义迭代"
+      ],
+      "risks_or_blockers": [
+        "竞品频繁抄袭产品包装与文案",
+        "前合作方及Bob等人存在严重的财务合规风险（虚假报销、公转私），可能牵连公司",
+        "研发团队节奏把控不足，需要进行换血",
+        "核心设计人员（心姐）薪资期望过高，可能无法全职入职"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "salary",
+          "detail": "心姐入职谈判，要求期权加现金，现金部分至少15万起。amanda2认为已给期权，现金无法再加，若谈不拢则按兼职处理。",
+          "amount_or_terms": "15万起"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "讨论前合作方及Bob的财务问题，存在大量超市、海底捞等餐饮虚假报销，一年差旅费达40万。",
+          "amount_or_terms": "一年40来万"
+        },
+        {
+          "category": "payment",
+          "detail": "提到老秦给AID公转私70万，存在极高税务与合规风险。",
+          "amount_or_terms": "70万"
+        },
+        {
+          "category": "salary",
+          "detail": "Bob的工资为6000-7000美金，每月还有1-2万的吃喝报销。",
+          "amount_or_terms": "6000-7000美金/月，报销1-2万/月"
+        },
+        {
+          "category": "salary",
+          "detail": "决定给财务人员乙链涨薪30%，要求三个月内保持工作速度。",
+          "amount_or_terms": "涨薪30%"
+        },
+        {
+          "category": "invoice",
+          "detail": "就餐后要求开发票用于抵税，提到公司有时发票不够。",
+          "amount_or_terms": "未提及"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "提到买礼物的钱可以走公司报销。",
+          "amount_or_terms": "未提及"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "与心姐谈判ID和UX岗位入职条件，对方要求远程办公且薪资较高。若谈不拢，计划让丝帆带头把控设计。"
+        },
+        {
+          "category": "hiring",
+          "detail": "计划让周新帮忙留意有华为或OPPO背景的资深研发人员，以解决社招难的问题。"
+        },
+        {
+          "category": "role_change",
+          "detail": "决定在6月20日之后对研发团队进行换血，并严格把控开发节奏。"
+        },
+        {
+          "category": "performance",
+          "detail": "对乙链的工作表现表示认可，承诺涨薪30%并设定了三个月的考察期。"
+        },
+        {
+          "category": "team",
+          "detail": "提到刚毕业来公司的新人需要加强管理。"
+        }
+      ]
+    },
+    "open_questions": [
+      "心姐最终是否接受现有的期权加现金方案并全职入职？",
+      "如何彻底隔离前合作方及Bob等人的财务违规风险？",
+      "新注册融资主体的具体架构和时间表如何安排？"
+    ],
+    "keywords": [
+      "北京出差",
+      "科技节市集",
+      "薪资谈判",
+      "财务合规",
+      "研发换血",
+      "竞品抄袭",
+      "融资主体",
+      "涨薪"
+    ]
+  }
+}

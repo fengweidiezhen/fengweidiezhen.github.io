@@ -1,0 +1,250 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-05-28",
+  "generated_at": "2026-06-01T12:03:42.032647+08:00",
+  "model": "qwen3.7-max-2026-05-17",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 3762,
+    "char_count": 120000,
+    "es_refreshed": true,
+    "truncated": true
+  },
+  "summary": {
+    "title": "OC AI产品演示、产研跟进、工厂包装确认及内部管理沟通",
+    "overview": "当日zhiyuan接待了上海黄浦区招商访客并展示OC AI产品，随后主持产研早会跟进APP发版与UI优化，并面试了硬件工程师。下午前往东莞工厂确认包装印刷工艺，发现印刷厂专业度不足导致颜色及排版出错。晚间与合伙人深度沟通，指出内部存在信息差及越权问题，决定调整相关人员采购权限并重新审视合伙人信任关系，同时确认了京东618首发价格体系。",
+    "events": [
+      {
+        "time": "08:43",
+        "what_happened": "接待上海黄浦区招商访客，展示OC AI穿戴设备的情绪记录、记忆球等功能，并探讨公司架构与上海设点事宜。",
+        "outcome": "完成产品演示，后续将评估上海黄浦区落地政策及办公室选址。"
+      },
+      {
+        "time": "09:32",
+        "what_happened": "召开产研早会，跟进APP发版、生产夹具测试、会议总结功能及时间跨度限制。",
+        "outcome": "确认发版细节，决定后端统一处理会议总结的时间跨度限制。"
+      },
+      {
+        "time": "10:04",
+        "what_happened": "与产品/设计团队讨论UI/UX，包括心情球大小逻辑、情绪颜色分类、分享页面及高光时刻。",
+        "outcome": "修正心情球面积与字数的非线性算法，优化分享页面UI，确定会议记录自动生成并支持编辑。"
+      },
+      {
+        "time": "11:24",
+        "what_happened": "面试硬件工程师，考察其在芯片选型、天线设计及PCB布线方面的经验。",
+        "outcome": "完成初步技术评估，后续由研发总监跟进反馈。"
+      },
+      {
+        "time": "14:27",
+        "what_happened": "向合作方演示APP情绪记录及分享功能，讨论线下门店销售策略及颜色备货。",
+        "outcome": "明确线下体验店销售话术，确认白色鹅卵石等配色的备货倾向。"
+      },
+      {
+        "time": "16:40",
+        "what_happened": "前往东莞工厂确认包装印刷颜色、触感膜工艺及3C认证信息排版。",
+        "outcome": "发现印刷厂专业度不足，底色偏冷且二维码颜色错误，要求重新调色打样。"
+      },
+      {
+        "time": "20:23",
+        "what_happened": "与合伙人进行内部深度沟通，讨论公司管理、信息差及信任危机。",
+        "outcome": "决定三人开会摊开问题，限制相关人员的采购权限，确保核心团队信任。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "公司架构与上海落地政策",
+        "summary": "探讨香港母公司与深圳子公司的外资/内资穿透问题，以及在上海黄浦区设立办公室的政策支持与成本。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "黄浦区招商访客"
+        ],
+        "decisions_or_todos": [
+          "与律师进一步确认公司架构的合规性",
+          "实地评估上海黄浦区办公室选址及政策"
+        ]
+      },
+      {
+        "topic": "APP功能与UI细节优化",
+        "summary": "讨论心情球的大小与字数关系、情绪颜色分类、分享页面UI、会议记录自动收藏及高光时刻展示。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "设计/产品团队"
+        ],
+        "decisions_or_todos": [
+          "修正心情球面积算法，避免视觉压迫感",
+          "会议记录生成后自动放入收藏列表并支持编辑",
+          "优化分享页面UI及高光时刻的时间段展示"
+        ]
+      },
+      {
+        "topic": "包装印刷与供应链问题",
+        "summary": "在工厂发现包装底色偏冷、二维码颜色错误、3C认证信息排版等问题，印刷厂缺乏专业调色能力。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "工厂人员",
+          "团队成员"
+        ],
+        "decisions_or_todos": [
+          "要求工厂重新调色并打样确认",
+          "后续考虑引入丹妮推荐的供应链",
+          "剥夺思帆的采购权限，避免信息差"
+        ]
+      },
+      {
+        "topic": "合伙人信任与内部管理",
+        "summary": "合伙人之间出现信息差和越权问题，对老星的管理方式和信任度产生严重质疑，影响团队氛围。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "合伙人(others)"
+        ],
+        "decisions_or_todos": [
+          "三人开会摊开讨论信任与定位问题",
+          "限制老星的采购及供应链引入权限",
+          "确保核心财务及采购信息透明"
+        ]
+      },
+      {
+        "topic": "京东首发定价与渠道策略",
+        "summary": "讨论京东618首发价格及线下渠道价格体系，避免破价影响品牌定位。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "运营/销售(others)"
+        ],
+        "decisions_or_todos": [
+          "京东定价1499减100，不采用虚高标价",
+          "线下渠道底价控制在1299，严格管控破价"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "接待政府访客展示产品，主持产研早会，面试硬件工程师，前往工厂盯包装印刷，处理财务对账，与合伙人深度沟通管理及信任问题。",
+      "others_activity": "访客了解公司架构与产品；产研团队汇报进度并讨论UI；工厂人员配合调色打样；合伙人表达对内部管理的担忧及不满。",
+      "mentioned": [
+        {
+          "name_or_alias": "老星",
+          "context": "合伙人，被指搞信息差、越权，引发信任危机。",
+          "relation_guess": "公司合伙人/高管"
+        },
+        {
+          "name_or_alias": "思帆",
+          "context": "员工，找的包装厂出问题，被建议剥夺采购权。",
+          "relation_guess": "采购/供应链员工"
+        },
+        {
+          "name_or_alias": "丹妮",
+          "context": "推荐了新供应链资源。",
+          "relation_guess": "外部合作伙伴/朋友"
+        },
+        {
+          "name_or_alias": "浩林",
+          "context": "负责会议总结接口及时间跨度限制。",
+          "relation_guess": "后端研发工程师"
+        },
+        {
+          "name_or_alias": "杆",
+          "context": "参与硬件工程师面试评估。",
+          "relation_guess": "研发总监"
+        },
+        {
+          "name_or_alias": "谢总",
+          "context": "zhiyuan本人，访客及员工对其称呼。",
+          "relation_guess": "主体用户"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "计划在上海黄浦区设立办公室",
+        "准备京东618首发及线下门店发售",
+        "计划引入新供应链（丹妮推荐）",
+        "准备七月份开放API接口"
+      ],
+      "projects_or_business": [
+        "OC AI 穿戴设备（国内版即将量产发售，包含心情球、记忆、会议总结等功能）",
+        "包装印刷及量产准备"
+      ],
+      "risks_or_blockers": [
+        "包装印刷厂专业度不足，颜色及排版出错，影响量产进度",
+        "合伙人之间存在信任危机和信息差，影响团队氛围和决策",
+        "供应链采购存在风险及信息不透明"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "payment",
+          "detail": "核对香港公司打款与个人转账记录，确认借款性质以避免税务问题",
+          "amount_or_terms": "未提及具体总额，提到单笔4万港币等"
+        },
+        {
+          "category": "salary",
+          "detail": "讨论员工试用期转正及调薪",
+          "amount_or_terms": "加薪30%，增加3600元"
+        },
+        {
+          "category": "cost",
+          "detail": "包装印刷开机费及打样费用",
+          "amount_or_terms": "开机费一千多，打样几百"
+        },
+        {
+          "category": "payment",
+          "detail": "京东首发定价及线下渠道底价",
+          "amount_or_terms": "线上1499减100，线下底价1299"
+        },
+        {
+          "category": "cost",
+          "detail": "包装厂报价及砍价",
+          "amount_or_terms": "报价2万8，砍到2万5，定金1万9"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "面试硬件工程师，考察芯片选型、天线及PCB设计经验"
+        },
+        {
+          "category": "team",
+          "detail": "新财务下周入职，讨论座位安排及工作交接"
+        },
+        {
+          "category": "performance",
+          "detail": "员工试用期转正评估及调薪"
+        },
+        {
+          "category": "team",
+          "detail": "合伙人之间出现信任危机，讨论老星的管理问题及权限限制"
+        }
+      ]
+    },
+    "open_questions": [
+      "香港母公司与深圳子公司的外资/内资穿透架构如何合法合规落地？",
+      "包装印刷颜色偏差问题能否在下次打样中彻底解决？",
+      "合伙人老星的信任问题及权限调整如何妥善沟通与落地？",
+      "新供应链的引入时机及交接流程如何安排？"
+    ],
+    "keywords": [
+      "OC AI",
+      "心情球",
+      "包装印刷",
+      "供应链",
+      "合伙人信任",
+      "京东首发",
+      "硬件面试",
+      "上海设点",
+      "财务对账"
+    ]
+  }
+}

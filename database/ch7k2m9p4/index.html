@@ -1,0 +1,336 @@
+<!DOCTYPE HTML>
+<html lang="zh-CN">
+<head>
+  <title>Chronicle</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="stylesheet" href="../../assets/css/main.css">
+  <style>
+    .chronicle-wrap {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .chronicle-toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      align-items: center;
+      margin-bottom: 1.5rem;
+    }
+    .chronicle-toolbar input[type="search"],
+    .chronicle-toolbar select,
+    .chronicle-toolbar input[type="date"] {
+      font: inherit;
+      padding: 0.55rem 0.75rem;
+      border: 1px solid rgba(0, 0, 0, 0.2);
+      border-radius: 4px;
+      background: #fff;
+      min-width: 140px;
+    }
+    .chronicle-toolbar select#user-filter {
+      min-width: 200px;
+      max-width: 280px;
+    }
+    .chronicle-toolbar input[type="search"] {
+      flex: 1 1 220px;
+      min-width: 200px;
+    }
+    .chronicle-stats {
+      font-size: 0.9rem;
+      opacity: 0.75;
+      margin-bottom: 1rem;
+    }
+    .chronicle-layout {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+    @media (min-width: 960px) {
+      .chronicle-layout.has-detail {
+        grid-template-columns: minmax(280px, 1fr) minmax(360px, 1.2fr);
+      }
+    }
+    .result-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      max-height: 75vh;
+      overflow: auto;
+    }
+    .result-item {
+      border: 1px solid rgba(0, 0, 0, 0.12);
+      border-radius: 6px;
+      padding: 0.85rem 1rem;
+      margin-bottom: 0.65rem;
+      cursor: pointer;
+      transition: border-color 0.15s, box-shadow 0.15s;
+    }
+    .result-item:hover,
+    .result-item.active {
+      border-color: rgba(0, 0, 0, 0.35);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    }
+    .result-meta {
+      font-size: 0.82rem;
+      opacity: 0.7;
+      margin-bottom: 0.35rem;
+    }
+    .result-meta .tag {
+      display: inline-block;
+      padding: 0.1rem 0.45rem;
+      margin-right: 0.35rem;
+      border-radius: 3px;
+      background: rgba(0, 0, 0, 0.06);
+      font-size: 0.78rem;
+    }
+    .result-snippet {
+      line-height: 1.55;
+      word-break: break-word;
+    }
+    .result-snippet mark,
+    .detail-panel mark,
+    .msg-text mark {
+      background: #ffe08a;
+      padding: 0 0.1rem;
+    }
+    .detail-panel {
+      border: 1px solid rgba(0, 0, 0, 0.15);
+      border-radius: 6px;
+      padding: 0;
+      background: rgba(255, 255, 255, 0.6);
+      max-height: 75vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .detail-nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
+      padding: 0.65rem 0.85rem;
+      border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+      background: rgba(0, 0, 0, 0.03);
+      flex-shrink: 0;
+    }
+    .detail-nav button {
+      font: inherit;
+      padding: 0.35rem 0.75rem;
+      border: 1px solid rgba(0, 0, 0, 0.2);
+      border-radius: 4px;
+      background: #fff;
+      cursor: pointer;
+    }
+    .detail-nav button:disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+    }
+    .detail-nav .nav-pos {
+      font-size: 0.88rem;
+      opacity: 0.75;
+      white-space: nowrap;
+    }
+    .detail-body {
+      padding: 1rem 1.1rem;
+      overflow: auto;
+      flex: 1;
+    }
+    .detail-header h4 {
+      margin: 0 0 0.35rem;
+    }
+    .detail-sub {
+      font-size: 0.85rem;
+      opacity: 0.7;
+      margin-bottom: 0.75rem;
+    }
+    .detail-tools {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      align-items: center;
+      margin-bottom: 1rem;
+    }
+    .detail-tools input[type="search"] {
+      flex: 1;
+      min-width: 160px;
+      font: inherit;
+      padding: 0.45rem 0.65rem;
+      border: 1px solid rgba(0, 0, 0, 0.2);
+      border-radius: 4px;
+    }
+    .detail-tools label {
+      font-size: 0.85rem;
+      white-space: nowrap;
+    }
+    .detail-section {
+      margin-top: 1rem;
+    }
+    .detail-section h5 {
+      margin: 0 0 0.5rem;
+      font-size: 0.95rem;
+      border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+      padding-bottom: 0.25rem;
+    }
+    .time-block {
+      margin-bottom: 0.75rem;
+      border: 1px solid rgba(0, 0, 0, 0.08);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .time-block-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0.5rem 0.75rem;
+      background: rgba(0, 0, 0, 0.04);
+      cursor: pointer;
+      font-size: 0.88rem;
+      user-select: none;
+    }
+    .time-block-head:hover {
+      background: rgba(0, 0, 0, 0.07);
+    }
+    .time-block-head .block-meta {
+      opacity: 0.65;
+      font-size: 0.8rem;
+    }
+    .time-block-body {
+      padding: 0.65rem 0.75rem;
+    }
+    .time-block.collapsed .time-block-body {
+      display: none;
+    }
+    .time-block.has-hit .time-block-head {
+      border-left: 3px solid #e6a800;
+    }
+    .msg-row {
+      display: flex;
+      margin-bottom: 0.55rem;
+    }
+    .msg-row.msg-user {
+      justify-content: flex-end;
+    }
+    .msg-row.msg-others,
+    .msg-row.msg-unknown {
+      justify-content: flex-start;
+    }
+    .msg-row.msg-background {
+      justify-content: center;
+    }
+    .msg-bubble {
+      max-width: 88%;
+      padding: 0.45rem 0.7rem;
+      border-radius: 10px;
+      line-height: 1.5;
+      word-break: break-word;
+    }
+    .msg-user .msg-bubble {
+      background: #e8f5ec;
+      border: 1px solid rgba(26, 107, 60, 0.15);
+    }
+    .msg-others .msg-bubble {
+      background: #eef3fa;
+      border: 1px solid rgba(44, 82, 130, 0.15);
+    }
+    .msg-unknown .msg-bubble {
+      background: #faf0f0;
+      border: 1px solid rgba(170, 102, 102, 0.15);
+    }
+    .msg-background .msg-bubble {
+      background: rgba(0, 0, 0, 0.04);
+      font-size: 0.82rem;
+      opacity: 0.75;
+      max-width: 95%;
+    }
+    .msg-row.msg-active .msg-bubble {
+      box-shadow: 0 0 0 2px #ffe08a;
+    }
+    .msg-meta {
+      font-size: 0.75rem;
+      opacity: 0.6;
+      margin-bottom: 0.15rem;
+    }
+    .msg-user .msg-meta { text-align: right; }
+    .speaker-user { color: #1a6b3c; }
+    .speaker-others { color: #2c5282; }
+    .speaker-background { color: #888; }
+    .speaker-unknown { color: #a66; }
+    .empty-state {
+      opacity: 0.65;
+      padding: 2rem 0;
+      text-align: center;
+    }
+    .load-error {
+      color: #a33;
+      padding: 1rem;
+      border: 1px solid rgba(170, 51, 51, 0.35);
+      border-radius: 4px;
+      margin-bottom: 1rem;
+    }
+    .hint-kbd {
+      font-size: 0.78rem;
+      opacity: 0.55;
+      margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body class="subpage">
+
+  <section id="one" class="wrapper style3">
+    <div class="inner">
+      <header class="align-center">
+        <p>Local archive</p>
+        <h2>Chronicle</h2>
+      </header>
+    </div>
+  </section>
+
+  <section class="wrapper style2">
+    <div class="inner">
+      <div class="box">
+        <div class="content chronicle-wrap">
+
+          <div id="load-error" class="load-error" hidden></div>
+
+          <div class="chronicle-toolbar">
+            <select id="user-filter">
+              <option value="">1. 请选择用户（4 位有数据）…</option>
+            </select>
+            <input type="date" id="date-from" title="起始日期">
+            <input type="date" id="date-to" title="结束日期">
+            <select id="type-filter">
+              <option value="">全部类型</option>
+              <option value="record">对话记录</option>
+              <option value="summary">日总结</option>
+            </select>
+          </div>
+
+          <div id="stats" class="chronicle-stats"></div>
+
+          <div id="layout" class="chronicle-layout">
+            <div>
+              <ul id="results" class="result-list"></ul>
+              <div id="empty" class="empty-state" hidden>无匹配结果</div>
+            </div>
+            <div id="detail-wrap" hidden>
+              <div id="detail" class="detail-panel">
+                <div class="detail-nav">
+                  <button type="button" id="nav-prev" title="上一天 (←)">← 上一天</button>
+                  <span id="nav-pos" class="nav-pos"></span>
+                  <button type="button" id="nav-next" title="下一天 (→)">下一天 →</button>
+                </div>
+                <div id="detail-body" class="detail-body"></div>
+              </div>
+              <p class="hint-kbd">在右侧详情区使用 Ctrl+F（Mac：⌘F）搜索页面文字 · ← → 切换日期</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script src="chronicle.js"></script>
+</body>
+</html>

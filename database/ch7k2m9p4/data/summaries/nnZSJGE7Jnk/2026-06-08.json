@@ -1,0 +1,174 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-06-08",
+  "generated_at": "2026-06-23T14:40:58.881623+08:00",
+  "model": "qwen3.6-35b-a3b",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1024,
+    "char_count": 20730,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "产品登录流程调整与项目尾款结算沟通纪要",
+    "overview": "今日沟通主要围绕产品登录功能的流程改版、考勤调休政策的澄清，以及项目尾款与合同条款的财务核对展开。重点讨论了将一键登录改为手机号加验证码模式，明确了加班与年假抵扣规则，并针对历史付款流水中的金额误差及未获奖项目的尾款支付条件进行了详细审查与确认。",
+    "events": [
+      {
+        "time": "09:10",
+        "what_happened": "晨间闲聊后转入产品功能讨论",
+        "outcome": "初步探讨登录流程优化方向"
+      },
+      {
+        "time": "12:17",
+        "what_happened": "讨论加班与调休相关流程",
+        "outcome": "澄清工作日请假扣年假，仅正式加班可计调休"
+      },
+      {
+        "time": "15:48",
+        "what_happened": "财务核对尾款支付记录",
+        "outcome": "发现109.2元计算误差并已通知对方财务修正"
+      },
+      {
+        "time": "16:36",
+        "what_happened": "确认登录方式改版方案",
+        "outcome": "决定取消一键登录，改为手机号输入加验证码模式，保留微信与邮箱登录"
+      },
+      {
+        "time": "21:11",
+        "what_happened": "核对合同尾款与奖励条款",
+        "outcome": "确认因未获红点奖或C类奖项，依据合同无需支付剩余尾款差额"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "产品登录流程改版",
+        "summary": "讨论当前一键登录的实际体验与国内用户习惯的差异，提出改为手机号输入配合验证码验证的方式，同时梳理微信与邮箱登录的兼容性问题。",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": [
+          "将登录入口名称由一键登录改为手机号加验证码流程",
+          "明确仅保留手机号、微信、邮箱三种登录渠道"
+        ]
+      },
+      {
+        "topic": "考勤与调休政策",
+        "summary": "针对近期执行的加单流程进行解读，明确其实际指向加班调休机制，并厘清请假与年假、加班时长的抵扣关系。",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": [
+          "严格执行工作日请假扣除年假的规定",
+          "仅认可正式加班时长用于调休抵扣"
+        ]
+      },
+      {
+        "topic": "项目尾款与合同结算",
+        "summary": "对照合同条款与历史银行流水，核查尾款支付情况。发现前期存在小额计算误差已修正，针对剩余差额，结合项目未获奖事实确认支付条件不触发。",
+        "participants_mentioned": [
+          "others",
+          "财务"
+        ],
+        "decisions_or_todos": [
+          "停止支付未触发的奖励性尾款",
+          "后续沟通严格以合同条款为准"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与财务数据核对，指出109.2元金额计算错误并跟进对方财务处理；协助查阅合同条款，确认尾款支付条件。",
+      "others_activity": "主导产品登录UI流程讨论；解释公司考勤与调休制度；核对项目付款流水、发票匹配情况及合同奖励条款；推进技术测试与行政物料准备。",
+      "mentioned": [
+        {
+          "name_or_alias": "金总",
+          "context": "会议中被提及为相关决策或汇报对象",
+          "relation_guess": "管理层"
+        },
+        {
+          "name_or_alias": "刘总",
+          "context": "会议中被提及为相关决策或汇报对象",
+          "relation_guess": "管理层"
+        },
+        {
+          "name_or_alias": "小林",
+          "context": "负责制作粉色包装袋等物料",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "米",
+          "context": "涉及财务对账与数字计算核对",
+          "relation_guess": "同事/合作方财务"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "推进产品登录模块改版上线",
+        "落实考勤与加班调休管理制度",
+        "完成项目尾款结算与合同归档"
+      ],
+      "projects_or_business": [
+        "某产品开发项目（含登录功能、数据测试、红点奖/C奖申报）"
+      ],
+      "risks_or_blockers": [
+        "尾款支付存在合同条款争议风险",
+        "历史付款流水存在小额计算误差需持续跟踪",
+        "部分技术测试数据与预期存在偏差"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "payment",
+          "detail": "核对历史付款流水，发现并纠正109.2元金额计算误差，已通知对方财务处理。",
+          "amount_or_terms": "109.2元"
+        },
+        {
+          "category": "invoice",
+          "detail": "尝试通过invoice匹配流水进行核销，发现打款与回报金额存在差异，需进一步对齐。",
+          "amount_or_terms": "两万二与八千差额"
+        },
+        {
+          "category": "cost",
+          "detail": "依据合同条款确认，因项目未获得红点奖或C类奖项，无需支付剩余约2至3万元的奖励性尾款差额。",
+          "amount_or_terms": "约2-3万元"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "policy",
+          "detail": "澄清加班与调休规则，明确工作日请假需扣除年假，仅正式加班时长可计入调休。"
+        }
+      ]
+    },
+    "open_questions": [
+      "登录流程改版的具体开发排期与测试节点",
+      "剩余尾款差额的具体最终结算金额确认",
+      "合同条款中关于奖项认定的官方书面标准"
+    ],
+    "keywords": [
+      "尾款",
+      "发票",
+      "流水",
+      "登录流程",
+      "调休政策",
+      "合同条款",
+      "红点奖",
+      "成本核对"
+    ]
+  }
+}

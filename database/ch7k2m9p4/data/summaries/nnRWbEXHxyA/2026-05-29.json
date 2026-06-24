@@ -1,0 +1,244 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-05-29",
+  "generated_at": "2026-06-01T12:11:22.705835+08:00",
+  "model": "qwen3.7-max-2026-05-17",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 3293,
+    "char_count": 105502,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "物启科技业务与政策交流及日常研发运营沟通",
+    "overview": "zhiyuan与北京经开区政府人员交流京东AI创造营活动及亦庄产业政策；处理公司银行账户限额及供应商付款对账问题；讨论可穿戴设备硬件设计、心率算法优化、声纹识别UI及包装说明书印刷细节；确认办公设备采购及日常报销事宜。",
+    "events": [
+      {
+        "time": "10:08",
+        "what_happened": "与北京经开区政府人员会议，介绍公司可穿戴智能体产品及端侧算力架构，了解亦庄产业政策及京东AI创造营活动安排。",
+        "outcome": "明确6月12日参加京东活动总决赛，了解亦庄算力、免租及人才政策。"
+      },
+      {
+        "time": "11:17",
+        "what_happened": "沟通银行账户限额问题，因备货需将日限额从5万调至200万。",
+        "outcome": "确认公转私限额及基本户/一般户规则，计划分笔或调额处理。"
+      },
+      {
+        "time": "14:16",
+        "what_happened": "核对供应商合同与付款金额，发现金额不匹配。",
+        "outcome": "需进一步核查银行流水与发票记录。"
+      },
+      {
+        "time": "15:14",
+        "what_happened": "讨论产品硬件配重与磁铁布局，评估对雷达和重量的影响。",
+        "outcome": "决定暂不增加磁铁，维持现有重量和结构。"
+      },
+      {
+        "time": "18:08",
+        "what_happened": "讨论声纹识别匹配度阈值及UI提示逻辑。",
+        "outcome": "确定增加匹配度分数展示及多次失败后的降级处理方案。"
+      },
+      {
+        "time": "19:07",
+        "what_happened": "确认说明书及包装底色、排版与印刷细节。",
+        "outcome": "确定使用纯白底色，统一排版并直接上机印刷。"
+      },
+      {
+        "time": "21:18",
+        "what_happened": "确认产品包装上的认证标志、电池容量及委托方信息。",
+        "outcome": "明确需标注3C、电池容量300mAh及深圳物启科技有限责任公司。"
+      },
+      {
+        "time": "21:31",
+        "what_happened": "讨论研发团队电脑采购需求。",
+        "outcome": "计划采购MacBook Pro/Air，预算控制在1.5万至2.1万之间。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "北京经开区（亦庄）产业政策与京东活动",
+        "summary": "政府人员介绍亦庄在算力券、模型券、大模型备案、人才落户及模数世界社区免租等方面的政策。zhiyuan介绍公司物启科技的可穿戴智能体产品，双方确认6月12日京东AI创造营总决赛事宜。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "蔡老师",
+          "min"
+        ],
+        "decisions_or_todos": [
+          "6月12日参加京东AI创造营总决赛",
+          "考虑在亦庄设立研发中心或销售点"
+        ]
+      },
+      {
+        "topic": "公司财务与银行账户限额",
+        "summary": "因国内上市备货及供应商付款需求，需提高银行账户转账限额。讨论公转私单日10万限制及基本户/一般户区别，同时核对一笔40多万的合同与发票金额差异。",
+        "participants_mentioned": [
+          "zhiyuan"
+        ],
+        "decisions_or_todos": [
+          "联系银行调整转账额度或分笔处理",
+          "核查银行流水与发票以解决金额对不上的问题"
+        ]
+      },
+      {
+        "topic": "硬件设计与算法优化",
+        "summary": "讨论产品下壳磁铁增加对重量及雷达的影响；分析心率算法在静息与运动状态下的数据表现，对比苹果手表数据；优化声纹识别匹配度及UI反馈。",
+        "participants_mentioned": [
+          "zhiyuan"
+        ],
+        "decisions_or_todos": [
+          "取消增加磁铁的计划",
+          "优化心率算法权重，参考苹果手表数据",
+          "声纹识别增加匹配度分数展示及降级逻辑"
+        ]
+      },
+      {
+        "topic": "包装印刷与合规标识",
+        "summary": "确认说明书和包装底色为纯白，讨论3C等认证标志及电池容量的标注，增加儿童安全警示语。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "赵总"
+        ],
+        "decisions_or_todos": [
+          "统一使用纯白底色直接上机印刷",
+          "包装增加3岁以下儿童安全警示语",
+          "确认委托方为深圳物启科技有限责任公司"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "介绍公司产品与架构，沟通银企限额，指导硬件与算法优化，确认包装印刷与采购事宜。",
+      "others_activity": "政府人员介绍亦庄政策；同事协助核对财务账目、测试生产环境、讨论硬件结构与UI设计。",
+      "mentioned": [
+        {
+          "name_or_alias": "蔡老师",
+          "context": "北京经开区政府人员，介绍亦庄政策",
+          "relation_guess": "政府对接人"
+        },
+        {
+          "name_or_alias": "min",
+          "context": "会议开场时提到的人物",
+          "relation_guess": "参会人员"
+        },
+        {
+          "name_or_alias": "赵总",
+          "context": "讨论包装印刷和打样时提到",
+          "relation_guess": "印刷供应商或内部负责人"
+        },
+        {
+          "name_or_alias": "刚子",
+          "context": "讨论生产环境测试和bug时提到",
+          "relation_guess": "研发/测试同事"
+        },
+        {
+          "name_or_alias": "小林",
+          "context": "讨论底色加灰时提到",
+          "relation_guess": "设计/产品同事"
+        },
+        {
+          "name_or_alias": "轩姐",
+          "context": "介绍华为人员对接时提到",
+          "relation_guess": "合作伙伴或中间人"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "6月12日参加京东AI创造营总决赛",
+        "产品即将在国内上市，需进行备货",
+        "考虑在北京亦庄设立研发中心或销售点",
+        "计划采购MacBook等办公设备"
+      ],
+      "projects_or_business": [
+        "可穿戴智能体（物启科技）",
+        "情绪与记忆记录设备",
+        "京东AI创造营活动"
+      ],
+      "risks_or_blockers": [
+        "银行账户日限额5万影响备货付款",
+        "合同与发票金额存在差异需核查",
+        "心率算法在复杂场景下的数据准确性需优化"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "payment",
+          "detail": "公司账户日限额5万，需调至200万用于备货和供应商付款，讨论公转私限额及基本户/一般户规则。",
+          "amount_or_terms": "200万, 5万, 10万"
+        },
+        {
+          "category": "invoice",
+          "detail": "核对供应商合同与发票，发现金额对不上。",
+          "amount_or_terms": "36万, 40多万"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "确认加班晚餐报销规则，9点后不超过60元。",
+          "amount_or_terms": "60元"
+        },
+        {
+          "category": "budget",
+          "detail": "讨论研发团队电脑采购预算。",
+          "amount_or_terms": "1.5万-2.1万"
+        },
+        {
+          "category": "cost",
+          "detail": "讨论印刷机开机费及停车费。",
+          "amount_or_terms": "350元, 400多元/月"
+        },
+        {
+          "category": "other",
+          "detail": "提及公司估值及天使轮融资。",
+          "amount_or_terms": "估值2000万美金, 天使轮1200万港币"
+        },
+        {
+          "category": "other",
+          "detail": "亦庄政策提到的算力券、模型券及奖金。",
+          "amount_or_terms": "算力券最高2000万, 奖金50万-200万"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "policy",
+          "detail": "讨论北京经开区（亦庄）的人才引进政策及户口指标分配。"
+        },
+        {
+          "category": "team",
+          "detail": "讨论为研发团队采购新电脑（MacBook）。"
+        }
+      ]
+    },
+    "open_questions": [
+      "银行账户额度调整的具体审批流程及到账时间。",
+      "供应商合同与发票金额差异的具体原因及平账方案。",
+      "心率算法在动态及非标准佩戴状态下的准确性优化方案。"
+    ],
+    "keywords": [
+      "物启科技",
+      "京东AI创造营",
+      "北京经开区",
+      "亦庄",
+      "可穿戴智能体",
+      "端侧算力",
+      "银行限额",
+      "心率算法",
+      "声纹识别",
+      "包装印刷",
+      "3C认证"
+    ]
+  }
+}

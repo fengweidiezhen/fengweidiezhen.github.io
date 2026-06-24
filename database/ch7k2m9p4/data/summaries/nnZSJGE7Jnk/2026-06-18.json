@@ -1,0 +1,202 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-06-18",
+  "generated_at": "2026-06-23T15:11:57.537753+08:00",
+  "model": "qwen3.6-35b-a3b",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1653,
+    "char_count": 50489,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026年6月18日日常对话纪要",
+    "overview": "团队集中讨论6月20日线下活动筹备、物料采购与物流跟进、现场排班及打卡规则。同步推进软件V3.0版本迭代、海外服务器数据迁移及市场测试账号分配。穿插进行团队管理交流、HR入职流程探讨及备用金/报销事宜沟通。",
+    "events": [
+      {
+        "time": "09:24",
+        "what_happened": "讨论活动排期、软件版本规划及服务器数据迁移进度",
+        "outcome": "确定优先上线英文版，中文版备案中，数据迁移需时"
+      },
+      {
+        "time": "10:00",
+        "what_happened": "采购鲜花、灯具、桌椅等现场物料，确认物流方式与支付方式",
+        "outcome": "采用顺丰/闪送到付或使用公司备用金支付，跟踪物流时效"
+      },
+      {
+        "time": "13:44",
+        "what_happened": "核对20号活动排班表，确认交接班时间与打卡规则",
+        "outcome": "明确下午2点至晚9点分班值守，需按实际地点打卡并申请调休"
+      },
+      {
+        "time": "17:34",
+        "what_happened": "交流团队管理心得、HR入职流程及同事相处问题",
+        "outcome": "形成优化内部沟通氛围、关注新员工融入的共识"
+      },
+      {
+        "time": "19:49",
+        "what_happened": "下班后闲聊，确认次日工作安排与个人生活规划",
+        "outcome": "明确次日取件与布置任务，保持团队轻松氛围"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "20号活动筹备与排班管理",
+        "summary": "详细核对活动当日时间表，确认各时段负责人、交接流程及考勤打卡要求。",
+        "participants_mentioned": [
+          "财务",
+          "小林",
+          "曼曼",
+          "谢总"
+        ],
+        "decisions_or_todos": [
+          "下午2点开始至晚9点结束，分批次交接",
+          "按实际工作地点更新打卡定位",
+          "加班统一按调休处理，需提前提交申请"
+        ]
+      },
+      {
+        "topic": "软件版本迭代与市场测试",
+        "summary": "讨论V3.0版本发布策略、中英文切换逻辑、历史数据迁移进度及测试账号分配。",
+        "participants_mentioned": [
+          "财务",
+          "技术/产品相关人员"
+        ],
+        "decisions_or_todos": [
+          "先上线英文版，中文版后续适配",
+          "历史数据从国外服务器迁移，暂不对外通知",
+          "向市场部提供测试账号用于验证功能"
+        ]
+      },
+      {
+        "topic": "团队建设与人员沟通",
+        "summary": "分享管理难处，探讨HR onboarding流程、员工情绪管理及跨层级沟通技巧。",
+        "participants_mentioned": [
+          "财务",
+          "其他同事"
+        ],
+        "decisions_or_todos": [
+          "加强新员工入职引导与心理支持",
+          "优化内部沟通机制，避免负面情绪传递"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与排班核对与打卡规则确认，讨论备用金使用与报销流程，听取产品演示反馈，参与团队管理交流。",
+      "others_activity": "负责物料采购与物流跟进，推进软件版本迭代与数据迁移，安排活动排班，分享团队管理经验。",
+      "mentioned": [
+        {
+          "name_or_alias": "谢总",
+          "context": "公司领导，负责统筹活动与研发方向",
+          "relation_guess": "上级/决策者"
+        },
+        {
+          "name_or_alias": "小林",
+          "context": "负责现场物料对接、物流查询及部分执行工作",
+          "relation_guess": "平级同事/执行人员"
+        },
+        {
+          "name_or_alias": "曼曼",
+          "context": "参与排班协调与日常事务沟通",
+          "relation_guess": "平级同事/协调人员"
+        },
+        {
+          "name_or_alias": "伊米",
+          "context": "提及情绪状态与工作状态对比",
+          "relation_guess": "平级同事"
+        },
+        {
+          "name_or_alias": "陈刚",
+          "context": "原计划连休九天，已提前返岗",
+          "relation_guess": "平级同事"
+        },
+        {
+          "name_or_alias": "HR",
+          "context": "提及入职流程(onboarding)与人员管理",
+          "relation_guess": "职能部门"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "6月20日下午2点至晚9点线下摆摊/活动",
+        "6月19日晚进行现场布置",
+        "端午节假期工作安排"
+      ],
+      "projects_or_business": [
+        "AI情绪追踪穿戴设备（售价1499/1399元）",
+        "配套APP开发（多模态AI算法、情绪记录、社交提示功能）",
+        "第二代产品研发规划"
+      ],
+      "risks_or_blockers": [
+        "鲜花/灯光等物料物流时效紧张，存在延误风险",
+        "软件历史数据迁移耗时较长，可能影响测试进度",
+        "部分界面卡死/蓝牙连接读取Bug待修复",
+        "报销流程较长，影响员工垫付积极性"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "reimbursement",
+          "detail": "报销流程较长，近期有优化趋势，建议部分费用走备用金或到付以减少垫资压力",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "budget",
+          "detail": "营销预算有限，公司整体管控较严，但坚持高审美采购（北欧风）",
+          "amount_or_terms": "未提及"
+        },
+        {
+          "category": "payment",
+          "detail": "快递及物料采用到付或使用公司备用金支付，备用金余额约六七百元",
+          "amount_or_terms": "备用金余额约600-700元"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "policy",
+          "detail": "20号活动加班实行调休制，需提前提交申请；打卡需根据实际工作地点更新定位"
+        },
+        {
+          "category": "team",
+          "detail": "关注新员工入职引导(onboarding)与团队情绪管理，优化跨部门/上下级沟通氛围"
+        },
+        {
+          "category": "role_change",
+          "detail": "陈刚原计划连休九天，已提前结束休假返岗"
+        }
+      ]
+    },
+    "open_questions": [
+      "鲜花/灯光物料能否准时送达活动现场？",
+      "软件V3.0中文版上线时间及数据迁移完成节点？",
+      "报销流程优化后的具体执行标准与审批周期？"
+    ],
+    "keywords": [
+      "活动筹备",
+      "软件迭代",
+      "数据迁移",
+      "排班调休",
+      "备用金",
+      "报销",
+      "AI情绪设备",
+      "团队管理",
+      "物流跟进"
+    ]
+  }
+}

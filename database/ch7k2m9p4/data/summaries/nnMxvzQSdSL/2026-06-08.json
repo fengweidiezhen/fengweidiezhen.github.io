@@ -1,0 +1,290 @@
+{
+  "user_id": "nnMxvzQSdSL",
+  "user_name": "amanda2",
+  "date": "2026-06-08",
+  "generated_at": "2026-06-09T18:08:11.436259+08:00",
+  "model": "qwen3.7-max-preview",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda2",
+    "aliases": [
+      "amanda2",
+      "amanda2"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 2040,
+    "char_count": 59421,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "日常业务沟通与产品上线前准备",
+    "overview": "讨论了美国市场售后与转账、产品用户反馈及改进、展会与活动物料准备、App登录逻辑与二级页面设计、财务报税与合同尾款，以及前往北京的行程安排。",
+    "events": [
+      {
+        "time": "11:09",
+        "what_happened": "讨论美国市场库存对账与退款，建议通过美国银行账号直接转账以简化手续。",
+        "outcome": "计划协调美国银行账号转账，并拉群与美国合伙人对接后续发力。"
+      },
+      {
+        "time": "14:32",
+        "what_happened": "召开产品反馈会议，分析声纹识别、耗电、项链掉色断裂等问题，并讨论用户促活与内测产品回收策略。",
+        "outcome": "决定引导用户多录声纹，排查佩戴检测雷达阈值，对不活跃内测用户礼貌回收产品，并采购小礼物用于促活。"
+      },
+      {
+        "time": "14:54",
+        "what_happened": "讨论与丹麦设计师的ID设计合作，协商设计费用折扣及期权事宜。",
+        "outcome": "提出将设计费从4000美金打折至6折，并强调必须先签保密协议。"
+      },
+      {
+        "time": "15:45",
+        "what_happened": "处理财务报税与补贴事宜，核对流水、研发费用及材料费。",
+        "outcome": "确认需补交部分差额，并按要求填写相关类目数据。"
+      },
+      {
+        "time": "16:57",
+        "what_happened": "讨论展会搭建报价与活动物料（海报、FAQ、邀请函等）的设计与制作进度。",
+        "outcome": "计划对搭建报价砍价60%，并确认周三去现场研究软装和气球布置。"
+      },
+      {
+        "time": "18:03",
+        "what_happened": "讨论App的登录与注册逻辑，包括手机号、邮箱及一键登录的实现方式。",
+        "outcome": "倾向于手机号/邮箱一键登录，后续再在设置页增加密码管理。"
+      },
+      {
+        "time": "19:15",
+        "what_happened": "预订前往北京的机票，并讨论竞争对手抄袭及行业现状。",
+        "outcome": "成功预订11号早上国航机票，实付2026元。"
+      },
+      {
+        "time": "21:13",
+        "what_happened": "讨论红点奖合同尾款问题，核对发票与报税金额。",
+        "outcome": "确认因未获红点奖，按合同条款无需支付尾款。"
+      },
+      {
+        "time": "22:08",
+        "what_happened": "深入讨论App二级页面的静息心率指标展示与情绪算法逻辑。",
+        "outcome": "探讨了贝叶斯重分布算法，强调需提供有信息质量的反馈，避免无意义展示。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "美国市场运营与售后",
+        "summary": "讨论美国库存对账、退货及退款处理。建议通过美国银行账户直接转账以避开大陆转账的长周期和繁琐手续。强调维护售后服务以保护品牌声量，并计划结合Prime Day和线下渠道进行促销。",
+        "participants_mentioned": [
+          "amanda2",
+          "美国合伙人"
+        ],
+        "decisions_or_todos": [
+          "协调美国银行账号直接转账",
+          "拉群与美国合伙人对接",
+          "准备Prime Day促销及网红合作"
+        ]
+      },
+      {
+        "topic": "产品用户反馈与迭代",
+        "summary": "分析内测用户反馈，包括声纹识别不准、耗电快、项链断裂掉色、佩戴检测误报等。讨论通过让用户多录声纹提高准确性，以及针对不使用产品的内测用户进行回收。",
+        "participants_mentioned": [
+          "amanda2",
+          "肖红",
+          "周星"
+        ],
+        "decisions_or_todos": [
+          "引导用户多录声纹",
+          "排查佩戴检测雷达阈值",
+          "对不活跃内测用户礼貌回收产品",
+          "采购小礼物用于用户促活"
+        ]
+      },
+      {
+        "topic": "展会与活动物料准备",
+        "summary": "讨论展会搭建报价，计划砍价。确认活动报名海报、FAQ、产品介绍视频、邀请函等物料的设计与制作进度。",
+        "participants_mentioned": [
+          "amanda2",
+          "四番"
+        ],
+        "decisions_or_todos": [
+          "周三去现场研究软装和气球布置",
+          "完善活动流程和权益文案",
+          "制作A4和70x100尺寸的物料"
+        ]
+      },
+      {
+        "topic": "App登录逻辑与二级页面设计",
+        "summary": "讨论App登录注册流程，倾向于手机号/邮箱一键登录。针对二级页面，讨论静息心率指标的展示方式及情绪算法，强调提供有信息质量的反馈。",
+        "participants_mentioned": [
+          "amanda2",
+          "四番"
+        ],
+        "decisions_or_todos": [
+          "确定一键登录逻辑",
+          "优化二级页面心率及情绪指标展示",
+          "调整算法分布逻辑"
+        ]
+      },
+      {
+        "topic": "财务报税与合同尾款",
+        "summary": "核对报税及补贴相关的流水和金额，涉及30万至80万的申报，需补交部分差额。讨论红点奖设计合同，确认因未获奖按合同条款无需支付尾款。",
+        "participants_mentioned": [
+          "amanda2"
+        ],
+        "decisions_or_todos": [
+          "核对流水并补交差额",
+          "根据合同条款处理红点奖尾款"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主导美国市场运营策略、产品反馈分析、展会物料筹备、App产品设计讨论及财务核对，并负责预订北京出差行程。",
+      "others_activity": "参与产品反馈收集、物料设计制作、App开发逻辑讨论，并协助处理财务数据及日常行政事务。",
+      "mentioned": [
+        {
+          "name_or_alias": "谢总",
+          "context": "提到谢总去讲技术，以及谢总让开支出表格。",
+          "relation_guess": "公司高管或技术负责人"
+        },
+        {
+          "name_or_alias": "四番",
+          "context": "讨论设计、排版、App开发及财务数据。",
+          "relation_guess": "设计或开发团队成员"
+        },
+        {
+          "name_or_alias": "肖红",
+          "context": "处理用户账号测试环境问题。",
+          "relation_guess": "团队成员"
+        },
+        {
+          "name_or_alias": "周星",
+          "context": "沟通用户促活小奖品采购。",
+          "relation_guess": "团队成员"
+        },
+        {
+          "name_or_alias": "然姐",
+          "context": "开会过comment和timeline。",
+          "relation_guess": "团队成员或合作伙伴"
+        },
+        {
+          "name_or_alias": "孙海阳",
+          "context": "讨论情绪算法，被评价为行业权威。",
+          "relation_guess": "算法相关人员或同行"
+        },
+        {
+          "name_or_alias": "连然",
+          "context": "提到孙海阳在情绪算法领域的自信。",
+          "relation_guess": "朋友或同行"
+        },
+        {
+          "name_or_alias": "郭运奇",
+          "context": "讨论其创业及商务资源。",
+          "relation_guess": "同行或朋友"
+        },
+        {
+          "name_or_alias": "老秦",
+          "context": "介绍投资人。",
+          "relation_guess": "投资人或合作伙伴"
+        },
+        {
+          "name_or_alias": "丹尼斯",
+          "context": "确认采访时间。",
+          "relation_guess": "媒体或合作伙伴"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "六月十二号决赛输出内容",
+        "六月十三号下午采访",
+        "十一号飞往北京出差",
+        "展会搭建与活动报名",
+        "首销计划与预约海报"
+      ],
+      "projects_or_business": [
+        "美国市场运营与售后",
+        "App内测与迭代（声纹、心率、情绪算法）",
+        "展会与零售陈列方案",
+        "品牌ID设计与品牌书更新",
+        "红点奖申报"
+      ],
+      "risks_or_blockers": [
+        "竞争对手抄袭文案与产品",
+        "App上线前稳定性不足（还有十天上线）",
+        "金属项链掉色断裂引发客诉",
+        "国内App备案流程繁琐"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "tax",
+          "detail": "讨论报税及补贴申报，核对流水、研发费用及材料费，涉及30万至80万的申报金额，需补交部分差额。",
+          "amount_or_terms": "30万至80万，补交差额"
+        },
+        {
+          "category": "payment",
+          "detail": "建议通过美国银行账号直接转账处理美国市场退款，以避开大陆转账的长周期和繁琐手续。",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "cost",
+          "detail": "讨论展会搭建报价，计划砍价60%。",
+          "amount_or_terms": "灯箱背墙4000，柜台6500"
+        },
+        {
+          "category": "payment",
+          "detail": "讨论红点奖设计合同尾款，确认因未获奖按合同条款无需支付。",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "cost",
+          "detail": "与丹麦设计师协商ID设计费用，希望打折。",
+          "amount_or_terms": "4000美金，期望6折"
+        },
+        {
+          "category": "other",
+          "detail": "预订前往北京的国航机票，使用优惠券后价格。",
+          "amount_or_terms": "2026元"
+        },
+        {
+          "category": "other",
+          "detail": "讨论停车费月卡。",
+          "amount_or_terms": "400元/月"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "讨论招聘或接触实验室的优秀人才。"
+        },
+        {
+          "category": "team",
+          "detail": "讨论同事郭运奇的创业状态及商务能力。"
+        },
+        {
+          "category": "role_change",
+          "detail": "提到丹麦设计师未来有机会以全职身份加入公司。"
+        }
+      ]
+    },
+    "open_questions": [
+      "App静息心率及情绪指标如何展示才能既提供信息质量又避免误判？",
+      "国内App备案流程能否在上线前顺利完成？"
+    ],
+    "keywords": [
+      "美国市场",
+      "声纹识别",
+      "展会搭建",
+      "登录逻辑",
+      "静息心率",
+      "报税",
+      "红点奖",
+      "北京出差",
+      "抄袭"
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-06-19",
+  "generated_at": "2026-06-22T10:58:22.127439+08:00",
+  "model": "qwen3.7-max-preview",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 2316,
+    "char_count": 64866,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "就医、展会布置与明日发布会筹备纪要",
+    "overview": "今日上午 user 陪同 others 前往南山医院就诊。下午团队前往万象城（一动一百）进行展位布置，向客户介绍产品的情绪监测与会议纪要功能。期间讨论了产品包装改进、刷单策略及 KOL 投流效果。晚上重点筹备次日的发布会活动，包括人员分工、物料准备及演讲稿梳理，并探讨了未来硬件主板缩小与麦克风阵列重新设计的研发方向。",
+    "events": [
+      {
+        "time": "09:00",
+        "what_happened": "user 陪同 others 前往南山医院就诊，others 出现头痛、头晕及失眠症状。",
+        "outcome": "医生进行了血压测量和抽血化验，建议 others 注意休息和补觉。"
+      },
+      {
+        "time": "13:20",
+        "what_happened": "讨论产品在京东运输过程中的包装问题。",
+        "outcome": "确认需增加飞机盒以防磕碰，并着手解决螺丝纸在温湿度变化下翘边的问题。"
+      },
+      {
+        "time": "15:00",
+        "what_happened": "团队前往万象城布置展位，搬运鲜花、手机支架等物料，并向现场客户演示产品。",
+        "outcome": "成功搭建展位，向客户展示了情绪监测、心率监测及本地会议纪要功能，并添加了潜在日本市场客户的微信。"
+      },
+      {
+        "time": "17:50",
+        "what_happened": "讨论产品初期销量提升策略及 KOL 投流情况。",
+        "outcome": "决定通过亲友进行适量刷单以积累基础评价，并计划在老同学群推出八折优惠活动。"
+      },
+      {
+        "time": "21:00",
+        "what_happened": "筹备次日的发布会及线下活动，讨论演讲流程与人员分工。",
+        "outcome": "明确了丹妮斯、肖红等人的现场支持工作，安排了茶歇与鲜花采购，并梳理了演讲大纲。"
+      },
+      {
+        "time": "22:45",
+        "what_happened": "探讨产品硬件的后续优化方向。",
+        "outcome": "计划下周评估缩小主板体积的方案，并重新设计麦克风阵列构型。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "产品包装与物流体验",
+        "summary": "发现京东运输易导致产品磕碰，且螺丝纸存在翘边风险。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "后续包装增加飞机盒",
+          "考虑更换螺丝纸材质或增加背胶"
+        ]
+      },
+      {
+        "topic": "产品功能演示与客户反馈",
+        "summary": "向客户介绍产品通过毫米波雷达监测心率与情绪，以及利用本地模型处理会议纪要以保护隐私的功能。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "继续优化本地模型体验",
+          "跟进日本市场潜在客户的渠道合作"
+        ]
+      },
+      {
+        "topic": "销量提升与营销策略",
+        "summary": "针对初期自然流量不足，讨论通过亲友刷单提高基础销量，并分析 KOL 投流效果。",
+        "participants_mentioned": [
+          "user",
+          "others",
+          "张云佩",
+          "光番"
+        ],
+        "decisions_or_todos": [
+          "安排亲友刷单，目标次日销量破百",
+          "在老同学群发布八折购买并报销差价的活动"
+        ]
+      },
+      {
+        "topic": "明日发布会活动安排",
+        "summary": "讨论活动流程、演讲稿准备及现场人员分工，确保活动顺利进行。",
+        "participants_mentioned": [
+          "user",
+          "others",
+          "丹妮斯",
+          "肖红",
+          "周姐",
+          "小叶总"
+        ],
+        "decisions_or_todos": [
+          "完善演讲稿并增加互动环节",
+          "安排专人采购茶歇与鲜花",
+          "提前接待重要嘉宾小叶总"
+        ]
+      },
+      {
+        "topic": "硬件研发优化",
+        "summary": "提出对现有硬件进行迭代升级的想法。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "下周评估主板体积缩小方案",
+          "重新设计麦克风阵列构型"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "陪同他人就医，参与展位布置与物料搬运，向客户介绍产品功能，讨论硬件优化方案及营销策略。",
+      "others_activity": "因身体不适就医，主导展位搭建与产品演示，安排刷单及发布会筹备事宜，对接供应商与嘉宾。",
+      "mentioned": [
+        {
+          "name_or_alias": "张云佩",
+          "context": "被安排寻找 5 个人协助刷单。",
+          "relation_guess": "团队成员或合作伙伴"
+        },
+        {
+          "name_or_alias": "丹妮斯",
+          "context": "确认明天上午提前过来帮忙。",
+          "relation_guess": "团队成员"
+        },
+        {
+          "name_or_alias": "肖红",
+          "context": "负责在活动现场提供技术支持。",
+          "relation_guess": "技术人员"
+        },
+        {
+          "name_or_alias": "小叶总",
+          "context": "身价最高的嘉宾，被建议提前到达活动现场。",
+          "relation_guess": "重要客户或投资人"
+        },
+        {
+          "name_or_alias": "谢总",
+          "context": "台工厂负责人，一直想见团队。",
+          "relation_guess": "供应商"
+        },
+        {
+          "name_or_alias": "周姐",
+          "context": "负责审核稿件及处理公关事务。",
+          "relation_guess": "公关或行政负责人"
+        },
+        {
+          "name_or_alias": "俊公",
+          "context": "负责在生产环境部署链接地址。",
+          "relation_guess": "研发或运维人员"
+        },
+        {
+          "name_or_alias": "玉玉",
+          "context": "其负责的视频即将发布。",
+          "relation_guess": "市场或内容运营"
+        },
+        {
+          "name_or_alias": "眼炎",
+          "context": "与 others 讨论过运营手段。",
+          "relation_guess": "运营人员"
+        },
+        {
+          "name_or_alias": "韩祥",
+          "context": "被提及为代工厂，认为没必要邀请其参加发布会。",
+          "relation_guess": "代工厂负责人"
+        },
+        {
+          "name_or_alias": "光番",
+          "context": "讨论其 KOL 投流策略及销售成绩。",
+          "relation_guess": "营销合作伙伴或竞品"
+        },
+        {
+          "name_or_alias": "张宇汇",
+          "context": "参与京东购物评论互动。",
+          "relation_guess": "团队成员或朋友"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "举办线下发布会及展位活动，目标单日销量破百",
+        "安排亲友进行适量刷单以积累基础销量和评价",
+        "在老同学群推出八折购买并报销差价活动",
+        "采购活动所需的茶歇、鲜花及现场物料",
+        "下周评估软硬件算法优化方案"
+      ],
+      "projects_or_business": [
+        "智能穿戴设备（具备情绪监测、心率监测、本地会议纪要功能）",
+        "产品已在京东上线，并计划拓展线下渠道及日本市场"
+      ],
+      "risks_or_blockers": [
+        "产品包装在京东运输中易磕碰，螺丝纸易翘边",
+        "早期品牌知名度低，自然流量不足，需依赖刷单和 KOL 投流",
+        "团队人手紧张，布展和运营压力较大"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "cost",
+          "detail": "讨论刷单成本，售价 1499 元，返给用户后单均成本最高约 500 元。",
+          "amount_or_terms": "500元/单"
+        },
+        {
+          "category": "budget",
+          "detail": "讨论活动购买鲜花的预算。",
+          "amount_or_terms": "3000元"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "提到有报销未到账，以及老同学购买后凭截图报销两折差价。",
+          "amount_or_terms": "两折差价"
+        },
+        {
+          "category": "payment",
+          "detail": "安排给员工打款 10 万元用于活动备用金或流程周转。",
+          "amount_or_terms": "10万元"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "team",
+          "detail": "讨论团队包容性强，安排丹妮斯、肖红等人参与现场支持。"
+        },
+        {
+          "category": "hiring",
+          "detail": "提到前期需要配备专业的导购人员，以及有代理商失业转做直播。"
+        }
+      ]
+    },
+    "open_questions": [
+      "产品包装磕碰和螺丝纸翘边问题具体如何低成本解决？",
+      "麦克风阵列重新设计的具体构型方案是什么？",
+      "主板体积在实现同等功能下还能缩小多少？"
+    ],
+    "keywords": [
+      "南山医院",
+      "包装磕碰",
+      "刷单",
+      "万象城",
+      "情绪监测",
+      "会议纪要",
+      "发布会",
+      "麦克风阵列",
+      "主板体积",
+      "京东物流"
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "user_id": "nnMxvzQSdSL",
+  "user_name": "amanda2",
+  "date": "2026-05-28",
+  "generated_at": "2026-06-01T11:14:30.855107+08:00",
+  "model": "qwen3.7-max-2026-05-17",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda2",
+    "aliases": [
+      "amanda2",
+      "amanda2"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 4276,
+    "char_count": 120000,
+    "es_refreshed": true,
+    "truncated": true
+  },
+  "summary": {
+    "title": "2026-05-28 日常工作与业务推进纪要",
+    "overview": "amanda2今日主要推进了产品UI及功能优化讨论、与京东AI创造营洽谈6-7月线下活动联动、在工厂确认产品包装印刷细节，并处理了历史遗留的财务发票及采购权限问题。此外，决定为优秀员工提前转正并加薪。",
+    "events": [
+      {
+        "time": "09:22",
+        "what_happened": "与团队讨论产品UI与功能优化，并与员工沟通转正事宜。",
+        "outcome": "确定了心情球、分享页面等UI调整方向；决定给入职三个月的员工提前转正并加薪30%。"
+      },
+      {
+        "time": "11:01",
+        "what_happened": "与京东AI创造营团队进行线上会议。",
+        "outcome": "初步达成6月深圳万象城快闪、OC100首发礼及612、618等节点的联动合作意向。"
+      },
+      {
+        "time": "16:40",
+        "what_happened": "赴工厂确认产品包装盒及说明书的印刷细节。",
+        "outcome": "发现实物与设计稿存在色差及排版错误，要求重新调整设计文件并确认最终颜色及材质。"
+      },
+      {
+        "time": "19:34",
+        "what_happened": "与财务同事对账，处理历史遗留发票及采购问题。",
+        "outcome": "梳理了17万和39万的发票冲红及额度问题，决定收回涉事员工的采购权限。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "产品UI与功能迭代",
+        "summary": "讨论了心情球大小及压迫感、分享页面logo及预览逻辑、时间线过渡、会议纪要聚合页设计等。",
+        "participants_mentioned": [
+          "amanda2",
+          "谢总",
+          "丝番",
+          "然姐"
+        ],
+        "decisions_or_todos": [
+          "优化心情球大小逻辑，避免视觉压迫感。",
+          "分享页面增加预览及下载/分享选项。",
+          "会议纪要采用列表形式并支持编辑/删除。"
+        ]
+      },
+      {
+        "topic": "6-7月线下活动与品牌联动",
+        "summary": "与京东AI创造营沟通6月深圳万象城快闪、OC100首发礼、612及618活动联动，以及7月黑客松赞助和情绪算法开源。",
+        "participants_mentioned": [
+          "amanda2",
+          "C",
+          "炎炎"
+        ],
+        "decisions_or_todos": [
+          "推进万象城及OC100场地合作。",
+          "策划612专场权益（如抽钻石）。",
+          "后续在群内同步具体落地细节。"
+        ]
+      },
+      {
+        "topic": "产品包装印刷与供应链",
+        "summary": "在工厂核对包装盒、说明书的颜色、材质、排版及合规信息。发现实物与设计稿存在色差及内容错误。",
+        "participants_mentioned": [
+          "amanda2",
+          "谢总",
+          "赵总"
+        ],
+        "decisions_or_todos": [
+          "暂停当前错误版本的印刷，重新修改设计文件并打样确认。",
+          "明确后续新供应商引入不再由当前采购人员负责。"
+        ]
+      },
+      {
+        "topic": "财务发票与历史账目梳理",
+        "summary": "梳理前财务遗留的发票问题，包括17万发票冲红原因不明、39万发票额度不足，以及香港公司invoice缺失。",
+        "participants_mentioned": [
+          "amanda2",
+          "财务同事"
+        ],
+        "decisions_or_todos": [
+          "查明17万冲红原因并确认后续配合方式。",
+          "分批开具39万发票。",
+          "补齐香港公司invoice，规范采购与财务审批流程。"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "amanda2全天主导产品UI评审、外部商务洽谈（京东）、工厂包装盯样以及内部财务/人事决策，工作节奏紧凑。",
+      "others_activity": "设计/产品同事参与UI评审；京东团队参与线上联动会议；工厂赵总配合包装打样调色；财务同事协助梳理发票及账目。",
+      "mentioned": [
+        {
+          "name_or_alias": "谢总/谢博",
+          "context": "参与UI讨论、包装确认及人事决策，被提及拥有毫米波雷达专利。",
+          "relation_guess": "公司合伙人/高管"
+        },
+        {
+          "name_or_alias": "丝番/斯番",
+          "context": "入职三个月的员工，被amanda2提前转正并加薪。",
+          "relation_guess": "下属员工"
+        },
+        {
+          "name_or_alias": "C/炎炎",
+          "context": "京东AI创造营团队成员，参与线上联动会议。",
+          "relation_guess": "外部合作伙伴"
+        },
+        {
+          "name_or_alias": "文嘉",
+          "context": "amanda2的朋友/熟人，提及一起喝酒及看NBA。",
+          "relation_guess": "朋友/业界熟人"
+        },
+        {
+          "name_or_alias": "赵总",
+          "context": "印刷厂负责人，配合包装打样调色。",
+          "relation_guess": "供应商"
+        },
+        {
+          "name_or_alias": "然姐",
+          "context": "参与UI讨论的同事。",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "艾米/Amy",
+          "context": "提及的前财务或相关同事，留有历史发票问题。",
+          "relation_guess": "前员工/财务"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "6月18日-21日在深圳万象城进行线下快闪及品牌宣发。",
+        "6月20日联合OC100举办产品首发礼，邀请媒体及达人体验。",
+        "7月赞助黑客松并开源多模态情绪算法，邀请极客共创生态产品。",
+        "推进产品第二代研发及包装、供应链优化。"
+      ],
+      "projects_or_business": [
+        "AI智能硬件（情绪项链/眼镜），具备情绪监测、记忆回溯、会议纪要等功能。",
+        "产品首发价1499元，线下渠道可能设置1299元等特殊权益。"
+      ],
+      "risks_or_blockers": [
+        "包装印刷存在色差及排版错误，需重新打样，可能影响交付进度。",
+        "前财务遗留发票及账目混乱（17万冲红、39万额度不足、invoice缺失），存在合规及税务风险。",
+        "当前采购人员专业度及责任心不足，需调整采购权限。"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "salary",
+          "detail": "给入职三个月的员工提前转正并加薪30%。",
+          "amount_or_terms": "原工资12000，增加3600元"
+        },
+        {
+          "category": "invoice",
+          "detail": "梳理前财务遗留的发票问题，包括17万发票被冲红原因不明，以及39万发票额度不足需分批开具。",
+          "amount_or_terms": "171417元，390000元"
+        },
+        {
+          "category": "invoice",
+          "detail": "寻找并补齐香港公司付款的invoice，涉及历史遗留合同及发票缺失。",
+          "amount_or_terms": "约10万港币/人民币"
+        },
+        {
+          "category": "cost",
+          "detail": "讨论包装印刷重新打样及修改模板的成本，以及采购报价差异。",
+          "amount_or_terms": "报价19000至28000不等，最终砍至25000"
+        },
+        {
+          "category": "payment",
+          "detail": "确认产品线上线下价格体系及渠道结算。",
+          "amount_or_terms": "线上1499元，线下提货价/权益价1299元"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "performance",
+          "detail": "认可员工丝番/斯番的工作表现，决定打破常规六个月试用期，提前至三个月转正并大幅加薪。"
+        },
+        {
+          "category": "role_change",
+          "detail": "因当前采购人员专业度不足且存在信息差，决定收回其新供应链引入权限，后续采购由他人负责。"
+        },
+        {
+          "category": "hiring",
+          "detail": "提到下周将有新财务入职，计划与现有财务进行分工。"
+        }
+      ]
+    },
+    "open_questions": [
+      "17万发票被前财务冲红的具体原因及后续处理配合方式。",
+      "39万发票额度不足的问题如何解决，何时能全额开具。",
+      "包装盒最终颜色及触感膜效果能否在重新打样后达到设计预期。",
+      "香港公司历史付款的invoice及合同如何补齐。"
+    ],
+    "keywords": [
+      "UI设计",
+      "情绪算法",
+      "京东AI创造营",
+      "万象城快闪",
+      "OC100首发",
+      "包装印刷",
+      "发票冲红",
+      "采购权限",
+      "提前转正"
+    ]
+  }
+}

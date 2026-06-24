@@ -1,0 +1,331 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-06-14",
+  "generated_at": "2026-06-22T10:44:21.756582+08:00",
+  "model": "qwen3.7-max-preview",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 949,
+    "char_count": 32565,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "日常约会与创业工作深度交流",
+    "overview": "user与伴侣开车前往餐厅就餐并在海边散步。期间两人深入讨论了3D打印机、创投圈榜单、品牌营销切片、供应链工厂考察反馈、公司人事调整（开除员工、招聘、HR安排）以及AI商业化战略。此外，两人就情感沟通、边界感及未来生活规划（减肥、看中医、赴美）进行了坦诚的交流与约定。",
+    "events": [
+      {
+        "time": "17:52",
+        "what_happened": "讨论3D打印机组装与耗材",
+        "outcome": "user表示自己组装省了安装费，并购买了200多元的耗材。"
+      },
+      {
+        "time": "18:10",
+        "what_happened": "在餐厅点餐",
+        "outcome": "两人点了披萨、沙拉、前菜、水牛奶及酒水等。"
+      },
+      {
+        "time": "18:25",
+        "what_happened": "讨论供应链合作、估值与分工",
+        "outcome": "认为合作方投入五万美金六个月较高，决定在分工和合同上严格把控。"
+      },
+      {
+        "time": "18:28",
+        "what_happened": "讨论公司人事问题及开除员工决定",
+        "outcome": "决定开除不靠谱的员工，周一交接，并安排星姐负责HR工作。"
+      },
+      {
+        "time": "19:01",
+        "what_happened": "讨论工厂打样质量与老邓的合作问题",
+        "outcome": "对工厂流水线和打样色差不满，认为对方想赚取过多管理费，决定后续合作需谨慎。"
+      },
+      {
+        "time": "19:08",
+        "what_happened": "两人发生情感争执",
+        "outcome": "探讨沟通方式与边界感，others指出user容易受他人影响及自认受害者的问题。"
+      },
+      {
+        "time": "19:24",
+        "what_happened": "餐厅买单",
+        "outcome": "消费共计479元。"
+      },
+      {
+        "time": "19:25",
+        "what_happened": "海边散步并继续沟通",
+        "outcome": "达成三点共识：不受他人影响、不站受害者角度、工作为重不接受创业失败。"
+      },
+      {
+        "time": "20:14",
+        "what_happened": "讨论未来生活规划",
+        "outcome": "约定共同减肥（目标70kg以下）、看中医，并计划十月份去美国。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "3D打印机与耗材",
+        "summary": "user分享自己组装3D打印机的经历，提到省了99元安装费，并购买了6公斤200多元的耗材。两人还讨论了某3D打印公司（如拓竹）的营收规模。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "后续可以用3D打印机打一些小玩意或彩色模型。"
+        ]
+      },
+      {
+        "topic": "创投圈榜单含金量",
+        "summary": "讨论福布斯中国U30和36氪U36的含金量，认为36氪U36在创投圈和AI圈认可度更高，提到王宁、张一鸣等知名人物。",
+        "participants_mentioned": [
+          "others",
+          "王宁",
+          "张一鸣"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "品牌营销与官方切片",
+        "summary": "讨论官方切片的数据量和品牌调性，提到温姐认为视频符合品牌调性，并强调二次传播的重要性。",
+        "participants_mentioned": [
+          "user",
+          "others",
+          "温姐",
+          "小温",
+          "周星"
+        ],
+        "decisions_or_todos": [
+          "继续推进官方切片的发布与二次传播。"
+        ]
+      },
+      {
+        "topic": "供应链与工厂合作",
+        "summary": "分享考察工厂流水线的感受，对老邓等人的打样质量（色差）和供应链管理不满意，认为对方试图赚取过多管理费。",
+        "participants_mentioned": [
+          "user",
+          "others",
+          "老邓",
+          "丹",
+          "小豆龙",
+          "小生",
+          "老断"
+        ],
+        "decisions_or_todos": [
+          "在合同和分工上严格把控，防止对方越界，后续考虑与小叶合作。"
+        ]
+      },
+      {
+        "topic": "公司人事调整与管理",
+        "summary": "讨论开除刚入职不久且不靠谱的员工（诶米），安排星姐接手HR工作，并计划招聘实习生。还讨论了小月、小叶的管理风格。",
+        "participants_mentioned": [
+          "user",
+          "others",
+          "诶米",
+          "星姐",
+          "开绿",
+          "伽",
+          "小月",
+          "小叶"
+        ],
+        "decisions_or_todos": [
+          "周一进行工作交接并开除该员工；让星姐负责HR；招聘实习生。"
+        ]
+      },
+      {
+        "topic": "创业战略与AI商业化",
+        "summary": "讨论AI商业化快速落地，通过总包方案变现。强调要“打扫干净屋子再请客”，补齐内部短板，缩小与行业头部公司（估值十倍二十倍）的差距。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "优化内部团队，提升研发与沟通效率。"
+        ]
+      },
+      {
+        "topic": "情感沟通与未来规划",
+        "summary": "两人就沟通方式、边界感及受他人影响的问题发生争执。others提出三点要求，最终两人和解，并规划了减肥、看中医及赴美等生活目标。",
+        "participants_mentioned": [
+          "user",
+          "others",
+          "谢小谢"
+        ],
+        "decisions_or_todos": [
+          "user承诺改变沟通方式，注意异性边界；两人约定三个月减到70kg以下，七月份一起看中医，十月份去美国。"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "组装3D打印机，参与餐厅点餐，与伴侣讨论公司人事、供应链及创业战略，在情感争执中倾听并承诺改变，约定共同减肥和看中医。",
+      "others_activity": "主导点餐，分享对创投圈、品牌切片的看法，强烈表达对供应链和某员工的不满，在情感沟通中指出user的问题并提出三点要求，规划未来生活。",
+      "mentioned": [
+        {
+          "name_or_alias": "温姐/小温",
+          "context": "负责官方切片，认为视频符合品牌调性，提醒二次传播。",
+          "relation_guess": "同事或合作伙伴"
+        },
+        {
+          "name_or_alias": "王宁",
+          "context": "创投圈提及的知名人物。",
+          "relation_guess": "知名企业家"
+        },
+        {
+          "name_or_alias": "张一鸣",
+          "context": "创投圈提及的知名人物。",
+          "relation_guess": "知名企业家"
+        },
+        {
+          "name_or_alias": "周星",
+          "context": "提及不给播两千块钱。",
+          "relation_guess": "同事或合作伙伴"
+        },
+        {
+          "name_or_alias": "清姐",
+          "context": "被说服，关于预算或合作。",
+          "relation_guess": "合作伙伴或同事"
+        },
+        {
+          "name_or_alias": "诶米",
+          "context": "刚入职不久，引发争吵，被认为不靠谱。",
+          "relation_guess": "前员工"
+        },
+        {
+          "name_or_alias": "丹/小豆龙/小生/老断",
+          "context": "合作方或同事，被吐槽效率低、不透明。",
+          "relation_guess": "合作方或同事"
+        },
+        {
+          "name_or_alias": "开绿",
+          "context": "被通知开除某人，进行交接。",
+          "relation_guess": "同事或HR"
+        },
+        {
+          "name_or_alias": "伽",
+          "context": "临时顶替工作。",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "星姐",
+          "context": "被安排做HR，懂技术。",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "小月",
+          "context": "被提及性格特点，不愿开人。",
+          "relation_guess": "同行或合作伙伴"
+        },
+        {
+          "name_or_alias": "小叶",
+          "context": "下决定狠，后续考虑合作。",
+          "relation_guess": "同行或合作伙伴"
+        },
+        {
+          "name_or_alias": "谢小谢",
+          "context": "被提及性格e，老公等。",
+          "relation_guess": "朋友或同行"
+        },
+        {
+          "name_or_alias": "老邓",
+          "context": "工厂合作方，打样有色差。",
+          "relation_guess": "工厂老板或合作方"
+        },
+        {
+          "name_or_alias": "候选人",
+          "context": "面试者，担心婚育，想做PM。",
+          "relation_guess": "面试者"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "周一交接并开除某员工",
+        "安排星姐负责HR工作",
+        "招聘实习生干活",
+        "推进官方切片与二次传播",
+        "十月份计划去美国",
+        "与小叶合作（预算充足）"
+      ],
+      "projects_or_business": [
+        "AI商业化快速落地，通过总包方案变现",
+        "3D打印相关业务或爱好",
+        "品牌营销与切片传播",
+        "供应链与工厂代工合作"
+      ],
+      "risks_or_blockers": [
+        "工厂打样存在色差，供应链管理不透明",
+        "合作方试图赚取过多管理费",
+        "内部团队存在沟通与态度问题",
+        "研发工程师沟通存在障碍"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "cost",
+          "detail": "3D打印耗材",
+          "amount_or_terms": "6公斤200多元"
+        },
+        {
+          "category": "budget",
+          "detail": "合作估值与投入",
+          "amount_or_terms": "五万美金六个月"
+        },
+        {
+          "category": "payment",
+          "detail": "餐厅买单",
+          "amount_or_terms": "479元"
+        },
+        {
+          "category": "budget",
+          "detail": "与小叶合作的预算",
+          "amount_or_terms": "预算出得起"
+        },
+        {
+          "category": "other",
+          "detail": "家庭开支",
+          "amount_or_terms": "user承担家庭开支"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "resignation",
+          "detail": "决定开除刚入职不久且不靠谱的员工（诶米），周一进行交接。"
+        },
+        {
+          "category": "role_change",
+          "detail": "安排星姐接手负责HR工作。"
+        },
+        {
+          "category": "hiring",
+          "detail": "计划招聘实习生干活；面试了一位候选人，讨论婚育问题及PM岗位。"
+        },
+        {
+          "category": "team",
+          "detail": "讨论小月、小叶的管理风格，强调团队态度和透明度。"
+        }
+      ]
+    },
+    "open_questions": [],
+    "keywords": [
+      "3D打印机",
+      "官方切片",
+      "供应链",
+      "人事调整",
+      "AI商业化",
+      "情感沟通",
+      "减肥",
+      "美国"
+    ]
+  }
+}

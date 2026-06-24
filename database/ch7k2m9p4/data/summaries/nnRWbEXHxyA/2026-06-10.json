@@ -1,0 +1,269 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-06-10",
+  "generated_at": "2026-06-22T10:30:59.467958+08:00",
+  "model": "qwen3.7-max-preview",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1031,
+    "char_count": 26421,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "设备数据测试、员工离职纠纷处理及系统数据迁移讨论",
+    "overview": "当日主要讨论了生理信号监测设备的心率数据异常并进行静置测试；处理了一名员工因绩效扣薪引发的离职纠纷，发现其存在将钱借给供应商的严重违纪行为，决定尽快辞退；讨论了20万美金跨境汇款及CX与A亚70万合同的财务合规风险；此外，还涉及招聘渠道费用评估、系统账号数据迁移及为后天展示做准备的技术讨论。",
+    "events": [
+      {
+        "time": "12:00",
+        "what_happened": "讨论设备心率数据异常，怀疑未正常佩戴，安排将设备放桌上静置测试。",
+        "outcome": "确认数据异常，计划进一步测试排查。"
+      },
+      {
+        "time": "15:15",
+        "what_happened": "讨论新冠/甲流感染情况，user表示自己感染一周未传染给他人。",
+        "outcome": "确认健康状况，讨论上台是否戴口罩。"
+      },
+      {
+        "time": "16:48",
+        "what_happened": "讨论员工因绩效扣薪反应激烈并提出离职，随后又撤回离职申请。",
+        "outcome": "决定按规章制度处理，不妥协。"
+      },
+      {
+        "time": "19:09",
+        "what_happened": "讨论20万美金跨境汇款问题，因外汇额度限制考虑通过个人借款方式处理。",
+        "outcome": "初步确定资金处理方向。"
+      },
+      {
+        "time": "19:18",
+        "what_happened": "发现离职员工存在将钱借给供应商的严重违纪行为，决定尽快让其离职并做好交接。",
+        "outcome": "倾向于直接批准离职，last day定在6月30日。"
+      },
+      {
+        "time": "21:18",
+        "what_happened": "讨论合同签字、电子签章及法人章使用，准备出差带样品。",
+        "outcome": "确认使用电子签章，规划出差物品。"
+      },
+      {
+        "time": "21:49",
+        "what_happened": "讨论系统账号数据迁移及bug修复，为后天展示做准备。",
+        "outcome": "决定明天手动导数据以确保展示正常。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "设备数据测试",
+        "summary": "发现心率数据持续在0.1左右，怀疑未正常佩戴，安排将设备放桌上静置测试10分钟以排查问题。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "将设备静置测试10分钟观察数据变化"
+        ]
+      },
+      {
+        "topic": "员工离职与违纪处理",
+        "summary": "员工因绩效扣薪提离职后撤回，且被发现将钱借给供应商。讨论绩效占比、试用期成本，决定尽快批准离职。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "last day定在6月30日",
+          "做好技术和工作交接"
+        ]
+      },
+      {
+        "topic": "招聘与人事安排",
+        "summary": "讨论猎头及招聘平台费用，评估算法岗候选人杨文斌，认为其沟通差。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "继续筛选PM和算法岗简历"
+        ]
+      },
+      {
+        "topic": "财务合规与合同",
+        "summary": "讨论记账公司、An九的工作，以及CX与A亚70万合同补签的合规风险（涉及假流水、假合同）。",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": [
+          "后续考虑招聘专业财务人员规范流程"
+        ]
+      },
+      {
+        "topic": "跨境资金处理",
+        "summary": "讨论20万美金外汇额度问题，考虑通过老行个人借款方式处理。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "考虑做成个人借款"
+        ]
+      },
+      {
+        "topic": "系统数据迁移",
+        "summary": "讨论账号邮箱修改导致的数据问题，决定明天手动导数据以确保后天展示正常。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "明天手动导数据",
+          "排查数据延迟上报bug"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "分析设备心率数据，处理员工离职及绩效纠纷，讨论跨境资金及系统数据迁移，准备出差。",
+      "others_activity": "协助测试设备，反馈员工离职及招聘情况，讨论财务合规及合同问题，处理系统账号及数据问题。",
+      "mentioned": [
+        {
+          "name_or_alias": "An九",
+          "context": "负责传话、整理合同和收据，被讨论其工作内容和薪资。",
+          "relation_guess": "同事/员工"
+        },
+        {
+          "name_or_alias": "老生/老师",
+          "context": "做事灵活但风险高，被建议后续找专业财务替代。",
+          "relation_guess": "合作伙伴/员工"
+        },
+        {
+          "name_or_alias": "万星眼",
+          "context": "之前招的不合适员工，被提及试错成本高。",
+          "relation_guess": "前员工"
+        },
+        {
+          "name_or_alias": "杨文斌",
+          "context": "算法岗候选人，简历匹配但沟通差。",
+          "relation_guess": "候选人"
+        },
+        {
+          "name_or_alias": "玉娟",
+          "context": "发现系统大bug。",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "谢总",
+          "context": "提及使用其法人章。",
+          "relation_guess": "公司高管/法人"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "员工离职 last day 定在6月30日，需做好技术和工作交接。",
+        "明天下午彩排，后天正式展示，需提前手动迁移数据。",
+        "user 下周一至周三可能出差，准备带白石头/银白石样品。",
+        "后续考虑招聘专业财务人员，规范财务和HR流程。"
+      ],
+      "projects_or_business": [
+        "生理信号监测设备（心率、HRV、压力等）数据测试与算法优化。",
+        "CX与A亚的70万合同补签。",
+        "系统账号数据迁移及国内生产环境部署。"
+      ],
+      "risks_or_blockers": [
+        "离职员工存在将钱借给供应商的严重违纪行为。",
+        "CX与A亚合同存在不合规风险（假流水、假合同）。",
+        "跨境汇款20万美金存在外汇额度限制。",
+        "员工因绩效扣薪产生劳动纠纷风险（要求N+1赔偿）。"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "salary",
+          "detail": "员工因绩效扣薪反应激烈，讨论绩效占比（20%-30%）及工资发放。",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "payment",
+          "detail": "讨论20万美金跨境汇款，因外汇额度限制，考虑做成个人借款。",
+          "amount_or_terms": "20万美金"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "提及三十多万的差旅报销，多为吃喝零食等个人消费。",
+          "amount_or_terms": "30多万"
+        },
+        {
+          "category": "cost",
+          "detail": "讨论猎头报价及招聘平台费用。",
+          "amount_or_terms": "猎头最低13800元，前程无忧4000元"
+        },
+        {
+          "category": "other",
+          "detail": "CX与A亚70万合同补签，涉及做假流水和假合同的合规风险。",
+          "amount_or_terms": "70万"
+        },
+        {
+          "category": "other",
+          "detail": "员工将钱借给供应商，性质严重。",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "salary",
+          "detail": "提及An九工资很高。",
+          "amount_or_terms": "五六万"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "resignation",
+          "detail": "员工因绩效扣薪提离职后撤回，因存在违纪行为（借钱给供应商），公司决定尽快批准其离职，last day定为6月30日。"
+        },
+        {
+          "category": "performance",
+          "detail": "讨论绩效制度，明确绩效占比20%-30%，入职已培训并签字，员工对扣薪反应激烈。"
+        },
+        {
+          "category": "hiring",
+          "detail": "讨论招聘渠道费用（猎头、前程无忧、香港平台），算法岗候选人杨文斌沟通差，PM简历在聊。"
+        },
+        {
+          "category": "role_change",
+          "detail": "讨论An九的工作职责（传话、整理合同），建议后续找专业财务和HR。"
+        },
+        {
+          "category": "policy",
+          "detail": "修改员工手册并发送，强调试用期管理和绩效制度。"
+        }
+      ]
+    },
+    "open_questions": [
+      "离职员工的具体交接方案及劳动纠纷（N+1赔偿）如何妥善处理？",
+      "CX与A亚70万合同的合规风险如何解决？",
+      "20万美金跨境汇款最终采用何种合规路径？"
+    ],
+    "keywords": [
+      "设备测试",
+      "心率数据",
+      "绩效扣薪",
+      "员工离职",
+      "违纪行为",
+      "数据迁移",
+      "跨境汇款",
+      "财务合规",
+      "招聘",
+      "电子签章"
+    ]
+  }
+}

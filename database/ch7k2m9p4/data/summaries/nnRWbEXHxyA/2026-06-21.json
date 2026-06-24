@@ -1,0 +1,197 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-06-21",
+  "generated_at": "2026-06-22T11:05:49.014298+08:00",
+  "model": "qwen3.7-max-preview",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 3062,
+    "char_count": 80000,
+    "es_refreshed": true,
+    "truncated": true
+  },
+  "summary": {
+    "title": "AI智能吊坠展会演示与内部事务沟通纪要",
+    "overview": "zhiyuan 与同事在展会/门店向多位访客展示 AI 智能吊坠的功能（情绪监测、记忆沉淀、会议纪要等），强调隐私保护与本地处理。期间，同事间讨论了香港合同签署及十万元转账问题、展会现场管理混乱的情况，并重点沟通了内部某员工搞小群体破坏管理的人事调整计划。此外，团队还接待了媒体记者的采访。",
+    "events": [
+      {
+        "time": "14:08",
+        "what_happened": "zhiyuan 与 others 开始向访客展示 AI 智能吊坠的功能与使用方法。",
+        "outcome": "持续向多位访客进行产品演示与答疑。"
+      },
+      {
+        "time": "14:09",
+        "what_happened": "others 讨论在香港签署的合同以及十万元转账申请和限额问题。",
+        "outcome": "确认需要跟进转账进度。"
+      },
+      {
+        "time": "15:20",
+        "what_happened": "others 抱怨活动现场管理混乱，提到断节问题及需要照顾团队情绪。",
+        "outcome": "表达了对场地管理的不满。"
+      },
+      {
+        "time": "15:33",
+        "what_happened": "others 讨论公司内部某员工破坏管理、搞小群体的问题。",
+        "outcome": "决定拆分小群体并计划将该员工换掉，强调管理不能依赖单个人。"
+      },
+      {
+        "time": "16:12",
+        "what_happened": "21世纪经济报道记者来访，进行科技消费选题采访。",
+        "outcome": "双方互加微信，建立媒体联系。"
+      },
+      {
+        "time": "17:10",
+        "what_happened": "向访客介绍产品已在北美发售，国内刚上市三天。",
+        "outcome": "明确了产品的市场发售节奏。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "AI智能吊坠产品功能与隐私保护",
+        "summary": "详细介绍了产品通过毫米波雷达和麦克风阵列非接触式监测心率、语速和情绪，并自动生成记忆球。强调数据在手机本地处理，不保留原始音频，以最大程度保护用户隐私。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "未来将开放 API，允许用户将记忆数据接入第三方大模型。",
+          "会议纪要功能后续将支持导出 PDF 或 Word 格式。"
+        ]
+      },
+      {
+        "topic": "产品定价与销售渠道",
+        "summary": "讨论了产品国内售价（鹅卵石款1399元，另一款1499元），inno100 门店有200元折扣，美国售价为299美元。确认京东和线下门店均有销售。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "others"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "公司内部管理与人事调整",
+        "summary": "抱怨某员工破坏公司管理、搞小群体，决定必须将其换掉。强调团队管理不能依赖任何单个人，需要建立明确的底线和掌控手段。",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": [
+          "拆分现有小群体并替换相关破坏管理的员工。",
+          "建立不依赖单一个人的管理底线和机制。"
+        ]
+      },
+      {
+        "topic": "资金流转与合同执行",
+        "summary": "提到合同是在香港签署的，讨论了十万元转账申请及银行单日限额问题，确认需要处理资金转出事宜。",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": [
+          "跟进并处理十万元资金的转账申请。"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "全天主要在展会/门店向多位访客（顾客、记者、同行等）演示和讲解 AI 智能吊坠的功能、隐私保护机制、续航及价格，并展示 APP 界面。",
+      "others_activity": "参与了产品演示与销售，同时处理了跑腿送货、场地管理抱怨、内部人事管理讨论、资金转账沟通以及接待媒体记者等事务。",
+      "mentioned": [
+        {
+          "name_or_alias": "汤小欧教授",
+          "context": "港中文教授，被访客提及。",
+          "relation_guess": "学术界人士/校友"
+        },
+        {
+          "name_or_alias": "21世纪经济报道记者",
+          "context": "来展会采访科技消费选题，与团队互加微信。",
+          "relation_guess": "媒体人员"
+        },
+        {
+          "name_or_alias": "搞小群体的员工",
+          "context": "被内部讨论认为破坏管理，计划被替换。",
+          "relation_guess": "公司员工"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "计划推出体积更小的第二代产品，预计年底或半年多后发布。",
+        "未来将开放 API，允许用户将记忆数据接入第三方大模型或定制功能。",
+        "会议纪要功能将支持导出 PDF 或 Word 格式。"
+      ],
+      "projects_or_business": [
+        "AI 智能吊坠（品牌名可能为“诺娜”/Norna，冰岛语“当下”之意），具备情绪监测、记忆沉淀、会议纪要等功能。",
+        "销售渠道包括 inno100 实体店、京东，以及北美市场。"
+      ],
+      "risks_or_blockers": [
+        "展会现场管理混乱，体验不佳。",
+        "内部存在员工搞小群体、破坏管理的问题。",
+        "资金转账遇到限额或流程沟通问题。"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "payment",
+          "detail": "讨论香港签署的合同及十万元转账申请问题，涉及银行单日限额。",
+          "amount_or_terms": "100,000元"
+        },
+        {
+          "category": "cost",
+          "detail": "讨论产品销售成本、毛利及给销售的提成。",
+          "amount_or_terms": "10%毛利"
+        },
+        {
+          "category": "other",
+          "detail": "个人给父亲转账庆祝父亲节。",
+          "amount_or_terms": "1,000元"
+        },
+        {
+          "category": "other",
+          "detail": "产品国内售价及美国售价，inno100门店有折扣。",
+          "amount_or_terms": "1399元/1499元/299美元"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "role_change",
+          "detail": "讨论某员工破坏管理、搞小群体，决定将其换掉并拆分其小群体。"
+        },
+        {
+          "category": "team",
+          "detail": "强调团队管理不能依赖单个人，需建立明确的底线和掌控手段。"
+        },
+        {
+          "category": "hiring",
+          "detail": "讨论上海的人才情况以及研发团队的状态。"
+        }
+      ]
+    },
+    "open_questions": [
+      "十万元转账的具体进展和最终处理结果如何？",
+      "被讨论“搞小群体”的员工最终何时被替换？",
+      "第二代产品的具体发布时间和最终定价是多少？"
+    ],
+    "keywords": [
+      "AI智能吊坠",
+      "情绪监测",
+      "记忆沉淀",
+      "隐私保护",
+      "毫米波雷达",
+      "会议纪要",
+      "inno100",
+      "团队管理",
+      "诺娜"
+    ]
+  }
+}

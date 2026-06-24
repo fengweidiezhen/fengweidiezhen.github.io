@@ -1,0 +1,212 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T14:10:43.007290+08:00",
+  "model": "qwen3.7-max-2026-05-17",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1063,
+    "char_count": 31030,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "6月5日封版前项目进度对齐与UI细节评审",
+    "overview": "zhiyuan主持了国内产品上线前的封版计划会议，明确6月5日封版目标及各端任务。随后与团队详细评审了APP各页面的UI/UX交互细节，并讨论了硬件挂绳的供应链打样与合同付款事宜。",
+    "events": [
+      {
+        "time": "09:32",
+        "what_happened": "召开项目封版前进度对齐会，明确6月5日封版目标及各端任务分配。",
+        "outcome": "确定了封版前的开发、优化与测试计划，各端明确交付节点。"
+      },
+      {
+        "time": "10:33",
+        "what_happened": "进行APP UI/UX细节评审会议。",
+        "outcome": "确认了首页、时刻、我的等页面的交互修改方案及新手引导逻辑。"
+      },
+      {
+        "time": "12:27",
+        "what_happened": "讨论硬件挂绳供应链合同及付款细节。",
+        "outcome": "确认了挂绳长度定为70cm，并讨论了合同解除条款的违约金比例。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "国内产品上线封版计划",
+        "summary": "明确6月5日为封版节点，之后不加新功能只做优化和压测。梳理了iOS隐私政策、安卓APP备案、前端声纹与会议纪要优化、后端国内服务器部署及算法推荐引擎等任务。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "俊哥",
+          "城哥",
+          "燕老师",
+          "浩林",
+          "马墙"
+        ],
+        "decisions_or_todos": [
+          "6月5日准时封版，未完成需加班。",
+          "前端增加会议纪要复制键，优化二级页面加载速度。",
+          "后端解决HTTPS证书审核卡点，推进国内服务器部署。",
+          "测试端启动APP与嵌入式软件压测。"
+        ]
+      },
+      {
+        "topic": "APP UI/UX交互细节优化",
+        "summary": "逐页评审APP界面，包括首页长按修改情绪的引导、分享卡片接入系统SDK及样式调整、时刻页面空数据状态优化、我的页面增加权限管理和佩戴时长展示等。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "马总",
+          "斯川"
+        ],
+        "decisions_or_todos": [
+          "首页增加隐藏功能（如长按修改）的新手引导。",
+          "分享卡片改用仿签名字体并调整圆角，接入系统分享SDK。",
+          "时刻页面优化空数据提示，明确佩戴满1小时出现数据。",
+          "“我的”页面新增权限管理入口和佩戴天数统计。"
+        ]
+      },
+      {
+        "topic": "硬件挂绳供应链与合同",
+        "summary": "讨论挂绳的材质、长度、扣子设计以及供应商合同条款。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "一城",
+          "高律"
+        ],
+        "decisions_or_todos": [
+          "挂绳长度定为70公分（加延长链至72公分）。",
+          "确认一城的合同违约退款条款（总额12万，首期6万），需进一步确认退款比例。"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主持项目封版会议，分配各端任务；主导UI/UX细节评审；参与硬件挂绳打样确认与合同讨论。",
+      "others_activity": "汇报后端部署卡点及测试进度；参与UI设计讨论；协助确认挂绳尺寸及供应链价格；处理合同与付款事宜。",
+      "mentioned": [
+        {
+          "name_or_alias": "俊哥",
+          "context": "像俊哥跟这个城哥你这边想到了就跟我讲",
+          "relation_guess": "前端/客户端开发负责人"
+        },
+        {
+          "name_or_alias": "城哥",
+          "context": "像俊哥跟这个城哥你这边想到了就跟我讲",
+          "relation_guess": "前端/客户端开发负责人"
+        },
+        {
+          "name_or_alias": "燕老师",
+          "context": "燕老师也提出来了这个语言的问题",
+          "relation_guess": "算法或产品相关人员"
+        },
+        {
+          "name_or_alias": "春号",
+          "context": "春号呢...不来了吗",
+          "relation_guess": "团队成员"
+        },
+        {
+          "name_or_alias": "浩林",
+          "context": "浩林这边用用画像好吧不能再拖了",
+          "relation_guess": "算法/数据开发人员"
+        },
+        {
+          "name_or_alias": "马墙",
+          "context": "需马墙这边来协助那个查措软件的部分",
+          "relation_guess": "测试或嵌入式开发人员"
+        },
+        {
+          "name_or_alias": "马总",
+          "context": "马总补充好的...马总你觉得跳过怎么样",
+          "relation_guess": "产品或设计负责人"
+        },
+        {
+          "name_or_alias": "斯川",
+          "context": "让思办想想办吧...斯川在色格马上面调",
+          "relation_guess": "UI/UX设计师"
+        },
+        {
+          "name_or_alias": "一城",
+          "context": "一城那个合同高律不是改完了嘛",
+          "relation_guess": "供应商或合作伙伴"
+        },
+        {
+          "name_or_alias": "高律",
+          "context": "一城那个合同高律不是改完了嘛",
+          "relation_guess": "法务/律师"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "6月5日进行国内版本封版，封版后不再增加新功能，专注优化与压测。",
+        "6月18日-19日左右产品正式交付到内测用户手中。",
+        "京东店订购量大，需重点维护客服服务与用户体验。"
+      ],
+      "projects_or_business": [
+        "国内APP上线准备（iOS隐私政策审核、安卓APP备案）。",
+        "硬件挂绳供应链打样与生产（航空级材料，定长70cm）。",
+        "APP功能优化（声纹匹配、会议纪要、加载速度、UI交互）。"
+      ],
+      "risks_or_blockers": [
+        "安卓端APP备案尚未完成，影响国内应用市场上架。",
+        "后端HTTPS加密证书百度审核中，可能影响国内发版。",
+        "二级页面加载时间过长，需切换国内服务器优化链路。"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "payment",
+          "detail": "讨论与一城的合同付款及违约退款条款，需确认不满意解除合同的退款比例。",
+          "amount_or_terms": "总额12万，首期6万"
+        },
+        {
+          "category": "cost",
+          "detail": "讨论硬件挂绳供应链成本，对比之前的龙虾扣成本更低。",
+          "amount_or_terms": "单价约4.6-4.8元，绳子1.2元/米"
+        },
+        {
+          "category": "payment",
+          "detail": "确认某笔款项的支付方式，讨论是否沿用上一笔的香港账户付款。",
+          "amount_or_terms": "未提及具体金额"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "performance",
+          "detail": "员工提及‘没有给我算我的绩效’，涉及绩效核算遗漏问题。"
+        },
+        {
+          "category": "team",
+          "detail": "会议中提到‘春号不来了吗’，涉及团队成员出勤或异动情况。"
+        }
+      ]
+    },
+    "open_questions": [
+      "一城合同中，若不满意解除合同，具体的退款比例定为多少？",
+      "安卓APP备案何时能够正式下发？",
+      "百度HTTPS加密证书审核何时通过以解除后台发版卡点？"
+    ],
+    "keywords": [
+      "封版",
+      "上线",
+      "APP备案",
+      "UI优化",
+      "压测",
+      "供应链",
+      "合同付款",
+      "绩效"
+    ]
+  }
+}

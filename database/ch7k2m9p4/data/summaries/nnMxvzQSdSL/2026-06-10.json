@@ -1,0 +1,283 @@
+{
+  "user_id": "nnMxvzQSdSL",
+  "user_name": "amanda2",
+  "date": "2026-06-10",
+  "generated_at": "2026-06-12T14:53:20.590575+08:00",
+  "model": "qwen3.7-max-preview",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda2",
+    "aliases": [
+      "amanda2",
+      "amanda2"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1165,
+    "char_count": 46518,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "日常工作与财务合规讨论纪要",
+    "overview": "当日主要围绕AI行业趋势、OC100产品发布营销节奏、财务合规（发票、报表、研发费用加计扣除）、员工手册修订及报销问题展开讨论。",
+    "events": [
+      {
+        "time": "09:09",
+        "what_happened": "听取或参与关于AI模型、应用、操作系统及创业投资的讨论。",
+        "outcome": "探讨了harness与模型的关系及网络效应。"
+      },
+      {
+        "time": "18:11",
+        "what_happened": "讨论会议发票开具及活动物料准备。",
+        "outcome": "明确需对方提供合同、明细及银行流水以补开发票。"
+      },
+      {
+        "time": "19:19",
+        "what_happened": "梳理财务报表及成本分类。",
+        "outcome": "区分了固定与非固定成本，安排了紧急PPT任务。"
+      },
+      {
+        "time": "19:48",
+        "what_happened": "对齐OC100产品发布及京东活动的营销节奏。",
+        "outcome": "确定了各节点发布时间、PR预算及VIP礼品准备。"
+      },
+      {
+        "time": "20:25",
+        "what_happened": "核对2024年财务数据及研发费用加计扣除。",
+        "outcome": "处理了待付账款、合同金额拆分，并解决了表格打印与电子签章问题。"
+      },
+      {
+        "time": "21:38",
+        "what_happened": "讨论某员工报销单据问题。",
+        "outcome": "发现其报销包含大量个人餐饮及超市消费，存在合规风险。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "AI行业趋势与投资",
+        "summary": "探讨AI模型与harness（应用层）的关系，认为harness类似操作系统，模型类似处理器，应用创业者机会大，并讨论了数据飞轮与网络效应。",
+        "participants_mentioned": [
+          "others",
+          "福利",
+          "顺宇",
+          "张小俊",
+          "赵微"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "财务合规与发票",
+        "summary": "讨论会议费用发票开具，需对方提供合同和明细，匹配银行流水，补开发票title。同时讨论了给老师打款到私账涉及外汇需补合同的问题。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "向对方索要合同、明细及银行流水",
+          "补签海外打款合同"
+        ]
+      },
+      {
+        "topic": "OC100产品发布与营销",
+        "summary": "详细规划京东活动、OC100官宣、UGC发货、媒体邀请及KOL测评节奏，确认PR预算及VIP礼品准备。",
+        "participants_mentioned": [
+          "user",
+          "others",
+          "ad",
+          "丝番"
+        ],
+        "decisions_or_todos": [
+          "6月12日京东活动及OC100官宣",
+          "6月13日释放得奖消息",
+          "6月18日UGC发货",
+          "准备VIP礼品及媒体礼物",
+          "ad核实落地细节"
+        ]
+      },
+      {
+        "topic": "财务报表与审计",
+        "summary": "梳理2024年财务数据，包括工资、固定资产、主营业务成本、研发费用加计扣除（委托外部研发合同），处理待付账款和五险一金，准备打印报表并盖电子章。",
+        "participants_mentioned": [
+          "user",
+          "others",
+          "谢总"
+        ],
+        "decisions_or_todos": [
+          "拆分合同首尾款",
+          "调整表格格式并打印",
+          "获取谢总电子签章"
+        ]
+      },
+      {
+        "topic": "人事与规章制度",
+        "summary": "讨论员工手册修订，删除不合理惩罚措施，细化报销标准，并请律师优化。同时邀请对话者加入公司。",
+        "participants_mentioned": [
+          "user",
+          "others",
+          "高律师"
+        ],
+        "decisions_or_todos": [
+          "邀请对方6月20日后加入公司"
+        ]
+      },
+      {
+        "topic": "报销合规问题",
+        "summary": "吐槽某员工（秦老师）报销单据中包含大量个人餐饮、超市购物（如50元西瓜）等不合规费用。",
+        "participants_mentioned": [
+          "user",
+          "others",
+          "秦老师"
+        ],
+        "decisions_or_todos": []
+      }
+    ],
+    "people": {
+      "subject_user_activity": "处理财务发票、合同核对、报表打印；统筹OC100发布会营销节奏、媒体邀请与礼品准备；修订员工手册；吐槽不合规报销。",
+      "others_activity": "参与AI行业讨论；协助核对财务数据、合同金额及打印报表；对齐营销活动细节及物料准备。",
+      "mentioned": [
+        {
+          "name_or_alias": "李天",
+          "context": "被询问l系统的客服或对接人信息。",
+          "relation_guess": "同事或合作伙伴"
+        },
+        {
+          "name_or_alias": "谢总",
+          "context": "公司负责人/博士，被提及不认可user写的稿子要自己写，以及需要提供电子签章。",
+          "relation_guess": "公司高管/创始人"
+        },
+        {
+          "name_or_alias": "高律师",
+          "context": "帮忙优化员工手册。",
+          "relation_guess": "外部法律顾问"
+        },
+        {
+          "name_or_alias": "秦老师",
+          "context": "被吐槽报销单据包含大量个人消费。",
+          "relation_guess": "公司员工"
+        },
+        {
+          "name_or_alias": "ad",
+          "context": "需要核实落地细节。",
+          "relation_guess": "同事或合作伙伴"
+        },
+        {
+          "name_or_alias": "丝番",
+          "context": "负责设计修改。",
+          "relation_guess": "设计同事"
+        },
+        {
+          "name_or_alias": "吉克公园",
+          "context": "被user邀请的媒体。",
+          "relation_guess": "媒体机构"
+        },
+        {
+          "name_or_alias": "三十六氪",
+          "context": "被user邀请的媒体。",
+          "relation_guess": "媒体机构"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "6月12日：京东活动及OC100官宣",
+        "6月13日：释放得奖消息及部分测评内容",
+        "6月18日：OC100 UGC陆续发货",
+        "6月18日-7月18日：首发期",
+        "6月20日：给媒体发放VIP礼品",
+        "9月份：参加上海外滩大会"
+      ],
+      "projects_or_business": [
+        "OC100产品发布及营销",
+        "京东AI决赛PPT及稿子",
+        "理想共商（外包研发合同）"
+      ],
+      "risks_or_blockers": [
+        "会议费用发票缺乏合同和明细，需对方提供以匹配银行流水",
+        "财务报表中部分合同未找到，需拆分首尾款",
+        "某员工报销单据存在大量个人消费，存在合规风险",
+        "给老师打款到私账涉及外汇，需补合同"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "invoice",
+          "detail": "会议费用发票开具，需对方提供合同和明细，匹配银行流水，补开发票title。",
+          "amount_or_terms": "未提及"
+        },
+        {
+          "category": "payment",
+          "detail": "给老师打钱到私账，涉及外汇，需要补合同。",
+          "amount_or_terms": "一百多万, 20万美金"
+        },
+        {
+          "category": "budget",
+          "detail": "PR发稿预算。",
+          "amount_or_terms": "5000元"
+        },
+        {
+          "category": "cost",
+          "detail": "投流和制作成本，给闺蜜打六折价格。",
+          "amount_or_terms": "未提及"
+        },
+        {
+          "category": "salary",
+          "detail": "讨论工资、五险一金及待付账款，一个月工资可能在12月发1月付。",
+          "amount_or_terms": "未提及"
+        },
+        {
+          "category": "cost",
+          "detail": "主营业务成本、固定成本与非固定成本梳理，委托外部研发费用（理想共商合同）。",
+          "amount_or_terms": "36万, 6万"
+        },
+        {
+          "category": "tax",
+          "detail": "研发费用加计扣除，讨论资本化与费用化，合同用于抵税。",
+          "amount_or_terms": "未提及"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "吐槽某员工报销单据包含大量个人餐饮、超市购物等不合规费用。",
+          "amount_or_terms": "50元"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "policy",
+          "detail": "修订员工手册，删除不合理惩罚措施，细化报销标准和规章制度，请高律师优化。"
+        },
+        {
+          "category": "hiring",
+          "detail": "邀请对话者6月20日之后加入公司。"
+        },
+        {
+          "category": "role_change",
+          "detail": "谢总作为博士不认可user写的稿子，决定自己写京东AI决赛稿。"
+        }
+      ]
+    },
+    "open_questions": [
+      "会议费用发票的合作方title及明细何时能提供？",
+      "缺失的委托外部研发合同（58.4万相关）能否找到？",
+      "某员工（秦老师）的不合规报销单据如何处理？"
+    ],
+    "keywords": [
+      "OC100",
+      "京东",
+      "发票",
+      "财务报表",
+      "研发费用加计扣除",
+      "员工手册",
+      "营销节奏",
+      "PR预算",
+      "报销合规",
+      "电子签章"
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-06-09",
+  "generated_at": "2026-06-23T14:43:03.287827+08:00",
+  "model": "qwen3.6-35b-a3b",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 821,
+    "char_count": 18404,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-06-09 日常对话纪要",
+    "overview": "今日对话主要围绕工作进度同步（代码分支修改、产品版本测试、二维码功能清理）、办公室加班情况吐槽、内部盖章流程确认、活动预算估算及个人生活闲聊展开。涉及主体用户与多位同事的日常协作与交流。",
+    "events": [
+      {
+        "time": "09:11",
+        "what_happened": "同事抱怨每日莫名多出很多工作且必须加班，质疑主体用户是否在公司出力。",
+        "outcome": "双方就加班与工作分配进行了一番情绪交流与辩解。"
+      },
+      {
+        "time": "09:48",
+        "what_happened": "讨论产品阳版测试安排，涉及一百台设备的推倒重来与产测流程。",
+        "outcome": "确定需进行两轮测试（全叉手与全叉球五流版），测试通过后再开打。"
+      },
+      {
+        "time": "10:17",
+        "what_happened": "确认公司内部特定事项的盖章流程。",
+        "outcome": "达成共识：此类事项无需走正式审批流程，直接找委托人盖章即可。"
+      },
+      {
+        "time": "12:09",
+        "what_happened": "汇报代码分支修改进展，提及昨日拿到最新代码并推送，但遇到报错。",
+        "outcome": "需继续排查修复报错问题，清理电码相关功能。"
+      },
+      {
+        "time": "12:55",
+        "what_happened": "粗略估算某套方案/出行的预算。",
+        "outcome": "得出总额约三万多，人均来回约五千的初步数据。"
+      },
+      {
+        "time": "19:30",
+        "what_happened": "确认海关相关资料处理进度，主体用户表示今晚将继续逐项完成手头工作。",
+        "outcome": "工作按计划推进，主体用户准备收尾当日任务。"
+      },
+      {
+        "time": "20:10",
+        "what_happened": "请南德协助处理盖章文件的归档工作。",
+        "outcome": "南德答应并执行归档操作。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "工作进度与测试安排",
+        "summary": "讨论代码分支修改、二维码功能清理、产品阳版测试及一百台设备的产测流程与时间节点。",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": [
+          "继续推进代码修复与测试",
+          "按流程进行两轮产测"
+        ]
+      },
+      {
+        "topic": "办公室加班与工作分配",
+        "summary": "同事抱怨长期加班且工作莫名增多，质疑主体用户是否参与实际工作；主体用户回应并解释自身情况。",
+        "participants_mentioned": [
+          "others",
+          "user"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "内部流程与文档管理",
+        "summary": "确认公司特定事项盖章无需走复杂流程，直接联系委托人盖章；后续需将相关文件归档。",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": [
+          "由南德负责归档盖章文件"
+        ]
+      },
+      {
+        "topic": "活动预算估算",
+        "summary": "粗略计算某套方案/出行预算，总额约三万余元，人均往返约五千元。",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": [
+          "待进一步核算确认"
+        ]
+      },
+      {
+        "topic": "个人生活与生日话题",
+        "summary": "双方闲聊生日日期、年龄、饮食习惯及星座等私人话题，气氛轻松。",
+        "participants_mentioned": [
+          "others",
+          "user"
+        ],
+        "decisions_or_todos": []
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与部分工作进度同步与测试讨论，回应同事关于加班的疑问，进行个人生活闲聊，最后表示将完成剩余工作。",
+      "others_activity": "主导大部分对话，抱怨加班情况，汇报代码与测试进展，讨论预算与盖章流程，请求同事协助归档，进行生日与年龄等私人话题交流。",
+      "mentioned": [
+        {
+          "name_or_alias": "南德",
+          "context": "被请求协助将盖章完成的文件进行归档",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "楚楚",
+          "context": "提及曾帮忙处理了一些事情",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "练总",
+          "context": "对话末尾提及，认为某产品与其匹配度高",
+          "relation_guess": "上级/领导"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "今日调休安排",
+        "内部特定事项盖章无需走正式流程，直接联系委托人办理"
+      ],
+      "projects_or_business": [
+        "产品阳版测试及一百台设备产测",
+        "代码分支修改与二维码功能清理",
+        "海关相关资料处理"
+      ],
+      "risks_or_blockers": [
+        "代码推送后出现报错，需排查修复",
+        "工作莫名增多导致加班压力大，影响团队情绪"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "budget",
+          "detail": "讨论某套方案/活动预算，总额约三万多，人均来回约五千",
+          "amount_or_terms": "约30000元/人均约5000元"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [],
+    "keywords": [
+      "预算",
+      "代码分支",
+      "产品测试",
+      "调休",
+      "归档",
+      "加班",
+      "盖章流程"
+    ]
+  }
+}

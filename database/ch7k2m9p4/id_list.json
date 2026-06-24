@@ -1,0 +1,64 @@
+[
+    {
+        "name": "amanda",
+        "id": "nnYX4pzcnVC"
+    },
+    {
+        "name": "zhiyuan",
+        "id": "nnRWbEXHxyA"
+    },
+    {
+        "name": "stella",
+        "id": "nn7adZsejpr"
+    },
+    {
+        "name": "haolin",
+        "id": "nn8rBT6MjCv"
+    },
+    {
+        "name": "Joey",
+        "id": "nnrUzr7phQq"
+    },
+    {
+        "name": "cc",
+        "id": "nnvDuS4FnNa"
+    },
+    {
+        "name": "Chunhao",
+        "id": "nnqn4gCd9TC",
+        "display_name": "黄春皓",
+        "aliases": ["春皓", "黄春皓", "Chunhao", "黄总"],
+        "how_others_call": ["春皓", "春皓哥", "黄老师", "黄总"],
+        "role": "技术负责人",
+        "watch_keywords": {
+            "finance": ["税", "税务", "工资", "薪资", "报销", "发票", "预算", "付款"],
+            "personnel": ["招聘", "离职", "人事", "绩效", "岗位", "入职"],
+            "company": ["排期", "上线", "合同", "客户", "项目", "安排"]
+        }
+    },
+    {
+        "name": "苑老师",
+        "id": "nn2j4CVpKE5"
+    },
+    {
+        "name": "Kylie",
+        "id": "nnjmnyjxbqh"
+    },
+    {
+        "name": "Teacher",
+        "id": "nnqELYDZDwQ"
+    },
+    {
+        "name": "kaylee",
+        "id": "nnPzvmXuBpD"
+    },
+    {
+        "name": "amanda2",
+        "id": "nnMxvzQSdSL"
+    },
+    {
+        "name": "财务",
+        "id": "nnZSJGE7Jnk"
+    }
+]
+

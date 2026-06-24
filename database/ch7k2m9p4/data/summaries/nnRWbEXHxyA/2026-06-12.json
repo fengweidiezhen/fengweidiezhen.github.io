@@ -1,0 +1,197 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-06-12",
+  "generated_at": "2026-06-22T10:38:53.940519+08:00",
+  "model": "qwen3.7-max-preview",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 4201,
+    "char_count": 80000,
+    "es_refreshed": true,
+    "truncated": true
+  },
+  "summary": {
+    "title": "京东AI创造营彩排与产品演讲准备",
+    "overview": "zhiyuan 及其团队在通明湖会展中心参加京东AI创造营活动。上午进行产品（ococ AI智能吊坠“诺娜”）展示彩排，中午与京东采销负责人交流零售模式与AI硬件供应链，下午准备正式直播演讲。期间穿插了与闺蜜的日常闲聊及演讲拉票环节的设计。",
+    "events": [
+      {
+        "time": "09:02",
+        "what_happened": "到达通明湖会展中心，进行活动签到与初步走位。",
+        "outcome": "确认了场地位置及初步的彩排安排。"
+      },
+      {
+        "time": "10:00",
+        "what_happened": "参与京东AI创造营连排，测试PPT、视频播放、提词器及上下场动线。",
+        "outcome": "明确了红毯、产品展示、主持人提问及拉票环节的具体流程与配合细节。"
+      },
+      {
+        "time": "12:12",
+        "what_happened": "与京东负责人（亮哥等）交流，探讨京东零售模式、AI硬件供应链及未来合作。",
+        "outcome": "加深了对京东靠差价盈利模式的理解，探讨了未来线下店AI专区的合作可能。"
+      },
+      {
+        "time": "13:00",
+        "what_happened": "与闺蜜吃饭、闲聊，讨论演讲拉票环节的设计及化妆准备。",
+        "outcome": "确定了拉票口号，并讨论了上台互动的策略。"
+      },
+      {
+        "time": "14:19",
+        "what_happened": "zhiyuan 反复练习 ococ AI 智能吊坠的演讲稿。",
+        "outcome": "梳理了演讲逻辑，强调“记录当下，看见你的节奏”及隐私保护理念。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "活动彩排与流程确认",
+        "summary": "确认红毯环节、产品展示、主持人提问及拉票环节的流程。测试了提词器、PPT比例及视频播放配合，讨论了上台互动的设计。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "慧杰",
+          "CC",
+          "导演"
+        ],
+        "decisions_or_todos": [
+          "12点前更新最终版PPT和视频物料",
+          "确认演讲超时控制及拉票口号"
+        ]
+      },
+      {
+        "topic": "京东零售模式与AI硬件合作",
+        "summary": "京东负责人分享京东靠商品差价盈利而非纯广告，强调价格盘稳定。双方探讨了AI硬件的供应链挑战及未来在京东线下店设立AI专区的可能性。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "亮哥",
+          "其姐"
+        ],
+        "decisions_or_todos": [
+          "保持价格体系稳定",
+          "探索京东线下门店AI专区合作"
+        ]
+      },
+      {
+        "topic": "ococ产品理念与演讲内容",
+        "summary": "zhiyuan 梳理演讲逻辑，强调诺娜AI吊坠不仅是记录工具，更是从通用模型到个人频率的陪伴者，注重端侧计算与隐私保护。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "闺蜜"
+        ],
+        "decisions_or_todos": [
+          "确定拉票口号：感知当下，记录美好",
+          "演讲中突出隐私保护和情绪感知功能"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与彩排，与京东人员交流，反复练习产品演讲稿，期间感冒发烧仍坚持准备。",
+      "others_activity": "闺蜜协助对稿并准备上台互动；京东工作人员（慧杰、CC等）协调彩排流程；亮哥等分享行业经验。",
+      "mentioned": [
+        {
+          "name_or_alias": "亮哥",
+          "context": "京东方面负责人/前辈，与zhiyuan交流行业经验与零售模式。",
+          "relation_guess": "京东业务负责人/合作伙伴"
+        },
+        {
+          "name_or_alias": "其姐",
+          "context": "京东方面人员，体验了ococ产品并给予反馈。",
+          "relation_guess": "京东业务人员"
+        },
+        {
+          "name_or_alias": "慧杰",
+          "context": "活动对接人，负责物料收集与流程协调。",
+          "relation_guess": "活动执行/对接人"
+        },
+        {
+          "name_or_alias": "CC",
+          "context": "活动对接人，负责物料收集与流程协调。",
+          "relation_guess": "活动执行/对接人"
+        },
+        {
+          "name_or_alias": "闺蜜",
+          "context": "电影人/体制内工作，作为推荐官/嘉宾协助zhiyuan上台互动。",
+          "relation_guess": "朋友/特邀嘉宾"
+        },
+        {
+          "name_or_alias": "谢总",
+          "context": "被提及挺着小肚子，可能是zhiyuan本人或团队另一领导，读博学术出身。",
+          "relation_guess": "团队领导/创始人"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "6月20日在北京三里屯附近举办首映礼",
+        "16号晚上参加36氪榜单颁奖/会议",
+        "推进第二代产品研发，改善外观与性能",
+        "探索在京东线下店（如京东之家、超体）设立AI专区"
+      ],
+      "projects_or_business": [
+        "ococ AI智能吊坠（诺娜）：主打情绪感知与记忆记录，端侧计算保护隐私",
+        "京东AI创造营/高光时刻活动直播",
+        "Kickstarter海外众筹项目"
+      ],
+      "risks_or_blockers": [
+        "zhiyuan感冒发烧可能影响演讲状态",
+        "AI硬件供应链及生产工艺存在挑战，需精细化打磨",
+        "新产品初期缺乏免费流量，需增加曝光"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "cost",
+          "detail": "讨论AI硬件前期研发与开模成本大，但属于积累资产。",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "other",
+          "detail": "京东商业模式探讨，强调靠商品差价盈利，而非纯广告变现，需维持价格盘稳定。",
+          "amount_or_terms": "三块钱进五块钱卖"
+        },
+        {
+          "category": "other",
+          "detail": "ococ产品在北美Kickstarter众筹取得成绩。",
+          "amount_or_terms": "30万美金"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "team",
+          "detail": "公司目前规模不到20人，其中技术人员占绝大多数（约15人），营销3人。"
+        },
+        {
+          "category": "team",
+          "detail": "讨论AI硬件创业团队普遍年轻化，提及某公司员工平均年龄26岁。"
+        }
+      ]
+    },
+    "open_questions": [
+      "如何在直播中更好地控制演讲时间并增加互动效果？",
+      "第二代产品如何进一步优化外观工艺（如消除缝隙）？"
+    ],
+    "keywords": [
+      "京东AI创造营",
+      "ococ",
+      "诺娜",
+      "AI智能吊坠",
+      "彩排",
+      "演讲",
+      "隐私保护",
+      "端侧计算",
+      "供应链",
+      "Kickstarter"
+    ]
+  }
+}

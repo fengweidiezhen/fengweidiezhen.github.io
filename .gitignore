@@ -1,0 +1,2 @@
+# Legacy monolithic index (use search-meta.json + search-index/*.json instead)
+database/**/search-index.json

@@ -1,0 +1,231 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-06-20",
+  "generated_at": "2026-06-22T11:01:16.864087+08:00",
+  "model": "qwen3.7-max-preview",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 3598,
+    "char_count": 80000,
+    "es_refreshed": true,
+    "truncated": true
+  },
+  "summary": {
+    "title": "ullAI智能吊坠新品发布会及会后交流",
+    "overview": "全天主要围绕ullAI智能吊坠新品发布会展开。上午团队进行会场布置、设备调试并与主持人及内测用户进行流程彩排。下午发布会正式开始，创始人谢博发表演讲，阐述产品“记录、理解、共生”的理念及技术优势，随后两位内测用户分享体验并进行Q&A互动。会后，谢博与投资人、媒体及同行深入交流，探讨公司架构、融资策略、供应链管理及竞品情况。晚间团队复盘当日销量，并针对供应链合作与内部管理优化进行了规划。",
+    "events": [
+      {
+        "time": "09:45",
+        "what_happened": "团队讨论PPT顺序及企业介绍视频制作，准备发布会物料。",
+        "outcome": "确定了演讲内容框架与前期准备工作。"
+      },
+      {
+        "time": "13:12",
+        "what_happened": "与主持人ore及内测用户（001号、刘先生）对稿，确认分享环节细节。",
+        "outcome": "明确了发布会各环节串词与用户分享的具体内容。"
+      },
+      {
+        "time": "14:26",
+        "what_happened": "ullAI智能吊坠新品发布会正式开始，谢博进行产品演讲。",
+        "outcome": "成功发布产品，向公众展示了端侧AI、隐私保护及无感佩戴等核心优势。"
+      },
+      {
+        "time": "15:30",
+        "what_happened": "会后与投资人叶总、媒体及同行进行深度交流。",
+        "outcome": "探讨了港股上市路径、当前VC融资环境及行业竞争格局。"
+      },
+      {
+        "time": "17:26",
+        "what_happened": "团队复盘当日销量，讨论供应链合作及内部管理调整。",
+        "outcome": "确认了销量数据，计划优化供应链报价并全面启动内部管理变革。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "产品技术与隐私保护",
+        "summary": "谢博介绍产品采用麦克风阵列与毫米波雷达，实现身心状态感知。强调数据端侧处理，不上云端，以保护用户隐私。设备续航达48小时，重量仅17克。",
+        "participants_mentioned": [
+          "谢博"
+        ],
+        "decisions_or_todos": [
+          "持续研发第二代产品，探索手链等更多元形态"
+        ]
+      },
+      {
+        "topic": "公司架构与融资策略",
+        "summary": "与叶总等交流，确认公司采用香港母公司架构，计划走港股上市路径。讨论当前VC投资逻辑偏向明星创始人，以及银行资金成本（约2-3%），认为需寻找懂资本运作的人才。",
+        "participants_mentioned": [
+          "谢博",
+          "叶总"
+        ],
+        "decisions_or_todos": [
+          "寻找懂资本和供应链的合伙人或高管加入"
+        ]
+      },
+      {
+        "topic": "供应链管理与成本控制",
+        "summary": "讨论与聂总、丹妮的合作，对丹妮“表面兄弟”的做法表示不满。强调需引入强势的供应链管理人员以控制成本，避免亏钱。",
+        "participants_mentioned": [
+          "谢博",
+          "叶总",
+          "丹妮",
+          "聂总"
+        ],
+        "decisions_or_todos": [
+          "节后向聂总询问第二批货报价，优化供应链合作模式"
+        ]
+      },
+      {
+        "topic": "团队管理与内部优化",
+        "summary": "反思前期招聘的人员不适合当前创业阶段，决定以6月20日为节点改变管理方式，引入飞书等工具提升效率，减少沟通成本。",
+        "participants_mentioned": [
+          "谢博",
+          "叶总"
+        ],
+        "decisions_or_todos": [
+          "全面推行飞书等效率工具，优化内部管理流程"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "作为创始人主导发布会演讲，介绍产品技术与理念；会后与投资人、媒体交流融资与战略；复盘销量并规划供应链与团队管理。",
+      "others_activity": "协助布置会场、对稿、接待用户；投资人叶总分享企业管理、供应链及融资经验；内测用户分享产品使用体验。",
+      "mentioned": [
+        {
+          "name_or_alias": "谢博/谢总/谢在林",
+          "context": "ullAI创始人，发表产品演讲",
+          "relation_guess": "主体用户本人"
+        },
+        {
+          "name_or_alias": "ore",
+          "context": "发布会主持人",
+          "relation_guess": "同事/合作方"
+        },
+        {
+          "name_or_alias": "叶总",
+          "context": "与谢博深入交流的投资人/企业家",
+          "relation_guess": "投资人/商业伙伴"
+        },
+        {
+          "name_or_alias": "丹妮",
+          "context": "供应链相关合作方，被评价有心计",
+          "relation_guess": "供应商/合作方"
+        },
+        {
+          "name_or_alias": "聂总",
+          "context": "工厂合作方",
+          "relation_guess": "供应商"
+        },
+        {
+          "name_or_alias": "周姐",
+          "context": "协助会场布置与接待",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "刘先生",
+          "context": "从武汉赶来的内测用户",
+          "relation_guess": "用户"
+        },
+        {
+          "name_or_alias": "001号用户",
+          "context": "喜欢爬雪山的内测用户",
+          "relation_guess": "用户"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "7月在上海举办黑客松，启动生态联盟项目",
+        "研发第二代产品，形态将更多元（如手链等）",
+        "以6月20日为节点，全面优化内部管理流程，引入飞书等工具",
+        "节后向聂总询问第二批货报价，优化供应链合作"
+      ],
+      "projects_or_business": [
+        "ullAI智能吊坠新品发布与线下销售",
+        "端侧AI算法与隐私保护技术研发",
+        "探索港股上市路径与融资"
+      ],
+      "risks_or_blockers": [
+        "当前VC投资逻辑偏向明星创始人，融资存在挑战",
+        "供应链成本控制需加强，避免亏钱",
+        "团队处于转型期，前期部分人员不匹配当前阶段需求"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "reimbursement",
+          "detail": "中午吃饭留好记录可以报销",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "budget",
+          "detail": "讨论银行资金使用成本，利率约两三个点",
+          "amount_or_terms": "2%-3%"
+        },
+        {
+          "category": "cost",
+          "detail": "讨论供应链成本控制，提到之前成本控制不好导致亏钱",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "payment",
+          "detail": "讨论给供应商付款，提到一千台再给人家钱",
+          "amount_or_terms": "1000台货款"
+        },
+        {
+          "category": "other",
+          "detail": "讨论公司销量，提到387台，以及线下销售情况",
+          "amount_or_terms": "387台"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "计划寻找懂供应链和资本运作的高管或合伙人，需要引入强势的供应链管理人员"
+        },
+        {
+          "category": "resignation",
+          "detail": "反思前期招聘的人员不适合当前创业阶段，暗示需要优化"
+        },
+        {
+          "category": "role_change",
+          "detail": "预测某人明年能当上副总裁"
+        },
+        {
+          "category": "team",
+          "detail": "决定改变管理方式，引入飞书等工具提升团队效率，以6月20日为节点改变管理方式"
+        }
+      ]
+    },
+    "open_questions": [
+      "第二代产品的具体形态与发布时间？",
+      "如何有效引入并留住懂供应链和资本的顶尖人才？",
+      "港股上市的具体时间表与路径规划？"
+    ],
+    "keywords": [
+      "ullAI",
+      "新品发布会",
+      "端侧AI",
+      "隐私保护",
+      "港股上市",
+      "供应链",
+      "成本控制",
+      "团队管理",
+      "飞书"
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-06-11",
+  "generated_at": "2026-06-22T10:36:49.630165+08:00",
+  "model": "qwen3.7-max-preview",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1722,
+    "char_count": 48987,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "北京出差与产品宣发筹备",
+    "overview": "主体用户与同伴乘机前往北京出差，途中讨论了APP新版测试、AI眼镜等产品进展。重点讨论了某候选人的薪酬谈判及前员工的财务合规风险。晚间与同伴吃火锅庆祝生日，并筹备次日的宣发活动。",
+    "events": [
+      {
+        "time": "08:00",
+        "what_happened": "开车前往机场，途中听音乐和导航。",
+        "outcome": "顺利抵达机场。"
+      },
+      {
+        "time": "09:00",
+        "what_happened": "在机场办理安检和登机手续，讨论行李箱使用周期和出差频率。",
+        "outcome": "完成登机准备。"
+      },
+      {
+        "time": "11:14",
+        "what_happened": "乘坐航班飞往北京，机上讨论产品设计、人员招聘薪酬及公司财务风险。",
+        "outcome": "明确了招聘薪酬底线和财务风险应对思路。"
+      },
+      {
+        "time": "13:28",
+        "what_happened": "抵达北京首都机场，打车前往酒店入住。",
+        "outcome": "顺利入住酒店。"
+      },
+      {
+        "time": "18:34",
+        "what_happened": "晚上外出吃火锅，同伴准备了生日蛋糕庆祝生日，讨论宣发活动邀请名单。",
+        "outcome": "确定了活动邀请人员和预算。"
+      },
+      {
+        "time": "21:10",
+        "what_happened": "返回住处，讨论身体状况及明日发布会安排。",
+        "outcome": "准备休息并为明日宣讲做准备。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "产品测试与上线",
+        "summary": "讨论APP新版上线前的翻译和排版测试，以及AI眼镜和3D打印机的产品设计。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "测试排版问题，检查一遍再上线。"
+        ]
+      },
+      {
+        "topic": "人事招聘与薪酬谈判",
+        "summary": "讨论候选人（袁姐/杨姐）的薪酬要求（期权+现金，期望15万起或2万美金），认为其要价过高且远程工作重要性不足。讨论西姐、丝番、新姐等人的工作安排。",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": [
+          "拒绝过高现金要求，维持现有期权方案，周末再聊；推进西姐和丝番的工作配合。"
+        ]
+      },
+      {
+        "topic": "公司财务与合规风险",
+        "summary": "讨论前员工（老秦、曹英文、Bob）利用公司报销和做账转移资产（白手套），存在财务合规风险。",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": [
+          "花成本抹平风险，提醒相关人员。"
+        ]
+      },
+      {
+        "topic": "宣发与活动安排",
+        "summary": "讨论邀请媒体和KOL参加宣发活动，预算控制，以及明天的发布会安排。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "控制请客预算在一两千；user准备明天的宣讲/脱口秀内容。"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "乘机前往北京，参与产品测试讨论，晚上与同伴吃火锅庆生，准备明日的宣讲/脱口秀。",
+      "others_activity": "驾驶车辆，办理登机，主导薪酬谈判讨论，分析公司财务风险，安排晚餐和生日惊喜。",
+      "mentioned": [
+        {
+          "name_or_alias": "赵新",
+          "context": "咨询技术，讨论3C认证和早期项目。",
+          "relation_guess": "行业同行/朋友"
+        },
+        {
+          "name_or_alias": "袁姐/杨姐",
+          "context": "候选人，要求期权加现金（15万起或2万美金），被认为要价过高。",
+          "relation_guess": "候选人"
+        },
+        {
+          "name_or_alias": "西姐",
+          "context": "员工/候选人，学习能力强，被安排与丝番配合。",
+          "relation_guess": "员工/同事"
+        },
+        {
+          "name_or_alias": "丝番",
+          "context": "员工，负责带西姐或确认工作。",
+          "relation_guess": "员工/同事"
+        },
+        {
+          "name_or_alias": "新姐",
+          "context": "员工，每天被推进工作。",
+          "relation_guess": "员工/同事"
+        },
+        {
+          "name_or_alias": "老秦",
+          "context": "涉嫌利用公司报销转移资产，每月拿五万港币。",
+          "relation_guess": "前员工/财务相关人员"
+        },
+        {
+          "name_or_alias": "曹英文",
+          "context": "参与做账和报销。",
+          "relation_guess": "前员工/财务"
+        },
+        {
+          "name_or_alias": "Bob",
+          "context": "参与报销和P交易。",
+          "relation_guess": "前员工/管理层"
+        },
+        {
+          "name_or_alias": "周星",
+          "context": "帮忙处理事务，落地U素材，很扛打。",
+          "relation_guess": "同事/合作伙伴"
+        },
+        {
+          "name_or_alias": "丹丽",
+          "context": "晚上需要给她改稿。",
+          "relation_guess": "同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "APP新版上线前需完成翻译和排版测试。",
+        "明日有宣发活动/发布会，邀请了媒体和KOL，预算控制在一两千。",
+        "准备产品衍生品的开发（如企业格衍生品）。"
+      ],
+      "projects_or_business": [
+        "AI眼镜",
+        "3D打印机",
+        "APP新版",
+        "智能戒指"
+      ],
+      "risks_or_blockers": [
+        "前员工/相关人员（老秦等）存在利用报销和做账转移资产的财务合规风险。",
+        "招聘中候选人对薪酬（现金+期权）期望过高。"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "salary",
+          "detail": "候选人（袁姐/杨姐）要求期权加现金，期望月薪15万起或2万美金，被认为过高。",
+          "amount_or_terms": "15万起 / 2万美金"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "讨论老秦等人利用公司报销和做账转移资产，每月从公司拿五万港币。",
+          "amount_or_terms": "五万港币/月"
+        },
+        {
+          "category": "budget",
+          "detail": "宣发活动请客吃饭预算控制在一两千，不要太贵。",
+          "amount_or_terms": "1000-2000元"
+        },
+        {
+          "category": "cost",
+          "detail": "提到明响工厂的合同不便宜，花了很多钱但东西做得不行。",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "tax",
+          "detail": "提到抵税和发票不够的问题。",
+          "amount_or_terms": "未提及"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "讨论招聘袁姐/杨姐，因其薪酬要求过高且远程工作，决定不妥协现金部分。"
+        },
+        {
+          "category": "team",
+          "detail": "安排西姐和丝番配合工作，西姐学习能力强；新姐的工作每天在推进。"
+        },
+        {
+          "category": "performance",
+          "detail": "评价周星很扛打，帮忙处理了很多事情，落地了U素材。"
+        },
+        {
+          "category": "resignation",
+          "detail": "讨论老秦、曹英文、Bob等前员工在职期间的财务违规和转移资产行为。"
+        }
+      ]
+    },
+    "open_questions": [
+      "袁姐/杨姐的最终薪酬方案是否能达成一致？",
+      "老秦等人的财务违规问题如何彻底抹平风险？"
+    ],
+    "keywords": [
+      "机场",
+      "北京",
+      "薪酬谈判",
+      "期权",
+      "财务合规",
+      "报销",
+      "AI眼镜",
+      "宣发",
+      "生日",
+      "火锅"
+    ]
+  }
+}

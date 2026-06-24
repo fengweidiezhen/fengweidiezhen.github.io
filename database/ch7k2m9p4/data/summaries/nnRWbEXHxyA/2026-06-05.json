@@ -1,0 +1,130 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-06-05",
+  "generated_at": "2026-06-07T00:33:40.677083+08:00",
+  "model": "qwen3.7-max-preview",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 108,
+    "char_count": 3323,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "数据库内存溢出导致数据丢失事故复盘及后续安排",
+    "overview": "讨论了一起因分片合并导致内存溢出、容器被 K8s 杀掉而引发的数据丢失事故。分析了单点部署未挂载数据盘的问题，并讨论了后续的备份方案、日志存储成本以及数据清洗任务的排期。",
+    "events": [
+      {
+        "time": "20:03",
+        "what_happened": "分片合并导致内存溢出，容器被 K8s 强制重启，因数据未挂载数据盘导致 ES 数据丢失。",
+        "outcome": "历史会议数据无法读取，需讨论恢复和预防方案。"
+      },
+      {
+        "time": "20:15",
+        "what_happened": "讨论后续备份策略及数据清洗任务排期。",
+        "outcome": "决定每天定时备份数据，明天加班上线数据清洗功能，并撰写事故报告。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "ES 容器内存溢出及数据丢失事故",
+        "summary": "因按15天删除历史数据，分片合并时内存挤爆，Pod 被 K8s 杀掉。由于数据未挂载到数据盘，重启后数据全部丢失，导致历史会议无法读取。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "user 要求写事故报告以避免同类问题",
+          "实施每日定时备份方案"
+        ]
+      },
+      {
+        "topic": "日志存储与数据库备份成本",
+        "summary": "讨论使用在线数据库进行备份，但其免费额度仅 500MB。按单用户一年 20MB 数据量计算，400个用户即需 8GB，免费额度远不够，超量需付费。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "先随便找个地方每天定时备份，容忍最多丢失一天数据",
+          "建议日志与业务分开存储"
+        ]
+      },
+      {
+        "topic": "数据清洗任务安排",
+        "summary": "受事故影响，调整数据清洗和安全任务的排期。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "others 明天加班先上线数据清洗功能",
+          "安全相关任务推迟到下周处理"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "询问数据丢失的具体情况和影响，计算日志存储的数据量与成本，要求撰写事故复盘报告，并安抚对方情绪。",
+      "others_activity": "详细汇报内存溢出导致数据丢失的事故经过，分析单点部署缺陷，提出每日备份方案，并安排次日加班上线数据清洗。",
+      "mentioned": [
+        {
+          "name_or_alias": "others",
+          "context": "汇报技术事故并讨论解决方案",
+          "relation_guess": "技术/运维开发人员"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "每天定时将数据备份到另一台服务器或指定位置",
+        "明天加班上线数据清洗功能",
+        "撰写事故复盘报告"
+      ],
+      "projects_or_business": [
+        "会议模块（目前海外用户不可见）",
+        "用户画像系统",
+        "数据清洗任务"
+      ],
+      "risks_or_blockers": [
+        "单点部署且数据未持久化，存在极高的数据丢失风险",
+        "在线数据库免费存储额度（500MB）无法满足业务日志增长需求"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "cost",
+          "detail": "讨论在线数据库的收费与免费额度问题。目前免费额度仅500MB，按单用户年数据量20MB计算，400用户需8GB，免费额度不足，超量需付费。",
+          "amount_or_terms": "500MB免费额度"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "如何以低成本解决日志和业务数据的长期存储问题？",
+      "如何彻底改造单点部署架构以实现数据高可用？"
+    ],
+    "keywords": [
+      "内存溢出",
+      "K8s",
+      "数据丢失",
+      "数据备份",
+      "数据清洗",
+      "存储成本",
+      "事故复盘"
+    ]
+  }
+}

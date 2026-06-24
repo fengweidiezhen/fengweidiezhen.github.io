@@ -1,0 +1,69 @@
+{
+  "user_id": "nnMxvzQSdSL",
+  "user_name": "amanda2",
+  "date": "2026-05-30",
+  "generated_at": "2026-06-01T11:42:37.048410+08:00",
+  "model": "qwen3.7-max-2026-05-17",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda2",
+    "aliases": [
+      "amanda2",
+      "amanda2"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 174,
+    "char_count": 3203,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "日常通勤与环境音记录",
+    "overview": "当日录音主要为夜间及早间的车载导航提示、网约车接单播报、音乐播放以及零碎的日常交流，未涉及任何公司业务、财务或人事相关的实质性讨论。",
+    "events": [
+      {
+        "time": "23:58",
+        "what_happened": "夜间车载环境，播放音乐及导航提示。",
+        "outcome": "无实质业务结果。"
+      },
+      {
+        "time": "09:11",
+        "what_happened": "网约车接到尾号4126的乘客，导航前往深圳湾口岸网约车下客区。",
+        "outcome": "车辆按导航指引行驶。"
+      },
+      {
+        "time": "09:30",
+        "what_happened": "抵达目的地附近，同行人员讨论携带小朋友及走人工通道过关。",
+        "outcome": "确认走人工通道。"
+      }
+    ],
+    "discussions": [],
+    "people": {
+      "subject_user_activity": "未提及明确活动，推测为乘车或处于通勤状态。",
+      "others_activity": "包含导航语音播报、网约车系统提示音、音乐播放以及司机或同行人员的零碎交流。",
+      "mentioned": []
+    },
+    "company": {
+      "plans_and_arrangements": [],
+      "projects_or_business": [],
+      "risks_or_blockers": []
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [],
+    "keywords": [
+      "通勤",
+      "导航",
+      "网约车",
+      "深圳湾口岸"
+    ]
+  }
+}

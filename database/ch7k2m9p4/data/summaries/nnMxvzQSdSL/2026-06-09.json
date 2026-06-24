@@ -1,0 +1,262 @@
+{
+  "user_id": "nnMxvzQSdSL",
+  "user_name": "amanda2",
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T18:11:43.459098+08:00",
+  "model": "qwen3.7-max-preview",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda2",
+    "aliases": [
+      "amanda2",
+      "amanda2"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1520,
+    "char_count": 55139,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-06-09 日常工作与项目推进纪要",
+    "overview": "当日主要涉及首发活动物料设计与采购、展会准备、财务报销与打款问题处理、工厂生产与采访安排对接、研发团队管理讨论以及京东等渠道的备货与动销策略规划。",
+    "events": [
+      {
+        "time": "09:30",
+        "what_happened": "user与同事讨论首发活动的设计图、文案及权益展示，确认邀请函和二维码的排版。",
+        "outcome": "确定了设计模板和内容填充方向。"
+      },
+      {
+        "time": "13:51",
+        "what_happened": "user与同事讨论展会打样及物料采购，包括发光托盘、镜子、模特脖子等。",
+        "outcome": "确认了物料的尺寸、颜色风格（大理石、暖色）及采购渠道。"
+      },
+      {
+        "time": "14:46",
+        "what_happened": "user与同事处理财务报销问题，讨论香港公司合同及两万元差额。",
+        "outcome": "决定调整报销明细或放弃部分差额以推进流程。"
+      },
+      {
+        "time": "15:03",
+        "what_happened": "user与工厂负责人电话沟通，讨论13号惠州政府采访准备、20号发布会及生产线规范。",
+        "outcome": "确认了采访稿的准备分工及后续生产包装的规范化。"
+      },
+      {
+        "time": "15:22",
+        "what_happened": "user与同事丹妮讨论研发管理问题，指出当前管理漏洞。",
+        "outcome": "提出需要引入HR或调整管理预期以应对团队扩张。"
+      },
+      {
+        "time": "17:14",
+        "what_happened": "user与同事讨论京东等渠道的备货与动销策略。",
+        "outcome": "确定了首批1700个产品的颜色分配及各渠道铺货计划。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "展会与首发活动物料准备",
+        "summary": "讨论了产品介绍排版、发光托盘、模特脖子、钥匙扣等物料的设计与采购，确认了品牌调性和尺寸。",
+        "participants_mentioned": [
+          "amanda2",
+          "丹妮",
+          "四盘"
+        ],
+        "decisions_or_todos": [
+          "确认物料尺寸和颜色风格",
+          "在1688等平台采购托盘、台灯、模特脖子等",
+          "设计并制作邀请函、KT板及二维码"
+        ]
+      },
+      {
+        "topic": "财务报销与打款",
+        "summary": "讨论了报奖和展会费用的报销问题，因缺乏香港公司合同导致两万元差额，同时跟进了一笔35万元的打款进度。",
+        "participants_mentioned": [
+          "amanda2",
+          "Inst"
+        ],
+        "decisions_or_todos": [
+          "调整报销明细或放弃两万元差额",
+          "跟进35万打款进度及银行英文名修改"
+        ]
+      },
+      {
+        "topic": "工厂生产与政府采访对接",
+        "summary": "与工厂负责人沟通13号惠州惠阳区领导的报纸采访，讨论采访稿的主体定位，并确认了20号发布会及生产线规范。",
+        "participants_mentioned": [
+          "amanda2",
+          "谢总",
+          "丹妮",
+          "文精",
+          "艾米",
+          "约总"
+        ],
+        "decisions_or_todos": [
+          "准备采访稿并突出双方合作优势",
+          "规范后续生产包装流程",
+          "确认20号发布会及21号生日安排"
+        ]
+      },
+      {
+        "topic": "研发团队管理",
+        "summary": "讨论了研发团队扩张带来的管理问题，指出当前管理人员在情绪价值提供和管理能力上的不足。",
+        "participants_mentioned": [
+          "amanda2",
+          "丹妮",
+          "开"
+        ],
+        "decisions_or_todos": [
+          "考虑引入专业HR或调整管理预期",
+          "对齐管理层预期以应对团队扩张"
+        ]
+      },
+      {
+        "topic": "渠道备货与动销策略",
+        "summary": "讨论了京东、no100、the pilot等渠道的备货计划，分析了各渠道的动销预期及成本问题。",
+        "participants_mentioned": [
+          "amanda2",
+          "露姐",
+          "mark"
+        ],
+        "decisions_or_todos": [
+          "首批1700个产品按颜色分配给各渠道",
+          "关注一代与二代产品的成本及共用件",
+          "7月1号根据动销情况备料下一批"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主导了首发活动物料设计、展会采购、财务报销处理、工厂对接及渠道备货策略的制定，并关注研发团队的管理问题。",
+      "others_activity": "协助设计排版、采购物料、处理财务流程、对接工厂生产及采访事宜，并参与渠道备货讨论。",
+      "mentioned": [
+        {
+          "name_or_alias": "丹妮",
+          "context": "参与讨论研发管理问题，协助处理采访稿及物料采购。",
+          "relation_guess": "同事/团队成员"
+        },
+        {
+          "name_or_alias": "谢总",
+          "context": "工厂方负责人或重要背书人，21号生日，参与20号发布会。",
+          "relation_guess": "合作伙伴/工厂高管"
+        },
+        {
+          "name_or_alias": "开",
+          "context": "研发管理人员，被指出在团队扩张时管理能力不足。",
+          "relation_guess": "研发负责人/同事"
+        },
+        {
+          "name_or_alias": "Inst",
+          "context": "涉及财务报销流程的人员。",
+          "relation_guess": "财务/同事"
+        },
+        {
+          "name_or_alias": "四盘",
+          "context": "负责设计工作，被提及设计邀请函等。",
+          "relation_guess": "设计师/同事"
+        },
+        {
+          "name_or_alias": "露姐",
+          "context": "涉及线下渠道合作。",
+          "relation_guess": "渠道合作伙伴"
+        },
+        {
+          "name_or_alias": "mark",
+          "context": "涉及成本问题，其负责的部分成本较高。",
+          "relation_guess": "供应商/合作伙伴"
+        },
+        {
+          "name_or_alias": "文精",
+          "context": "工厂方人员，将参与后续包装工作。",
+          "relation_guess": "工厂团队成员"
+        },
+        {
+          "name_or_alias": "艾米",
+          "context": "工厂方人员，将参与13号采访及后续包装工作。",
+          "relation_guess": "工厂团队成员"
+        },
+        {
+          "name_or_alias": "约总",
+          "context": "工厂方人员，将参与13号采访及后续包装工作。",
+          "relation_guess": "工厂团队成员"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "13号进行惠州惠阳区领导安排的报纸采访",
+        "14号产品入仓京东，13号完成生产",
+        "20号举办产品发布会",
+        "7月1号根据动销情况准备下一批备料"
+      ],
+      "projects_or_business": [
+        "首发活动及展会准备",
+        "京东、no100、the pilot等线上线下渠道铺货",
+        "一代与二代产品研发与成本优化"
+      ],
+      "risks_or_blockers": [
+        "财务报销缺乏香港公司合同导致两万元差额",
+        "研发团队扩张带来的管理漏洞及情绪价值消耗",
+        "部分供应商成本过高，占总成本三分之一",
+        "线下渠道动销周期较长，存在不确定性"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "reimbursement",
+          "detail": "报奖及展会费用报销，因缺乏香港公司合同导致两万元差额，讨论是否放弃或调整明细。",
+          "amount_or_terms": "20000元"
+        },
+        {
+          "category": "payment",
+          "detail": "跟进一笔35万元的打款进度，因其他公司卡住需等待，预计6月份发放。",
+          "amount_or_terms": "350000元"
+        },
+        {
+          "category": "cost",
+          "detail": "讨论mark负责的部分成本过高，占总成本三分之一，存在风险。",
+          "amount_or_terms": "占比1/3"
+        },
+        {
+          "category": "payment",
+          "detail": "银行打款时预留英文名与提交不一致，需联系开户行更改。",
+          "amount_or_terms": "未提及"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "team",
+          "detail": "讨论研发团队扩张带来的管理问题，指出当前管理人员在提供情绪价值和管理能力上的不足。"
+        },
+        {
+          "category": "hiring",
+          "detail": "提出需要引入专业HR来协助管理，或调整管理预期以应对团队扩张。"
+        }
+      ]
+    },
+    "open_questions": [
+      "如何解决财务报销中缺乏香港公司合同导致的两万元差额问题？",
+      "研发团队扩张后，如何有效解决管理漏洞和情绪价值消耗问题？",
+      "如何降低mark负责部分的成本，优化一代与二代产品的共用件？",
+      "线下渠道的动销情况如何，是否需要调整铺货策略？"
+    ],
+    "keywords": [
+      "首发活动",
+      "展会物料",
+      "财务报销",
+      "打款",
+      "政府采访",
+      "发布会",
+      "备货",
+      "动销",
+      "研发管理",
+      "HR",
+      "成本控制"
+    ]
+  }
+}

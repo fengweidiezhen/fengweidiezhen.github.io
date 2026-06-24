@@ -1,0 +1,94 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-06-20",
+  "generated_at": "2026-06-23T15:52:44.955157+08:00",
+  "model": "qwen3.6-35b-a3b",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 2244,
+    "char_count": 80000,
+    "es_refreshed": true,
+    "truncated": true
+  },
+  "summary": {
+    "title": "2026-06-20 企业日常对话纪要",
+    "overview": "本次转写文本主要围绕一场智能穿戴设备（智能吊坠/手环）新品发布会的筹备与产品功能演示展开。内容高度重复，核心聚焦于产品功能演示、发布会筹备细节及现场互动问答。未涉及财务、人事等常规行政事务。",
+    "events": [
+      {
+        "time": "10:11-10:45",
+        "what_happened": "会议初期进行冗长的开场与背景铺垫，内容高度重复。",
+        "outcome": "进入产品功能演示环节。"
+      },
+      {
+        "time": "10:30-17:30",
+        "what_happened": "长时间重复演示智能穿戴设备（智能吊坠/手环）的核心功能，包括语音录音、AI摘要生成、情绪/心率监测、隐私保护机制及本地化部署优势。",
+        "outcome": "完成产品核心功能演示，强调隐私安全与本地处理能力。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "智能穿戴设备核心功能演示",
+        "summary": "详细演示了智能吊坠/手环的音频录制、AI语音转文字与摘要生成、情绪与心率监测功能。重点强调了数据本地化处理与隐私保护机制，以及无需联网即可运行的本地化部署优势。",
+        "participants_mentioned": [
+          "演示人员",
+          "参会人员"
+        ],
+        "decisions_or_todos": []
+      }
+    ],
+    "people": {
+      "subject_user_activity": "未提供主体用户活动记录。",
+      "others_activity": "参与产品功能演示与技术答疑，重点关注隐私保护与本地化部署能力。",
+      "mentioned": [
+        {
+          "name_or_alias": "演示人员",
+          "context": "负责演示智能穿戴设备核心功能及技术答疑",
+          "relation_guess": "演示人员/技术人员"
+        },
+        {
+          "name_or_alias": "参会人员",
+          "context": "参与产品演示与技术答疑环节",
+          "relation_guess": "参会人员/潜在客户"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [],
+      "projects_or_business": [
+        "智能穿戴设备（智能吊坠/手环）产品研发与上市推广"
+      ],
+      "risks_or_blockers": []
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [],
+    "keywords": [
+      "智能穿戴设备",
+      "智能吊坠",
+      "智能手环",
+      "AI语音转录",
+      "情绪监测",
+      "心率监测",
+      "隐私保护",
+      "本地化部署",
+      "AI语音转录",
+      "情绪监测",
+      "心率监测"
+    ]
+  }
+}

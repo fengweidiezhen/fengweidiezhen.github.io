@@ -1,0 +1,194 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T15:57:52.140896+08:00",
+  "model": "qwen3.6-35b-a3b",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 911,
+    "char_count": 28907,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-06-23 日常会议与业务沟通纪要",
+    "overview": "主要讨论了APP端技术故障排查与优化（定位权限、耗电、自动退出）、用户运营支持SOP建立、新项目经理候选人面试评估，以及模具厂尾款支付与供应链财务对账事宜。",
+    "events": [
+      {
+        "time": "09:31",
+        "what_happened": "讨论APP界面交互与账户绑定逻辑，提出增加退出按钮及简化流程",
+        "outcome": "确定优先解决功耗问题，调整定位策略"
+      },
+      {
+        "time": "10:35",
+        "what_happened": "明确用户运营分级响应机制与工单处理流程",
+        "outcome": "制定三级响应标准与排障模板"
+      },
+      {
+        "time": "10:53",
+        "what_happened": "进行新项目经理岗位面试，评估候选人硬件量产与供应商管理经验",
+        "outcome": "确认候选人可于7月20日到岗"
+      },
+      {
+        "time": "14:09",
+        "what_happened": "核对并执行模具厂尾款支付申请，梳理历史采购与付款记录",
+        "outcome": "决定今日支付54050元尾款并盘库"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "APP技术问题排查与优化",
+        "summary": "针对固件升级失败、自动退出、高精度定位导致耗电过快等问题进行排查，决定将定位权限改为按需调用模糊定位，优先解决功耗问题。",
+        "participants_mentioned": [
+          "研发人员",
+          "测试人员"
+        ],
+        "decisions_or_todos": [
+          "修改定位策略为按需切换",
+          "更新SP排查指引",
+          "替换最新设备贴图"
+        ]
+      },
+      {
+        "topic": "用户运营与支持流程规范",
+        "summary": "建立三级响应机制，规范问题描述模板，设定每日10点与15点集中处理工单，利用AI辅助FAQ回复，竞品提问转交法务处理。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "小红"
+        ],
+        "decisions_or_todos": [
+          "输出标准排障模板",
+          "同步最新版FAQ",
+          "固定时段清理工单"
+        ]
+      },
+      {
+        "topic": "新项目PM候选人面试",
+        "summary": "评估候选人在耳机硬件量产、ODM/OEM协同、成本控制及团队管理方面的经验，确认其可于7月20日到岗。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "候选人"
+        ],
+        "decisions_or_todos": [
+          "推进录用流程",
+          "HR跟进后续事宜"
+        ]
+      },
+      {
+        "topic": "供应链财务对账与付款",
+        "summary": "梳理模具厂、包材及结构件付款状态，发现历史账单混乱，需核对银行流水与OA审批记录。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "财务对接人"
+        ],
+        "decisions_or_todos": [
+          "今日执行模具厂尾款支付",
+          "盘库统计物料成本",
+          "7月前完成全面财务清算"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主导用户运营流程制定、新PM面试、财务对账与付款审批决策",
+      "others_activity": "汇报APP技术排查进展、提供面试反馈、协助核对付款单据与系统数据",
+      "mentioned": [
+        {
+          "name_or_alias": "陈刚",
+          "context": "提及在会议中说明接口或流程相关事项",
+          "relation_guess": "研发/产品同事"
+        },
+        {
+          "name_or_alias": "小红",
+          "context": "负责用户运营与FAQ整理，参与排障模板制定",
+          "relation_guess": "运营同事"
+        },
+        {
+          "name_or_alias": "候选人",
+          "context": "面试新项目PM岗位，具耳机量产与供应链管理背景",
+          "relation_guess": "拟入职员工"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "7月生产前完成供应链财务与物料成本全面盘点",
+        "每日10:00与15:00集中处理用户工单",
+        "推进新项目PM入职流程"
+      ],
+      "projects_or_business": [
+        "第二代耳机产品研发与内外协调",
+        "APP端定位权限优化与功耗降低",
+        "用户运营三级响应体系搭建"
+      ],
+      "risks_or_blockers": [
+        "历史采购与付款记录分散混乱，影响对账效率",
+        "部分用户手机底层蓝牙配置异常导致连接问题",
+        "竞品在社群内故意提问技术细节"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "payment",
+          "detail": "模具厂尾款支付",
+          "amount_or_terms": "54050元人民币"
+        },
+        {
+          "category": "cost",
+          "detail": "包材退货与结构件结算核对",
+          "amount_or_terms": "待统计"
+        },
+        {
+          "category": "budget",
+          "detail": "壳料与充电仓物料款项未付",
+          "amount_or_terms": "待支付"
+        },
+        {
+          "category": "other",
+          "detail": "历史采购订单与银行流水交叉比对",
+          "amount_or_terms": "无"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "面试新项目PM候选人，评估硬件量产与供应商协同经验"
+        },
+        {
+          "category": "role_change",
+          "detail": "明确用户运营分级响应职责与工单处理SOP"
+        },
+        {
+          "category": "team",
+          "detail": "候选人预计7月20日到岗，负责二代产品研发协调与进销存管理"
+        }
+      ]
+    },
+    "open_questions": [
+      "历史财务单据与OA审批记录如何系统化归档以避免混乱",
+      "APP自动退出问题的根本原因是否确认为证书或底层配置问题"
+    ],
+    "keywords": [
+      "APP优化",
+      "用户运营SOP",
+      "项目经理面试",
+      "模具厂付款",
+      "供应链对账",
+      "定位权限",
+      "功耗排查"
+    ]
+  }
+}

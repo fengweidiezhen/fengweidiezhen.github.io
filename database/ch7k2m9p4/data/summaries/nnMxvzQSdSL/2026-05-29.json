@@ -1,0 +1,212 @@
+{
+  "user_id": "nnMxvzQSdSL",
+  "user_name": "amanda2",
+  "date": "2026-05-29",
+  "generated_at": "2026-06-01T11:09:16.373286+08:00",
+  "model": "qwen3.7-max-2026-05-17",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda2",
+    "aliases": [
+      "amanda2",
+      "amanda2"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 2522,
+    "char_count": 77782,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "产品包装设计与年度税务申报核对",
+    "overview": "amanda2与团队讨论了产品包装及说明书的设计细节、电商详情页制作，并花费大量时间核对和修正年度税务申报数据，同时涉及京东活动筹备、APP交互优化及行政人事安排。",
+    "events": [
+      {
+        "time": "11:35",
+        "what_happened": "讨论产品包装、说明书及二维码设计",
+        "outcome": "确定使用硬纸卡单独放置二维码，说明书采用磨砂质感。"
+      },
+      {
+        "time": "16:15",
+        "what_happened": "核对年度税务申报数据",
+        "outcome": "发现记账公司填报的研发费用和薪资数据有误，决定重新按金蝶系统数据核算。"
+      },
+      {
+        "time": "18:47",
+        "what_happened": "调整京东618活动页面设计",
+        "outcome": "确定使用京东模板，将卖点替换为抽奖和定金膨胀。"
+      },
+      {
+        "time": "21:19",
+        "what_happened": "确认包装盒认证标识",
+        "outcome": "确定添加3C、CE、Made in China及电池容量等信息，委托方为深圳雾企科技有限责任公司。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "产品包装与说明书设计",
+        "summary": "讨论二维码材质、包装袋logo比例、胶条尺寸，以及包装盒上的认证信息（3C、CE、电池容量、委托方等）和警示语。",
+        "participants_mentioned": [
+          "amanda2",
+          "谢总",
+          "四番"
+        ],
+        "decisions_or_todos": [
+          "二维码单独用硬纸卡打印",
+          "包装盒增加3岁以下儿童禁用警示语",
+          "确认委托方为深圳雾企科技有限责任公司"
+        ]
+      },
+      {
+        "topic": "年度税务申报与财务核对",
+        "summary": "5月31日截止的税务申报数据与金蝶系统不符，特别是研发人员工资、职工福利费等。发现记账公司填报有误，需重新拉取明细核算。提交时遇到系统bug。",
+        "participants_mentioned": [
+          "amanda2",
+          "引令"
+        ],
+        "decisions_or_todos": [
+          "按金蝶系统数据重新核算研发费用和薪资",
+          "将申报数据备份至Excel以防系统bug",
+          "查找24年11月20万付款的对应合同"
+        ]
+      },
+      {
+        "topic": "电商运营与京东活动",
+        "summary": "讨论京东618活动主图及详情页设计，调整利益点为抽奖和定金膨胀。回顾京东创新大赛保送决赛的内幕及采销支持。",
+        "participants_mentioned": [
+          "amanda2",
+          "谢总",
+          "龙哥"
+        ],
+        "decisions_or_todos": [
+          "主图尺寸切为750x1000",
+          "使用热力图优化详情页",
+          "跟进6月12日京东决赛事宜"
+        ]
+      },
+      {
+        "topic": "APP交互与UI优化",
+        "summary": "优化语音录入失败时的提示（改叉叉为哭脸），增加“稍后再试”选项；讨论记忆收藏功能的分类逻辑；修改声纹录入文案。",
+        "participants_mentioned": [
+          "amanda2",
+          "思远"
+        ],
+        "decisions_or_todos": [
+          "录入失败提示改为更温和的UI",
+          "声纹录入文案改为自然语速提示"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主导产品设计、财务核税、电商运营及团队管理，处理多项跨部门事务，工作强度大。",
+      "others_activity": "协助设计切图、核对财务数据、讨论产品交互，配合完成各项执行工作。",
+      "mentioned": [
+        {
+          "name_or_alias": "谢总",
+          "context": "公司技术负责人，北大背景，负责技术及部分对外宣传，与amanda2搭档。",
+          "relation_guess": "联合创始人/技术合伙人"
+        },
+        {
+          "name_or_alias": "引令",
+          "context": "负责财务核税、报税操作，遇到系统bug。",
+          "relation_guess": "财务/行政人员"
+        },
+        {
+          "name_or_alias": "四番",
+          "context": "负责设计、切图、UI调整，被评价为脾气好。",
+          "relation_guess": "设计师"
+        },
+        {
+          "name_or_alias": "龙哥",
+          "context": "京东采销，在大赛中给予支持。",
+          "relation_guess": "京东合作方/采销"
+        },
+        {
+          "name_or_alias": "赵一",
+          "context": "参与包装资料填写，被评价为很努力但不太懂设计。",
+          "relation_guess": "团队成员/运营"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "6月12日参加京东决赛",
+        "推进京东618活动上线",
+        "完善新员工入职培训流程"
+      ],
+      "projects_or_business": [
+        "oc娜智能吊坠",
+        "京东店铺装修与运营",
+        "小红书运营"
+      ],
+      "risks_or_blockers": [
+        "税务申报系统存在bug导致无法提交",
+        "前期记账公司财务数据混乱需重新梳理",
+        "包装设计需确认各项合规认证"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "tax",
+          "detail": "5月31日截止的年度税务申报，核对研发费用、工资、职工福利费等，发现记账公司数据有误需重算。",
+          "amount_or_terms": "未提及具体总额"
+        },
+        {
+          "category": "payment",
+          "detail": "查找2024年11月一笔付款的对应合同。",
+          "amount_or_terms": "200,000"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "确认晚上9点后打车可报销，加班餐报销额度。",
+          "amount_or_terms": "60元/餐"
+        },
+        {
+          "category": "budget",
+          "detail": "讨论购买苹果电脑和显示器的预算，提到教育优惠或集采。",
+          "amount_or_terms": "15,000 - 21,000"
+        },
+        {
+          "category": "salary",
+          "detail": "核对研发人员的薪资、社保、公积金以计算研发费用加计扣除。",
+          "amount_or_terms": "未提及"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "policy",
+          "detail": "发现公司缺乏系统的入职培训（onboarding process），计划让HR补充。"
+        },
+        {
+          "category": "team",
+          "detail": "讨论研发团队氛围（理工男、淳朴），评价员工的工作状态。"
+        },
+        {
+          "category": "other",
+          "detail": "讨论员工加班情况，提到引令加班到很晚，amanda2自己身兼多职。"
+        }
+      ]
+    },
+    "open_questions": [
+      "税务申报系统bug何时恢复，能否在31日前顺利提交？",
+      "24年11月20万付款的合同能否找到？",
+      "京东店铺粉丝是否需要通过第三方购买？"
+    ],
+    "keywords": [
+      "税务申报",
+      "包装设计",
+      "京东618",
+      "oc娜",
+      "研发费用",
+      "UI交互",
+      "入职培训"
+    ]
+  }
+}

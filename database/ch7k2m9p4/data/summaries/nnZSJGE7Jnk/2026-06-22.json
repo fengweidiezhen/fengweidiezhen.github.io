@@ -1,0 +1,201 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-06-22",
+  "generated_at": "2026-06-23T15:54:59.098002+08:00",
+  "model": "qwen3.6-35b-a3b",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1352,
+    "char_count": 36389,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-06-22 财务审计筹备与活动复盘纪要",
+    "overview": "团队复盘近期线下快闪活动执行情况，重点推进香港公司财务审计准备工作。会议核对采购合同总额与备用金明细，确定模具折旧计提逻辑（10%），规范库存盘点表签字流程，并按审计要求拆分研发费用科目。",
+    "events": [
+      {
+        "time": "09:28",
+        "what_happened": "讨论开发类工作安排，确认后续无需写周报，待开单后同步硬件分工",
+        "outcome": "明确开发任务对接方式"
+      },
+      {
+        "time": "10:02",
+        "what_happened": "整理活动现场物料（灯光、镜子、展架、插排等），讨论退订与归档安排",
+        "outcome": "可复用物料装箱保存，部分物品联系退货"
+      },
+      {
+        "time": "11:20",
+        "what_happened": "核对香港相关采购单与合同明细，确认总额约17万元及付款节点",
+        "outcome": "建立合同与流水匹配清单"
+      },
+      {
+        "time": "11:26",
+        "what_happened": "核对备用金转账记录，发现多转1385元需退回或冲抵",
+        "outcome": "确认退款/冲账路径"
+      },
+      {
+        "time": "19:30",
+        "what_happened": "梳理库存盘点表格式，明确盘点人、复核人、监盘人职责与签字要求",
+        "outcome": "完成盘点表模板定稿"
+      },
+      {
+        "time": "21:23",
+        "what_happened": "讨论研发费用拆分逻辑，按审计口径拆分为工资与服务费科目",
+        "outcome": "确定使用软件服务费科目编码进行账务调整"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "香港公司审计与报表编制",
+        "summary": "需按权责发生制准备五月份资产负债表与利润表，区分国内与香港账目，核对系统数据与合同流水",
+        "participants_mentioned": [
+          "财务",
+          "小林",
+          "曼"
+        ],
+        "decisions_or_todos": [
+          "先梳理业务逻辑链路再填表",
+          "按销售消耗匹配物料数量",
+          "折旧统一按10%计提"
+        ]
+      },
+      {
+        "topic": "线下活动执行反馈",
+        "summary": "复盘万象城等活动现场情况，指出部分区域客流素质差异及食物/饮用水快速消耗现象",
+        "participants_mentioned": [
+          "财务",
+          "新龙",
+          "其他同事"
+        ],
+        "decisions_or_todos": [
+          "后续活动加强现场秩序引导",
+          "优化物料采购量预估"
+        ]
+      },
+      {
+        "topic": "费用报销与科目规范",
+        "summary": "审计方要求将研发费用细化拆分，需补充软件服务费或咨询服务费科目以符合合规要求",
+        "participants_mentioned": [
+          "财务",
+          "小林"
+        ],
+        "decisions_or_todos": [
+          "按实际比例拆分工资与服务费",
+          "使用指定科目编码（如96602）入账"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主导财务数据核对、审计报表逻辑梳理、库存盘点表规范制定及备用金清算工作",
+      "others_activity": "参与活动物料整理与现场反馈，提供合同明细与折旧计算指导，协助确认费用拆分逻辑",
+      "mentioned": [
+        {
+          "name_or_alias": "谢总",
+          "context": "提及负责箱子或单据处理",
+          "relation_guess": "上级/项目负责人"
+        },
+        {
+          "name_or_alias": "小林",
+          "context": "讨论审计口径、费用拆分及盘点表签字",
+          "relation_guess": "财务/业务同事"
+        },
+        {
+          "name_or_alias": "曼",
+          "context": "核对备用金转账金额",
+          "relation_guess": "同事/对接人"
+        },
+        {
+          "name_or_alias": "新龙",
+          "context": "提及晚上去活动现场查看剩余食物",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "许丽丽",
+          "context": "提及做表或数据处理",
+          "relation_guess": "同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "完成香港公司五月份资产负债表与利润表编制",
+        "规范库存盘点表并落实三方签字流程",
+        "推进活动物料退订与归档"
+      ],
+      "projects_or_business": [
+        "万象城/科技节线下快闪活动",
+        "香港公司财务审计与合规申报",
+        "模具采购与折旧核算项目"
+      ],
+      "risks_or_blockers": [
+        "部分活动物料缺失或损坏导致盘点数据对不上",
+        "原盘点负责人已离职需补签人员",
+        "审计方对研发费用拆分口径有明确要求需尽快调整"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "payment",
+          "detail": "核对备用金转账明细，发现多转需退回或冲抵",
+          "amount_or_terms": "1385元"
+        },
+        {
+          "category": "cost",
+          "detail": "香港相关采购合同总额核对",
+          "amount_or_terms": "约17万元"
+        },
+        {
+          "category": "budget",
+          "detail": "模具资产折旧计提方案",
+          "amount_or_terms": "按10%比例计提，总额约16.7万元"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "研发费用需按审计要求拆分为工资与服务费科目",
+          "amount_or_terms": "无具体金额"
+        },
+        {
+          "category": "invoice",
+          "detail": "确认审计所需合同、流水及发票匹配逻辑",
+          "amount_or_terms": "权责发生制口径"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "role_change",
+          "detail": "库存盘点表原负责人已离职，需重新指定盘点人、复核人与监盘人"
+        }
+      ]
+    },
+    "open_questions": [
+      "审计方对研发费用拆分的具体比例是否有书面标准？",
+      "香港公司财年截止日与大陆是否一致，需向记账公司确认？",
+      "部分活动物料已损坏或遗失，盘点表账面与实际差异如何平账？"
+    ],
+    "keywords": [
+      "审计筹备",
+      "模具折旧",
+      "备用金核对",
+      "库存盘点",
+      "费用拆分",
+      "活动复盘",
+      "权责发生制",
+      "科目编码"
+    ]
+  }
+}
