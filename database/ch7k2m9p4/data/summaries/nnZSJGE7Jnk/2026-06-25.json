@@ -1,0 +1,185 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T17:06:45.685676+08:00",
+  "model": "qwen3.6-35b-a3b",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 498,
+    "char_count": 12568,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-06-25 财务工作纪要",
+    "overview": "今日上午进行设备功耗测试与日常交流，下午重点推进香港审计配合、税务申报及研发费用拆分核对。涉及报关主体变更沟通、库存单据整理、亚马逊销售数据提取及财务系统权限分配。需下周落实报关排期并解决审计提出的账务疑点。",
+    "events": [
+      {
+        "time": "09:08",
+        "what_happened": "通勤途中闲聊居住地与通勤时长，提及租房情况。",
+        "outcome": "无实质业务进展"
+      },
+      {
+        "time": "09:46",
+        "what_happened": "开展设备电池与马达功耗测试，讨论蓝牙占用与充电显示逻辑。",
+        "outcome": "完成基础版本测试，确认耗电差异"
+      },
+      {
+        "time": "16:03",
+        "what_happened": "对接外部合作意向，沟通货物报关单位变更事宜。",
+        "outcome": "初步确认需调整报关主体名称"
+      },
+      {
+        "time": "16:14",
+        "what_happened": "讨论审计配合事项，明确需整理库存单据与科目余额表。",
+        "outcome": "确定清单提交审计方排序"
+      },
+      {
+        "time": "16:20",
+        "what_happened": "核对研发费用与工资拆分明细，发现账目金额异常。",
+        "outcome": "计划向审计方补充说明或调整账目"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "香港审计与税务申报准备",
+        "summary": "审计方要求将研发费用拆分为工资与服务费，但账面工资总额已达一百零五万且每月研发相关支出约十几万，存在重复列支嫌疑。需核对原始凭证并解释数据来源。",
+        "participants_mentioned": [
+          "财务",
+          "谢总",
+          "花花"
+        ],
+        "decisions_or_todos": [
+          "整理三至五月财务数据备查",
+          "联系谢总获取系统授权",
+          "向审计方澄清工资与研发费用归属"
+        ]
+      },
+      {
+        "topic": "报关主体变更与库存管理",
+        "summary": "货物从海关送至香港中文大学报关单位，现需更改报关公司名称。同时需梳理入库、出库及退回记录，确保账实相符以应对审计。",
+        "participants_mentioned": [
+          "财务",
+          "其他同事"
+        ],
+        "decisions_or_todos": [
+          "制定报关变更时间表于下周执行",
+          "列出当前所有库存与单据清单供审计排序"
+        ]
+      },
+      {
+        "topic": "亚马逊销售数据与系统权限",
+        "summary": "核对近期销售表现，讨论亚马逊后台数据提取及深圳/香港公司账务划分问题。部分会计系统因密码或权限问题无法登录。",
+        "participants_mentioned": [
+          "财务",
+          "其他同事"
+        ],
+        "decisions_or_todos": [
+          "协调谢总开通账号权限",
+          "明确两地公司账务边界",
+          "尽快导出并清洗历史销售数据"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主导财务审计资料整理、研发费用与工资账目核对、报关变更沟通及系统权限申请。",
+      "others_activity": "参与设备测试讨论，协助提供合同与审计反馈，跟进报关排期与库存清单整理，协调系统授权。",
+      "mentioned": [
+        {
+          "name_or_alias": "刚哥",
+          "context": "通勤时闲聊对象",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "谢总",
+          "context": "需其授权登录财务系统",
+          "relation_guess": "管理层"
+        },
+        {
+          "name_or_alias": "花花",
+          "context": "国内应付会计，需处理短期账务",
+          "relation_guess": "财务人员"
+        },
+        {
+          "name_or_alias": "高律师",
+          "context": "已审阅相关欠款合同",
+          "relation_guess": "法务顾问"
+        },
+        {
+          "name_or_alias": "审计方",
+          "context": "提出研发费用拆分及单据要求",
+          "relation_guess": "外部合作方"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "下周启动报关主体信息变更流程",
+        "整理三至五月财务数据以备审计",
+        "协调系统权限分配给花花及谢总"
+      ],
+      "projects_or_business": [
+        "香港公司年度审计项目",
+        "亚马逊跨境销售数据核算",
+        "Ull品房相关业务对接"
+      ],
+      "risks_or_blockers": [
+        "研发费用与工资账目存在重复列支嫌疑，审计要求提供证据",
+        "部分财务系统账号密码失效或权限不足",
+        "深圳与香港公司账务边界需进一步厘清"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "tax",
+          "detail": "配合香港审计，审计方要求将研发费用拆分为工资与服务费，前期已支付六千元审计费。",
+          "amount_or_terms": "六千元"
+        },
+        {
+          "category": "salary",
+          "detail": "账面应付职工薪酬约一百零五万，每月研发相关支出约十四至二十几万，存在重复列支疑点，需核对原始凭证。",
+          "amount_or_terms": "约105万/月14-20余万"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "审计指出差旅费等类目录入价格偏高，需拉取过往单据逐项排查核实。",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "budget",
+          "detail": "需尽快完成三至五月财务数据出表，六月账务工作量集中。",
+          "amount_or_terms": "未提及"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "研发费用中自动弹出的每月十几万数字具体来源为何？",
+      "深圳公司与香港公司的账务划分标准如何明确？",
+      "审计方要求的工资与服务费拆分比例依据是什么？"
+    ],
+    "keywords": [
+      "香港审计",
+      "研发费用拆分",
+      "报关变更",
+      "库存盘点",
+      "系统权限",
+      "亚马逊销售",
+      "工资账目核对"
+    ]
+  }
+}

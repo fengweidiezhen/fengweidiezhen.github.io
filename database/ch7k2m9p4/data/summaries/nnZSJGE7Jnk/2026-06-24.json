@@ -1,0 +1,156 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-06-24",
+  "generated_at": "2026-06-25T17:04:29.423478+08:00",
+  "model": "qwen3.6-35b-a3b",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 273,
+    "char_count": 4786,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-06-24 日常对话纪要",
+    "overview": "全天对话主要由他人（others）发起，内容碎片化。核心围绕硬件与软件版本调试、蓝牙协议设定及功耗测试展开，穿插网络稳定性排查、行政流程沟通（发票询问、物品交接、邮箱状态确认）及非正式闲聊。转写中未记录主体用户（财务）的发言。",
+    "events": [
+      {
+        "time": "13:32",
+        "what_happened": "他人闲聊手表佩戴感受及近期社交动态",
+        "outcome": "无明确结论"
+      },
+      {
+        "time": "14:22",
+        "what_happened": "讨论将项目版本调至0%，分析3.6%与3.48%的数据偏差",
+        "outcome": "暂不强制统一数值，继续观察"
+      },
+      {
+        "time": "14:30",
+        "what_happened": "探讨自定义蓝牙协议框架及多版本兼容问题",
+        "outcome": "计划自行构建协议栈进行验证"
+      },
+      {
+        "time": "14:52",
+        "what_happened": "指导操作流程（计算电量、下载、拉高动因），回顾千台设备测试情况",
+        "outcome": "按步骤执行，关注信号响应"
+      },
+      {
+        "time": "15:16",
+        "what_happened": "询问是否需开发票，安排物品放置门口",
+        "outcome": "物品放门口即可，流程待跟进"
+      },
+      {
+        "time": "18:12",
+        "what_happened": "提及某事项被拒绝后重新发送，关联“D no plan”及十月时间节点",
+        "outcome": "计划时间可能延至十月"
+      },
+      {
+        "time": "19:03",
+        "what_happened": "抱怨网络连接质量差影响操作",
+        "outcome": "网络问题待改善"
+      },
+      {
+        "time": "19:36",
+        "what_happened": "确认对方邮箱已失效，讨论备用联系方式",
+        "outcome": "需更换有效邮箱或渠道"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "硬件与软件版本调试",
+        "summary": "讨论当前版本调整至0%后的数据表现，分析3.6%与3.48%的波动差异，排查是否为硬件或物理层异常。",
+        "participants_mentioned": [
+          "他人"
+        ],
+        "decisions_or_todos": [
+          "暂不干预数值差异，持续监测"
+        ]
+      },
+      {
+        "topic": "蓝牙协议与功耗测试",
+        "summary": "计划独立建立蓝牙协议框架，测试不同版本的兼容性；复盘千台设备初期无需额外处理但后期出现异常的原因。",
+        "participants_mentioned": [
+          "他人"
+        ],
+        "decisions_or_todos": [
+          "尝试自主构建协议栈",
+          "验证拉高信号后的设备响应"
+        ]
+      },
+      {
+        "topic": "行政与流程协调",
+        "summary": "确认发票开具需求，安排物品交接放于门口；处理被退回重发的文件，核实邮箱有效性。",
+        "participants_mentioned": [
+          "他人"
+        ],
+        "decisions_or_todos": [
+          "物品放门口即可",
+          "后续注意联系渠道有效性"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "转写文本中未记录主体用户（财务）的发言内容。",
+      "others_activity": "主导全天技术调试讨论、流程协调、网络问题反馈及少量非正式交流。",
+      "mentioned": [
+        {
+          "name_or_alias": "浩林",
+          "context": "与他人近期互动密切，一起外出活动。",
+          "relation_guess": "同事或合作伙伴"
+        },
+        {
+          "name_or_alias": "一体",
+          "context": "与浩林一同被提及参与近期活动。",
+          "relation_guess": "同事或合作伙伴"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "提及某项计划可能延至十月执行（D no plan）。"
+      ],
+      "projects_or_business": [
+        "硬件与软件版本迭代测试",
+        "蓝牙协议自定义开发",
+        "千台规模设备的前期部署与后期异常排查"
+      ],
+      "risks_or_blockers": [
+        "网络连接不稳定影响操作效率",
+        "部分人员邮箱已失效导致沟通受阻",
+        "版本数据波动原因待查"
+      ]
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "3.6%与3.48%数据偏差的具体成因",
+      "千台设备后期为何出现异常",
+      "十月计划的具体内容与执行路径",
+      "失效邮箱的替代联系方案"
+    ],
+    "keywords": [
+      "版本调试",
+      "蓝牙协议",
+      "功耗测试",
+      "网络稳定性",
+      "发票",
+      "邮箱失效",
+      "十月计划"
+    ]
+  }
+}
