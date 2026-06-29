@@ -2,7 +2,7 @@
   "user_id": "nnRWbEXHxyA",
   "user_name": "zhiyuan",
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T16:55:12.297955+08:00",
+  "generated_at": "2026-06-29T14:22:53.592931+08:00",
   "model": "qwen3.6-35b-a3b",
   "prompt_version": "v2",
   "user_profile_snapshot": {
@@ -14,162 +14,47 @@
     "how_others_call": []
   },
   "source": {
-    "item_count": 514,
-    "char_count": 15096,
+    "item_count": 1792,
+    "char_count": 57670,
     "es_refreshed": true,
     "truncated": false
   },
   "summary": {
-    "title": "日常业务沟通与转正面谈纪要",
-    "overview": "今日主要进行驾车通勤、产品打样质量讨论、供应商物料台账核对及员工转正绩效面谈。重点围绕嵌入式测试流程优化、自动化技能培养及跨部门协作提出要求，并处理了报销与物料异常事宜。",
+    "title": "日常对话纪要",
+    "overview": "本次对话主要为日常闲聊与导航语音交互，内容较为零散。主要涉及出行导航提示、日常问候、对天气/洗车时机的讨论，以及部分关于3D打印耗材、产品打样质量、个人生活琐事（如洗车、天气）的闲聊。未涉及明确的财务、人事或具体项目决策信息。",
     "events": [
       {
-        "time": "07:20",
-        "what_happened": "驾车前往深圳蜀光大厦及加油站，完成停车加油",
-        "outcome": "顺利抵达目的地并完成车辆补给"
+        "time": "07:20-07:24",
+        "what_happened": "导航语音播报出行路线，提示左转、直行、右转及红绿灯路况。",
+        "outcome": "完成出行路线引导。"
       },
       {
-        "time": "12:20",
-        "what_happened": "讨论3D打印/OC打印质量及支撑件拆除问题",
-        "outcome": "确认高质量打印需优化支撑结构工艺"
+        "time": "07:24-07:25",
+        "what_happened": "导航继续播报剩余路线，提示右转、直行及红绿灯路况。",
+        "outcome": "完成剩余路段导航引导。"
       },
       {
-        "time": "14:03",
-        "what_happened": "处理日常费用报销事宜",
-        "outcome": "完成报销流程确认"
-      },
-      {
-        "time": "16:31",
-        "what_happened": "核对供应商物料收发台账，统计不良品与代修情况",
-        "outcome": "发现数量差异，确认以实际收发记录为准"
-      },
-      {
-        "time": "16:38",
-        "what_happened": "开展员工转正绩效面谈",
-        "outcome": "完成工作评估与职业规划沟通，明确后续改进方向"
-      }
-    ],
-    "discussions": [
-      {
-        "topic": "员工转正与工作评估",
-        "summary": "肯定员工责任心与细致度，探讨新工具应用、核心职责范围及自动化测试技能提升方向。",
-        "participants_mentioned": [
-          "zhiyuan",
-          "被面谈员工"
-        ],
-        "decisions_or_todos": [
-          "员工需加强自动化测试方法与AI工具学习",
-          "管理者期望其未来能反向推动工程与产品团队优化需求"
-        ]
-      },
-      {
-        "topic": "供应商物料与质量核对",
-        "summary": "逐日核对收发记录，指出对方申报的292台未实际收到，确认实际回收数据；提及170个不良品已内部代修，后续可能向对方索赔退款。",
-        "participants_mentioned": [
-          "others"
-        ],
-        "decisions_or_todos": [
-          "差异部分由对方自行核查",
-          "不良品维修成本待后续沟通退款"
-        ]
-      },
-      {
-        "topic": "测试流程与产品逻辑优化",
-        "summary": "针对快速迭代导致的需求变更频繁、底层逻辑传达不足问题，建议测试人员提前介入了解用户体验，将反馈转化为测试要求。",
-        "participants_mentioned": [
-          "zhiyuan",
-          "others"
-        ],
-        "decisions_or_todos": [
-          "测试端需主动与产品团队沟通明确设计初衷",
-          "反向输出功能优化建议至产品与工程团队"
-        ]
+        "time": "07:25-07:26",
+        "what_happened": "导航播报剩余路线，提示右转、直行及红绿灯路况。",
+        "outcome": "完成剩余路段导航引导。"
       }
     ],
     "people": {
-      "subject_user_activity": "参与通勤导航设置，主导员工转正面谈，指导测试流程优化与技能培养，参与产品质量与物料核对讨论。",
-      "others_activity": "协助进行语音设备调试，参与产品打样质量分析，汇报供应商物料收发明细，反馈测试工作中遇到的产品逻辑理解难点。",
-      "mentioned": [
-        {
-          "name_or_alias": "赵洛斯",
-          "context": "涉及客户或合作方项目对接",
-          "relation_guess": "外部合作/客户"
-        },
-        {
-          "name_or_alias": "赵思用",
-          "context": "下周一需与其团队开会",
-          "relation_guess": "外部合作/客户"
-        },
-        {
-          "name_or_alias": "蒋尼",
-          "context": "与赵洛斯关系不佳",
-          "relation_guess": "同事/合作方"
-        },
-        {
-          "name_or_alias": "小红",
-          "context": "移动端测试协助对象",
-          "relation_guess": "内部同事"
-        }
-      ]
+      "mentioned": []
     },
+    "discussions": [],
     "company": {
-      "plans_and_arrangements": [
-        "下周一安排与赵思用团队召开会议",
-        "员工转正考核已完成，进入正式岗位阶段",
-        "测试团队需逐步建立反向推动产品与工程优化的工作机制"
-      ],
-      "projects_or_business": [
-        "嵌入式与移动端产品测试迭代",
-        "AI打印机与智能眼镜市场调研",
-        "供应商物料收发与不良品处理",
-        "客户项目（一能一百/麦乐基）跟进"
-      ],
-      "risks_or_blockers": [
-        "供应商发货数量存在账实不符（申报292台未收到）",
-        "测试环节缺乏详细的产品底层逻辑说明文档",
-        "产品迭代过快导致需求频繁变更，影响测试准备"
-      ]
+      "plans_and_arrangements": [],
+      "projects_or_business": [],
+      "risks_or_blockers": []
     },
     "finance": {
-      "mentioned": true,
-      "items": [
-        {
-          "category": "reimbursement",
-          "detail": "处理日常办公或业务相关费用报销",
-          "amount_or_terms": "未提及具体金额"
-        },
-        {
-          "category": "other",
-          "detail": "170个不良品由内部代修，计划向供应商申请退款或抵扣",
-          "amount_or_terms": "未提及具体金额"
-        }
-      ]
+      "items": []
     },
     "personnel": {
-      "mentioned": true,
-      "items": [
-        {
-          "category": "performance",
-          "detail": "开展员工转正面谈，评估其工作积极性、责任心及测试技能掌握情况"
-        },
-        {
-          "category": "role_change",
-          "detail": "明确该员工核心职责为嵌入式测试，兼顾移动端协助，鼓励向测试主管或自动化方向延伸"
-        }
-      ]
+      "items": []
     },
-    "open_questions": [
-      "供应商未收到的292台物料去向需对方核实确认",
-      "如何有效获取并传达产品底层逻辑给测试团队",
-      "自动化测试工具在实际业务中的落地路径"
-    ],
-    "keywords": [
-      "转正面谈",
-      "测试流程优化",
-      "物料核对",
-      "自动化测试",
-      "产品迭代",
-      "供应商管理"
-    ]
+    "open_questions": [],
+    "keywords": []
   }
 }

@@ -1,0 +1,211 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>Research - fengweidiezhen</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="assets/css/main.css">
+  <style>
+    .research-intro {
+      max-width: 900px;
+      margin: 0 auto 2rem auto;
+      text-align: center;
+    }
+    .research-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 2rem;
+      margin-bottom: 2.5rem;
+    }
+    @media (max-width: 980px) {
+      .research-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+    .research-card {
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      background: #fff;
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+    }
+    .research-card-header {
+      padding: 1.5rem 1.75rem 0.75rem 1.75rem;
+    }
+    .research-card-header h3 {
+      margin: 0;
+    }
+    .research-card-header p {
+      margin-top: 0.4rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+    .status-tag {
+      display: inline-block;
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      padding: 0.25rem 0.6rem;
+      border-radius: 999px;
+      margin-bottom: 0.75rem;
+    }
+    .status-accepted {
+      background: #e8f5e9;
+      color: #2e7d32;
+    }
+    .status-submitted {
+      background: #fff3e0;
+      color: #e65100;
+    }
+    .research-card-body {
+      padding: 0 1.75rem 1.5rem 1.75rem;
+      flex: 1;
+    }
+    .research-card-body ul {
+      list-style: disc;
+      padding-left: 1.25rem;
+      margin: 0.75rem 0 0 0;
+    }
+    .research-card-body li {
+      margin: 0.35rem 0;
+    }
+    .research-section {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .research-section h3 {
+      border-bottom: 2px solid rgba(0, 0, 0, 0.15);
+      padding-bottom: 0.5rem;
+      margin-bottom: 1rem;
+    }
+    .research-section ol {
+      list-style: decimal;
+      padding-left: 2rem;
+      margin: 1rem 0;
+    }
+    .research-section li {
+      margin: 0.75rem 0;
+    }
+  </style>
+</head>
+<body>
+
+  <header id="header">
+    <div class="logo"><a href="index.html">fengweidiezhen</a></div>
+    <a href="#menu">Menu</a>
+  </header>
+
+  <nav id="menu">
+    <ul class="links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="resume.html">Resume</a></li>
+      <li><a href="research.html">Research</a></li>
+      <li><a href="project.html">Projects</a></li>
+    </ul>
+  </nav>
+
+  <section id="one" class="wrapper style3">
+    <div class="inner">
+      <header class="align-center">
+        <p>Edge AI, thermal analytics & human-centered systems</p>
+        <h2>Research</h2>
+      </header>
+    </div>
+  </section>
+
+  <section id="two" class="wrapper style2">
+    <div class="inner">
+      <div class="research-intro">
+        <p>
+          Part-time Research Assistant at The Chinese University of Hong Kong.
+          My work focuses on deploying machine learning on resource-constrained edge devices
+          and designing technology for healthcare and ageing communities.
+        </p>
+      </div>
+
+      <div class="research-grid">
+        <div class="research-card">
+          <div class="research-card-header">
+            <span class="status-tag status-accepted">HotSense 2025 · Accepted</span>
+            <h3>ThermiKit</h3>
+            <p>Edge-Optimized LWIR Analytics with Agent-Driven Interactions</p>
+          </div>
+          <div class="research-card-body">
+            <p>
+              A plug-and-play thermal analytics stack integrating detection, pose estimation,
+              and tracking on low-cost LWIR cameras for real-time edge deployment.
+            </p>
+            <p><strong>My contributions:</strong></p>
+            <ul>
+              <li>Built a multi-camera thermal dataset for model training and evaluation</li>
+              <li>Fine-tuned YOLO models for detection under hardware constraints</li>
+              <li>Optimized the pipeline for real-time operation on edge devices</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="research-card">
+          <div class="research-card-header">
+            <span class="status-tag status-submitted">CHI 2026 · Submitted</span>
+            <h3>ContriCare</h3>
+            <p>Value-Driven Mutual Aid for Rural Eldercare</p>
+          </div>
+          <div class="research-card-body">
+            <p>
+              A recognition-driven help platform for rural elders, co-designed through
+              mixed-methods fieldwork on ageing communities in China.
+            </p>
+            <p><strong>My contributions:</strong></p>
+            <ul>
+              <li>Conducted mixed-methods study on rural ageing and community support</li>
+              <li>Co-designed and prototyped the ContriCare platform</li>
+              <li>Integrated smart speakers, IoT safeguards, and incentive mechanisms</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="research-section">
+        <h3>Publications</h3>
+        <ol>
+          <li>
+            Lan Zeng, Chunhao Huang, Ruihan Xie, Zhuohan Huang, Yunqi Guo, Lixing He, Zhiyuan Xie, and Guoliang Xing.
+            "ThermiKit: Edge-Optimized LWIR Analytics with Agent-Driven Interactions."
+            <em>HotSense</em>, Accepted, 2025.
+          </li>
+          <li>
+            Yunqi Guo, Lan Zeng, Zhuohan Huang, Lixing He, Yingfang Wang, Ruihan Xie, Chunhao Huang, and Guoliang Xing.
+            ""Don't Give Me Money, Give Me Meaning": Designing Value-Driven Mutual Aid for Rural Eldercare."
+            <em>CHI</em>, Submitted, 2026.
+          </li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <footer id="footer">
+    <div class="container">
+      <ul class="icons">
+        <li><a href="https://github.com/fengweidiezhen" class="icon fa-github"><span class="label">Github</span></a></li>
+        <li><a href="#" class="icon fa-wechat"><span class="label">Wechat</span></a></li>
+        <li><a href="https://www.linkedin.com/in/%E6%98%A5%E7%9A%93-%E9%BB%84-596393306/" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
+        <li><a href="mailto:fengweidiezhen@gmail.com" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+      </ul>
+    </div>
+  </footer>
+
+  <div class="copyright">
+    Made with <a href="https://templated.co/">Templated</a>.
+  </div>
+
+  <script src="assets/js/jquery.min.js"></script>
+  <script src="assets/js/jquery.scrollex.min.js"></script>
+  <script src="assets/js/skel.min.js"></script>
+  <script src="assets/js/util.js"></script>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>

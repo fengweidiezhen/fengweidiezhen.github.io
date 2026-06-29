@@ -1,0 +1,123 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-06-26",
+  "generated_at": "2026-06-29T10:04:28.964560+08:00",
+  "model": "qwen3.6-35b-a3b",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 552,
+    "char_count": 14052,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-06-26 日常对话纪要",
+    "overview": "当日对话内容较为零散，主要围绕内部系统上线后的功能验证、售后模块部署、文档打印与盖章流程测试展开。涉及部分设备电量异常排查与数据权限讨论。后半段伴有F1赛事解说及音乐背景音。未提及财务与人事相关议题。",
+    "events": [
+      {
+        "time": "14:51",
+        "what_happened": "确认系统上线状态及售后自主模块运行情况",
+        "outcome": "需关注上线后验证码校验与账户状态同步问题"
+      },
+      {
+        "time": "15:22",
+        "what_happened": "沟通物品寄送安排与时间节点",
+        "outcome": "确定需寄出文件/物品，约定晚上十点前送达"
+      },
+      {
+        "time": "17:42",
+        "what_happened": "测试打印机纸张检测与盖章流程",
+        "outcome": "发现缺纸误报，需重新调整纸张数量并补打盖章件"
+      },
+      {
+        "time": "19:01",
+        "what_happened": "探讨内部数据开放范围与接口逻辑",
+        "outcome": "确认部分数据可开放，需进一步核对调用规范"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "系统上线与售后功能验证",
+        "summary": "确认“售后自主售后”模块已部署，讨论上线后验码识别、账户异常处理及后续优化方向。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "持续监控上线后账户异常",
+          "优化验证流程"
+        ]
+      },
+      {
+        "topic": "硬件设备与耗材调试",
+        "summary": "反馈设备充电快但耗电异常，打印机出现传感器误报导致盖章文件输出中断。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "检查传感器灵敏度",
+          "补充纸张并重新打印盖章文件"
+        ]
+      },
+      {
+        "topic": "数据权限与接口对接",
+        "summary": "提及国内公司链号登录问题，讨论特定业务数据的开放范围与跨部门调用逻辑。",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": [
+          "梳理数据开放清单",
+          "明确接口调用审批流程"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与系统功能确认，反馈打印机纸张检测异常，提及个人运动心率数据。",
+      "others_activity": "主导系统上线问题排查，协调物流寄送，调试设备电量与数据权限，收听F1赛事解说。",
+      "mentioned": []
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "推进系统上线后的稳定性监控",
+        "落实文档打印与盖章流程标准化测试"
+      ],
+      "projects_or_business": [
+        "售后自主服务模块",
+        "内部数据权限开放与接口对接"
+      ],
+      "risks_or_blockers": [
+        "设备传感器误报导致打印中断",
+        "部分数据接口逻辑待厘清"
+      ]
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "打印机缺纸误报的根本原因及传感器校准方案",
+      "数据开放接口的具体审批流程与权限边界"
+    ],
+    "keywords": [
+      "系统上线",
+      "售后模块",
+      "数据权限",
+      "打印盖章",
+      "设备调试"
+    ]
+  }
+}

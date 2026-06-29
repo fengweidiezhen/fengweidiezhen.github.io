@@ -1,0 +1,175 @@
+{
+  "user_id": "nnqELYDZDwQ",
+  "user_name": "Teacher",
+  "date": "2026-06-28",
+  "generated_at": "2026-06-29T14:45:00.072695+08:00",
+  "model": "qwen3.6-flash-2026-04-16",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "Teacher",
+    "aliases": [
+      "Teacher",
+      "Teacher"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 741,
+    "char_count": 19352,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "日常外出购物聚餐与学术闲聊纪要",
+    "overview": "今日主要进行商场购物、餐饮聚餐及车内交流。讨论了服装玩具选购、烧烤点餐细节，并围绕一位临近退休的教授的工作状态、重点实验室项目申请、学术审稿工作量及其家庭生活展开交流。涉及停车费支付及个人消费。",
+    "events": [
+      {
+        "time": "16:12",
+        "what_happened": "讨论购买衣物与球类玩具，前往商场区域",
+        "outcome": "确定购物方向并分头行动"
+      },
+      {
+        "time": "16:50",
+        "what_happened": "寻找并选购球类配件，核对商品编号",
+        "outcome": "完成部分商品挑选"
+      },
+      {
+        "time": "17:02",
+        "what_happened": "提及广宇需在惠州采集数据，安排人员讲解竞赛情况",
+        "outcome": "确认由指定人员负责说明"
+      },
+      {
+        "time": "17:11",
+        "what_happened": "确认购物花费一百多元，继续逛店",
+        "outcome": "结束该区域采购"
+      },
+      {
+        "time": "18:01",
+        "what_happened": "在餐厅扫码点餐，讨论烤肉菜品分量与口味",
+        "outcome": "完成点单并开始用餐"
+      },
+      {
+        "time": "18:35",
+        "what_happened": "打包剩余食物并前往一楼结账买单",
+        "outcome": "完成餐饮结算"
+      },
+      {
+        "time": "18:50",
+        "what_happened": "乘车离开，车内播放音乐，讨论天气与基础设施",
+        "outcome": "结束外出行程"
+      },
+      {
+        "time": "19:01",
+        "what_happened": "深入交流教授退休前的工作状态、实验室项目及家庭情况",
+        "outcome": "分享学术界近况与个人见闻"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "教授工作与生活状态",
+        "summary": "讨论一位临近退休的教授仍积极参与科研，牵头国家重点实验室项目，获取政府与华威大学资金，同时全职照顾女儿并频繁带其出游。",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "学术审稿与工作量",
+        "summary": "提及部分学者审稿压力大，有人需处理六个review，另一人已完成七八个。",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "餐饮体验与对比",
+        "summary": "评价当前烤肉店菜品分量足但口味偏淡，与国内饮食习惯存在差异，建议少放调料更健康。",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "惠州数据采集安排",
+        "summary": "提到广宇计划在惠州采集数据，需安排专人进行情况说明或竞赛背景介绍。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "安排人员向广宇讲解相关情况"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与购物与聚餐，被询问是否需要买衣服，同意安排人员讲解惠州数据采集与竞赛情况。",
+      "others_activity": "主导购物决策与点餐，支付停车费，详细分享教授近况、学术审稿压力及家庭生活见闻。",
+      "mentioned": [
+        {
+          "name_or_alias": "小官",
+          "context": "同行人员，多次被呼唤协助购物与付款",
+          "relation_guess": "同行朋友/同事"
+        },
+        {
+          "name_or_alias": "鸭鸭",
+          "context": "同行人员，在车内播放音乐",
+          "relation_guess": "同行朋友/家人"
+        },
+        {
+          "name_or_alias": "广宇",
+          "context": "计划前往惠州采集数据",
+          "relation_guess": "相关项目成员"
+        },
+        {
+          "name_or_alias": "Michaelore/福利霞",
+          "context": "国内学生，曾一起唱卡拉OK",
+          "relation_guess": "教授或发言者的学生"
+        },
+        {
+          "name_or_alias": "临近退休的教授",
+          "context": "仍在牵头重点实验室项目，获政府与华威资金支持，全职照顾女儿",
+          "relation_guess": "学术界前辈/合作方"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "安排专人向广宇讲解惠州数据采集与竞赛背景"
+      ],
+      "projects_or_business": [
+        "某教授牵头的国家重点实验室申报项目"
+      ],
+      "risks_or_blockers": [
+        "学术审稿任务繁重，部分学者反馈压力明显"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "payment",
+          "detail": "停车场收费，初始金额不足后补足差价",
+          "amount_or_terms": "约两百元"
+        },
+        {
+          "category": "payment",
+          "detail": "商场购物消费",
+          "amount_or_terms": "一百多元"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [],
+    "keywords": [
+      "购物聚餐",
+      "教授近况",
+      "实验室项目",
+      "学术审稿",
+      "惠州数据采集",
+      "停车消费"
+    ]
+  }
+}

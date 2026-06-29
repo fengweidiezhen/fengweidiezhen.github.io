@@ -3,34 +3,75 @@
 	Hielo by TEMPLATED
 	templated.co @templatedco
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
---><html><head><link rel="icon" href="./favicon.ico" type="image/x-icon"><title>fengweidiezhen</title><meta charset="utf-8"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="assets/css/main.css"></head><body>
+--><html><head><link rel="icon" href="./favicon.ico" type="image/x-icon"><title>fengweidiezhen</title><meta charset="utf-8"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="assets/css/main.css"><style>
+		#one .grid-style > * {
+			display: flex;
+		}
+		#one .grid-style .box {
+			display: flex;
+			flex-direction: column;
+			width: 100%;
+			height: 100%;
+		}
+		#one .grid-style .box .image.fit {
+			height: 240px;
+			overflow: hidden;
+			margin: 0;
+			flex-shrink: 0;
+			background: #fff;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+		#one .grid-style .box .image.fit img {
+			width: auto;
+			height: auto;
+			max-width: 100%;
+			max-height: 100%;
+			object-fit: contain;
+			object-position: center;
+			display: block;
+		}
+		#one .grid-style .box .content {
+			flex: 1;
+			display: flex;
+			flex-direction: column;
+			padding: 2.5rem 2rem;
+		}
+		#one .grid-style .box .content > p {
+			flex: 1;
+			margin-bottom: 1.5rem;
+		}
+		#one .grid-style .box footer {
+			margin-top: auto;
+		}
+	</style></head><body>
 		<!-- Header -->
 			<header id="header" class="alt"><div class="logo"><a href="index.html">fengweidiezhen</a></div>
 				<a href="#menu">Menu</a>
 			</header><!-- Nav --><nav id="menu"><ul class="links"><li><a href="index.html">Home</a></li>
-					<li><a href="profile.html">Profile</a></li>
+					<li><a href="about.html">About</a></li>
 					<li><a href="resume.html">Resume</a></li>
-					<li><a href="album.html">Album</a></li>
-					<li><a href="post.html">Post</a></li>
+					<li><a href="research.html">Research</a></li>
 					<li><a href="project.html">Projects</a></li>
 				</ul></nav><!-- Banner --><section class="banner full"><article><img src="images/zeri.png" alt="" width="1440" height="961"><div class="inner">
-						<header><p>蜂围蝶阵</p>
+						<header><p>AI Engineer & Researcher</p>
 							<h2>fengweidiezhen</h2>
 						</header></div>
+				</article><article><img src="images/pikachu.jpg" alt="" width="1440" height="961"><div class="inner">
+						<header><p>Who I am</p>
+							<h2><a href="about.html" style="color: inherit; text-decoration: none;">About</a></h2>
+						</header></div>
 				</article><article><img src="images/slide02.jpg" alt="" width="1440" height="961"><div class="inner">
-						<header><p>I'm currently looking for a job in Hong Kong</p>
+						<header><p>Currently looking for opportunities in Hong Kong</p>
 							<h2><a href="resume.html" style="color: inherit; text-decoration: none;">Resume</a></h2>
 						</header></div>
-				</article><article><img src="images/lehaer_bg.png" alt="" width="1440" height="962"><div class="inner">
-						<header><p>Sort of drawing stuff</p>
-							<h2><a href="album.html" style="color: inherit; text-decoration: none;">Album</a></h2>
-						</header></div>
-				</article><article><img src="images/japan.jpg" alt="" width="1440" height="961"><div class="inner">
-						<header><p>Travel notes and thoughts</p>
-							<h2><a href="post.html" style="color: inherit; text-decoration: none;">Posts</a></h2>
+				</article><article><img src="images/cuhk_logo.png" alt="" width="1440" height="961"><div class="inner">
+						<header><p>Edge AI, thermal analytics & human-centered systems</p>
+							<h2><a href="research.html" style="color: inherit; text-decoration: none;">Research</a></h2>
 						</header></div>
 				</article><article><img src="images/slide05.jpg" alt="" width="1440" height="962"><div class="inner">
-						<header><p>Some interesting programming projects</p>
+						<header><p>Applied ML, prototypes & open-source work</p>
 							<h2><a href="project.html" style="color: inherit; text-decoration: none;">Projects</a></h2>
 						</header></div>
 				</article></section><!-- One --><section id="one" class="wrapper style2"><div class="inner">
@@ -39,12 +80,12 @@
 						<div>
 							<div class="box">
 								<div class="image fit">
-									<img src="images/profile.jpg" alt="Profile" width="600" height="300"></div>
+									<img src="images/pikachu.jpg" alt="About" width="600" height="300"></div>
 								<div class="content">
 									<header class="align-center"><p>Who I am</p>
-										<h2>Profile</h2>
-									</header><p> Get to know me: background, current work in AI, research at CUHK, and my interests from art to game development.</p>
-									<footer class="align-center"><a href="profile.html" class="button alt">View Profile</a>
+										<h2>About</h2>
+									</header><p> Background, current work in AI, research at CUHK, and how to get in touch.</p>
+									<footer class="align-center"><a href="about.html" class="button alt">View About</a>
 									</footer></div>
 							</div>
 						</div>
@@ -52,11 +93,11 @@
 						<div>
 							<div class="box">
 								<div class="image fit">
-									<img src="images/cuhk_logo.png" alt="Resume" width="600" height="300"></div>
+									<img src="images/slide02.jpg" alt="Resume" width="600" height="300"></div>
 								<div class="content">
 									<header class="align-center"><p>Experience & Education</p>
 										<h2>Resume</h2>
-									</header><p> A concise overview of my AI engineering experience, education at CUHK & Berkeley, projects, publications and skills.</p>
+									</header><p> AI engineering experience, education at CUHK & Berkeley, publications and skills. PDF available for download.</p>
 									<footer class="align-center"><a href="resume.html" class="button alt">View Resume</a>
 									</footer></div>
 							</div>
@@ -65,25 +106,12 @@
 						<div>
 							<div class="box">
 								<div class="image fit">
-									<img src="images/lehaer_bg.png" alt="Album" width="600" height="300"></div>
+									<img src="images/cuhk_logo.png" alt="Research" width="600" height="300"></div>
 								<div class="content">
-									<header class="align-center"><p>Art & illustrations</p>
-										<h2>Album</h2>
-									</header><p> A small gallery of my drawings and character art. Click any piece to see it larger with notes and drawing dates.</p>
-									<footer class="align-center"><a href="album.html" class="button alt">View Album</a>
-									</footer></div>
-							</div>
-						</div>
-
-						<div>
-							<div class="box">
-								<div class="image fit">
-									<img src="images/japan.jpg" alt="Posts" width="600" height="300"></div>
-								<div class="content">
-									<header class="align-center"><p>Travel & thoughts</p>
-										<h2>Posts</h2>
-									</header><p> Travel notes and small blog posts, starting with my trip to Tokyo (Akihabara) and more stories to come.</p>
-									<footer class="align-center"><a href="post.html" class="button alt">View Posts</a>
+									<header class="align-center"><p>ThermiKit · ContriCare</p>
+										<h2>Research</h2>
+									</header><p> Publications and research projects on edge thermal analytics and human-centered eldercare systems at CUHK.</p>
+									<footer class="align-center"><a href="research.html" class="button alt">View Research</a>
 									</footer></div>
 							</div>
 						</div>
@@ -93,9 +121,9 @@
 								<div class="image fit">
 									<img src="images/slide05.jpg" alt="Projects" width="600" height="300"></div>
 								<div class="content">
-									<header class="align-center"><p>Code & games</p>
+									<header class="align-center"><p>Applied ML & engineering</p>
 										<h2>Projects</h2>
-									</header><p> Links to my GitHub and a collection of small games and interactive projects I am building in my free time.</p>
+									</header><p> Industrial AI systems, prototypes and open-source experiments — from fall detection to emotion recognition.</p>
 									<footer class="align-center"><a href="project.html" class="button alt">View Projects</a>
 									</footer></div>
 							</div>
@@ -103,41 +131,11 @@
 
 					</div>
 				</div>
-			</section><!-- Two --><section id="two" class="wrapper style3"><div class="inner">
-					<header class="align-center"><p>Explore my work across AI, art, writing and side projects</p>
-						<h2>What you'll find here</h2>
-					</header></div>
-			</section><!-- Three --><section id="three" class="wrapper style2"><div class="inner">
-					<header class="align-center"><p class="special">A quick glimpse at some visuals from my work and hobbies</p>
-						<h2>Snapshots</h2>
-					</header><div class="gallery">
-						<div>
-							<div class="image fit">
-								<a href="#"><img src="images/pic01.jpg" alt="" width="600" height="300"></a>
-							</div>
-						</div>
-						<div>
-							<div class="image fit">
-								<a href="#"><img src="images/pic02.jpg" alt="" width="600" height="300"></a>
-							</div>
-						</div>
-						<div>
-							<div class="image fit">
-								<a href="#"><img src="images/pic03.jpg" alt="" width="600" height="300"></a>
-							</div>
-						</div>
-						<div>
-							<div class="image fit">
-								<a href="#"><img src="images/pic04.jpg" alt="" width="600" height="300"></a>
-							</div>
-						</div>
-					</div>
-				</div>
 			</section><!-- Footer --><footer id="footer"><div class="container">
 					<ul class="icons"><li><a href="https://github.com/fengweidiezhen" class="icon fa-github"><span class="label">Github</span></a></li>
 						<li><a href="#" class="icon fa-wechat"><span class="label">Wechat</span></a></li>
 						<li><a href="https://www.linkedin.com/in/%E6%98%A5%E7%9A%93-%E9%BB%84-596393306/" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
-						<li><a href="fengweidiezhen@gmail.com" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+						<li><a href="mailto:fengweidiezhen@gmail.com" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
 					</ul></div>
 			</footer><div class="copyright">
 		</div>
