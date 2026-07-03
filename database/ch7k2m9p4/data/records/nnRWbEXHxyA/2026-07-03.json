@@ -2,8 +2,8 @@
   "format_version": "1",
   "user_id": "nnRWbEXHxyA",
   "date": "2026-07-03",
-  "saved_at": "2026-07-03T15:22:23.547503+08:00",
-  "item_count": 96,
+  "saved_at": "2026-07-04T07:01:28.170668+08:00",
+  "item_count": 243,
   "items": [
     {
       "timestamp": "2026-07-03 13:12:40",
@@ -580,11 +580,893 @@
       "time_ms": 1783060060000,
       "speaker": "marker",
       "text": "--- Time: 14:27:40 ---"
+    },
+    {
+      "timestamp": "2026-07-03 16:08:40",
+      "time_ms": 1783066120390,
+      "speaker": "others",
+      "text": "应该不应该没没没没不我放地上不会装电"
+    },
+    {
+      "timestamp": "2026-07-03 16:08:40",
+      "time_ms": 1783066120390,
+      "speaker": "marker",
+      "text": "--- Time: 16:08:40 ---"
+    },
+    {
+      "timestamp": "2026-07-03 16:46:46",
+      "time_ms": 1783068406460,
+      "speaker": "user",
+      "text": "请放松状态用平日里自然聊天的语术朗读这段文字，"
+    },
+    {
+      "timestamp": "2026-07-03 16:46:46",
+      "time_ms": 1783068406460,
+      "speaker": "user",
+      "text": "你的音色语器细节都会帮助oc纳优化模型更稳定精准的识别与理解你的日常身心状态。"
+    },
+    {
+      "timestamp": "2026-07-03 16:46:46",
+      "time_ms": 1783068406460,
+      "speaker": "marker",
+      "text": "--- Time: 16:46:46 ---"
+    },
+    {
+      "timestamp": "2026-07-03 16:45:45",
+      "time_ms": 1783068345990,
+      "speaker": "user",
+      "text": "次数到底会不会增加如果不会增加的话原因是什么，"
+    },
+    {
+      "timestamp": "2026-07-03 16:45:45",
+      "time_ms": 1783068345990,
+      "speaker": "others",
+      "text": "嗯。"
+    },
+    {
+      "timestamp": "2026-07-03 16:45:45",
+      "time_ms": 1783068345990,
+      "speaker": "marker",
+      "text": "--- Time: 16:45:45 ---"
+    },
+    {
+      "timestamp": "2026-07-03 17:06:47",
+      "time_ms": 1783069607150,
+      "speaker": "others",
+      "text": "那个，"
+    },
+    {
+      "timestamp": "2026-07-03 17:06:47",
+      "time_ms": 1783069607150,
+      "speaker": "others",
+      "text": "你成功了是吧，"
+    },
+    {
+      "timestamp": "2026-07-03 17:06:47",
+      "time_ms": 1783069607150,
+      "speaker": "others",
+      "text": "他是昨天不会显示吗，"
+    },
+    {
+      "timestamp": "2026-07-03 17:06:47",
+      "time_ms": 1783069607150,
+      "speaker": "user",
+      "text": "对不利值是跟心力是绑定的嘛就是心力也是昨天，"
+    },
+    {
+      "timestamp": "2026-07-03 17:06:47",
+      "time_ms": 1783069607150,
+      "speaker": "user",
+      "text": "这个问题又出来了就是你看。"
+    },
+    {
+      "timestamp": "2026-07-03 17:06:47",
+      "time_ms": 1783069607150,
+      "speaker": "marker",
+      "text": "--- Time: 17:06:47 ---"
+    },
+    {
+      "timestamp": "2026-07-03 17:07:48",
+      "time_ms": 1783069668630,
+      "speaker": "user",
+      "text": "十三号不是他没改这个单改没改行，"
+    },
+    {
+      "timestamp": "2026-07-03 17:07:48",
+      "time_ms": 1783069668630,
+      "speaker": "user",
+      "text": "我再试一下一会。"
+    },
+    {
+      "timestamp": "2026-07-03 17:07:48",
+      "time_ms": 1783069668630,
+      "speaker": "marker",
+      "text": "--- Time: 17:07:48 ---"
+    },
+    {
+      "timestamp": "2026-07-03 17:12:48",
+      "time_ms": 1783069968870,
+      "speaker": "others",
+      "text": "不是，"
+    },
+    {
+      "timestamp": "2026-07-03 17:12:48",
+      "time_ms": 1783069968870,
+      "speaker": "others",
+      "text": "那。"
+    },
+    {
+      "timestamp": "2026-07-03 17:12:48",
+      "time_ms": 1783069968870,
+      "speaker": "marker",
+      "text": "--- Time: 17:12:48 ---"
+    },
+    {
+      "timestamp": "2026-07-03 17:15:48",
+      "time_ms": 1783070148870,
+      "speaker": "others",
+      "text": "这家收到"
+    },
+    {
+      "timestamp": "2026-07-03 17:15:48",
+      "time_ms": 1783070148870,
+      "speaker": "marker",
+      "text": "--- Time: 17:15:48 ---"
+    },
+    {
+      "timestamp": "2026-07-03 17:22:49",
+      "time_ms": 1783070569070,
+      "speaker": "others",
+      "text": "工厂那边有没有测试报告，"
+    },
+    {
+      "timestamp": "2026-07-03 17:22:49",
+      "time_ms": 1783070569070,
+      "speaker": "others",
+      "text": "说哪个工厂物起不是去继续对对。"
+    },
+    {
+      "timestamp": "2026-07-03 17:22:49",
+      "time_ms": 1783070569070,
+      "speaker": "marker",
+      "text": "--- Time: 17:22:49 ---"
+    },
+    {
+      "timestamp": "2026-07-03 17:26:49",
+      "time_ms": 1783070809840,
+      "speaker": "others",
+      "text": "那事"
+    },
+    {
+      "timestamp": "2026-07-03 17:26:49",
+      "time_ms": 1783070809840,
+      "speaker": "marker",
+      "text": "--- Time: 17:26:49 ---"
+    },
+    {
+      "timestamp": "2026-07-03 17:31:50",
+      "time_ms": 1783071110790,
+      "speaker": "user",
+      "text": "先让它下不崩然后又换到 F stock就不崩了，"
+    },
+    {
+      "timestamp": "2026-07-03 17:31:50",
+      "time_ms": 1783071110790,
+      "speaker": "others",
+      "text": "前台的公。"
+    },
+    {
+      "timestamp": "2026-07-03 17:31:50",
+      "time_ms": 1783071110790,
+      "speaker": "marker",
+      "text": "--- Time: 17:31:50 ---"
+    },
+    {
+      "timestamp": "2026-07-03 17:32:50",
+      "time_ms": 1783071170550,
+      "speaker": "others",
+      "text": "这边讲几句话看这会不会发，"
+    },
+    {
+      "timestamp": "2026-07-03 17:32:50",
+      "time_ms": 1783071170550,
+      "speaker": "user",
+      "text": "三点一点零 star版幕对一样的版板。"
+    },
+    {
+      "timestamp": "2026-07-03 17:32:50",
+      "time_ms": 1783071170550,
+      "speaker": "marker",
+      "text": "--- Time: 17:32:50 ---"
+    },
+    {
+      "timestamp": "2026-07-03 17:33:50",
+      "time_ms": 1783071230030,
+      "speaker": "others",
+      "text": "前袋闪退天刚装，"
+    },
+    {
+      "timestamp": "2026-07-03 17:33:50",
+      "time_ms": 1783071230030,
+      "speaker": "others",
+      "text": "我再去二号一个数理的，"
+    },
+    {
+      "timestamp": "2026-07-03 17:33:50",
+      "time_ms": 1783071230030,
+      "speaker": "user",
+      "text": "有数据上来但是没有击球上来是情绪，"
+    },
+    {
+      "timestamp": "2026-07-03 17:33:50",
+      "time_ms": 1783071230030,
+      "speaker": "others",
+      "text": "百。"
+    },
+    {
+      "timestamp": "2026-07-03 17:33:50",
+      "time_ms": 1783071230030,
+      "speaker": "marker",
+      "text": "--- Time: 17:33:50 ---"
+    },
+    {
+      "timestamp": "2026-07-03 17:36:50",
+      "time_ms": 1783071410030,
+      "speaker": "others",
+      "text": "你"
+    },
+    {
+      "timestamp": "2026-07-03 17:36:50",
+      "time_ms": 1783071410030,
+      "speaker": "marker",
+      "text": "--- Time: 17:36:50 ---"
+    },
+    {
+      "timestamp": "2026-07-03 18:06:56",
+      "time_ms": 1783073216770,
+      "speaker": "user",
+      "text": "哦你说你哦你说你刚给我看那个哈是啊加再加八减八，"
+    },
+    {
+      "timestamp": "2026-07-03 18:06:56",
+      "time_ms": 1783073216770,
+      "speaker": "others",
+      "text": "再去查。"
+    },
+    {
+      "timestamp": "2026-07-03 18:06:56",
+      "time_ms": 1783073216770,
+      "speaker": "marker",
+      "text": "--- Time: 18:06:56 ---"
+    },
+    {
+      "timestamp": "2026-07-03 19:13:16",
+      "time_ms": 1783077196490,
+      "speaker": "others",
+      "text": "我不"
+    },
+    {
+      "timestamp": "2026-07-03 19:13:16",
+      "time_ms": 1783077196490,
+      "speaker": "marker",
+      "text": "--- Time: 19:13:16 ---"
+    },
+    {
+      "timestamp": "2026-07-03 19:24:44",
+      "time_ms": 1783077884520,
+      "speaker": "others",
+      "text": "是"
+    },
+    {
+      "timestamp": "2026-07-03 19:24:44",
+      "time_ms": 1783077884520,
+      "speaker": "marker",
+      "text": "--- Time: 19:24:44 ---"
+    },
+    {
+      "timestamp": "2026-07-03 19:29:45",
+      "time_ms": 1783078185150,
+      "speaker": "others",
+      "text": "是"
+    },
+    {
+      "timestamp": "2026-07-03 19:29:45",
+      "time_ms": 1783078185150,
+      "speaker": "marker",
+      "text": "--- Time: 19:29:45 ---"
+    },
+    {
+      "timestamp": "2026-07-03 19:44:46",
+      "time_ms": 1783079086900,
+      "speaker": "user",
+      "text": "解决不了问题啊但是这样方便一点你用来会"
+    },
+    {
+      "timestamp": "2026-07-03 19:44:46",
+      "time_ms": 1783079086900,
+      "speaker": "marker",
+      "text": "--- Time: 19:44:46 ---"
+    },
+    {
+      "timestamp": "2026-07-03 19:48:57",
+      "time_ms": 1783079337630,
+      "speaker": "others",
+      "text": "不这"
+    },
+    {
+      "timestamp": "2026-07-03 19:48:57",
+      "time_ms": 1783079337630,
+      "speaker": "marker",
+      "text": "--- Time: 19:48:57 ---"
+    },
+    {
+      "timestamp": "2026-07-03 19:57:09",
+      "time_ms": 1783079829260,
+      "speaker": "others",
+      "text": "two"
+    },
+    {
+      "timestamp": "2026-07-03 19:57:09",
+      "time_ms": 1783079829260,
+      "speaker": "user",
+      "text": "那就只能朝着功耗方面去优化，"
+    },
+    {
+      "timestamp": "2026-07-03 19:57:09",
+      "time_ms": 1783079829260,
+      "speaker": "user",
+      "text": "号的话现在是某些安卓机型确实是太高了，"
+    },
+    {
+      "timestamp": "2026-07-03 19:57:09",
+      "time_ms": 1783079829260,
+      "speaker": "user",
+      "text": "还有一个为啥说S 稳定性我我今天，"
+    },
+    {
+      "timestamp": "2026-07-03 19:57:09",
+      "time_ms": 1783079829260,
+      "speaker": "user",
+      "text": "待了一两天就一个球，"
+    },
+    {
+      "timestamp": "2026-07-03 19:57:09",
+      "time_ms": 1783079829260,
+      "speaker": "others",
+      "text": "你看至少这些时间都是有的嘛。"
+    },
+    {
+      "timestamp": "2026-07-03 19:57:09",
+      "time_ms": 1783079829260,
+      "speaker": "marker",
+      "text": "--- Time: 19:57:09 ---"
+    },
+    {
+      "timestamp": "2026-07-03 19:56:09",
+      "time_ms": 1783079769380,
+      "speaker": "others",
+      "text": "但是很奇怪呀，"
+    },
+    {
+      "timestamp": "2026-07-03 19:56:09",
+      "time_ms": 1783079769380,
+      "speaker": "user",
+      "text": "你想现在总共才多少个用户，"
+    },
+    {
+      "timestamp": "2026-07-03 19:56:09",
+      "time_ms": 1783079769380,
+      "speaker": "user",
+      "text": "这是反馈过人的。"
+    },
+    {
+      "timestamp": "2026-07-03 19:56:09",
+      "time_ms": 1783079769380,
+      "speaker": "marker",
+      "text": "--- Time: 19:56:09 ---"
+    },
+    {
+      "timestamp": "2026-07-03 19:55:10",
+      "time_ms": 1783079710510,
+      "speaker": "others",
+      "text": "概率不低啊，"
+    },
+    {
+      "timestamp": "2026-07-03 19:55:10",
+      "time_ms": 1783079710510,
+      "speaker": "others",
+      "text": "现在这样子我看到几个是，"
+    },
+    {
+      "timestamp": "2026-07-03 19:55:10",
+      "time_ms": 1783079710510,
+      "speaker": "others",
+      "text": "啥都看不出我也看了，"
+    },
+    {
+      "timestamp": "2026-07-03 19:55:10",
+      "time_ms": 1783079710510,
+      "speaker": "others",
+      "text": "我我知道我也看看不出来就，"
+    },
+    {
+      "timestamp": "2026-07-03 19:55:10",
+      "time_ms": 1783079710510,
+      "speaker": "others",
+      "text": "点算其这些我觉得都。"
+    },
+    {
+      "timestamp": "2026-07-03 19:55:10",
+      "time_ms": 1783079710510,
+      "speaker": "marker",
+      "text": "--- Time: 19:55:10 ---"
+    },
+    {
+      "timestamp": "2026-07-03 19:58:09",
+      "time_ms": 1783079889100,
+      "speaker": "user",
+      "text": "明显的能感觉到今天有一些时间他是没处理的情也没更新最数也没更新，"
+    },
+    {
+      "timestamp": "2026-07-03 19:58:09",
+      "time_ms": 1783079889100,
+      "speaker": "user",
+      "text": "至少是字数没更新那个那些没更新然后我下那个三点一点四版本的时候声文也录不了，"
+    },
+    {
+      "timestamp": "2026-07-03 19:58:09",
+      "time_ms": 1783079889100,
+      "speaker": "user",
+      "text": "但是我后面再复现也复现不出来了，"
+    },
+    {
+      "timestamp": "2026-07-03 19:58:09",
+      "time_ms": 1783079889100,
+      "speaker": "others",
+      "text": "天还挺多的，"
+    },
+    {
+      "timestamp": "2026-07-03 19:58:09",
+      "time_ms": 1783079889100,
+      "speaker": "others",
+      "text": "就很多问题是偶合在一块的。"
+    },
+    {
+      "timestamp": "2026-07-03 19:58:09",
+      "time_ms": 1783079889100,
+      "speaker": "marker",
+      "text": "--- Time: 19:58:09 ---"
+    },
+    {
+      "timestamp": "2026-07-03 20:07:11",
+      "time_ms": 1783080431960,
+      "speaker": "others",
+      "text": "搁没，"
+    },
+    {
+      "timestamp": "2026-07-03 20:07:11",
+      "time_ms": 1783080431960,
+      "speaker": "others",
+      "text": "今天的了，"
+    },
+    {
+      "timestamp": "2026-07-03 20:07:11",
+      "time_ms": 1783080431960,
+      "speaker": "others",
+      "text": "九点就这些，"
+    },
+    {
+      "timestamp": "2026-07-03 20:07:11",
+      "time_ms": 1783080431960,
+      "speaker": "others",
+      "text": "十三加八嘛九点哦，"
+    },
+    {
+      "timestamp": "2026-07-03 20:07:11",
+      "time_ms": 1783080431960,
+      "speaker": "user",
+      "text": "好密度比较那有丢吗丢了是几点九点之后啊九后密，"
+    },
+    {
+      "timestamp": "2026-07-03 20:07:11",
+      "time_ms": 1783080431960,
+      "speaker": "user",
+      "text": "对吧你看我这没断的这没断，"
+    },
+    {
+      "timestamp": "2026-07-03 20:07:11",
+      "time_ms": 1783080431960,
+      "speaker": "others",
+      "text": "字数统进了里，"
+    },
+    {
+      "timestamp": "2026-07-03 20:07:11",
+      "time_ms": 1783080431960,
+      "speaker": "user",
+      "text": "六六八七嘛昨天的就是总一计设点没有。"
+    },
+    {
+      "timestamp": "2026-07-03 20:07:11",
+      "time_ms": 1783080431960,
+      "speaker": "marker",
+      "text": "--- Time: 20:07:11 ---"
+    },
+    {
+      "timestamp": "2026-07-03 20:08:11",
+      "time_ms": 1783080491070,
+      "speaker": "user",
+      "text": "不想八点到九点直接是零九点到十点十九，"
+    },
+    {
+      "timestamp": "2026-07-03 20:08:11",
+      "time_ms": 1783080491070,
+      "speaker": "user",
+      "text": "你感信我一天只有一个球，"
+    },
+    {
+      "timestamp": "2026-07-03 20:08:11",
+      "time_ms": 1783080491070,
+      "speaker": "user",
+      "text": "看下沙河里边有没有数据，"
+    },
+    {
+      "timestamp": "2026-07-03 20:08:11",
+      "time_ms": 1783080491070,
+      "speaker": "others",
+      "text": "定。"
+    },
+    {
+      "timestamp": "2026-07-03 20:08:11",
+      "time_ms": 1783080491070,
+      "speaker": "marker",
+      "text": "--- Time: 20:08:11 ---"
+    },
+    {
+      "timestamp": "2026-07-03 20:09:11",
+      "time_ms": 1783080551190,
+      "speaker": "user",
+      "text": "没有缓全数据"
+    },
+    {
+      "timestamp": "2026-07-03 20:09:11",
+      "time_ms": 1783080551190,
+      "speaker": "marker",
+      "text": "--- Time: 20:09:11 ---"
+    },
+    {
+      "timestamp": "2026-07-03 20:10:11",
+      "time_ms": 1783080611190,
+      "speaker": "others",
+      "text": "那数于就是丢了嘛"
+    },
+    {
+      "timestamp": "2026-07-03 20:10:11",
+      "time_ms": 1783080611190,
+      "speaker": "marker",
+      "text": "--- Time: 20:10:11 ---"
+    },
+    {
+      "timestamp": "2026-07-03 20:12:11",
+      "time_ms": 1783080731430,
+      "speaker": "user",
+      "text": "昨天早上就更了对啊，"
+    },
+    {
+      "timestamp": "2026-07-03 20:12:11",
+      "time_ms": 1783080731430,
+      "speaker": "user",
+      "text": "下午下午出现有什么问题的出现平繁的给我出半个多月前的数据，"
+    },
+    {
+      "timestamp": "2026-07-03 20:12:11",
+      "time_ms": 1783080731430,
+      "speaker": "others",
+      "text": "再测一测就个吧。"
+    },
+    {
+      "timestamp": "2026-07-03 20:12:11",
+      "time_ms": 1783080731430,
+      "speaker": "marker",
+      "text": "--- Time: 20:12:11 ---"
+    },
+    {
+      "timestamp": "2026-07-03 20:13:11",
+      "time_ms": 1783080791550,
+      "speaker": "user",
+      "text": "这边有个用户他基本上，"
+    },
+    {
+      "timestamp": "2026-07-03 20:13:11",
+      "time_ms": 1783080791550,
+      "speaker": "user",
+      "text": "不知道是因为他经常用气声说话还是怎么着他有时候很夸张待一两天之后下来自度是零。"
+    },
+    {
+      "timestamp": "2026-07-03 20:13:11",
+      "time_ms": 1783080791550,
+      "speaker": "marker",
+      "text": "--- Time: 20:13:11 ---"
+    },
+    {
+      "timestamp": "2026-07-03 20:34:14",
+      "time_ms": 1783082054090,
+      "speaker": "user",
+      "text": "这个电量吧我今天虽然确实没多少内容吧，"
+    },
+    {
+      "timestamp": "2026-07-03 20:34:14",
+      "time_ms": 1783082054090,
+      "speaker": "user",
+      "text": "到现在为止我靠刚才还是百分之九左右，"
+    },
+    {
+      "timestamp": "2026-07-03 20:34:14",
+      "time_ms": 1783082054090,
+      "speaker": "user",
+      "text": "这会说话稍微多一点就白分大杀了，"
+    },
+    {
+      "timestamp": "2026-07-03 20:34:14",
+      "time_ms": 1783082054090,
+      "speaker": "others",
+      "text": "任重而道也，"
+    },
+    {
+      "timestamp": "2026-07-03 20:34:14",
+      "time_ms": 1783082054090,
+      "speaker": "others",
+      "text": "再看一下有哪些，"
+    },
+    {
+      "timestamp": "2026-07-03 20:34:14",
+      "time_ms": 1783082054090,
+      "speaker": "user",
+      "text": "大家刚才讲的话可能，"
+    },
+    {
+      "timestamp": "2026-07-03 20:34:14",
+      "time_ms": 1783082054090,
+      "speaker": "others",
+      "text": "对吧我在后台，"
+    },
+    {
+      "timestamp": "2026-07-03 20:34:14",
+      "time_ms": 1783082054090,
+      "speaker": "others",
+      "text": "感觉在后台他好像不怎么这个什发生么，"
+    },
+    {
+      "timestamp": "2026-07-03 20:34:14",
+      "time_ms": 1783082054090,
+      "speaker": "user",
+      "text": "刚才我说那些话少说有一千字了吧。"
+    },
+    {
+      "timestamp": "2026-07-03 20:34:14",
+      "time_ms": 1783082054090,
+      "speaker": "marker",
+      "text": "--- Time: 20:34:14 ---"
+    },
+    {
+      "timestamp": "2026-07-03 20:35:14",
+      "time_ms": 1783082114210,
+      "speaker": "user",
+      "text": "你看我一到前台对啊我就这感觉在后台，"
+    },
+    {
+      "timestamp": "2026-07-03 20:35:14",
+      "time_ms": 1783082114210,
+      "speaker": "others",
+      "text": "后台他不不 work，"
+    },
+    {
+      "timestamp": "2026-07-03 20:35:14",
+      "time_ms": 1783082114210,
+      "speaker": "user",
+      "text": "只有在前台你看我我现在说话的方式我带的位置什么的没有任何差别没有对，"
+    },
+    {
+      "timestamp": "2026-07-03 20:35:14",
+      "time_ms": 1783082114210,
+      "speaker": "user",
+      "text": "把这个现象反馈给一成再想想看怎么做，"
+    },
+    {
+      "timestamp": "2026-07-03 20:35:14",
+      "time_ms": 1783082114210,
+      "speaker": "user",
+      "text": "这种情况的话，"
+    },
+    {
+      "timestamp": "2026-07-03 20:35:14",
+      "time_ms": 1783082114210,
+      "speaker": "user",
+      "text": "本来今天早上开会的时候我不是还说什么发发板我问这个绝对发不了了，"
+    },
+    {
+      "timestamp": "2026-07-03 20:35:14",
+      "time_ms": 1783082114210,
+      "speaker": "user",
+      "text": "而且你看刚才放在后台功耗还是相当，"
+    },
+    {
+      "timestamp": "2026-07-03 20:35:14",
+      "time_ms": 1783082114210,
+      "speaker": "others",
+      "text": "相当，"
+    },
+    {
+      "timestamp": "2026-07-03 20:35:14",
+      "time_ms": 1783082114210,
+      "speaker": "others",
+      "text": "吓人的。"
+    },
+    {
+      "timestamp": "2026-07-03 20:35:14",
+      "time_ms": 1783082114210,
+      "speaker": "marker",
+      "text": "--- Time: 20:35:14 ---"
+    },
+    {
+      "timestamp": "2026-07-03 20:46:15",
+      "time_ms": 1783082775300,
+      "speaker": "others",
+      "text": "对吧，"
+    },
+    {
+      "timestamp": "2026-07-03 20:46:15",
+      "time_ms": 1783082775300,
+      "speaker": "user",
+      "text": "这个问题反馈反馈给肖红我下午反馈给他他没复现出来，"
+    },
+    {
+      "timestamp": "2026-07-03 20:46:15",
+      "time_ms": 1783082775300,
+      "speaker": "others",
+      "text": "你是自己装的是吧，"
+    },
+    {
+      "timestamp": "2026-07-03 20:46:15",
+      "time_ms": 1783082775300,
+      "speaker": "others",
+      "text": "我现在可以了，"
+    },
+    {
+      "timestamp": "2026-07-03 20:46:15",
+      "time_ms": 1783082775300,
+      "speaker": "others",
+      "text": "嗯，"
+    },
+    {
+      "timestamp": "2026-07-03 20:46:15",
+      "time_ms": 1783082775300,
+      "speaker": "user",
+      "text": "是换成那个三点一点零之后就是版本就OK了我现在再试一下，"
+    },
+    {
+      "timestamp": "2026-07-03 20:46:15",
+      "time_ms": 1783082775300,
+      "speaker": "user",
+      "text": "请放松状态用平日里自然聊天的语书朗读这段文字你的音色与其细节。"
+    },
+    {
+      "timestamp": "2026-07-03 20:46:15",
+      "time_ms": 1783082775300,
+      "speaker": "marker",
+      "text": "--- Time: 20:46:15 ---"
+    },
+    {
+      "timestamp": "2026-07-03 20:57:55",
+      "time_ms": 1783083475810,
+      "speaker": "user",
+      "text": "他把E放到这个盒子里头，"
+    },
+    {
+      "timestamp": "2026-07-03 20:57:55",
+      "time_ms": 1783083475810,
+      "speaker": "user",
+      "text": "对盒子里边这充垫盒里的离开盒子不行你如果带着耳器没戴盒子就不行对，"
+    },
+    {
+      "timestamp": "2026-07-03 20:57:55",
+      "time_ms": 1783083475810,
+      "speaker": "others",
+      "text": "然后，"
+    },
+    {
+      "timestamp": "2026-07-03 20:57:55",
+      "time_ms": 1783083475810,
+      "speaker": "user",
+      "text": "为啥跟你说我其实觉得在现阶段我们的这个，"
+    },
+    {
+      "timestamp": "2026-07-03 20:57:55",
+      "time_ms": 1783083475810,
+      "speaker": "user",
+      "text": "对你你加了多少，"
+    },
+    {
+      "timestamp": "2026-07-03 20:57:55",
+      "time_ms": 1783083475810,
+      "speaker": "user",
+      "text": "一八六到四五八那是加了的五九幺九，"
+    },
+    {
+      "timestamp": "2026-07-03 20:57:55",
+      "time_ms": 1783083475810,
+      "speaker": "others",
+      "text": "家 What can I say，"
+    },
+    {
+      "timestamp": "2026-07-03 20:57:55",
+      "time_ms": 1783083475810,
+      "speaker": "others",
+      "text": "是S 问题的。"
+    },
+    {
+      "timestamp": "2026-07-03 20:57:55",
+      "time_ms": 1783083475810,
+      "speaker": "marker",
+      "text": "--- Time: 20:57:55 ---"
+    },
+    {
+      "timestamp": "2026-07-03 20:58:55",
+      "time_ms": 1783083535890,
+      "speaker": "user",
+      "text": "你看一下你刚才截的那个图你看我一一到前台就开始动一到前就开始你不是从一百多加八一八十六加到四百多，"
+    },
+    {
+      "timestamp": "2026-07-03 20:58:55",
+      "time_ms": 1783083535890,
+      "speaker": "user",
+      "text": "我是九幺九对九幺九到九幺九嗯，"
+    },
+    {
+      "timestamp": "2026-07-03 20:58:55",
+      "time_ms": 1783083535890,
+      "speaker": "user",
+      "text": "为啥我说我们其实现在这个方案，"
+    },
+    {
+      "timestamp": "2026-07-03 20:58:55",
+      "time_ms": 1783083535890,
+      "speaker": "user",
+      "text": "就算不是最优的也是也算次优的他跟我们一模一样，"
+    },
+    {
+      "timestamp": "2026-07-03 20:58:55",
+      "time_ms": 1783083535890,
+      "speaker": "user",
+      "text": "理想的已经够密了，"
+    },
+    {
+      "timestamp": "2026-07-03 20:58:55",
+      "time_ms": 1783083535890,
+      "speaker": "others",
+      "text": "五线，"
+    },
+    {
+      "timestamp": "2026-07-03 20:58:55",
+      "time_ms": 1783083535890,
+      "speaker": "user",
+      "text": "硬件的底层技术站和软件的这块基本上一样，"
+    },
+    {
+      "timestamp": "2026-07-03 20:58:55",
+      "time_ms": 1783083535890,
+      "speaker": "user",
+      "text": "他端测做了一部分然后为了保证它极地的是延时就是这边光帆的眼镜就光翻的耳机你问他一个他大概要反应个五六七八秒然后是网络情况了有时候网络。"
+    },
+    {
+      "timestamp": "2026-07-03 20:58:55",
+      "time_ms": 1783083535890,
+      "speaker": "marker",
+      "text": "--- Time: 20:58:55 ---"
     }
   ],
   "source": {
     "type": "elasticsearch",
     "environment": "baidu_release",
-    "fetched_at": "2026-07-03T15:22:23.547503+08:00"
+    "fetched_at": "2026-07-04T07:01:28.170668+08:00"
   }
 }
