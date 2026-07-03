@@ -1,0 +1,193 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-07-02",
+  "generated_at": "2026-07-03T15:21:40.973586+08:00",
+  "model": "qwen3.6-flash-2026-04-16",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1003,
+    "char_count": 32906,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-02 产品与研发日常沟通纪要",
+    "overview": "围绕App功能迭代（心情球、数据上报、UI布局）、AI个人助手系统架构设计、硬件麦克风降噪与固件问题排查展开讨论。同步了香港出差办事路线与报销安排，并探讨了基于用户数据的开放平台商业模式。",
+    "events": [
+      {
+        "time": "09:31",
+        "what_happened": "讨论版本发布排期，计划本周五调整，下周一推向市场，需完成测试环境跑测",
+        "outcome": "确定开发优先级与测试节奏"
+      },
+      {
+        "time": "10:07",
+        "what_happened": "确认“心情球”核心地位，规划其信息展示位置与动态交互逻辑",
+        "outcome": "明确心情球作为独立模块置于个人资料与资料库之间"
+      },
+      {
+        "time": "14:58",
+        "what_happened": "规划前往香港办理手续的路线，建议从深圳湾口岸过关，打车至将军澳取件",
+        "outcome": "明确交通方案与下午两点前返回的要求"
+      },
+      {
+        "time": "15:06",
+        "what_happened": "深入探讨AI个人助手底层架构，明确数据库暴露方式与用户模型调用方案",
+        "outcome": "决定采用本地数据库+外部模型调用的架构，确保数据隐私"
+      },
+      {
+        "time": "16:32",
+        "what_happened": "调整心跳检测机制至十五分钟间隔，优化离线判定逻辑",
+        "outcome": "将连续三次心跳缺失作为离线判断标准"
+      },
+      {
+        "time": "19:46",
+        "what_happened": "分析双麦克风物理布局对降噪算法的限制，提出二代产品改进方向",
+        "outcome": "一代维持现状，二代需重新规划麦克风位置"
+      },
+      {
+        "time": "20:00",
+        "what_happened": "探讨商业化路径，计划推出订阅制服务，构建开放平台支持数字分身训练",
+        "outcome": "确立以数据处理和开放接口为核心的长期战略"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "心情球与UI交互设计",
+        "summary": "确定心情球为独立核心模块，一期实现关键词匹配搜索，二期增加主动推送；新消息需通过动态动效提醒，避免干扰主流程。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "按两期规划开发",
+          "优先保障当前页面体验",
+          "设计动态更新动效"
+        ]
+      },
+      {
+        "topic": "数据上报延迟与后台保活",
+        "summary": "排查历史数据延迟上报问题，确认非网络断开导致，疑似设备端缓存或APP卸载重装触发回刷；讨论后台运行时的耗电统计偏差及蓝牙断连杀进程现象。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "优化心跳检测逻辑",
+          "尝试重启断连解决保活问题",
+          "核实后台耗电统计口径"
+        ]
+      },
+      {
+        "topic": "AI助手系统与数据架构",
+        "summary": "评估现有总结归纳能力，讨论将数据库以API形式暴露给第三方商用模型，确保数据留存本地且仅用户可访问；明确暂不支持反向写入。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "采用本地数据库+外部模型调用架构",
+          "优先保证数据安全与隐私",
+          "暂不开放数据写回权限"
+        ]
+      },
+      {
+        "topic": "硬件麦克风降噪与产品演进",
+        "summary": "指出当前双麦间距过近导致声波相位差小，定向降噪效果有限；对比竞品录音笔的独立降噪芯片方案。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "一代维持现状",
+          "二代工业设计需重新规划麦克风位置"
+        ]
+      },
+      {
+        "topic": "香港出差行程协调",
+        "summary": "协调团队成员前往香港办理手续，详细规划深圳湾口岸过关、乘公交地铁及打车取件的路线。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "一婷",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "统一从深圳湾口岸出发",
+          "控制预算并提交打车报销",
+          "确保下午两点前返岗"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与产品功能评审、技术架构讨论、硬件问题排查，提供香港出差路线指导，解答AI系统数据流向疑问。",
+      "others_activity": "汇报测试进度与数据异常，提出UI交互建议，分析麦克风物理限制，探讨商业模式与开放平台构想。",
+      "mentioned": [
+        {
+          "name_or_alias": "一婷",
+          "context": "协助安排香港行程，需同步路线信息",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "测试同事",
+          "context": "负责模块测试与压测反馈",
+          "relation_guess": "测试人员"
+        },
+        {
+          "name_or_alias": "后端同事",
+          "context": "需配合核查数据上报记录与日志",
+          "relation_guess": "研发人员"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "下周一推进新版本上市",
+        "调整心跳检测至十五分钟间隔",
+        "规划香港出差路线并要求两点前返岗"
+      ],
+      "projects_or_business": [
+        "心情球功能两期迭代开发",
+        "AI个人助手数据库架构搭建",
+        "开放平台与数字分身训练探索"
+      ],
+      "risks_or_blockers": [
+        "历史数据延迟上报原因待查",
+        "双麦克风物理间距限制降噪算法效果",
+        "后台运行易被系统策略杀进程"
+      ]
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "延迟上报的历史数据具体触发机制是什么？",
+      "如何在不依赖重启的情况下彻底解决后台保活问题？",
+      "二代产品麦克风布局的具体设计方案何时确定？"
+    ],
+    "keywords": [
+      "心情球",
+      "数据上报延迟",
+      "后台保活",
+      "AI个人助手",
+      "数据库架构",
+      "语音降噪",
+      "数字分身",
+      "香港出差",
+      "固件升级",
+      "开放平台"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T17:26:14.075877+08:00",
+  "model": "qwen3.6-flash-2026-04-16",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 230,
+    "char_count": 4406,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-01 日常对话纪要",
+    "overview": "转写内容较碎片化，主要包含地铁通勤广播、音乐闲聊、设备调试讨论及少量业务沟通。涉及事项处理协商、金额核对及工作交接确认，未明确提及具体财务与人事安排。",
+    "events": [
+      {
+        "time": "09:06",
+        "what_happened": "地铁通勤广播播放与音乐话题闲聊",
+        "outcome": "无明确业务结果"
+      },
+      {
+        "time": "09:55",
+        "what_happened": "讨论充电板激活逻辑与设备全模式设置",
+        "outcome": "初步确认可使用全模式，但需验证外部接口接入后的检测逻辑"
+      },
+      {
+        "time": "14:15",
+        "what_happened": "user参与某公司事项沟通，讨论处理方案",
+        "outcome": "对方表示若不行可退回重看或重新处理"
+      },
+      {
+        "time": "14:18",
+        "what_happened": "核对金额“零点六八/六毛八”及相关流程",
+        "outcome": "完成基础数据确认"
+      },
+      {
+        "time": "17:08",
+        "what_happened": "确认签字流程与工作接手事宜",
+        "outcome": "明确暂不需签字，待确认接手与审批权限"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "设备模式与接口检测",
+        "summary": "探讨充电板默认激活机制、全模式适用性及外部基合接入后的端口检测方案",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": [
+          "需进一步确认高口是否支持直接检测并过滤过时数据"
+        ]
+      },
+      {
+        "topic": "业务异常处理与交接",
+        "summary": "针对某公司事项进行协商，涉及退款/重看选项、小额金额核对及后续签字与接手流程",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "暂不强制签字，明确接手条件与监管要求后再推进"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "于14:15左右介入对话，就某公司事项提出搁置或退回的处理建议",
+      "others_activity": "主导全天多数对话，涵盖通勤环境音、设备技术排查、金额核对及交接流程确认",
+      "mentioned": []
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "确认工作接手的具体流程与审批/监管标准"
+      ],
+      "projects_or_business": [
+        "某公司相关事项的异常处理与退款/重看协商"
+      ],
+      "risks_or_blockers": [
+        "外部基合接入后的接口检测逻辑尚未明确，可能影响后续测试"
+      ]
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "外部基合接入后的高口检测逻辑是否支持直接过滤过时数据？",
+      "工作接手的具体审批与监管标准为何？"
+    ],
+    "keywords": [
+      "设备调试",
+      "接口检测",
+      "工作交接",
+      "异常处理",
+      "通勤闲聊"
+    ]
+  }
+}

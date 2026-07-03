@@ -1,0 +1,154 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T15:25:30.419511+08:00",
+  "model": "qwen3.6-flash-2026-04-16",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 342,
+    "char_count": 7722,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-03 日常对话纪要：邻里安全事件、技术调试与工资核算",
+    "overview": "今日主要围绕凌晨遭遇醉酒邻居扰民的安全事件展开讨论，确认后续应对策略；期间进行系统数据同步、版本控制与环境切换的技术调试；下午涉及工资发放流程与核算范围的沟通。整体以内部协作与生活琐事交流为主。",
+    "events": [
+      {
+        "time": "09:17",
+        "what_happened": "用户描述凌晨四点半遭遇醉酒邻居在走廊大声喧哗、扔垃圾并敲门骚扰，已报警处理",
+        "outcome": "警察到场带离，双方讨论后续是否直接沟通或继续报警"
+      },
+      {
+        "time": "10:00-11:40",
+        "what_happened": "团队进行系统数据同步与解析逻辑调试，重点排查时间差问题",
+        "outcome": "决定将刷新频率调整为五分钟，优化代码解析与存储逻辑"
+      },
+      {
+        "time": "15:13",
+        "what_happened": "讨论工资发放流程及核算名单",
+        "outcome": "明确发薪需填表审核，初步确定剔除谢总、赵志鹤、秦老师后核算剩余人员薪资"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "邻居醉酒扰民与人身安全",
+        "summary": "用户反映凌晨遭醉酒邻居骚扰报警，众人评估对方报复风险，建议保持警惕，若再次发生可直接报警处理",
+        "participants_mentioned": [
+          "用户",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "若邻居再次扰民或敲门，直接报警"
+        ]
+      },
+      {
+        "topic": "系统数据同步与版本调试",
+        "summary": "针对芯片数据处理中的时间差与数据更新问题进行分析，讨论代码解析、环境切换及文件版本管理",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": [
+          "将数据刷新间隔改为五分钟",
+          "优化解析逻辑，按原代码结构自行存表"
+        ]
+      },
+      {
+        "topic": "工资发放流程与核算范围",
+        "summary": "梳理工资申报与审核机制，确认需填写相关单据并在群内审核，明确本次核算排除特定人员",
+        "participants_mentioned": [
+          "用户",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "按流程填表并提交群内审核",
+          "核算时剔除谢总、赵志鹤、秦老师"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "详细描述凌晨醉酒邻居扰民事件经过及报警结果，参与技术调试会议，协助确认工资核算剔除名单",
+      "others_activity": "就邻里安全问题提供防范建议，主导系统数据同步与代码解析的技术讨论，梳理工资发放审核流程",
+      "mentioned": [
+        {
+          "name_or_alias": "小李",
+          "context": "被提及姓名，疑似为在场同事",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "线总/系总",
+          "context": "在工资讨论中被提及",
+          "relation_guess": "管理层/领导"
+        },
+        {
+          "name_or_alias": "刘文坛",
+          "context": "被问及生日月份",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "谢总",
+          "context": "工资核算中明确剔除的对象",
+          "relation_guess": "管理层/领导"
+        },
+        {
+          "name_or_alias": "赵志鹤",
+          "context": "工资核算中明确剔除的对象",
+          "relation_guess": "同事/相关人员"
+        },
+        {
+          "name_or_alias": "秦老师",
+          "context": "工资核算中明确剔除的对象",
+          "relation_guess": "同事/相关人员"
+        },
+        {
+          "name_or_alias": "周老师",
+          "context": "午餐时段一同取外卖",
+          "relation_guess": "同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [],
+      "projects_or_business": [
+        "芯片数据处理与系统同步功能开发调试"
+      ],
+      "risks_or_blockers": []
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "salary",
+          "detail": "讨论工资发放流程，需员工填表提交并在群内审核；核算时明确剔除谢总、赵志鹤、秦老师，仅计算剩余人员薪资",
+          "amount_or_terms": "未提及具体金额"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "醉酒邻居是否会因报警产生报复行为",
+      "系统数据同步的时间差容错阈值最终设定值"
+    ],
+    "keywords": [
+      "醉酒扰民",
+      "报警处理",
+      "数据同步",
+      "时间差调试",
+      "环境切换",
+      "工资核算",
+      "填表审核"
+    ]
+  }
+}
