@@ -1,0 +1,220 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-07-06",
+  "generated_at": "2026-07-08T15:35:48.606321+08:00",
+  "model": "qwen3.6-flash-2026-04-16",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 655,
+    "char_count": 18527,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-06 财务日常对话纪要",
+    "overview": "今日对话聚焦财务合规审查、薪酬数据整理、差旅报销争议处理及展会筹备。重点讨论了某员工违规报销及绩效评分争议，财务决定全公司通报以立规矩；同时核对银行流水与信用卡还款账目，整理过去12个月收入明细用于税务申报，并推进新发票流程与展会预算审批。",
+    "events": [
+      {
+        "time": "15:51",
+        "what_happened": "讨论旧金山差旅行程与审计质疑的应对逻辑",
+        "outcome": "确定按合理逻辑编写情况说明材料"
+      },
+      {
+        "time": "16:39",
+        "what_happened": "核对账户资金缺口及谢总信用卡代付与还款流水",
+        "outcome": "需拉取银行流水进行账务勾稽与补差"
+      },
+      {
+        "time": "17:35",
+        "what_happened": "要求整理过去12个月的完整收入明细表",
+        "outcome": "列出所有收入项，缺失月份在群内确认"
+      },
+      {
+        "time": "19:05",
+        "what_happened": "跟进9号新发票开具及两笔款项合并支付流程",
+        "outcome": "修改价格后重新走审批流程"
+      },
+      {
+        "time": "21:52",
+        "what_happened": "处理员工绩效评分争议及违规报销事件",
+        "outcome": "决定周五前发邮件全公司通报批评，重申报销合规红线"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "差旅报销与审计应对",
+        "summary": "某员工旧金山出差日均消费被审计质疑，当事人以个人食用为由辩解并愿退款。财务强调需符合公司规定，不能纵容违规。",
+        "participants_mentioned": [
+          "财务",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "按合理逻辑编写情况说明",
+          "严格审核差旅标准"
+        ]
+      },
+      {
+        "topic": "薪酬数据整理与税务申报",
+        "summary": "需汇总过去12个月员工收入明细，部分月份数据缺失，明确以税前申报收入为准。",
+        "participants_mentioned": [
+          "财务",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "制作Excel表格列明全部收入",
+          "不清处直接在群内询问"
+        ]
+      },
+      {
+        "topic": "绩效评估与合规管理",
+        "summary": "讨论员工绩效打分争议及另一员工违规报销问题。指出纵容小利会破坏公司风气。",
+        "participants_mentioned": [
+          "财务",
+          "others",
+          "楚",
+          "祖总"
+        ],
+        "decisions_or_todos": [
+          "周五前发布全员邮件通报批评",
+          "严禁再动报销手脚，严格按制度执行"
+        ]
+      },
+      {
+        "topic": "展会筹备与预算",
+        "summary": "确认主会场三个核心展位安排，预计有高层领导出席。当前报价偏低，需调整加价。",
+        "participants_mentioned": [
+          "财务",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "落实展位细节",
+          "调整预算报价推进审批"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主导财务合规审查、薪酬数据整理、银行流水核对、发票流程跟进及违规报销通报决策。",
+      "others_activity": "参与差旅审计应对讨论、提供谢总信用卡还款线索、协助整理收入明细、汇报展会进度、反馈绩效争议细节。",
+      "mentioned": [
+        {
+          "name_or_alias": "谢总",
+          "context": "曾使用信用卡垫付资金，后续通过报销还款，需核对流水。",
+          "relation_guess": "公司高管"
+        },
+        {
+          "name_or_alias": "小林",
+          "context": "同事，参与日常沟通与产品讨论。",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "楚",
+          "context": "提及绩效与报销争议的相关人员。",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "祖总",
+          "context": "参与绩效评分讨论及相关人员。",
+          "relation_guess": "管理层"
+        },
+        {
+          "name_or_alias": "St",
+          "context": "绩效打分存在争议的员工，工作执行不到位。",
+          "relation_guess": "普通员工"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "推进9号新发票开具与合并付款流程",
+        "周五前完成违规报销全员通报邮件",
+        "整理过去12个月收入明细用于税务申报"
+      ],
+      "projects_or_business": [
+        "主会场展会筹备（三个核心展位，预计高层出席）",
+        "旧金山/纽约差旅行程规划与租车预订",
+        "产品包装设计与命名"
+      ],
+      "risks_or_blockers": [
+        "员工违规报销及绩效争议影响团队风气与合规性",
+        "差旅审计对异常消费提出质疑",
+        "部分月份薪酬数据缺失需补充确认"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "reimbursement",
+          "detail": "旧金山差旅日均消费被审计质疑，当事人愿退款但财务强调需合规",
+          "amount_or_terms": "日均约30至200元区间争议"
+        },
+        {
+          "category": "payment",
+          "detail": "核对账户资金缺口及谢总信用卡代付与还款流水勾稽",
+          "amount_or_terms": "约四五万元"
+        },
+        {
+          "category": "salary",
+          "detail": "整理过去12个月员工收入明细表，明确以税前申报收入为准",
+          "amount_or_terms": "三月数据为8950元"
+        },
+        {
+          "category": "invoice",
+          "detail": "跟进9号新发票开具及两笔款项合并支付流程",
+          "amount_or_terms": "待修改价格后重走流程"
+        },
+        {
+          "category": "cost",
+          "detail": "展会展位报价偏低需调整加价，车租费用极高",
+          "amount_or_terms": "最贵资产800元，总价达13.5万，车租约6000美元"
+        },
+        {
+          "category": "budget",
+          "detail": "展会相关费用分配与审批推进",
+          "amount_or_terms": "已批一万额度"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "performance",
+          "detail": "员工St绩效打分存在争议（差额约五百元），因工作执行不到位导致评分偏低"
+        },
+        {
+          "category": "policy",
+          "detail": "针对违规报销行为（涉及两百余元）及绩效争议，决定全公司通报批评以立规矩"
+        },
+        {
+          "category": "team",
+          "detail": "讨论团队内部沟通氛围及个别员工小聪明行为对合作的影响"
+        }
+      ]
+    },
+    "open_questions": [
+      "三月及其他缺失月份的详细收入构成需进一步确认",
+      "展会最终报价调整幅度及供应商合同条款待敲定",
+      "违规报销涉事员工的具体处理结果及后续合规培训安排"
+    ],
+    "keywords": [
+      "财务合规",
+      "差旅审计",
+      "薪酬明细",
+      "绩效争议",
+      "违规报销",
+      "展会筹备",
+      "发票流程",
+      "银行流水核对"
+    ]
+  }
+}

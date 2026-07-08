@@ -1,0 +1,255 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-07-07",
+  "generated_at": "2026-07-08T14:39:22.071510+08:00",
+  "model": "qwen3.6-flash-2026-04-16",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1687,
+    "char_count": 53054,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-07 日常会议与项目沟通纪要",
+    "overview": "围绕新产品（青春版）ID设计、硬件选型及测试进度展开讨论；处理供应商PCB返修延期与尾款支付争议；推进员工离职交接、新员工入职定薪及报销制度修订；同步客诉订单数据核对进展。",
+    "events": [
+      {
+        "time": "09:15",
+        "what_happened": "晨会同步产品技术进展，讨论安卓/iOS进程拆分方案与压测情况",
+        "outcome": "确定先修复严重Bug后发版，完善多机型与系统调度压测流程"
+      },
+      {
+        "time": "09:42",
+        "what_happened": "沟通供应商PCB返修进度，因产线等待已延期三周，讨论尾款扣减或暂停支付策略",
+        "outcome": "决定协调工厂成本后灵活安排交货，视验收结果定付款"
+      },
+      {
+        "time": "09:57",
+        "what_happened": "与提出离职的员工面谈，确认因家庭与发展原因离职",
+        "outcome": "暂定月底最后工作日，启动岗位替补招聘与工作交接"
+      },
+      {
+        "time": "10:11",
+        "what_happened": "讨论修订《员工手册》与报销标准，拟发布针对员工违规报销的内部公告",
+        "outcome": "法务组起草警示公告，对齐新旧制度条款并全员宣导"
+      },
+      {
+        "time": "12:11",
+        "what_happened": "评审产品ID设计方案，聚焦重量控制、包装简化、充电仓形态及配件延展性",
+        "outcome": "周五前明确麦克风阵列、无线充等硬件需求，缩小设计方向"
+      },
+      {
+        "time": "14:33",
+        "what_happened": "敲定新候选人薪酬结构，规划入职培训路径",
+        "outcome": "预计22号到岗，发放Offer并准备工位设备"
+      },
+      {
+        "time": "19:37",
+        "what_happened": "核对客诉订单数据，排查Excel格式异常与SN/AS码绑定问题",
+        "outcome": "要求提供原始L表，验证出库单号以完成数据映射"
+      },
+      {
+        "time": "20:18",
+        "what_happened": "致电白总确认PCB重做排期，评估延期对产线的影响",
+        "outcome": "暂不催促，优先协调工厂成本，质量达标后再安排交付"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "产品技术迭代与测试",
+        "summary": "讨论主进程拆分防杀后台、机型兼容性压测及回调Bug修复，强调发现问题比解决问题更重要",
+        "participants_mentioned": [
+          "zhiyuan",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "修复严重Bug后尽快发版",
+          "完善多机型与操作系统调度压测流程"
+        ]
+      },
+      {
+        "topic": "供应商返修与付款争议",
+        "summary": "PCB返修延期致产线停滞，对方推诿现场操作问题，需明确责任与解决方案",
+        "participants_mentioned": [
+          "zhiyuan",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "评估延期损失，协商尾款扣减或暂停支付",
+          "督促现场整改并承诺解决时间"
+        ]
+      },
+      {
+        "topic": "员工离职与交接安排",
+        "summary": "员工因家庭规划申请离职，需安排工作盘点与替代人员招聘",
+        "participants_mentioned": [
+          "zhiyuan",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "确认月底Last Day",
+          "启动岗位替补招聘，完成工作交接"
+        ]
+      },
+      {
+        "topic": "制度修订与合规警示",
+        "summary": "针对员工违规报销及绩效争议，计划同步发布新版报销标准与内部警示公告",
+        "participants_mentioned": [
+          "zhiyuan",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "法务组起草公告",
+          "对齐新旧制度条款，全员宣导"
+        ]
+      },
+      {
+        "topic": "新产品ID设计与硬件定型",
+        "summary": "评审青春版外观概念，探讨有机曲线造型、轻量化、电池安全及充电底座方案",
+        "participants_mentioned": [
+          "zhiyuan",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "周五前明确麦克风阵列、无线充等硬件需求",
+          "缩小设计方向并输出渲染图"
+        ]
+      },
+      {
+        "topic": "新人入职与薪酬定级",
+        "summary": "确定候选人薪资包及试用期考核方式，规划入职培训路径",
+        "participants_mentioned": [
+          "zhiyuan",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "发放Offer",
+          "准备工位与设备，安排导师带教"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主导产品评审、供应商协调、人事制度修订及薪酬谈判，跟进技术Bug与客诉数据核对",
+      "others_activity": "参与技术方案汇报、ID设计提案、离职面谈协助、制度草案拟定及订单数据处理",
+      "mentioned": [
+        {
+          "name_or_alias": "白总",
+          "context": "供应商/工厂对接人，负责PCB返修与生产排期",
+          "relation_guess": "外部合作方"
+        },
+        {
+          "name_or_alias": "张赛/赛哥",
+          "context": "技术同事，参与进程拆分讨论及离职面谈",
+          "relation_guess": "内部同事"
+        },
+        {
+          "name_or_alias": "李潮",
+          "context": "开发同事，协助解决回调相关Bug",
+          "relation_guess": "内部同事"
+        },
+        {
+          "name_or_alias": "阳光",
+          "context": "在职员工，涉及违规报销申诉与绩效争议",
+          "relation_guess": "内部员工"
+        },
+        {
+          "name_or_alias": "K",
+          "context": "人力资源接口人，参与薪酬定级与入职流程",
+          "relation_guess": "内部同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "修订并发布新版《员工手册》与报销标准",
+        "推进新员工入职与岗位替补招聘",
+        "优化客诉订单数据核对流程"
+      ],
+      "projects_or_business": [
+        "可穿戴设备青春版ID设计与硬件选型",
+        "PCB板返修与产线交付协调",
+        "客户售后明细数据追踪"
+      ],
+      "risks_or_blockers": [
+        "供应商返修延期导致产线停工与尾款纠纷风险",
+        "部分员工合规意识薄弱引发审计隐患",
+        "产品轻量化与电池/麦克风堆叠的空间冲突"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "payment",
+          "detail": "供应商PCB返修延期超三周，讨论暂停支付尾款或按比例扣减",
+          "amount_or_terms": "视最终验收结果定"
+        },
+        {
+          "category": "salary",
+          "detail": "新入职候选人薪酬定级，含底薪与绩效年终综合包",
+          "amount_or_terms": "底薪27k，综合约40k"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "修订报销标准，针对员工出差期间非合规消费进行内部警示",
+          "amount_or_terms": "按新制度执行"
+        },
+        {
+          "category": "budget",
+          "detail": "留学生创业补贴及房补政策适用条件梳理",
+          "amount_or_terms": "房补上限2万/年"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "resignation",
+          "detail": "员工因家庭规划申请离职，确认月底最后工作日并安排交接",
+          "amount_or_terms": ""
+        },
+        {
+          "category": "hiring",
+          "detail": "推进候选人录用流程，敲定薪资结构与入职时间",
+          "amount_or_terms": "预计22号到岗"
+        },
+        {
+          "category": "performance",
+          "detail": "针对员工阳光违规报销及态度问题进行绩效约谈与合规警告",
+          "amount_or_terms": ""
+        },
+        {
+          "category": "policy",
+          "detail": "同步更新《员工手册》与财务报销规范，强化内部纪律",
+          "amount_or_terms": ""
+        }
+      ]
+    },
+    "open_questions": [
+      "工厂PCB重做排期与成本承担的具体方案",
+      "新产品最终硬件规格（麦克风/无线充/马达）的锁定时间",
+      "离职员工的岗位替补招聘进度",
+      "客诉订单原始数据格式异常的彻底解决路径"
+    ],
+    "keywords": [
+      "PCB返修",
+      "产品ID评审",
+      "员工离职",
+      "报销合规",
+      "薪酬定级",
+      "供应链协调",
+      "数据核对"
+    ]
+  }
+}
