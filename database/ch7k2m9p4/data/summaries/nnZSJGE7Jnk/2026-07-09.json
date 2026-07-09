@@ -1,0 +1,168 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T18:04:00.110813+08:00",
+  "model": "qwen3.6-flash-2026-04-16",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 411,
+    "char_count": 12508,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-09 展会物料筹备与项目对接纪要",
+    "overview": "今日主要围绕京东、百度及AI应用商店的线下演示会物料筹备展开。盘点发现亚克力立牌、手机支架、镜子等物资库存不足，讨论通过线上商家加急打印并直寄上海会场。同步筛选演示样机、核对设计文件版本，并安排分批次寄送设备。后半段涉及硬件PCB板32K接口布局的技术讨论，以及活动相关成本的粗略核算。",
+    "events": [
+      {
+        "time": "09:39",
+        "what_happened": "盘点展会所需A4立牌、手机支架及镜子库存，确认现有数量严重不足",
+        "outcome": "明确需紧急补充物料，启动采购流程"
+      },
+      {
+        "time": "09:41",
+        "what_happened": "讨论物料采购与物流方案，对比深圳本地打印与线上下单时效",
+        "outcome": "决定找上海本地或线上商家直接打印寄往会场，注意易碎品包装"
+      },
+      {
+        "time": "10:54",
+        "what_happened": "确认向京东、百度、AI应用商店各寄送演示手机的需求",
+        "outcome": "筛选无严重瑕疵的样机，检查外观包装，安排今日/下周一分批发货"
+      },
+      {
+        "time": "16:54",
+        "what_happened": "讨论硬件PCB板设计问题，聚焦32K接口焊盘布局与布线空间",
+        "outcome": "确认当前0.1mm间距已达极限，拉线困难，需后续评估改板方案"
+      },
+      {
+        "time": "17:52",
+        "what_happened": "核算活动相关费用，按每人30元标准统计人数",
+        "outcome": "得出约129人总计约1890元的成本估算"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "展会物料短缺与采购物流",
+        "summary": "现有亚克力架仅2个、手机支架3个、镜子不足，需补充A4/A5立牌及传单。建议找上海本地商家打印直发以节省跨城物流时间，并关注顺丰包装防损。",
+        "participants_mentioned": [
+          "财务",
+          "others",
+          "M",
+          "思凡"
+        ],
+        "decisions_or_todos": [
+          "今晚上下单打印物料直寄会场",
+          "向合作方确认A5立牌横竖版式及具体需求清单",
+          "优先处理京东与百度物料，AI应用商店部分延至下周一"
+        ]
+      },
+      {
+        "topic": "演示设备准备与版本调试",
+        "summary": "需为多平台准备演示手机，筛选可用样机，确保系统稳定可正常展示功能页与二维码。需提前测试设备连接与账号登录状态。",
+        "participants_mentioned": [
+          "财务",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "今日优先寄出京东与百度所需设备",
+          "下周一补寄AI应用商店所需设备",
+          "提前验证设备演示内容与账号权限"
+        ]
+      },
+      {
+        "topic": "硬件PCB接口设计优化",
+        "summary": "讨论主板32K接口焊盘布局困难，当前0.1mm间距已达最小限制，拉线空间不足，影响信号完整性。",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": [
+          "维持0.1mm最小间距规则",
+          "后续评估是否需重新布线或调整接口物理方案"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与物料清点与采购讨论，确认各合作方设备需求，协助核对演示内容与设计文件版本。",
+      "others_activity": "主导物流方案制定，筛选演示样机，排查硬件设计瓶颈，核算活动补贴成本。",
+      "mentioned": [
+        {
+          "name_or_alias": "M",
+          "context": "提供物料需求清单与设计文件版本",
+          "relation_guess": "项目负责人/业务对接人"
+        },
+        {
+          "name_or_alias": "思凡",
+          "context": "需沟通修改贴纸设计文案（钥匙扣改为贴纸）",
+          "relation_guess": "设计/运营同事"
+        },
+        {
+          "name_or_alias": "a",
+          "context": "已离职，原负责样品管理",
+          "relation_guess": "前员工"
+        },
+        {
+          "name_or_alias": "月老师",
+          "context": "现任样品申领对接人",
+          "relation_guess": "行政/仓储负责人"
+        },
+        {
+          "name_or_alias": "周老师",
+          "context": "协助领取新产品",
+          "relation_guess": "技术/支持人员"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "今日/下周一分批次向京东、百度、AI应用商店寄送演示设备及物料",
+        "下周一需额外准备两台手机用于后续展会"
+      ],
+      "projects_or_business": [
+        "多平台（京东、百度、AI应用商店）线下展会演示筹备",
+        "硬件PCB板32K接口布局优化"
+      ],
+      "risks_or_blockers": [
+        "亚克力立牌、手机支架、镜子等核心物料库存告急",
+        "PCB板0.1mm间距导致32K接口拉线困难",
+        "跨城物流时效与易碎品包装风险"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "other",
+          "detail": "活动人员补贴/物料相关费用核算，按30元/人标准统计",
+          "amount_or_terms": "约1890元（30元×129人）"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "京东与百度具体需要几台手机及配套物料数量待最终确认",
+      "A5立牌横版还是竖版需向合作方核实",
+      "线上打印商家资质与发货时效需进一步筛选",
+      "PCB板32K接口布局是否需重新打样"
+    ],
+    "keywords": [
+      "展会物料",
+      "亚克力立牌",
+      "京东百度演示",
+      "PCB接口",
+      "成本核算",
+      "物流直发"
+    ]
+  }
+}
