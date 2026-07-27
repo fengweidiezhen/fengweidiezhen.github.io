@@ -1,0 +1,48 @@
+{
+  "user_id": "nnvDuS4FnNa",
+  "user_name": "cc",
+  "date": "2026-07-22",
+  "generated_at": "2026-07-27T11:47:19.327051+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "cc",
+    "aliases": [
+      "cc",
+      "cc"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 11,
+    "char_count": 152,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-22 日常对话纪要",
+    "overview": "当日转写内容较为零散，主要为他人（others）的简短语音片段，未涉及明确的工作讨论、决策或具体事件。主体用户（cc）在转写中未出现发言记录。",
+    "events": [],
+    "discussions": [],
+    "people": {
+      "subject_user_activity": "未提及",
+      "others_activity": "有零散语音片段，内容不连贯，未形成明确对话或讨论。",
+      "mentioned": []
+    },
+    "company": {
+      "plans_and_arrangements": [],
+      "projects_or_business": [],
+      "risks_or_blockers": []
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [],
+    "keywords": []
+  }
+}

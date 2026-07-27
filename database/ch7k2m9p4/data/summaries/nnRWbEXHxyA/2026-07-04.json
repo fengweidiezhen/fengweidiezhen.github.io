@@ -1,0 +1,108 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-07-04",
+  "generated_at": "2026-07-27T10:49:55.505305+08:00",
+  "model": "qwen3.7-max-2026-06-08",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 541,
+    "char_count": 15834,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "日常娱乐活动记录",
+    "overview": "主体用户与朋友进行麻将游戏，期间讨论了手机天气应用、打牌策略及过年聚会等话题，未涉及公司业务、财务或人事相关内容。",
+    "events": [
+      {
+        "time": "17:37",
+        "what_happened": "朋友们开始打麻将，讨论牌局规则和出牌策略",
+        "outcome": "牌局正常进行"
+      },
+      {
+        "time": "17:41",
+        "what_happened": "讨论小米手机与苹果手机天气应用的准确性",
+        "outcome": "认为苹果天气显示更准确"
+      },
+      {
+        "time": "17:47",
+        "what_happened": "有人打车前往聚会地点，其他人等待其到达",
+        "outcome": "等待人员到齐后继续活动"
+      },
+      {
+        "time": "18:08",
+        "what_happened": "聊起过年回家聚会的热闹场景",
+        "outcome": "回忆过年打牌氛围"
+      },
+      {
+        "time": "18:47",
+        "what_happened": "牌局结束，大家互相道别",
+        "outcome": "各自离开"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "麻将打法与策略",
+        "summary": "讨论碰牌、杠牌、清一色、明杠暗杠等麻将规则及出牌技巧，分析牌局走势",
+        "participants_mentioned": [],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "手机天气应用对比",
+        "summary": "比较小米天气和苹果天气的预报准确性",
+        "participants_mentioned": [
+          "zhiyuan"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "过年聚会",
+        "summary": "回忆过年时回家打牌的热闹场景，人数多氛围好",
+        "participants_mentioned": [],
+        "decisions_or_todos": []
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与麻将游戏，讨论手机天气应用，牌局结束后喝水",
+      "others_activity": "与主体用户一起打麻将，讨论牌局策略，聊过年聚会，最后道别离开",
+      "mentioned": [
+        {
+          "name_or_alias": "老谢",
+          "context": "牌局中被提及的打牌者",
+          "relation_guess": "朋友"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [],
+      "projects_or_business": [],
+      "risks_or_blockers": []
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [],
+    "keywords": [
+      "麻将",
+      "天气",
+      "小米",
+      "苹果",
+      "过年",
+      "聚会"
+    ]
+  }
+}

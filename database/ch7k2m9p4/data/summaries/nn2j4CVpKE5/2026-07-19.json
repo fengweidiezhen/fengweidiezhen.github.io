@@ -1,0 +1,198 @@
+{
+  "user_id": "nn2j4CVpKE5",
+  "user_name": "苑老师",
+  "date": "2026-07-19",
+  "generated_at": "2026-07-27T11:19:18.823624+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "苑老师",
+    "aliases": [
+      "苑老师",
+      "苑老师"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1847,
+    "char_count": 55890,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "苑老师与友人在园博园素食馆聚餐打牌及晚间家庭互动",
+    "overview": "苑老师与胡总、冯总等友人在园博园内一家素食馆包房聚餐、打牌，期间讨论了硬件研发外包、贴片测试流程、股票投资（加科思等医药股）、子女教育规划（中考、香港升学、留学）等话题。晚间回家后与家人互动，安排孩子洗漱睡觉，并观看世界杯比赛。",
+    "events": [
+      {
+        "time": "16:10",
+        "what_happened": "苑老师出门前与家人交代戴口罩、晚上正常吃饭等事宜",
+        "outcome": "家人回应并出门"
+      },
+      {
+        "time": "16:41",
+        "what_happened": "苑老师到达园博园内素食馆，等待胡总等人",
+        "outcome": "胡总打车约二十分钟后到达"
+      },
+      {
+        "time": "17:00",
+        "what_happened": "苑老师与胡总、冯总等人在包房内打牌（掼蛋）",
+        "outcome": "持续打牌至约20:30餐馆收摊"
+      },
+      {
+        "time": "18:30",
+        "what_happened": "打牌间隙点菜，选择四人套餐及特色素菜",
+        "outcome": "点了约五百多元的套餐"
+      },
+      {
+        "time": "20:45",
+        "what_happened": "打牌结束，苑老师叫车离开",
+        "outcome": "乘车回家"
+      },
+      {
+        "time": "21:03",
+        "what_happened": "苑老师回家后与家人互动，安排孩子洗漱、买东西",
+        "outcome": "孩子准备睡觉"
+      },
+      {
+        "time": "21:41",
+        "what_happened": "苑老师观看世界杯比赛（英格兰对法国）",
+        "outcome": "英格兰6:4胜法国"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "硬件研发与贴片外包",
+        "summary": "苑老师请教关于公司招硬件工程师、贴片厂合作、测试流程等问题，讨论量小时外包给贴片厂更合适，未来量大再看合作深度",
+        "participants_mentioned": [
+          "苑老师",
+          "胡总"
+        ],
+        "decisions_or_todos": [
+          "继续与贴片厂合作，不养专人采购",
+          "贴片后自行功能测试"
+        ]
+      },
+      {
+        "topic": "股票投资-加科思医药",
+        "summary": "详细讨论港股加科思（PROTAC小分子药物），阿斯利康20亿美金BD交易，临床三期预计2027-2028年出结果，建议4元以下建仓",
+        "participants_mentioned": [
+          "苑老师",
+          "胡总"
+        ],
+        "decisions_or_todos": [
+          "关注加科思临床三期进展",
+          "小仓位布局"
+        ]
+      },
+      {
+        "topic": "子女教育与升学规划",
+        "summary": "讨论孩子中考成绩、香港大学升学渠道（高考、DSE、国际生身份）、托福培训、留学方向等",
+        "participants_mentioned": [
+          "苑老师",
+          "胡总",
+          "冯总"
+        ],
+        "decisions_or_todos": [
+          "孩子继续学托福",
+          "考虑香港升学路径"
+        ]
+      },
+      {
+        "topic": "电力与医药板块分析",
+        "summary": "讨论电力股缺乏定价权、医药行业支付能力不足等问题",
+        "participants_mentioned": [
+          "苑老师",
+          "胡总"
+        ],
+        "decisions_or_todos": []
+      }
+    ],
+    "people": {
+      "subject_user_activity": "苑老师与友人在素食馆聚餐打牌，讨论硬件外包、股票投资、子女教育；回家后安排孩子洗漱睡觉，观看世界杯",
+      "others_activity": "胡总、冯总等参与打牌和聚餐；胡总分享股票和升学经验；家人（孩子）晚间互动",
+      "mentioned": [
+        {
+          "name_or_alias": "胡总",
+          "context": "一起打牌聚餐，分享股票投资经验和子女升学规划",
+          "relation_guess": "朋友/老同事"
+        },
+        {
+          "name_or_alias": "冯总",
+          "context": "一起打牌聚餐",
+          "relation_guess": "朋友/老同事"
+        },
+        {
+          "name_or_alias": "朱总/朱福刚",
+          "context": "提到做机器人、电动冲浪板等业务",
+          "relation_guess": "业内朋友"
+        },
+        {
+          "name_or_alias": "大姑娘",
+          "context": "苑老师的女儿，晚间安排其洗漱睡觉",
+          "relation_guess": "家人（女儿）"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "公司招了硬件工程师，考虑贴片外包合作模式",
+        "量小时给贴片厂赚点钱，不养专人采购"
+      ],
+      "projects_or_business": [
+        "蓝牙航模产品，外围电路简单",
+        "心率监测功能，穿羽绒服也能测"
+      ],
+      "risks_or_blockers": [
+        "量小，配合厂不愿配合",
+        "没有直接贴片厂资源"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "other",
+          "detail": "加科思港股BD交易，阿斯利康20亿美金分期支付，首期1亿美金已到账",
+          "amount_or_terms": "20亿美金总额，分阶段支付"
+        },
+        {
+          "category": "other",
+          "detail": "加科思股票建议4元以下建仓，目标看十倍",
+          "amount_or_terms": "4元以下买入"
+        },
+        {
+          "category": "other",
+          "detail": "素食馆四人套餐消费",
+          "amount_or_terms": "约500多元"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "公司招了硬件工程师，因配合厂量小不愿配合"
+        }
+      ]
+    },
+    "open_questions": [
+      "加科思临床三期具体启动时间和入组规模待确认",
+      "孩子香港升学走DSE还是国际生身份需进一步规划"
+    ],
+    "keywords": [
+      "加科思",
+      "PROTAC",
+      "小分子",
+      "贴片",
+      "硬件",
+      "中考",
+      "香港升学",
+      "DSE",
+      "托福",
+      "世界杯",
+      "素食馆",
+      "掼蛋"
+    ]
+  }
+}

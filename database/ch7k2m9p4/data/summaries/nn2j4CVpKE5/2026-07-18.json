@@ -1,0 +1,220 @@
+{
+  "user_id": "nn2j4CVpKE5",
+  "user_name": "苑老师",
+  "date": "2026-07-18",
+  "generated_at": "2026-07-27T11:18:10.454743+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "苑老师",
+    "aliases": [
+      "苑老师",
+      "苑老师"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 695,
+    "char_count": 22348,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "苑老师2026-07-18日常对话纪要",
+    "overview": "苑老师当日主要活动包括：上午送女儿去港中文（深圳）附近参加考试并等待，期间讨论快递月结账号、芯片型号确认及打包发货事宜；中午与同事/朋友聚餐；下午在家休息，与女儿讨论考试成绩、留学申请、游戏及股票等话题；期间有他人来电讨论借钱被婉拒。",
+    "events": [
+      {
+        "time": "08:05",
+        "what_happened": "苑老师与同伴开车寻找进入港中文（深圳）考场的入口",
+        "outcome": "找到正门并进入"
+      },
+      {
+        "time": "09:22",
+        "what_happened": "苑老师询问公司是否还有顺丰/京东月结账号",
+        "outcome": "确认顺丰月结仍可用，但需将号码加入权限"
+      },
+      {
+        "time": "09:41",
+        "what_happened": "苑老师与同伴确认芯片型号（VC版本）并安排重新打包发货",
+        "outcome": "确认需VC版本，安排缠膜打包"
+      },
+      {
+        "time": "10:07",
+        "what_happened": "苑老师叫网约车前往港中文接女儿",
+        "outcome": "司机到达一楼接人"
+      },
+      {
+        "time": "10:14",
+        "what_happened": "苑老师打包电子料并准备付款发货",
+        "outcome": "标注易碎，苑老师付款"
+      },
+      {
+        "time": "10:17",
+        "what_happened": "苑老师电话中婉拒他人借款两千元的请求",
+        "outcome": "以老婆有约定为由拒绝"
+      },
+      {
+        "time": "10:35",
+        "what_happened": "苑老师与女儿讨论雅思/托福考试成绩",
+        "outcome": "听力5.5分，预估总分5分以上"
+      },
+      {
+        "time": "14:28",
+        "what_happened": "苑老师感冒头疼，在家休息",
+        "outcome": "下午继续睡觉"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "快递月结账号",
+        "summary": "讨论公司顺丰/京东月结账号是否可用，确认顺丰月结仍在但需将号码加入权限线",
+        "participants_mentioned": [
+          "苑老师",
+          "产品经理"
+        ],
+        "decisions_or_todos": [
+          "确认顺丰月结可用",
+          "需将号码加入权限"
+        ]
+      },
+      {
+        "topic": "芯片型号与发货",
+        "summary": "确认需要VC版本芯片，讨论托盘装需重新打包，标注易碎品",
+        "participants_mentioned": [
+          "苑老师",
+          "同伴"
+        ],
+        "decisions_or_todos": [
+          "确认VC版本",
+          "重新缠膜打包",
+          "标注易碎"
+        ]
+      },
+      {
+        "topic": "女儿考试成绩与留学",
+        "summary": "讨论女儿听力5.5分（对应托福约107分），预估总分5分以上，可申请部分学校",
+        "participants_mentioned": [
+          "苑老师",
+          "女儿"
+        ],
+        "decisions_or_todos": [
+          "等待最终成绩",
+          "考虑学校申请"
+        ]
+      },
+      {
+        "topic": "借款请求",
+        "summary": "他人来电请求借两千元，承诺元旦前还清，苑老师以老婆有约定为由婉拒",
+        "participants_mentioned": [
+          "苑老师",
+          "来电者"
+        ],
+        "decisions_or_todos": [
+          "拒绝借款"
+        ]
+      },
+      {
+        "topic": "股票投资",
+        "summary": "讨论韩国博主推荐存储类股票大涨后大跌，有人七月份把上半年赚的全亏光",
+        "participants_mentioned": [
+          "苑老师",
+          "女儿"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "游戏",
+        "summary": "女儿提到想玩《我的世界》，苑老师表示不了解，女儿介绍玩法",
+        "participants_mentioned": [
+          "苑老师",
+          "女儿"
+        ],
+        "decisions_or_todos": []
+      }
+    ],
+    "people": {
+      "subject_user_activity": "送女儿考试、处理快递发货、与女儿讨论成绩和留学、感冒在家休息",
+      "others_activity": "同伴协助找考场、确认芯片型号、打包发货；女儿参加考试后讨论成绩；他人来电借款被拒",
+      "mentioned": [
+        {
+          "name_or_alias": "女儿/姑娘",
+          "context": "参加考试、讨论成绩和留学申请、下午安排",
+          "relation_guess": "苑老师的女儿"
+        },
+        {
+          "name_or_alias": "同伴",
+          "context": "一起找考场、确认芯片、打包发货",
+          "relation_guess": "同事或工作伙伴"
+        },
+        {
+          "name_or_alias": "产品经理",
+          "context": "快递收件相关",
+          "relation_guess": "公司同事"
+        },
+        {
+          "name_or_alias": "药总",
+          "context": "来电借款者提及",
+          "relation_guess": "不确定"
+        },
+        {
+          "name_or_alias": "老婆",
+          "context": "苑老师提及老婆有约定不方便借钱",
+          "relation_guess": "苑老师的妻子"
+        },
+        {
+          "name_or_alias": "谭云田爸爸",
+          "context": "明天下午约打牌的朋友",
+          "relation_guess": "苑老师的朋友"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "确认顺丰月结账号仍可用"
+      ],
+      "projects_or_business": [
+        "芯片VC版本确认及发货"
+      ],
+      "risks_or_blockers": [
+        "月结账号需将号码加入权限才能使用"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "payment",
+          "detail": "快递发货付款（电子料）",
+          "amount_or_terms": "几百块钱"
+        },
+        {
+          "category": "other",
+          "detail": "他人请求借款两千元，承诺元旦前还清",
+          "amount_or_terms": "2000元"
+        },
+        {
+          "category": "other",
+          "detail": "讨论股票投资，有人七月份把上半年赚的全亏光",
+          "amount_or_terms": "未提及具体金额"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "月结账号号码加入权限的具体流程",
+      "女儿最终考试成绩及学校申请选择"
+    ],
+    "keywords": [
+      "快递月结",
+      "芯片VC版本",
+      "雅思成绩",
+      "留学申请",
+      "借款",
+      "股票",
+      "感冒"
+    ]
+  }
+}

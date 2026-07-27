@@ -1,0 +1,168 @@
+{
+  "user_id": "nn2j4CVpKE5",
+  "user_name": "苑老师",
+  "date": "2026-07-22",
+  "generated_at": "2026-07-27T11:23:05.838258+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "苑老师",
+    "aliases": [
+      "苑老师",
+      "苑老师"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 993,
+    "char_count": 33580,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "苑老师7月22日对话纪要",
+    "overview": "当日苑老师主要与家人讨论孩子择校（香港/广州国际学校）、日常就餐安排，并涉及公司项目合作及内部人际关系的沟通。晚间苑老师提到次日将参与行老师的两个项目会议，并计划会后与徐老师单独沟通立场问题。",
+    "events": [
+      {
+        "time": "18:55",
+        "what_happened": "苑老师与同事确认项目排期，25-26号准备，27号开融游",
+        "outcome": "苑老师让对方先按自己节奏准备一个版本"
+      },
+      {
+        "time": "19:31",
+        "what_happened": "苑老师与家人讨论晚餐选择，因身体不适放弃火锅改吃日料",
+        "outcome": "决定吃日料，点刺身拼盘等"
+      },
+      {
+        "time": "19:54",
+        "what_happened": "苑老师与家人讨论孩子录取结果及择校问题，涉及广州学校、香港IB学校、券等",
+        "outcome": "决定先买券，后续可实地看学校再做最终决策"
+      },
+      {
+        "time": "23:04",
+        "what_happened": "苑老师提到行老师邀请参与两个项目，徐老师要求会后单独沟通",
+        "outcome": "苑老师决定表明立场站秦老师这边，次日开会后单独聊"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "孩子择校与教育规划",
+        "summary": "讨论广州学校与香港IB学校对比，涉及录取成绩、券、竞争程度、学校风格等，建议孩子立学习人设",
+        "participants_mentioned": [
+          "苑老师",
+          "家人"
+        ],
+        "decisions_or_todos": [
+          "先买券",
+          "后续实地看学校再做决策",
+          "孩子到新学校立好学习人设"
+        ]
+      },
+      {
+        "topic": "公司项目合作与内部关系",
+        "summary": "苑老师分析行老师、秦老师、徐老师之间的关系，认为C心态失衡影响做事，决定站秦老师这边",
+        "participants_mentioned": [
+          "苑老师",
+          "行老师",
+          "秦老师",
+          "徐老师",
+          "C"
+        ],
+        "decisions_or_todos": [
+          "次日参与两个项目会议",
+          "会后与徐老师单独沟通表明立场"
+        ]
+      },
+      {
+        "topic": "产品上市流程建议",
+        "summary": "苑老师回忆大公司上市经验，认为国内上市首日很重要，营销端需提前准备",
+        "participants_mentioned": [
+          "苑老师",
+          "新老师"
+        ],
+        "decisions_or_todos": [
+          "苑老师将向新老师反馈产品上市流程建议"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "苑老师当日与家人讨论孩子择校、就餐，晚间分析公司项目合作关系并准备次日会议沟通策略",
+      "others_activity": "家人参与择校讨论及晚餐安排；同事确认项目排期；行老师邀请参与项目；徐老师要求会后单独沟通",
+      "mentioned": [
+        {
+          "name_or_alias": "行老师",
+          "context": "邀请苑老师参与两个项目",
+          "relation_guess": "同事/合作方"
+        },
+        {
+          "name_or_alias": "秦老师",
+          "context": "苑老师决定站队秦老师",
+          "relation_guess": "上级/核心合作方"
+        },
+        {
+          "name_or_alias": "徐老师",
+          "context": "要求苑老师会后单独沟通",
+          "relation_guess": "上级/项目相关人"
+        },
+        {
+          "name_or_alias": "C",
+          "context": "被认为心态失衡影响做事",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "新老师",
+          "context": "苑老师计划向其反馈产品上市建议",
+          "relation_guess": "同事/合作方"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "25-26号准备项目，27号开融游",
+        "苑老师次日参与行老师两个项目会议"
+      ],
+      "projects_or_business": [
+        "行老师的两个项目",
+        "产品上市流程讨论"
+      ],
+      "risks_or_blockers": [
+        "C心态失衡影响团队协作",
+        "内部人际关系复杂需明确立场"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "other",
+          "detail": "讨论香港学校券费用，毕业后可返还",
+          "amount_or_terms": "几百万"
+        },
+        {
+          "category": "other",
+          "detail": "购买洗衣液等日用品",
+          "amount_or_terms": "一千多块钱"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "孩子最终选择哪所学校",
+      "与徐老师单独沟通的具体内容及结果",
+      "行老师两个项目的具体合作方式"
+    ],
+    "keywords": [
+      "择校",
+      "香港学校",
+      "IB",
+      "券",
+      "项目会议",
+      "站队",
+      "秦老师",
+      "产品上市"
+    ]
+  }
+}

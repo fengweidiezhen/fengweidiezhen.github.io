@@ -1,0 +1,196 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-07-19",
+  "generated_at": "2026-07-27T10:58:18.003606+08:00",
+  "model": "qwen3.7-max-2026-06-08",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1102,
+    "char_count": 37841,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "WAIC展会参观与36氪合作洽谈",
+    "overview": "主体用户与同事参加WAIC展会，与36氪梁总深入交流品牌营销、活动合作及融资策略，参观多家AI硬件展位并讨论产品方向与竞品动态。",
+    "events": [
+      {
+        "time": "09:35",
+        "what_happened": "团队晨会讨论发版计划与系统问题修复",
+        "outcome": "确认当天发版，分配微调任务"
+      },
+      {
+        "time": "10:46",
+        "what_happened": "到达展会现场与36氪梁总会面",
+        "outcome": "建立联系并展开深入交流"
+      },
+      {
+        "time": "11:20",
+        "what_happened": "梁总介绍36氪科技线商业化打法与芯片客户案例",
+        "outcome": "了解SEO权重策略与概念防护方法"
+      },
+      {
+        "time": "11:54",
+        "what_happened": "参观自家展位并讨论物料与转化优化",
+        "outcome": "确认需补充功能介绍与视频素材"
+      },
+      {
+        "time": "12:58",
+        "what_happened": "体验新言机器人等AI硬件展品",
+        "outcome": "评估家庭陪伴机器人交互设计"
+      },
+      {
+        "time": "13:03",
+        "what_happened": "调研AI眼镜竞品重量与功能",
+        "outcome": "讨论轻量化方案与传感器取舍"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "36氪嘉年华活动合作",
+        "summary": "梁总介绍8月21-23日消费品牌嘉年华，含70+品牌展位、精酿啤酒节、AI体验区，邀请主体用户参展并提供舞台资源",
+        "participants_mentioned": [
+          "梁总",
+          "六一"
+        ],
+        "decisions_or_todos": [
+          "后续对接上海同事六一确认参展细节",
+          "考虑青春版产品适合该活动调性"
+        ]
+      },
+      {
+        "topic": "品牌SEO与概念防护策略",
+        "summary": "梁总分享通过投资36氪提升搜索权重，发新概念前需先铺设高权重内容防止竞品抄袭",
+        "participants_mentioned": [
+          "梁总"
+        ],
+        "decisions_or_todos": [
+          "下次发新概念前先做权重铺设",
+          "建立关键词防护体系"
+        ]
+      },
+      {
+        "topic": "融资与投资人关系",
+        "summary": "讨论36氪榜单入选原因、投资人关注但未投的尴尬，以及具身智能公司融资案例",
+        "participants_mentioned": [
+          "梁总",
+          "谢总"
+        ],
+        "decisions_or_todos": [
+          "保持与36氪良好关系",
+          "关注融资节奏与估值管理"
+        ]
+      },
+      {
+        "topic": "AI硬件产品方向",
+        "summary": "参观机器狗、AI眼镜、智能手环等展品，讨论场景落地、成本控制与竞品差异",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "评估机器狗快递场景可行性",
+          "研究AI眼镜轻量化与功能平衡"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参加WAIC展会，与36氪梁总洽谈合作，参观AI硬件展位，讨论产品与融资策略",
+      "others_activity": "同事陪同逛展、拍照、讨论竞品与技术细节，与展位负责人交流",
+      "mentioned": [
+        {
+          "name_or_alias": "梁总",
+          "context": "36氪负责人，介绍嘉年华活动与商业化打法",
+          "relation_guess": "合作伙伴/投资人"
+        },
+        {
+          "name_or_alias": "六一",
+          "context": "36氪上海同事，后续对接人",
+          "relation_guess": "合作方对接人"
+        },
+        {
+          "name_or_alias": "谢总",
+          "context": "公司技术负责人，被提及学术背景强",
+          "relation_guess": "公司联合创始人/CTO"
+        },
+        {
+          "name_or_alias": "陈总",
+          "context": "展位接待方，介绍伴游路线与展位情况",
+          "relation_guess": "展会合作方"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "8月21-23日考虑参加36氪消费品牌嘉年华",
+        "补充展位物料与产品视频介绍",
+        "下次发新概念前做SEO权重铺设",
+        "对接36氪上海同事六一确认合作细节"
+      ],
+      "projects_or_business": [
+        "AI硬件产品（手环、眼镜、枕头）",
+        "青春版产品线规划",
+        "具身智能与家庭陪伴机器人方向调研"
+      ],
+      "risks_or_blockers": [
+        "展位物料不足影响转化",
+        "概念发布后被竞品抄袭",
+        "投资人关注但未实际投资",
+        "团队人手不足难以支撑频繁参展"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "cost",
+          "detail": "36氪嘉年华展位费用",
+          "amount_or_terms": "3000元/展位（精酿区）"
+        },
+        {
+          "category": "payment",
+          "detail": "芯片客户稿件植入费用",
+          "amount_or_terms": "7万-15万/客户"
+        },
+        {
+          "category": "budget",
+          "detail": "公司营销预算有限",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "other",
+          "detail": "具身智能公司融资案例",
+          "amount_or_terms": "六月开业已融4000万，另一家融4亿美金"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "机器狗快递场景用户是否愿付4000-5000元",
+      "AI眼镜轻量化与功能如何平衡",
+      "如何有效防止竞品抄袭概念",
+      "青春版产品定价与渠道策略"
+    ],
+    "keywords": [
+      "WAIC",
+      "36氪",
+      "嘉年华",
+      "SEO权重",
+      "概念防护",
+      "AI眼镜",
+      "机器狗",
+      "融资",
+      "青春版",
+      "展位物料"
+    ]
+  }
+}

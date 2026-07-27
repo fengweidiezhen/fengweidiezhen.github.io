@@ -1,0 +1,158 @@
+{
+  "user_id": "nnvDuS4FnNa",
+  "user_name": "cc",
+  "date": "2026-07-21",
+  "generated_at": "2026-07-27T11:46:57.095510+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "cc",
+    "aliases": [
+      "cc",
+      "cc"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 120,
+    "char_count": 2910,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-21 工作吐槽与咖啡闲聊纪要",
+    "overview": "cc 与同事在下午外出购买咖啡期间，主要吐槽了当前公司管理混乱、领导不懂技术且缺乏专门管理人员的现状。双方讨论了工作产出无人考核、项目优化停滞以及个人职业发展受限等问题，并表达了不想继续从事研发工作及对公司前景的担忧。",
+    "events": [
+      {
+        "time": "14:11",
+        "what_happened": "同事提议外出走动并寻找咖啡店。",
+        "outcome": "决定去附近咖啡店。"
+      },
+      {
+        "time": "14:12",
+        "what_happened": "cc 与同事讨论公司现状，吐槽本月工作产出低但未被指责。",
+        "outcome": "确认公司管理松散，缺乏考核。"
+      },
+      {
+        "time": "14:13",
+        "what_happened": "同事抱怨领导不懂技术，导致研发工作无法有效开展。",
+        "outcome": "归因于领导能力问题及缺乏专业管理。"
+      },
+      {
+        "time": "14:14",
+        "what_happened": "两人在咖啡店点单（拿铁），稍作休息。",
+        "outcome": "心情略有缓解。"
+      },
+      {
+        "time": "14:15",
+        "what_happened": "讨论项目优化问题，cc 表示因领导不懂而停止优化。",
+        "outcome": "维持现状，不再主动优化。"
+      },
+      {
+        "time": "14:16",
+        "what_happened": "cc 表达对公司前景及个人运势的担忧。",
+        "outcome": "感到焦虑。"
+      },
+      {
+        "time": "14:18",
+        "what_happened": "双方交流求职意向，cc 表示不想干研发，同事表示面试困难。",
+        "outcome": "对跳槽持悲观态度。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "公司管理与领导能力",
+        "summary": "同事指出领导不懂技术且未招聘专门管理人员，导致工作成果无法被评估，甚至出现‘什么都不干也没人说’的情况。",
+        "participants_mentioned": [
+          "cc",
+          "others",
+          "领导"
+        ],
+        "decisions_or_todos": [
+          "无具体决定，仅为吐槽"
+        ]
+      },
+      {
+        "topic": "研发工作与项目优化",
+        "summary": "cc 表示因领导不懂技术，已停止对算法和硬件的优化工作；同事认为领导看不懂代码，改与不改均无反馈。",
+        "participants_mentioned": [
+          "cc",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "停止主动优化项目"
+        ]
+      },
+      {
+        "topic": "个人职业发展与求职",
+        "summary": "cc 表示不想继续从事研发工作，认为当前公司无前景；同事表示因技术栈或薪资问题（如‘几百块一个月’）面试困难，且曾经历过被优化。",
+        "participants_mentioned": [
+          "cc",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "暂无跳槽行动，维持现状"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "cc 参与了外出买咖啡，吐槽公司管理混乱，表示不想干研发，担忧公司前景。",
+      "others_activity": "同事抱怨领导不懂技术，分享了自己曾被优化的经历，表示面试困难。",
+      "mentioned": [
+        {
+          "name_or_alias": "K",
+          "context": "同事提到‘更K’，可能是指领导或某位同事。",
+          "relation_guess": "领导或同事"
+        },
+        {
+          "name_or_alias": "吴瑞",
+          "context": "同事提到‘好像有一个什么吴瑞’，可能是公司某位员工。",
+          "relation_guess": "公司员工"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "无明确计划"
+      ],
+      "projects_or_business": [
+        "项目优化工作已停滞"
+      ],
+      "risks_or_blockers": [
+        "领导不懂技术",
+        "缺乏专业管理人员",
+        "员工士气低落"
+      ]
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "performance",
+          "detail": "公司缺乏绩效考核，员工‘什么都没干’也未被指责。"
+        },
+        {
+          "category": "resignation",
+          "detail": "cc 表示不想干研发，同事曾经历过被优化。"
+        }
+      ]
+    },
+    "open_questions": [
+      "公司未来发展方向不明",
+      "员工个人职业出路"
+    ],
+    "keywords": [
+      "吐槽",
+      "管理混乱",
+      "不懂技术",
+      "不想干研发",
+      "项目优化",
+      "面试困难",
+      "无前景"
+    ]
+  }
+}

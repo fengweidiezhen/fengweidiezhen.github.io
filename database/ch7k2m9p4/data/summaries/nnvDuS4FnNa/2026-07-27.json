@@ -1,0 +1,98 @@
+{
+  "user_id": "nnvDuS4FnNa",
+  "user_name": "cc",
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T11:50:39.335146+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "cc",
+    "aliases": [
+      "cc",
+      "cc"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 55,
+    "char_count": 1225,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "样品测试与参数调整讨论",
+    "overview": "当日主要围绕样品测试、参数调整及风险展开讨论，涉及连续测试次数、时间间隔等细节，并确认后续修改方案。",
+    "events": [
+      {
+        "time": "10:13",
+        "what_happened": "讨论样品版本及结实程度",
+        "outcome": "确认当前版本更结实"
+      },
+      {
+        "time": "10:18",
+        "what_happened": "讨论修改参数的风险",
+        "outcome": "决定先修改并测试"
+      },
+      {
+        "time": "10:19",
+        "what_happened": "讨论连续测试次数与时间间隔",
+        "outcome": "确定改为连续两次或三次测试"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "样品测试参数调整",
+        "summary": "讨论样品测试中连续测试次数和时间间隔的调整方案，避免风险并确保测试效果。",
+        "participants_mentioned": [
+          "cc",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "先修改参数并测试",
+          "将测试次数改为连续两次或三次",
+          "去掉一分钟的时间间隔限制"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与样品测试参数调整讨论，提出修改方案并确认测试细节",
+      "others_activity": "提出样品测试中的问题并参与讨论",
+      "mentioned": [
+        {
+          "name_or_alias": "cc",
+          "context": "参与样品测试参数调整讨论",
+          "relation_guess": "主体用户"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "修改样品测试参数并测试"
+      ],
+      "projects_or_business": [
+        "样品测试与优化"
+      ],
+      "risks_or_blockers": [
+        "修改参数可能带来风险"
+      ]
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "修改参数后是否会影响测试结果"
+    ],
+    "keywords": [
+      "样品",
+      "测试",
+      "参数调整",
+      "风险",
+      "连续测试"
+    ]
+  }
+}

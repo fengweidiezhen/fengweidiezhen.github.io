@@ -1,0 +1,184 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-07-14",
+  "generated_at": "2026-07-27T11:55:46.957158+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 440,
+    "char_count": 11717,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-14 财务相关沟通纪要",
+    "overview": "当日主要围绕政府资助项目拨款流程、预算修改、海外消费比例限制及合同签署注意事项展开讨论，涉及三轮拨款时间节点、支出报告要求、预算调整规划以及合同签署流程等财务与合规事项。",
+    "events": [
+      {
+        "time": "09:07",
+        "what_happened": "others 在地铁或公共交通环境中，听到报站及提示音。",
+        "outcome": "无明确业务结果。"
+      },
+      {
+        "time": "10:31",
+        "what_happened": "user 提到购买老干部饮用水。",
+        "outcome": "无后续讨论。"
+      },
+      {
+        "time": "14:32",
+        "what_happened": "others 与 user 详细沟通政府资助项目拨款流程、三轮拨款时间及支出报告要求。",
+        "outcome": "明确八月、十月/十一月、次年一月/二月的拨款与报告节点。"
+      },
+      {
+        "time": "14:40",
+        "what_happened": "讨论海外消费比例限制及预算修改注意事项。",
+        "outcome": "user 表示需与领导商量，确保符合非本地消费比例要求。"
+      },
+      {
+        "time": "14:44",
+        "what_happened": "讨论合同签署流程，强调需亲笔签名，不可电子签。",
+        "outcome": "明确签署顺序及注意事项，避免提前签署导致后续修改加钱。"
+      },
+      {
+        "time": "16:17",
+        "what_happened": "user 与 others 讨论会议安排，确认 online 或 in person 形式。",
+        "outcome": "暂定 22 号之后安排会议。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "政府资助项目拨款流程",
+        "summary": "三轮拨款：第一轮八月出 35 万；第二轮十月/十一月提交半年支出报告（需花到 16-18 万），出 26 万；第三轮次年一月/二月出剩余款项。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "八月填写相关表格并参加 briefing session",
+          "十月/十一月提交半年支出报告",
+          "确保支出达到最低门槛 16 万"
+        ]
+      },
+      {
+        "topic": "预算修改与海外消费比例",
+        "summary": "九月开始修改预算，注意非本地消费比例不超过 5%，需明确哪些支出必须在大陆进行，哪些可移至香港。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "review 预算中海外与本地消费比例",
+          "与领导商量调整支出结构",
+          "确保符合非本地消费限制"
+        ]
+      },
+      {
+        "topic": "合同签署流程",
+        "summary": "合同需亲笔签名，不可电子签；签署顺序需确认，避免提前签署导致后续修改加钱。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "等待 FO 批准后再签署",
+          "确认签署顺序及份数",
+          "确保双方签名完整"
+        ]
+      },
+      {
+        "topic": "会议安排",
+        "summary": "讨论 22 号之后的会议安排，确认形式为 online 或 in person。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "22 号之后安排会议",
+          "确认会议形式"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与政府资助项目拨款流程沟通，确认拨款时间节点、支出报告要求、预算修改注意事项及合同签署流程。",
+      "others_activity": "详细讲解拨款流程、预算修改要求、海外消费比例限制及合同签署注意事项，协助 user 理解操作细节。",
+      "mentioned": [
+        {
+          "name_or_alias": "FO",
+          "context": "负责审批合同，需等待其批准后再签署。",
+          "relation_guess": "审批人员"
+        },
+        {
+          "name_or_alias": "O塔",
+          "context": "合同签署方之一，需亲笔签名。",
+          "relation_guess": "合作方"
+        },
+        {
+          "name_or_alias": "领导",
+          "context": "user 需与其商量预算调整及海外消费比例问题。",
+          "relation_guess": "上级"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "八月填写政府资助项目相关表格并参加 briefing session",
+        "九月开始修改预算",
+        "十月/十一月提交半年支出报告",
+        "22 号之后安排会议"
+      ],
+      "projects_or_business": [
+        "政府资助项目拨款流程",
+        "预算修改与海外消费比例调整"
+      ],
+      "risks_or_blockers": [
+        "非本地消费比例超过 5% 可能导致拨款受阻",
+        "提前签署合同可能导致后续修改加钱"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "budget",
+          "detail": "政府资助项目总拨款 70 万，分三轮发放：第一轮 35 万（八月），第二轮 26 万（十月/十一月），第三轮剩余款项（次年一月/二月）。",
+          "amount_or_terms": "70 万，分三轮"
+        },
+        {
+          "category": "budget",
+          "detail": "半年支出报告需至少花到 16 万，理想为 35 万。",
+          "amount_or_terms": "最低 16 万，理想 35 万"
+        },
+        {
+          "category": "cost",
+          "detail": "非本地消费比例不得超过 5%，需明确哪些支出必须在大陆进行，哪些可移至香港。",
+          "amount_or_terms": "不超过 5%"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "非本地消费比例如何具体划分？",
+      "合同签署顺序如何确认？"
+    ],
+    "keywords": [
+      "政府资助",
+      "拨款",
+      "预算修改",
+      "海外消费比例",
+      "合同签署",
+      "支出报告"
+    ]
+  }
+}

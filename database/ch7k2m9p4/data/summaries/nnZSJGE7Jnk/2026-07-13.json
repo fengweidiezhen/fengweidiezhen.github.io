@@ -1,0 +1,198 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-07-13",
+  "generated_at": "2026-07-14T17:13:05.538562+08:00",
+  "model": "qwen3.7-max-2026-06-08",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 790,
+    "char_count": 19510,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "展会物料打包寄送及经济实质申报讨论",
+    "overview": "当日主要围绕展会物料（立牌、KT板、托盘、支撑架等）的打包与快递寄送展开工作，同时讨论了公司经济实质申报的截止日期与处理安排，并涉及新助理入职、员工社保及户口等零散人事话题。",
+    "events": [
+      {
+        "time": "11:28",
+        "what_happened": "检查展会物料，发现缺少部分银色物品，确认物料基本齐全",
+        "outcome": "确认物料可用，继续打包"
+      },
+      {
+        "time": "13:38",
+        "what_happened": "讨论展会物料分配方案：三个展位各配立牌、托盘、KT板等，手机不再寄出",
+        "outcome": "确定分三套展示物料寄送，售卖品与展示品分开装箱"
+      },
+      {
+        "time": "15:31",
+        "what_happened": "确认快递费用及寄送安排，百度和WC已寄完，本次寄给AI应用商店",
+        "outcome": "因含电池无法走特快，改为普通快递，预计后天到达"
+      },
+      {
+        "time": "17:50",
+        "what_happened": "查找公司经济实质申报相关文件，发现旧版本用词罕见，需确认最新版本",
+        "outcome": "确认申报截止日期为29号，约定下周五处理"
+      },
+      {
+        "time": "20:42",
+        "what_happened": "讨论发票相关事项，需与A政仔确认具体需求",
+        "outcome": "决定次日三人再沟通确认发票要求"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "展会物料打包与寄送",
+        "summary": "讨论三个展位的物料配置（立牌、KT板、托盘、支撑架等），确认展示品与售卖品分开装箱，手机不寄出，含电池产品无法走特快快递",
+        "participants_mentioned": [
+          "小林",
+          "丹丹"
+        ],
+        "decisions_or_todos": [
+          "分三套展示物料寄送",
+          "售卖品与展示品分开装箱",
+          "含电池产品走普通快递"
+        ]
+      },
+      {
+        "topic": "经济实质申报",
+        "summary": "查找经济实质申报文件，发现旧版本使用罕见旧英语法律用词，需确认最新版本及申报要求",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "下周五处理经济实质申报",
+          "截止日期为29号"
+        ]
+      },
+      {
+        "topic": "发票需求确认",
+        "summary": "对发票具体需求存在疑问，需与A政仔进一步沟通确认",
+        "participants_mentioned": [
+          "A政仔"
+        ],
+        "decisions_or_todos": [
+          "次日三人沟通确认发票要求"
+        ]
+      },
+      {
+        "topic": "获奖与营销",
+        "summary": "提及公司获得'2026年度最受投资人欢迎奖'，认为可用于营销宣传",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "记录奖项用于营销"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与展会物料打包、确认快递安排、查找经济实质申报文件、讨论发票需求及社保户口问题",
+      "others_activity": "协助打包物料、讨论展会安排、查找文件、闲聊公司事务及人事话题",
+      "mentioned": [
+        {
+          "name_or_alias": "小林",
+          "context": "被提及帮忙搬运物料，工作繁忙，带了新助理后更忙",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "丹丹",
+          "context": "被提及为仓库管理员，需联系确认物料",
+          "relation_guess": "仓库管理员/同事"
+        },
+        {
+          "name_or_alias": "A政仔",
+          "context": "需与其确认发票具体需求",
+          "relation_guess": "同事/财务相关"
+        },
+        {
+          "name_or_alias": "新来的小助理",
+          "context": "小林带的新助理，每天中午与user一起吃饭",
+          "relation_guess": "新入职员工"
+        },
+        {
+          "name_or_alias": "谢总",
+          "context": "被提及拆了某物",
+          "relation_guess": "管理层"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "三个展位物料分套寄送",
+        "下周五处理经济实质申报",
+        "次日三人沟通发票需求"
+      ],
+      "projects_or_business": [
+        "AI应用商店展会",
+        "百度项目（已寄完物料）",
+        "WC项目（已寄完物料）"
+      ],
+      "risks_or_blockers": [
+        "含电池产品无法走特快快递，到达时间延后",
+        "经济实质申报文件版本需确认"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "payment",
+          "detail": "快递费用，早上寄两个箱子花费78元",
+          "amount_or_terms": "78元"
+        },
+        {
+          "category": "invoice",
+          "detail": "需与A政仔确认发票具体需求，次日三人沟通",
+          "amount_or_terms": "未提及"
+        },
+        {
+          "category": "tax",
+          "detail": "经济实质申报截止日期为29号，下周五处理",
+          "amount_or_terms": "截止日期29号"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "小林带了新来的小助理，工作更忙"
+        },
+        {
+          "category": "policy",
+          "detail": "讨论社保缴纳问题，香港户口无法在深圳交社保，考虑放在苏州"
+        },
+        {
+          "category": "team",
+          "detail": "小林98年出生，被提及是否结婚；员工试用期5月20日开始，7月七夕结束"
+        }
+      ]
+    },
+    "open_questions": [
+      "发票具体需求是什么，需与A政仔确认",
+      "经济实质申报最新版本文件在哪里",
+      "展会物料是否全部齐全，支撑架数量是否足够"
+    ],
+    "keywords": [
+      "展会",
+      "物料打包",
+      "快递",
+      "经济实质申报",
+      "发票",
+      "立牌",
+      "KT板",
+      "托盘",
+      "电池",
+      "社保",
+      "小林",
+      "新助理"
+    ]
+  }
+}

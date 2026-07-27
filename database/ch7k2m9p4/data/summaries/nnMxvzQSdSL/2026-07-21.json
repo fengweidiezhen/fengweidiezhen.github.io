@@ -1,0 +1,226 @@
+{
+  "user_id": "nnMxvzQSdSL",
+  "user_name": "amanda2",
+  "date": "2026-07-21",
+  "generated_at": "2026-07-27T11:34:45.333408+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda2",
+    "aliases": [
+      "amanda2",
+      "amanda2"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 3416,
+    "char_count": 80000,
+    "es_refreshed": true,
+    "truncated": true
+  },
+  "summary": {
+    "title": "amanda2 上海闭门发布会及社交活动纪要",
+    "overview": "amanda2 与谢总在上海某复古风格场地（疑似古堡/设计学院）举办了一场小型闭门发布会，邀请亲朋好友、媒体、投资人等参加。活动围绕其公司 AI 智能吊坠产品（oc 娜/Louis 娜）展开，包含产品体验、互动问答、行业交流等环节。会后 amanda2 与谢总等人前往浦东机场准备返回深圳。",
+    "events": [
+      {
+        "time": "08:33",
+        "what_happened": "amanda2 与同伴讨论参加活动的着装及社交安排",
+        "outcome": "决定下午有专业摄影师拍照，需准备合适服装"
+      },
+      {
+        "time": "09:07",
+        "what_happened": "安装师傅到达场地进行设备安装",
+        "outcome": "设备对称安装完成，后续需拆除"
+      },
+      {
+        "time": "11:14",
+        "what_happened": "amanda2 布置场地，摆放礼品、鲜花、甜点等",
+        "outcome": "场地布置完成，准备迎接嘉宾"
+      },
+      {
+        "time": "12:03",
+        "what_happened": "嘉宾陆续到达，amanda2 进行接待和介绍",
+        "outcome": "嘉宾包括记者、投资人、医生、自媒体人等"
+      },
+      {
+        "time": "13:21",
+        "what_happened": "播放产品宣传视频，花花博士介绍基于 oc 娜的智能家居项目",
+        "outcome": "展示产品理念及未来应用场景"
+      },
+      {
+        "time": "14:44",
+        "what_happened": "互动问答环节，嘉宾抢答问题赢取奖品",
+        "outcome": "问题涉及产品功能、颜色、价格、隐私保护等"
+      },
+      {
+        "time": "15:30",
+        "what_happened": "嘉宾分享 WA 展会见闻及行业观点",
+        "outcome": "讨论情绪监测、隐私保护、产品定位等话题"
+      },
+      {
+        "time": "16:40",
+        "what_happened": "活动结束，嘉宾陆续离开，amanda2 与谢总收拾场地",
+        "outcome": "安排快递寄送物品，准备前往机场"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "产品功能与定位",
+        "summary": "讨论 oc 娜智能吊坠的情绪监测功能、隐私保护与准确度的平衡、下一代产品期待（如 GPS、一键报警、闺蜜联动等）",
+        "participants_mentioned": [
+          "amanda2",
+          "谢总",
+          "花花博士",
+          "六一",
+          "金总"
+        ],
+        "decisions_or_todos": [
+          "下一代产品考虑加入 GPS 和一键报警功能",
+          "探索闺蜜/家人账号联动功能（保护隐私前提下）"
+        ]
+      },
+      {
+        "topic": "WA 展会反馈",
+        "summary": "嘉宾分享 WA 展会见闻，认为陪伴类机器人更抓大众情绪，但整体展会缺乏让人眼前一亮的新品",
+        "participants_mentioned": [
+          "赵士",
+          "陆姐",
+          "amanda2"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "品牌营销策略",
+        "summary": "讨论品牌宣传应注重价值观输出而非单纯产品功能，借鉴其他品牌讲故事的方式",
+        "participants_mentioned": [
+          "谢总",
+          "amanda2",
+          "花花博士"
+        ],
+        "decisions_or_todos": [
+          "下次发布会 PPT 需审核，加强价值观故事线"
+        ]
+      },
+      {
+        "topic": "渠道与销售",
+        "summary": "amanda2 介绍公司渠道策略，主要借力京东、天猫官方支持及自然声量，付费推广较少",
+        "participants_mentioned": [
+          "amanda2",
+          "谢总"
+        ],
+        "decisions_or_todos": [
+          "考虑入驻 K 平台线下店"
+        ]
+      },
+      {
+        "topic": "办公室选址",
+        "summary": "讨论在上海设立办公室的可能性，考虑西岸或张江等区域",
+        "participants_mentioned": [
+          "amanda2",
+          "谢总"
+        ],
+        "decisions_or_todos": [
+          "下半年计划在上海设立办公室"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "amanda2 作为活动主办方，负责场地布置、嘉宾接待、产品介绍、互动主持等工作",
+      "others_activity": "谢总协助活动并参与讨论；花花博士介绍智能家居项目；嘉宾参与问答和分享；安装师傅进行设备安装",
+      "mentioned": [
+        {
+          "name_or_alias": "谢总",
+          "context": "amanda2 的合伙人/业务负责人，共同参与活动",
+          "relation_guess": "合伙人"
+        },
+        {
+          "name_or_alias": "花花博士",
+          "context": "飞利浦照明负责人，深度体验者，介绍智能家居项目",
+          "relation_guess": "合作伙伴"
+        },
+        {
+          "name_or_alias": "六一",
+          "context": "36 氪记者/老师，参与活动并提问",
+          "relation_guess": "媒体"
+        },
+        {
+          "name_or_alias": "赵士",
+          "context": "科技博主，分享 WA 展会见闻",
+          "relation_guess": "媒体/KOL"
+        },
+        {
+          "name_or_alias": "陆姐",
+          "context": "嘉宾，参与讨论",
+          "relation_guess": "嘉宾"
+        },
+        {
+          "name_or_alias": "金总",
+          "context": "张总的朋友，参与活动",
+          "relation_guess": "嘉宾"
+        },
+        {
+          "name_or_alias": "高律师",
+          "context": "律师合伙人，做 AI 智能硬件项目",
+          "relation_guess": "合作伙伴"
+        },
+        {
+          "name_or_alias": "杰总",
+          "context": "孵化器负责人，场地支持方",
+          "relation_guess": "场地提供方"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "下半年在上海设立办公室",
+        "9-10 月在北京举办下一场发布会",
+        "推出青春版产品（799 元，多色可选）",
+        "第二代产品开发中（更小、无感、可变成手环/手链）"
+      ],
+      "projects_or_business": [
+        "AI 智能吊坠产品（oc 娜/Louis 娜）",
+        "情绪监测与可视化功能",
+        "智能家居生态联动",
+        "京东、天猫渠道销售",
+        "考虑入驻 K 平台线下店"
+      ],
+      "risks_or_blockers": [
+        "产品隐私保护与准确度的平衡挑战",
+        "市场竞争激烈，需加强品牌价值观输出",
+        "供应链和新品上市时间紧迫"
+      ]
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "resignation",
+          "detail": "某员工主动提出离职，公司接受其离职申请"
+        }
+      ]
+    },
+    "open_questions": [
+      "下一代产品如何平衡隐私保护与数据准确度",
+      "如何实现闺蜜/家人账号联动功能",
+      "上海办公室选址及团队搭建",
+      "K 平台线下店合作细节"
+    ],
+    "keywords": [
+      "AI 智能吊坠",
+      "情绪监测",
+      "闭门发布会",
+      "WA 展会",
+      "隐私保护",
+      "品牌营销",
+      "青春版",
+      "上海办公室",
+      "智能家居",
+      "渠道销售"
+    ]
+  }
+}

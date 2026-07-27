@@ -1,0 +1,50 @@
+{
+  "format_version": "1",
+  "user_id": "nn2j4CVpKE5",
+  "date": "2026-07-27",
+  "saved_at": "2026-07-27T11:26:24.189625+08:00",
+  "item_count": 6,
+  "items": [
+    {
+      "timestamp": "2026-07-27 01:50:40",
+      "time_ms": 1785088240200,
+      "speaker": "user",
+      "text": "哎离鸭鸭"
+    },
+    {
+      "timestamp": "2026-07-27 01:50:40",
+      "time_ms": 1785088240200,
+      "speaker": "marker",
+      "text": "--- Time: 01:50:40 ---"
+    },
+    {
+      "timestamp": "2026-07-27 01:49:40",
+      "time_ms": 1785088180200,
+      "speaker": "user",
+      "text": "缠猫一个肥八。"
+    },
+    {
+      "timestamp": "2026-07-27 01:49:40",
+      "time_ms": 1785088180200,
+      "speaker": "marker",
+      "text": "--- Time: 01:49:40 ---"
+    },
+    {
+      "timestamp": "2026-07-27 01:52:40",
+      "time_ms": 1785088360200,
+      "speaker": "user",
+      "text": "勉强勉强勉强勉强勉强勉强勉强上班，"
+    },
+    {
+      "timestamp": "2026-07-27 01:52:40",
+      "time_ms": 1785088360200,
+      "speaker": "marker",
+      "text": "--- Time: 01:52:40 ---"
+    }
+  ],
+  "source": {
+    "type": "elasticsearch",
+    "environment": "baidu_release",
+    "fetched_at": "2026-07-27T11:26:24.189625+08:00"
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "user_id": "nn2j4CVpKE5",
+  "user_name": "苑老师",
+  "date": "2026-07-14",
+  "generated_at": "2026-07-27T11:08:18.574537+08:00",
+  "model": "qwen3.7-max-2026-06-08",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "苑老师",
+    "aliases": [
+      "苑老师",
+      "苑老师"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1491,
+    "char_count": 42918,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "硬件选型与测试策略讨论纪要",
+    "overview": "苑老师与供应商讨论二代产品硬件选型（蓝牙芯片、天线、晶振、存储等）及降本方案；与测试团队讨论自动化测试框架、机型覆盖策略及专项测试计划；处理报销事务及日常家庭对话。",
+    "events": [
+      {
+        "time": "10:23",
+        "what_happened": "与供应商讨论二代产品元器件选型，包括蓝牙芯片、传感器、存储等",
+        "outcome": "确定在保证品质前提下优化成本，部分器件沿用一代方案，晶振和天线尽量不换"
+      },
+      {
+        "time": "11:32",
+        "what_happened": "预订万克银城酒店房间",
+        "outcome": "成功预订周四晚上12人房间"
+      },
+      {
+        "time": "12:05",
+        "what_happened": "讨论自动化测试脚本及流程标准化",
+        "outcome": "计划引入自动化测试提高效率"
+      },
+      {
+        "time": "13:36",
+        "what_happened": "与测试团队讨论设备特征库及重点测试机型选择",
+        "outcome": "确定重点测试OPPO、vivo、小米及iPhone 14/16等机型"
+      },
+      {
+        "time": "16:58",
+        "what_happened": "确认青春版BOM物料清单，讨论天线、晶振、压感等器件取舍",
+        "outcome": "青春版去掉压感和雷达，天线和晶振尽量沿用原方案"
+      },
+      {
+        "time": "18:48",
+        "what_happened": "处理研发用品报销事宜",
+        "outcome": "指导同事提交报销申请，要求附发票和明细截图"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "二代产品硬件选型与降本",
+        "summary": "讨论蓝牙主控、三轴/六轴传感器、Flash存储（256M/8G/16G）、晶振、天线等器件选型。8G存储价格涨至15美元左右，考虑用TF卡替代。强调在保证品质前提下优化成本，降本是永恒主题。",
+        "participants_mentioned": [
+          "周经理",
+          "北总"
+        ],
+        "decisions_or_todos": [
+          "晶振和天线尽量沿用一代方案避免影响性能",
+          "青春版去掉压感和雷达功能",
+          "找原厂确认器件是否已调试过",
+          "后续发BOM清单给供应商评估"
+        ]
+      },
+      {
+        "topic": "测试策略与机型覆盖",
+        "summary": "讨论建立设备特征库，针对高频问题机型和用户量大的机型做重点测试。国内重点测OPPO、vivo、小米、华为，iPhone选14和16。引入星红平台做远程真机测试和UI自动化。",
+        "participants_mentioned": [
+          "肖魂",
+          "一婷",
+          "刘镜"
+        ],
+        "decisions_or_todos": [
+          "确定重点测试机型清单",
+          "算法专项测试方案待明确",
+          "被杀专项和功耗专项继续执行",
+          "大版本迭代需提前预留专项测试时间"
+        ]
+      },
+      {
+        "topic": "录音设备功耗与声音检测策略",
+        "summary": "讨论高检测模式和省电模式切换逻辑：省电模式下5秒采样一次，检测到声音进入工作模式持续录音，3分钟无声音回到省电模式。目标续航24-36小时。",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "嵌入式端实现声音分贝检测",
+          "AP端配合做云端人声识别减少无效上传"
+        ]
+      },
+      {
+        "topic": "青春版样机物料准备",
+        "summary": "准备10台EVT样机物料，大部分可在商城采购，天线需联系供应商拿样品。蓝牙主控芯片较贵需抓紧采购。",
+        "participants_mentioned": [
+          "贾待创"
+        ],
+        "decisions_or_todos": [
+          "天线样品需10-20个",
+          "蓝牙主控抓紧采购",
+          "物料齐后交工厂排计划"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主导硬件选型讨论、测试策略制定、处理报销事务，晚间与家人日常交流",
+      "others_activity": "供应商提供器件报价和替代方案，测试团队反馈机型兼容性问题，同事协助处理报销和物料采购",
+      "mentioned": [
+        {
+          "name_or_alias": "周经理",
+          "context": "采克经理，项目经理，参与评估工作",
+          "relation_guess": "同事/项目经理"
+        },
+        {
+          "name_or_alias": "北总",
+          "context": "需要与其对一下原厂调试情况",
+          "relation_guess": "上级或合作方"
+        },
+        {
+          "name_or_alias": "肖魂",
+          "context": "负责ATC和干模助手测试",
+          "relation_guess": "测试团队成员"
+        },
+        {
+          "name_or_alias": "一婷",
+          "context": "负责算法性能测试",
+          "relation_guess": "测试团队成员"
+        },
+        {
+          "name_or_alias": "刘镜",
+          "context": "修改代码后需做对应测试验证",
+          "relation_guess": "开发人员"
+        },
+        {
+          "name_or_alias": "贾待创",
+          "context": "工厂方，物料齐后交其排生产计划",
+          "relation_guess": "工厂对接人"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "青春版（降价版）产品正在开发中，去掉压感和雷达功能",
+        "一代产品已生产1700台，物料全部投产",
+        "准备10台二代EVT样机",
+        "大版本迭代需提前预留专项测试时间"
+      ],
+      "projects_or_business": [
+        "二代录音设备开发",
+        "青春版录音设备开发",
+        "自动化测试平台建设",
+        "云端人声识别优化"
+      ],
+      "risks_or_blockers": [
+        "8G存储价格大幅上涨（涨至15美元）",
+        "天线供应商样品难获取",
+        "蓝牙主控芯片价格较贵",
+        "情绪检测准确度不足",
+        "手机端功耗过大影响续航"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "cost",
+          "detail": "8G Flash存储价格涨至约15美元，与64G价格接近",
+          "amount_or_terms": "15美元"
+        },
+        {
+          "category": "cost",
+          "detail": "256M Flash用于存储代码和录音",
+          "amount_or_terms": "未提及具体价格"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "研发用品报销，需附发票和明细截图",
+          "amount_or_terms": "262.37元"
+        },
+        {
+          "category": "cost",
+          "detail": "一代产品备料1700台",
+          "amount_or_terms": "1700台"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "算法专项测试具体方案如何制定",
+      "星红平台能承担哪些自动化测试工作",
+      "天线匹配电路是否需要重新调试"
+    ],
+    "keywords": [
+      "硬件选型",
+      "降本",
+      "青春版",
+      "自动化测试",
+      "机型覆盖",
+      "功耗优化",
+      "声音检测",
+      "EVT样机",
+      "Flash存储",
+      "蓝牙主控"
+    ]
+  }
+}

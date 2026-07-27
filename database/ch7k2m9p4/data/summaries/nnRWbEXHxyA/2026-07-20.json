@@ -1,0 +1,216 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-07-20",
+  "generated_at": "2026-07-27T10:59:38.797133+08:00",
+  "model": "qwen3.7-max-2026-06-08",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1280,
+    "char_count": 46373,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "产品面试与日常交流纪要",
+    "overview": "主体用户zhiyuan参与了一场针对产品经理候选人的面试，讨论了硬件产品（AI录音/记忆设备）的技术架构、隐私设计、定价策略及商业模式。随后与同事用餐并讨论了候选人评估、公司数据看板需求、工资结算及次日用户活动安排。晚间为休闲社交活动。",
+    "events": [
+      {
+        "time": "09:39",
+        "what_happened": "早会讨论硬件产品技术细节，包括端侧处理、雷达麦克风、隐私设计及定价（1399/1499元）",
+        "outcome": "确认产品数据在手机端侧处理以保护隐私，本周前半段完成各自任务"
+      },
+      {
+        "time": "09:44",
+        "what_happened": "候选人到达上海办公室，开始面试交流",
+        "outcome": "候选人体验产品并展开深入讨论"
+      },
+      {
+        "time": "10:48",
+        "what_happened": "面试结束，双方互加微信，候选人表达强烈加入意愿",
+        "outcome": "候选人表示除产品岗外其他职位也可接受，薪资可谈"
+      },
+      {
+        "time": "11:01",
+        "what_happened": "zhiyuan与同事用餐，评估面试候选人表现",
+        "outcome": "认为候选人方法论OK但性格偏藏锋，落地能力需观察"
+      },
+      {
+        "time": "12:41",
+        "what_happened": "讨论离职员工工资结算问题",
+        "outcome": "需与m森商量，多发的工资要求退回"
+      },
+      {
+        "time": "13:08",
+        "what_happened": "确认次日用户活动（party形式）安排",
+        "outcome": "下午两点开始参观，预计四点半结束，之后去机场"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "AI硬件产品技术与隐私",
+        "summary": "讨论了设备端侧处理音频、雷达等数据，不上云以保护隐私；小模型聚合在端侧运行；声纹识别可区分佩戴者与他人",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "本周前半段完成各自任务，后半段录入新feature"
+        ]
+      },
+      {
+        "topic": "产品定价与商业模式",
+        "summary": "产品定价1399/1499元，国内偏贵但欧美可接受；讨论通过API开放数据服务作为第二增长曲线，向调用接口的用户收费",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "探索数据API服务作为新收入来源"
+        ]
+      },
+      {
+        "topic": "大厂与初创公司产品工作差异",
+        "summary": "候选人分享大厂有明确指标和分工，初创需自行定义北极星指标、做产品战略、写原型、管品牌等，判断力至关重要",
+        "participants_mentioned": [],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "竞品跟进策略",
+        "summary": "若终极目标一致且当前切入点最优，应正面竞争、快速跟进并做得更好；若目标不同则无需跟进",
+        "participants_mentioned": [],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "候选人评估",
+        "summary": "同事认为候选人方法论尚可但性格藏锋，落地执行力存疑；对比此前北邮博士候选人，认为当前候选人稍优",
+        "participants_mentioned": [
+          "温先生",
+          "北邮博士"
+        ],
+        "decisions_or_todos": [
+          "继续观察候选人落地能力"
+        ]
+      },
+      {
+        "topic": "数据看板建设",
+        "summary": "当前埋点过于简单，缺乏统一看板，各模块数据分散，需建立基础数据体系",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "建立统一数据看板和埋点体系"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与早会、面试候选人、与同事用餐讨论候选人评估及次日用户活动安排",
+      "others_activity": "同事参与面试旁听、用餐讨论、处理工资结算及活动筹备",
+      "mentioned": [
+        {
+          "name_or_alias": "温先生",
+          "context": "面试的产品经理候选人，从杭州来上海，此前在初创公司因产品方向分歧离职",
+          "relation_guess": "候选人"
+        },
+        {
+          "name_or_alias": "谢总",
+          "context": "公司创始人/负责人，持有控股权，参与面试并做决策",
+          "relation_guess": "公司高管/创始人"
+        },
+        {
+          "name_or_alias": "曼娜",
+          "context": "被提及协调候选人行程，安排在上海而非深圳面试",
+          "relation_guess": "HR或行政同事"
+        },
+        {
+          "name_or_alias": "m森",
+          "context": "需与其商量离职员工工资结算事宜",
+          "relation_guess": "财务或HR同事"
+        },
+        {
+          "name_or_alias": "赛哥",
+          "context": "早会中被询问是否有补充",
+          "relation_guess": "团队成员"
+        },
+        {
+          "name_or_alias": "老刘",
+          "context": "提到八月份办公司大功率相关事务",
+          "relation_guess": "行政或运营同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "本周后半段开始录入新feature",
+        "次日（7月21日）下午两点举办用户活动（party形式），含参观和产品体验",
+        "计划在上海设立办公点",
+        "探索通过API开放数据服务作为第二增长曲线"
+      ],
+      "projects_or_business": [
+        "AI录音/记忆硬件产品（定价1399/1499元，已出货数百台）",
+        "端侧AI处理与隐私保护方案",
+        "数据API服务商业化探索"
+      ],
+      "risks_or_blockers": [
+        "国内定价偏高，用户付费意愿有限",
+        "数据看板缺失，埋点体系不完善",
+        "具身智能赛道商业化落地慢、烧钱严重"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "payment",
+          "detail": "离职员工工资结算，多发的工资需协商退回",
+          "amount_or_terms": "未明确具体金额"
+        },
+        {
+          "category": "cost",
+          "detail": "产品定价1399元和1499元两个版本，讨论毛利水平",
+          "amount_or_terms": "1399/1499元"
+        },
+        {
+          "category": "other",
+          "detail": "候选人表示薪资可谈，对职位无硬性要求",
+          "amount_or_terms": "未提及具体数字"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "面试产品经理候选人温先生，其强烈表达加入意愿，接受除产品外其他岗位"
+        },
+        {
+          "category": "resignation",
+          "detail": "温先生因与前公司老板产品方向分歧（想做长期产品vs短平快业务）而离职"
+        },
+        {
+          "category": "team",
+          "detail": "当前团队约20多人，候选人建议初期招两个实习生协助建立数据迭代闭环"
+        }
+      ]
+    },
+    "open_questions": [
+      "温先生是否最终录用及具体岗位安排",
+      "离职员工多发工资能否成功追回",
+      "数据看板建设的具体优先级和实施方案",
+      "上海办公点设立时间表"
+    ],
+    "keywords": [
+      "AI硬件",
+      "端侧处理",
+      "隐私保护",
+      "产品面试",
+      "数据看板",
+      "API服务",
+      "用户活动",
+      "初创公司",
+      "竞品策略",
+      "工资结算"
+    ]
+  }
+}

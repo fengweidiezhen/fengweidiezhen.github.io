@@ -1,0 +1,279 @@
+{
+  "user_id": "nn2j4CVpKE5",
+  "user_name": "苑老师",
+  "date": "2026-07-01",
+  "generated_at": "2026-07-27T11:07:47.003403+08:00",
+  "model": "qwen3.7-max-2026-06-08",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "苑老师",
+    "aliases": [
+      "苑老师",
+      "苑老师"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1696,
+    "char_count": 54833,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "苑老师2026年7月1日工作纪要",
+    "overview": "苑老师当日主要参与早会了解研发进展，与同事讨论产测激活、离线音频协议、雷达心率数据上传等技术问题；下午进行项目管理与生产交接，梳理供应商、BOM、产测流程及历史遗留问题；晚间与家人互动并体验VR眼镜设备。",
+    "events": [
+      {
+        "time": "09:32",
+        "what_happened": "召开早会，各成员汇报昨日工作进展",
+        "outcome": "了解运维清理、聚合功能上线、模型语言增加等情况，安排当日测试与修复任务"
+      },
+      {
+        "time": "09:56",
+        "what_happened": "讨论产测激活与防呆方案",
+        "outcome": "确认通过标志位与串口通讯判断船运模式，后续考虑外部激活方案降低功耗"
+      },
+      {
+        "time": "11:14",
+        "what_happened": "确认离线音频协议对接情况",
+        "outcome": "李程与马强已对完协议，音频部分可继续推进"
+      },
+      {
+        "time": "11:49",
+        "what_happened": "讨论雷达与心率数据上传接口定义",
+        "outcome": "决定将聚合数据与心率数据通过自定义接口上传，由服务端搭建接收接口"
+      },
+      {
+        "time": "12:25",
+        "what_happened": "午餐期间讨论报销与发票事宜",
+        "outcome": "确认报销流程正常，发票一小时内可收到，苑老师已提交两笔报销"
+      },
+      {
+        "time": "16:02",
+        "what_happened": "与同事进行项目管理与生产交接会议",
+        "outcome": "梳理供应商质量管控、代工厂费用核算、BOM完善、产测防呆、包装物料等历史遗留问题"
+      },
+      {
+        "time": "17:19",
+        "what_happened": "与陈子讨论PCB器件位置激光扫描方案",
+        "outcome": "确认只需扫描正反面器件位置，后续商务沟通费用"
+      },
+      {
+        "time": "20:48",
+        "what_happened": "观看VR眼镜新手教学视频并体验设备",
+        "outcome": "了解雷鸟V3眼镜配件、充电、配对及AI语音助手功能"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "产测激活与防呆机制",
+        "summary": "讨论产测时设备自动激活问题，分析通过标志位、串口通讯及外部激活等方式优化流程",
+        "participants_mentioned": [
+          "苑老师",
+          "鼠博"
+        ],
+        "decisions_or_todos": [
+          "考虑使用外部激活替代应用程序激活以降低功耗",
+          "与鼠博进一步讨论硬件控制充电开关方案"
+        ]
+      },
+      {
+        "topic": "雷达与心率数据上传",
+        "summary": "讨论将毫米波雷达和心率数据通过自定义接口上传至服务器，确定数据格式与字段定义",
+        "participants_mentioned": [
+          "苑老师",
+          "资员"
+        ],
+        "decisions_or_todos": [
+          "服务端搭建接收接口",
+          "心率数据单独字段上传，其他字段注释掉"
+        ]
+      },
+      {
+        "topic": "生产交接与供应商管理",
+        "summary": "梳理代工厂历史费用争议、BOM不完善、产测流程不规范、包装物料遗漏等问题",
+        "participants_mentioned": [
+          "苑老师",
+          "支源",
+          "周界",
+          "鼠博"
+        ],
+        "decisions_or_todos": [
+          "与鼠博赴现场核算代工厂费用",
+          "完善包装BOM并加入SN码、标贴等物料",
+          "加强产测防呆与条码检查流程"
+        ]
+      },
+      {
+        "topic": "项目管理工具与研发规范",
+        "summary": "介绍禅道项目管理工具使用、敏捷与瀑布混合开发模式、软件版本规范及编码规范",
+        "participants_mentioned": [
+          "苑老师",
+          "支源"
+        ],
+        "decisions_or_todos": [
+          "为交接同事开通禅道账号",
+          "按研发规范执行版本管理与需求生命周期"
+        ]
+      },
+      {
+        "topic": "PCB器件位置扫描方案",
+        "summary": "讨论通过激光扫描获取PCB正反面器件位置，用于产测精准定位",
+        "participants_mentioned": [
+          "苑老师",
+          "陈子",
+          "刘工"
+        ],
+        "decisions_or_todos": [
+          "确认只需扫描上下板器件位置",
+          "后续商务沟通费用与工作量"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主持早会、参与技术讨论、进行生产交接会议、体验VR设备、与家人互动",
+      "others_activity": "汇报运维与开发进展、讨论技术方案、协助交接文档梳理、体验VR眼镜",
+      "mentioned": [
+        {
+          "name_or_alias": "李程",
+          "context": "负责离线音频开发，与马强对协议",
+          "relation_guess": "研发同事"
+        },
+        {
+          "name_or_alias": "马强",
+          "context": "参与音频协议对接，可能请假",
+          "relation_guess": "研发同事"
+        },
+        {
+          "name_or_alias": "张线",
+          "context": "早会中被询问是否有补充",
+          "relation_guess": "研发同事"
+        },
+        {
+          "name_or_alias": "鼠博",
+          "context": "讨论产测激活方案，将赴现场核算代工厂费用",
+          "relation_guess": "硬件或生产相关同事"
+        },
+        {
+          "name_or_alias": "支源",
+          "context": "参与生产交接，负责算法部分，为项目A角",
+          "relation_guess": "项目经理或产品负责人"
+        },
+        {
+          "name_or_alias": "周界",
+          "context": "接手管理层面刺投与排期工作",
+          "relation_guess": "管理或项目协调同事"
+        },
+        {
+          "name_or_alias": "陈子",
+          "context": "讨论PCB器件位置激光扫描方案",
+          "relation_guess": "外部供应商或工程合作方"
+        },
+        {
+          "name_or_alias": "刘工",
+          "context": "对PCB扫描细节较清楚",
+          "relation_guess": "工程技术人员"
+        },
+        {
+          "name_or_alias": "陈刚",
+          "context": "午餐时讨论打饭价格与充值账号",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "林环",
+          "context": "被提及与财务对账反馈",
+          "relation_guess": "财务相关同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "下周与代工厂现场核算历史费用并做结论",
+        "七月三号前完成主板来料不良问题梳理并发邮件给方案公司",
+        "下次生产前完善包装BOM并评审物料清单",
+        "八月第一周苑老师计划请假带小孩出游"
+      ],
+      "projects_or_business": [
+        "混合型基金研发项目（算法+软件敏捷，生产瀑布）",
+        "防老人跌倒项目（收尾阶段）",
+        "二代产品规划（考虑合并需求）"
+      ],
+      "risks_or_blockers": [
+        "代工厂费用争议（报价七八万不合理，需现场核算）",
+        "产测流程不规范导致颜色配置错误",
+        "BOM不完善缺少包装物料与标贴",
+        "主板三防漆涂覆导致升级失败",
+        "ROM包烧录方法需与方案公司确认避免复发"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "reimbursement",
+          "detail": "苑老师提交两笔报销，发票一小时内收到",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "cost",
+          "detail": "代工厂历史费用争议，报价七八万不合理",
+          "amount_or_terms": "七八万元（争议金额）"
+        },
+        {
+          "category": "payment",
+          "detail": "购买键盘通过淘宝支付宝付款",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "cost",
+          "detail": "午餐打饭费用讨论",
+          "amount_or_terms": "四十多元（两人）"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "role_change",
+          "detail": "支源为项目A角，苑老师为B角，周界接手管理排期"
+        },
+        {
+          "category": "resignation",
+          "detail": "前项目经理离职，文档在支源处，需转移权限"
+        },
+        {
+          "category": "team",
+          "detail": "马强可能请假，音频部分需提前对接"
+        },
+        {
+          "category": "hiring",
+          "detail": "提及新来项目经理，需找后台配合"
+        }
+      ]
+    },
+    "open_questions": [
+      "代工厂费用最终核算结果如何？",
+      "ROM包烧录方法是否需调整以避免产线升级失败？",
+      "PCB激光扫描方案费用与工作量如何？",
+      "产测防呆标志位方案是否需进一步优化？",
+      "包装填充物是否采用与产品同尺寸泡沫盒？"
+    ],
+    "keywords": [
+      "产测",
+      "激活",
+      "雷达",
+      "心率",
+      "BOM",
+      "代工厂",
+      "禅道",
+      "防呆",
+      "三防漆",
+      "ROM包",
+      "激光扫描",
+      "包装",
+      "报销",
+      "交接"
+    ]
+  }
+}

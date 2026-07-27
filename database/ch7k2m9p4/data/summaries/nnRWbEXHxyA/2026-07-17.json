@@ -1,0 +1,230 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-07-17",
+  "generated_at": "2026-07-27T10:55:31.187156+08:00",
+  "model": "qwen3.7-max-2026-06-08",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1438,
+    "char_count": 44643,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "研发晨会与HR候选人面试评估",
+    "overview": "上午召开研发晨会，讨论固件兼容性、设备重启及心率数据断连等技术问题；随后面试一位来自商汤的HR候选人，评估其搭建初创公司人事制度的能力；下午前往南山区人民医院看中医，诊断为湿气重并开具中药与拔罐治疗；晚间继续排查设备数据断连问题并准备出差上海。",
+    "events": [
+      {
+        "time": "09:32",
+        "what_happened": "召开研发晨会，梳理昨日更新情况与bug进展",
+        "outcome": "确认嵌入式充电问题基本解决，心率时间对不上问题待跟进，要求固件与APP版本兼容性做好对齐"
+      },
+      {
+        "time": "10:00",
+        "what_happened": "面试HR候选人（商汤背景，五六年经验）",
+        "outcome": "候选人有外包管理和招聘全流程经验，但团队认为其气场偏弱、抗压能力存疑，决定继续看其他候选人"
+      },
+      {
+        "time": "12:25",
+        "what_happened": "发现设备固件反复重启导致心率数据断连",
+        "outcome": "要求马强当天彻底解决重启问题，否则不能下班"
+      },
+      {
+        "time": "13:35",
+        "what_happened": "前往南山区人民医院看中医",
+        "outcome": "医生诊断为湿气重，开中成药并做拔罐，中药安排下周三送到"
+      },
+      {
+        "time": "18:26",
+        "what_happened": "继续排查设备数据断连与时间不同步问题",
+        "outcome": "计划交换设备测试是否与APP有关，确认重连后数据丢失的问题"
+      },
+      {
+        "time": "20:40",
+        "what_happened": "准备出差上海，带备用设备",
+        "outcome": "确认停车安排与航班信息，次日早六点飞机"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "固件与APP版本兼容性",
+        "summary": "新feature需检测固件版本才启用，但用户可能不升级固件或APP版本不一致，需做好兼容性处理",
+        "participants_mentioned": [
+          "zhiyuan",
+          "马强",
+          "肖红"
+        ],
+        "decisions_or_todos": [
+          "写文档总结各场景分析",
+          "测试按文档逐条对照验证"
+        ]
+      },
+      {
+        "topic": "设备反复重启导致数据断连",
+        "summary": "固件重启后时间错乱，心率等数据断连，首页时间显示不一致",
+        "participants_mentioned": [
+          "zhiyuan",
+          "马强"
+        ],
+        "decisions_or_todos": [
+          "马强当天必须彻底解决重启问题",
+          "交换设备排查是否与APP相关"
+        ]
+      },
+      {
+        "topic": "HR候选人评估",
+        "summary": "面试商汤背景的HR，有外包管理和招聘经验，但性格偏温和，担心在创业公司推制度时气场不足",
+        "participants_mentioned": [
+          "zhiyuan",
+          "盖"
+        ],
+        "decisions_or_todos": [
+          "继续看其他HR候选人",
+          "月底前若无人入职则先安排过渡人选做实操"
+        ]
+      },
+      {
+        "topic": "公司人事制度建设",
+        "summary": "公司成立半年缺少规章制度和员工手册，需补课搭建招聘、试用期管理、绩效考核等体系",
+        "participants_mentioned": [
+          "zhiyuan"
+        ],
+        "decisions_or_todos": [
+          "新HR入职后优先搭建员工手册和规章制度",
+          "建立人才储备和轮岗机制降低单点风险"
+        ]
+      },
+      {
+        "topic": "Oppo手机后台保活开关",
+        "summary": "发现Oppo手机应用详情管理中有关闭后台限制的开关，可降低APP被系统回收的概率",
+        "participants_mentioned": [
+          "zhiyuan"
+        ],
+        "decisions_or_todos": [
+          "提醒用户关闭该开关以改善蓝牙断连后的APP存活率"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主持研发晨会、面试HR候选人、去医院看中医、排查设备技术问题、准备出差上海",
+      "others_activity": "测试团队汇报bug进展、HR候选人参加面试并介绍经验、同事讨论候选人评价、中医医生问诊治疗",
+      "mentioned": [
+        {
+          "name_or_alias": "马强",
+          "context": "嵌入式开发，负责充电和固件相关问题修复",
+          "relation_guess": "研发同事"
+        },
+        {
+          "name_or_alias": "肖红",
+          "context": "协调固件版本对齐问题",
+          "relation_guess": "研发或项目管理同事"
+        },
+        {
+          "name_or_alias": "里程",
+          "context": "负责数据库迁移和采样点代码修改",
+          "relation_guess": "后端开发同事"
+        },
+        {
+          "name_or_alias": "盖",
+          "context": "协助推荐HR候选人，与候选人有前同事关系",
+          "relation_guess": "合作伙伴或顾问"
+        },
+        {
+          "name_or_alias": "周金",
+          "context": "需发送交接邮件签字",
+          "relation_guess": "公司管理层或财务"
+        },
+        {
+          "name_or_alias": "卫铁花",
+          "context": "南山区人民医院中医医生",
+          "relation_guess": "外部医生"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "7月20日留出时间准备发布会材料和PPT",
+        "7月21日为关键发布会节点",
+        "下半年将上线一系列新产品",
+        "公司目前约20人，计划逐步扩充团队"
+      ],
+      "projects_or_business": [
+        "嵌入式固件优化（充电、离线音频）",
+        "APP与固件版本兼容性处理",
+        "心率数据断连与设备重启问题修复",
+        "二代产品包装设计（参考马吉拉工业简约风）",
+        "数据库迁移工作"
+      ],
+      "risks_or_blockers": [
+        "团队规模小，单点人员变动风险高",
+        "缺少人事制度和员工手册，管理基础薄弱",
+        "设备固件反复重启影响用户体验和数据完整性",
+        "HR招聘进度需加快，现有HR即将离职"
+      ]
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "面试商汤背景HR候选人，有外包管理和招聘全流程经验，薪资约30万年包，但气场偏弱"
+        },
+        {
+          "category": "hiring",
+          "detail": "猎头推荐的其他资深HR候选人年包50-60万以上，成本较高"
+        },
+        {
+          "category": "resignation",
+          "detail": "现有HR即将离职，需月底前完成交接，24号员工整理交接文档并休剩余4天假"
+        },
+        {
+          "category": "policy",
+          "detail": "公司成立半年缺少规章制度，需搭建员工手册、试用期管理办法、招聘管理办法和绩效考核体系"
+        },
+        {
+          "category": "team",
+          "detail": "讨论创业公司人才储备和轮岗机制，降低关键岗位单点故障风险"
+        },
+        {
+          "category": "hiring",
+          "detail": "测试岗位新人安排7月27日之后入职"
+        }
+      ]
+    },
+    "open_questions": [
+      "HR候选人进晴能否扛住创业公司制度推行的压力",
+      "设备固件重启问题能否当天彻底解决",
+      "心率数据断连是固件重启导致还是APP端问题",
+      "如何在20人规模下建立有效的人才梯队和储备"
+    ],
+    "keywords": [
+      "固件兼容性",
+      "设备重启",
+      "心率断连",
+      "HR招聘",
+      "员工手册",
+      "试用期管理",
+      "外包管理",
+      "发布会",
+      "湿气重",
+      "拔罐",
+      "出差上海",
+      "Oppo保活",
+      "人才储备",
+      "轮岗机制"
+    ]
+  }
+}

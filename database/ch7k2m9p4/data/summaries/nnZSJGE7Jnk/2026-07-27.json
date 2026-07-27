@@ -1,0 +1,48 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T12:03:37.620287+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 2,
+    "char_count": 20,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-27 日常对话纪要",
+    "overview": "当日转写内容极少，仅记录到他人说了一个“想”字，无实质性事件、讨论或决策发生。",
+    "events": [],
+    "discussions": [],
+    "people": {
+      "subject_user_activity": "未提及",
+      "others_activity": "他人说了一个“想”字，无后续内容。",
+      "mentioned": []
+    },
+    "company": {
+      "plans_and_arrangements": [],
+      "projects_or_business": [],
+      "risks_or_blockers": []
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [],
+    "keywords": []
+  }
+}

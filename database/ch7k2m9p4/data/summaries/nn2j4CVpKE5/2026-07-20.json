@@ -1,0 +1,223 @@
+{
+  "user_id": "nn2j4CVpKE5",
+  "user_name": "苑老师",
+  "date": "2026-07-20",
+  "generated_at": "2026-07-27T11:20:26.867244+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "苑老师",
+    "aliases": [
+      "苑老师",
+      "苑老师"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1119,
+    "char_count": 37199,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-20 苑老师日常工作与生活纪要",
+    "overview": "当日苑老师参与早会讨论项目进度、发版安排及青春版产品架构适配；午间与同事讨论项目经理借钱一事及投资理财观点；下午处理硬件主板、FPC等工程问题；晚间回家照顾孩子、辅导作业并处理家务。",
+    "events": [
+      {
+        "time": "09:04",
+        "what_happened": "others 分享马斯克相关书籍内容，讨论其人生准则、第一性原理、极限思维等做事方法",
+        "outcome": "未提及"
+      },
+      {
+        "time": "09:32",
+        "what_happened": "苑老师召集团队开早会，因下雨地铁问题大家迟到",
+        "outcome": "会议正常进行"
+      },
+      {
+        "time": "09:33",
+        "what_happened": "团队逐一汇报上周工作及本周计划，涉及发版、bug修复、嵌入式固件测试、主板贴片等",
+        "outcome": "明确本周前半段查漏补缺、发版，后半段上新功能"
+      },
+      {
+        "time": "09:42",
+        "what_happened": "苑老师提出青春版产品需提前规划架构、协议、固件适配，争取硬件回来时同步验证",
+        "outcome": "安排嵌入式部分提前准备版本"
+      },
+      {
+        "time": "11:58",
+        "what_happened": "苑老师与同事讨论青春版生产时间预计八九月份",
+        "outcome": "确认时间节点"
+      },
+      {
+        "time": "12:27",
+        "what_happened": "同事告知项目经理多次借钱，苑老师提醒控制借款上限",
+        "outcome": "建议同事设定借款底线"
+      },
+      {
+        "time": "14:17",
+        "what_happened": "苑老师与同事讨论主板、小板、充电板、FPC等硬件生产及认证数量",
+        "outcome": "确定各板生产套数"
+      },
+      {
+        "time": "18:32",
+        "what_happened": "苑老师感冒不适，回家后点外卖、照顾孩子、辅导作业",
+        "outcome": "未提及"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "马斯克做事方法论",
+        "summary": "others 分享马斯克人生准则、第一性原理、极限思维、工程学价值、极致硬核、扁平化管理等内容",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "项目周会汇报",
+        "summary": "团队成员汇报上周bug修复、嵌入式固件测试、主板B科完成、FPC问题确认等，安排本周发版及新功能上线",
+        "participants_mentioned": [
+          "苑老师",
+          "强哥",
+          "刚",
+          "浩庭",
+          "蔡"
+        ],
+        "decisions_or_todos": [
+          "前半段查漏补缺并发版",
+          "后半段上新功能",
+          "青春版架构提前适配"
+        ]
+      },
+      {
+        "topic": "青春版产品架构适配",
+        "summary": "苑老师提出APP需支持多型号、固件分开、协议完善型号识别，嵌入式提前准备版本以便硬件回来同步验证",
+        "participants_mentioned": [
+          "苑老师",
+          "蔡"
+        ],
+        "decisions_or_todos": [
+          "嵌入式提前出版本",
+          "协议完善型号识别逻辑"
+        ]
+      },
+      {
+        "topic": "同事项目经理借钱",
+        "summary": "同事反映项目经理因父亲生病多次借钱，苑老师提醒设定借款上限、注意风险",
+        "participants_mentioned": [
+          "苑老师",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "控制借款金额在可承受范围内"
+        ]
+      },
+      {
+        "topic": "投资理财讨论",
+        "summary": "苑老师与同事讨论存储芯片、比特币等投资，认为盲目跟风风险大，应研究概率、分散投入",
+        "participants_mentioned": [
+          "苑老师",
+          "others"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "硬件生产与认证",
+        "summary": "讨论主板、小板、充电板、FPC生产套数及认证需求，确认让工厂寄最新样品",
+        "participants_mentioned": [
+          "苑老师",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "FPC做20套",
+          "充电板10套",
+          "主板10套",
+          "让工厂寄最新样品"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主持早会安排项目进度，讨论青春版架构适配，处理硬件工程问题，晚间照顾孩子辅导作业",
+      "others_activity": "分享马斯克书籍内容，汇报项目进度，讨论借钱及投资话题，协助硬件调试",
+      "mentioned": [
+        {
+          "name_or_alias": "强哥",
+          "context": "早会中汇报设备时间对不上问题已修改",
+          "relation_guess": "团队成员"
+        },
+        {
+          "name_or_alias": "刚",
+          "context": "早会中提到works数据对不上问题尚未改对",
+          "relation_guess": "团队成员"
+        },
+        {
+          "name_or_alias": "浩庭",
+          "context": "早会中提到情绪球比例校准及AB测试",
+          "relation_guess": "团队成员"
+        },
+        {
+          "name_or_alias": "蔡",
+          "context": "早会中讨论青春版固件复用比例",
+          "relation_guess": "团队成员"
+        },
+        {
+          "name_or_alias": "项目经理",
+          "context": "同事反映其因父亲生病多次借钱",
+          "relation_guess": "同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "本周前半段查漏补缺并发版",
+        "本周后半段上新功能",
+        "青春版产品预计八九月份生产",
+        "嵌入式提前准备版本以便硬件回来同步验证"
+      ],
+      "projects_or_business": [
+        "青春版产品架构适配",
+        "主板、小板、充电板、FPC生产及认证",
+        "嵌入式固件测试及放电充电曲线统计"
+      ],
+      "risks_or_blockers": [
+        "FPC发现尺寸和颜色问题需确认",
+        "works数据对不上问题尚未修复"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "other",
+          "detail": "同事反映项目经理因父亲生病多次借钱，苑老师提醒设定借款上限",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "other",
+          "detail": "讨论存储芯片、比特币等投资，苑老师认为盲目跟风风险大",
+          "amount_or_terms": "未提及"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "FPC尺寸和颜色问题需确认是帮母写错还是板方本身问题",
+      "works数据对不上问题需继续排查修复"
+    ],
+    "keywords": [
+      "青春版",
+      "发版",
+      "马斯克",
+      "第一性原理",
+      "嵌入式",
+      "FPC",
+      "主板",
+      "借钱",
+      "存储",
+      "比特币"
+    ]
+  }
+}

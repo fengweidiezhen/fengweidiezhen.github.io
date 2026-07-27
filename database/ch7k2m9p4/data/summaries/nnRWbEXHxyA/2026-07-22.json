@@ -1,0 +1,176 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-07-22",
+  "generated_at": "2026-07-27T11:02:37.773346+08:00",
+  "model": "qwen3.7-max-2026-06-08",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 386,
+    "char_count": 13894,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "航班出行与面试评估纪要",
+    "overview": "主体用户zhiyuan当日搭乘上海至深圳航班，期间与同事讨论数据库查询性能问题、面试候选人评估、音频标注数据方案及RAG检索系统架构；下午参与一名算法/大模型方向候选人的技术面试，涉及RAG三层架构设计、薪资期望及团队情况介绍。",
+    "events": [
+      {
+        "time": "00:00",
+        "what_happened": "搭乘上海浦东至深圳航班，完成安检与起飞前广播",
+        "outcome": "航班正常起飞，飞行时间约两小时十分钟"
+      },
+      {
+        "time": "14:42",
+        "what_happened": "与同事讨论数据库按天查询与小时表抽取的性能问题",
+        "outcome": "确认中间横插查询导致性能瓶颈，决定优化查询策略"
+      },
+      {
+        "time": "15:01",
+        "what_happened": "讨论某面试候选人表现，提及对方眼神令人不适",
+        "outcome": "认为该候选人存在一票否决问题"
+      },
+      {
+        "time": "17:07",
+        "what_happened": "与同事丹博通话，讨论音频标注数据及大模型处理方案",
+        "outcome": "确认当前无端到端音频标注数据，采用bad case针对性解决策略"
+      },
+      {
+        "time": "18:52",
+        "what_happened": "面试候选人介绍其RAG三层检索架构项目（规则层、FAQ层、向量检索层）",
+        "outcome": "zhiyuan就路由机制、缓存策略、模型选型等进行深入追问"
+      },
+      {
+        "time": "19:25",
+        "what_happened": "HR或同事询问候选人薪资、福利期望及入职时间",
+        "outcome": "候选人期望薪资未明确，最快一周后入职，手中另有其他offer"
+      },
+      {
+        "time": "19:32",
+        "what_happened": "面试结束，zhiyuan与同事评估候选人表现",
+        "outcome": "认为候选人回答基础但缺乏深度，且有AI辅助面试嫌疑"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "数据库查询性能优化",
+        "summary": "讨论按天规整表与小时表抽取的差异，发现某天异常查询（94次）导致性能崩溃",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "优化查询策略，避免单点高频查询击穿系统"
+        ]
+      },
+      {
+        "topic": "音频标注数据方案",
+        "summary": "丹博询问是否有音频端到端标注数据用于模型微调，zhiyuan说明当前仅做本地ASR+情境感知处理，无高质量标注",
+        "participants_mentioned": [
+          "丹博",
+          "安兰",
+          "瑞韩"
+        ],
+        "decisions_or_todos": [
+          "继续采用bad case针对性工程优化，不走微调路线"
+        ]
+      },
+      {
+        "topic": "RAG三层检索架构设计",
+        "summary": "候选人介绍其智能问答系统：第一层正则匹配问候语，第二层BM25高频问答检索，第三层向量数据库+大模型生成",
+        "participants_mentioned": [],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "候选人面试评估",
+        "summary": "面试后zhiyuan与同事讨论，认为候选人方向正确但细节不足，疑似使用AI辅助回答",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "对AI辅助面试行为保持警惕，后续面试加强验证"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "搭乘航班出差；与同事讨论技术架构与性能问题；主导候选人技术面试并评估其能力与诚信度",
+      "others_activity": "同事参与数据库问题排查、音频方案讨论；HR或同事负责候选人薪资与入职沟通；候选人介绍RAG项目并回答技术问题",
+      "mentioned": [
+        {
+          "name_or_alias": "丹博",
+          "context": "通话讨论音频标注数据与大模型处理方案",
+          "relation_guess": "技术同事或合作方"
+        },
+        {
+          "name_or_alias": "安兰",
+          "context": "zhiyuan提及安兰与瑞韩更清楚音频处理细节",
+          "relation_guess": "技术团队成员"
+        },
+        {
+          "name_or_alias": "瑞韩",
+          "context": "与安兰一同被提及为音频处理知情者",
+          "relation_guess": "技术团队成员"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "算法团队约4-5人，整体研发团队十余人",
+        "当前阶段主要在现有AI产品上做功能改进与从零到一的新业务开发"
+      ],
+      "projects_or_business": [
+        "AI智能应用产品，涉及大模型与RAG检索系统",
+        "本地化音频处理（ASR+情境感知+情绪模型）"
+      ],
+      "risks_or_blockers": [
+        "候选人疑似使用AI辅助面试，影响评估准确性",
+        "数据库单点高频查询可能导致系统性能崩溃"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "salary",
+          "detail": "候选人当前薪资为14K×12薪（税前），年终奖视项目回款与分红，通常几千至近两万",
+          "amount_or_terms": "14K×12薪，年终奖浮动"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "面试一名大模型/RAG方向候选人，考察其技术架构设计与项目落地能力"
+        },
+        {
+          "category": "hiring",
+          "detail": "候选人最快一周后可入职，手中另有2-3个offer（部分已过二面）"
+        },
+        {
+          "category": "performance",
+          "detail": "面试评估认为候选人基础尚可但缺乏深度，且存在AI辅助面试嫌疑"
+        }
+      ]
+    },
+    "open_questions": [
+      "如何有效识别和防范候选人使用AI辅助面试？",
+      "数据库查询优化是否需引入缓存或限流机制？",
+      "音频端到端标注数据是否值得投入建设？"
+    ],
+    "keywords": [
+      "RAG",
+      "大模型",
+      "面试评估",
+      "数据库性能",
+      "音频标注",
+      "向量检索",
+      "BM25",
+      "AI辅助面试"
+    ]
+  }
+}

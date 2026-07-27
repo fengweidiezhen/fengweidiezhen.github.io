@@ -1,0 +1,283 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T15:42:31.886508+08:00",
+  "model": "qwen3.7-max-2026-06-08",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1638,
+    "char_count": 60684,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "产品研发与业务拓展讨论纪要",
+    "overview": "zhiyuan 主持早会讨论软件版本稳定性目标、测试方案及用户画像兼容性问题；随后与外部嘉宾深入交流公司融资、人事管理、养老康养市场机会及产品定义；下午进行二代产品工业设计评审，讨论外观尺寸、刘海区、连接方式及充电方案。",
+    "events": [
+      {
+        "time": "09:32",
+        "what_happened": "zhiyuan 召开工程团队早会，布置版本稳定性目标",
+        "outcome": "计划下周周四前后达到完全稳定可用版本，加强测试与问题排查链路"
+      },
+      {
+        "time": "09:40",
+        "what_happened": "讨论固件离线缓存版本重复上报bug",
+        "outcome": "要求排查重复生成13次上报的链路问题"
+      },
+      {
+        "time": "09:44",
+        "what_happened": "讨论硬件打板与物料采购进度",
+        "outcome": "确认主板桌板已收，缺料直接立创采购，整体附件成本约六百多元"
+      },
+      {
+        "time": "10:24",
+        "what_happened": "与外部嘉宾（蔡总等）会面交流",
+        "outcome": "深入讨论养老康养市场、公司管理、融资及人事策略"
+      },
+      {
+        "time": "11:32",
+        "what_happened": "向嘉宾演示AI记录产品功能",
+        "outcome": "展示无感记录、心率检测、日程生成等功能，嘉宾反馈积极"
+      },
+      {
+        "time": "12:12",
+        "what_happened": "与嘉宾午餐交流",
+        "outcome": "讨论产品定价、渠道策略、养老场景需求及机器人方向"
+      },
+      {
+        "time": "13:12",
+        "what_happened": "讨论某合作方期权行权日期争议",
+        "outcome": "确认授权2027年7月、行权需到2028年4月，底线不让步"
+      },
+      {
+        "time": "14:54",
+        "what_happened": "zhiyuan 提出几个小功能点需求",
+        "outcome": "因太小不需要PRD，直接沟通处理"
+      },
+      {
+        "time": "15:08",
+        "what_happened": "二代产品工业设计评审",
+        "outcome": "讨论加厚机身比例、刘海区设计、挂钩连接方式、充电方案等"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "软件版本稳定性与测试",
+        "summary": "zhiyuan 要求设定止损线，本周到下周中达到稳定可用版本；测试需堆时间或并行多机型发现问题；佩戴检测半夜失效等问题需重点抓",
+        "participants_mentioned": [
+          "zhiyuan",
+          "算法团队",
+          "工程团队"
+        ],
+        "decisions_or_todos": [
+          "下周周四前后达到稳定版本",
+          "加强测试方案讨论",
+          "完善问题排查链路标准"
+        ]
+      },
+      {
+        "topic": "用户画像兼容性方案",
+        "summary": "讨论新老用户画像字段聚合方式，zhiyuan 不建议用十几个JSON分别调用，建议写到同一个JS文件避免兼容问题",
+        "participants_mentioned": [
+          "zhiyuan",
+          "陈刚"
+        ],
+        "decisions_or_todos": [
+          "当天必须完成用户画像调用逻辑",
+          "需要权限找陈刚再找zhiyuan"
+        ]
+      },
+      {
+        "topic": "安卓内存保护策略",
+        "summary": "讨论从LA迁移内存保护策略到安卓的评估，安卓内存阈值高但系统魔改多；赛哥建议加内存日志监控",
+        "participants_mentioned": [
+          "zhiyuan",
+          "赛哥"
+        ],
+        "decisions_or_todos": [
+          "评估安卓内存保护迁移时间",
+          "加内存日志模块便于复现问题"
+        ]
+      },
+      {
+        "topic": "养老康养市场机会",
+        "summary": "嘉宾分享养老院需求：生命体征监测（呼吸/心率停止报警）、跌倒检测、电子围栏防走失、AI辅助查房记录；机构愿意为刚需安全功能买单",
+        "participants_mentioned": [
+          "zhiyuan",
+          "蔡总",
+          "嘉宾"
+        ],
+        "decisions_or_todos": [
+          "二代考虑加入跌倒检测、电子围栏功能",
+          "探索养老院B端渠道"
+        ]
+      },
+      {
+        "topic": "公司人事管理与招聘策略",
+        "summary": "嘉宾分享创业公司用人经验：快速换不合适的人、期权置换薪资方案考察人心、正岗+兼职招聘组合、HR需协助业务而非站员工侧",
+        "participants_mentioned": [
+          "嘉宾",
+          "谢总"
+        ],
+        "decisions_or_todos": [
+          "无明确决定，为经验分享"
+        ]
+      },
+      {
+        "topic": "二代产品工业设计",
+        "summary": "评审外观方案：机身加厚至类似豆子比例、刘海区要么极小隐藏要么全包、挂钩设计隐形环便于手表/项链切换、充电考虑磁吸或无线",
+        "participants_mentioned": [
+          "zhiyuan",
+          "设计团队"
+        ],
+        "decisions_or_todos": [
+          "刘海区方案二选一：极小或全包",
+          "挂钩做隐形环设计",
+          "评估无线充电可行性"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主持早会布置版本目标与测试要求；与外部嘉宾深入交流养老市场、公司管理及产品演示；下午参与二代工业设计评审；处理合作方期权争议",
+      "others_activity": "工程团队汇报bug排查与固件问题；嘉宾分享创业经验、养老行业洞察及人事管理策略；设计团队展示二代外观方案",
+      "mentioned": [
+        {
+          "name_or_alias": "陈刚",
+          "context": "用户画像权限问题找陈刚再找zhiyuan",
+          "relation_guess": "技术同事"
+        },
+        {
+          "name_or_alias": "赛哥",
+          "context": "提出安卓内存日志监控建议",
+          "relation_guess": "技术同事"
+        },
+        {
+          "name_or_alias": "蔡总",
+          "context": "外部嘉宾，资源丰富，介绍养老行业人脉",
+          "relation_guess": "外部合作伙伴/顾问"
+        },
+        {
+          "name_or_alias": "谢总",
+          "context": "嘉宾提及的合伙人，管理风格偏nice",
+          "relation_guess": "外部公司合伙人"
+        },
+        {
+          "name_or_alias": "严俊杰",
+          "context": "商汤出来的年轻VP，现做黑茶",
+          "relation_guess": "行业人脉"
+        },
+        {
+          "name_or_alias": "浩流",
+          "context": "用户画像兼容性需跟算法对接",
+          "relation_guess": "算法同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "下周周四前后达到软件完全稳定可用版本",
+        "本周内完成日立稳定版及一线音频快速测试，争取周末前发版",
+        "二代产品规划加入跌倒检测、电子围栏、生命体征监测功能",
+        "探索养老院B端渠道及线下体验馆合作",
+        "考虑参加国家层面创业大赛获取政策补贴与投资人资源"
+      ],
+      "projects_or_business": [
+        "AI无感记录产品（一代定价1499元，Lite版几百元）",
+        "养老康养场景产品适配（机构查房、安全监测）",
+        "二代硬件工业设计（外观、充电、佩戴方式）",
+        "毫米波雷达情绪检测研究项目"
+      ],
+      "risks_or_blockers": [
+        "固件离线缓存版本重复上报bug链路未查清",
+        "安卓内存保护策略迁移时间未评估",
+        "合作方期权行权日期争议可能影响合作",
+        "养老B端回款周期慢、政府项目流程长"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "cost",
+          "detail": "硬件打板附件成本",
+          "amount_or_terms": "约六百多元"
+        },
+        {
+          "category": "budget",
+          "detail": "南山区创业补贴",
+          "amount_or_terms": "已拿一万，决赛有奖金"
+        },
+        {
+          "category": "budget",
+          "detail": "杭州创业项目补助",
+          "amount_or_terms": "七十万，分四级验收"
+        },
+        {
+          "category": "payment",
+          "detail": "立创采购缺料直接购买",
+          "amount_or_terms": "按项目计划反推急料"
+        },
+        {
+          "category": "cost",
+          "detail": "产品定价",
+          "amount_or_terms": "一代1499元，Lite版几百元"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "正岗+兼职招聘组合策略，正岗把控方向，兼职负责开源找人"
+        },
+        {
+          "category": "performance",
+          "detail": "月度绩效考核员工不满低分，需完善目标设定与辅导流程"
+        },
+        {
+          "category": "policy",
+          "detail": "期权置换薪资方案：员工可选降薪换期权，考察长期 commitment"
+        },
+        {
+          "category": "team",
+          "detail": "团队约20人，研发为主，算法4人、嵌入式1人、硬件1人、测试2人"
+        },
+        {
+          "category": "resignation",
+          "detail": "快速淘汰不合适人员，避免耽误业务，法务协助处理离职补偿"
+        }
+      ]
+    },
+    "open_questions": [
+      "固件离线缓存版本为何重复上报13次，链路待查清",
+      "安卓内存保护策略迁移需多久评估",
+      "二代产品刘海区最终方案：极小隐藏还是全包",
+      "无线充电是否可行，会否破坏外观与防水",
+      "合作方期权行权日期争议如何最终解决"
+    ],
+    "keywords": [
+      "版本稳定性",
+      "用户画像",
+      "内存保护",
+      "养老康养",
+      "跌倒检测",
+      "电子围栏",
+      "生命体征监测",
+      "工业设计",
+      "刘海区",
+      "期权行权",
+      "创业大赛",
+      "政策补贴"
+    ]
+  }
+}

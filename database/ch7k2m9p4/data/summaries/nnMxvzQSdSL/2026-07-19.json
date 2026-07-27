@@ -1,0 +1,190 @@
+{
+  "user_id": "nnMxvzQSdSL",
+  "user_name": "amanda2",
+  "date": "2026-07-19",
+  "generated_at": "2026-07-27T11:31:47.082973+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda2",
+    "aliases": [
+      "amanda2",
+      "amanda2"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 3345,
+    "char_count": 80000,
+    "es_refreshed": true,
+    "truncated": true
+  },
+  "summary": {
+    "title": "展会参观与商务交流及日常闲聊",
+    "overview": "当日主体用户与同伴参观上海世博会/西岸相关AI展会，与三十六克梁总等交流品牌合作、发布会及活动赞助事宜；期间穿插大量关于相亲、感情观、家庭、育儿、买房、手机使用等日常闲聊。",
+    "events": [
+      {
+        "time": "09:45",
+        "what_happened": "主体用户与同伴在酒店准备出门，讨论穿搭、防晒及化妆。",
+        "outcome": "准备前往展会。"
+      },
+      {
+        "time": "10:00",
+        "what_happened": "到达展会附近，讨论行李寄存及退房事宜。",
+        "outcome": "完成退房并寄存行李。"
+      },
+      {
+        "time": "10:30",
+        "what_happened": "参观世博展馆，讨论AI机器人、具身智能等行业现状。",
+        "outcome": "认为行业仍处混沌期，商业化落地尚不成熟。"
+      },
+      {
+        "time": "11:00",
+        "what_happened": "与三十六克梁总会面，交流品牌合作、八月深圳粉丝节赞助及发布会资源。",
+        "outcome": "达成初步合作意向，计划赞助礼品及现场曝光。"
+      },
+      {
+        "time": "14:00",
+        "what_happened": "主体用户前往张江科学城开会，同伴继续逛展。",
+        "outcome": "主体用户处理工作事务。"
+      },
+      {
+        "time": "15:30",
+        "what_happened": "众人汇合后前往餐厅用餐，继续闲聊感情、家庭等话题。",
+        "outcome": "用餐并交流日常。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "相亲与感情观",
+        "summary": "讨论宇辉相亲对象的表现，认为男方缺乏主动性和担当；探讨年龄、身高、学历等择偶标准，强调相处和化学反应的重要性。",
+        "participants_mentioned": [
+          "宇辉",
+          "谢总",
+          "梁总"
+        ],
+        "decisions_or_todos": [
+          "建议宇辉多接触多了解，不急于下结论"
+        ]
+      },
+      {
+        "topic": "品牌合作与活动赞助",
+        "summary": "与三十六克梁总讨论八月深圳粉丝节活动赞助、九月新品发布会资源置换，以及后续跨界营销合作。",
+        "participants_mentioned": [
+          "梁总",
+          "谢总",
+          "主体用户"
+        ],
+        "decisions_or_todos": [
+          "提供礼品赞助",
+          "安排现场曝光",
+          "拉群对接后续事宜"
+        ]
+      },
+      {
+        "topic": "AI行业现状与趋势",
+        "summary": "参观展会后讨论具身智能、人形机器人等赛道，认为目前商业化落地困难，一级市场投资主观性强。",
+        "participants_mentioned": [
+          "主体用户",
+          "同伴"
+        ],
+        "decisions_or_todos": [
+          "关注大模型发展，踏实做产品"
+        ]
+      },
+      {
+        "topic": "家庭与育儿",
+        "summary": "讨论有孩子后对生活的影响，分享育儿经验，提到孩子睡眠、翻身等发育情况。",
+        "participants_mentioned": [
+          "同伴",
+          "谢总"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "买房与物业",
+        "summary": "讨论新房交付、物业选择、精装修减配等问题，分享维权经验。",
+        "participants_mentioned": [
+          "同伴",
+          "谢总"
+        ],
+        "decisions_or_todos": []
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参观展会、与梁总商务交流、前往张江开会、参与日常闲聊",
+      "others_activity": "陪同逛展、参与商务交流、讨论感情与家庭话题",
+      "mentioned": [
+        {
+          "name_or_alias": "梁总",
+          "context": "三十六克负责人，讨论品牌合作与活动赞助",
+          "relation_guess": "商务合作伙伴"
+        },
+        {
+          "name_or_alias": "谢总",
+          "context": "主体用户合伙人，负责研发与算法",
+          "relation_guess": "合伙人"
+        },
+        {
+          "name_or_alias": "宇辉",
+          "context": "讨论其相亲对象的表现",
+          "relation_guess": "朋友"
+        },
+        {
+          "name_or_alias": "六一",
+          "context": "梁总同事，负责现场对接",
+          "relation_guess": "商务对接人"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "八月参加深圳三十六克粉丝节活动并提供赞助",
+        "九月举办新品发布会并筹划资源置换",
+        "月底赞助黑客松开源算法",
+        "考虑在上海徐汇或张江设立小办公室"
+      ],
+      "projects_or_business": [
+        "AI智能穿戴产品研发与商业化落地",
+        "与三十六克进行品牌联名与跨界营销",
+        "招聘营销岗位人员"
+      ],
+      "risks_or_blockers": [
+        "行业仍处混沌期，商业化落地困难",
+        "竞品抄袭概念和文案，需加强内容权重"
+      ]
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "计划在上海招聘营销岗位人员，前期规模五到十人"
+        },
+        {
+          "category": "team",
+          "detail": "团队目前二十余人，正在扩招"
+        }
+      ]
+    },
+    "open_questions": [
+      "如何提升品牌内容权重以防止竞品抄袭",
+      "宇辉相亲对象是否值得继续接触"
+    ],
+    "keywords": [
+      "展会",
+      "AI",
+      "三十六克",
+      "品牌合作",
+      "相亲",
+      "具身智能",
+      "发布会",
+      "赞助",
+      "招聘"
+    ]
+  }
+}

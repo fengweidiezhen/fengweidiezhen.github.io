@@ -1,0 +1,117 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-07-17",
+  "generated_at": "2026-07-27T12:00:20.882638+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 335,
+    "char_count": 6818,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-17 日常对话纪要",
+    "overview": "当日主要涉及与外部人员沟通国际货物运输代理合同及发票开具事宜，讨论科创企业相关材料准备与验证，以及部分日常事务性交流。",
+    "events": [
+      {
+        "time": "15:44",
+        "what_happened": "用户与外部人员沟通国际货物运输代理合同及发票开具问题",
+        "outcome": "对方表示新入职不了解情况，需进一步对接"
+      },
+      {
+        "time": "20:32",
+        "what_happened": "用户提到下周开始做科创企业相关工作",
+        "outcome": "确认下周推进"
+      },
+      {
+        "time": "20:39",
+        "what_happened": "讨论科创企业所需材料及发票验证",
+        "outcome": "确认材料已提供，需配合验证码等流程"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "国际货物运输代理合同及发票开具",
+        "summary": "用户在做审计，需向合同相关方充值但无法开发票，联系对方处理",
+        "participants_mentioned": [
+          "朱姓人员"
+        ],
+        "decisions_or_todos": [
+          "对方需确认开票流程并添加微信对接"
+        ]
+      },
+      {
+        "topic": "科创企业材料准备",
+        "summary": "用户确认相关材料已提供，涉及发票验证及验证码配合",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "下周继续推进科创企业相关工作"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "处理审计相关合同及发票问题，准备科创企业材料",
+      "others_activity": "朱姓人员对接合同开票事宜，其他人员参与日常交流",
+      "mentioned": [
+        {
+          "name_or_alias": "朱",
+          "context": "对接国际货物运输代理合同开票事宜",
+          "relation_guess": "外部合作方"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "下周开始推进科创企业相关工作"
+      ],
+      "projects_or_business": [
+        "国际货物运输代理合同审计",
+        "科创企业材料准备"
+      ],
+      "risks_or_blockers": [
+        "合同充值后无法直接开发票，需人工对接"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "invoice",
+          "detail": "国际货物运输代理合同充值无法自动开发票",
+          "amount_or_terms": "未提及"
+        },
+        {
+          "category": "invoice",
+          "detail": "科创企业材料涉及发票验证",
+          "amount_or_terms": "未提及"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "国际货物运输代理合同充值后发票如何开具",
+      "科创企业材料验证具体流程及时间节点"
+    ],
+    "keywords": [
+      "国际货物运输代理合同",
+      "发票",
+      "审计",
+      "科创企业",
+      "材料验证",
+      "朱"
+    ]
+  }
+}

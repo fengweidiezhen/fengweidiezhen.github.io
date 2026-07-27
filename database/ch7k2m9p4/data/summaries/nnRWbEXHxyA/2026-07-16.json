@@ -1,0 +1,262 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-07-16",
+  "generated_at": "2026-07-27T10:54:00.740464+08:00",
+  "model": "qwen3.7-max-2026-06-08",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 2515,
+    "char_count": 80000,
+    "es_refreshed": true,
+    "truncated": true
+  },
+  "summary": {
+    "title": "2026-07-16 研发早会、供应链评估与多场面试纪要",
+    "overview": "当日主要围绕硬件发版测试、PCB供应商切换评估、APP交互设计讨论展开，并进行了多场面试（测试、产品经理、运营等），同时涉及办公室软装与团队管理反思。",
+    "events": [
+      {
+        "time": "08:43",
+        "what_happened": "早会前沟通算法参数调整，讨论未佩戴检测时间从3分45秒缩短至1分30秒",
+        "outcome": "决定先降至1分30秒测试，后续内部版本再改至30秒"
+      },
+      {
+        "time": "09:31",
+        "what_happened": "研发早会，测试汇报bug进展，讨论充电曲线、固件发版成熟度",
+        "outcome": "要求下班前达到发版状态，每人关闭3个bug"
+      },
+      {
+        "time": "11:43",
+        "what_happened": "与供应链同事讨论PCB供应商切换、EVT/PT节点、备料周期",
+        "outcome": "计划下周周三前确定贴片厂，最乐观8月22日完成备料"
+      },
+      {
+        "time": "13:33",
+        "what_happened": "面试AI产品经理候选人温德文（曼纳斯克背景）",
+        "outcome": "候选人方法论强但偏理论，认为不适合当前执行岗"
+      },
+      {
+        "time": "15:02",
+        "what_happened": "面试测试候选人邓结文（富士康4年经验，港城大硕士在读）",
+        "outcome": "偏硬件测试，可作实习生备选"
+      },
+      {
+        "time": "18:01",
+        "what_happened": "面试产品实习生张家女（北邮博士，身心灵疗愈创业背景）",
+        "outcome": "理念契合，计划先以兼职/咨询形式合作，8月初赴深圳面谈"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "未佩戴检测算法参数优化",
+        "summary": "当前校验时间过长（3分45秒），影响用户体验。讨论缩短至1分30秒或30秒对准确率的影响。",
+        "participants_mentioned": [
+          "马强"
+        ],
+        "decisions_or_todos": [
+          "先改至1分30秒测试",
+          "后续内部版本改至30秒",
+          "需与算法团队确认准确率变化"
+        ]
+      },
+      {
+        "topic": "PCB供应商切换与量产节点",
+        "summary": "评估跳过PT直接EVT验证的风险，讨论贴片厂选择、物料覆概率、备料周期。壳料调色方案（色母颗粒vs喷涂）也并行讨论。",
+        "participants_mentioned": [
+          "赵总",
+          "刘数波",
+          "盖本"
+        ],
+        "decisions_or_todos": [
+          "下周周三前确定PCB贴片厂",
+          "电子与壳料验证并行推进",
+          "EVT组装目标7月30日"
+        ]
+      },
+      {
+        "topic": "APP交互设计（复制功能、情绪展示）",
+        "summary": "讨论长按复制与全选按钮的交互逻辑，情绪价值展示（星座、MBTI等个人画像字段），以及时间轴球体UI设计。",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "右上角增加全选/复制按钮",
+          "个人画像分层展示（第一层基础信息+第二层演绎信息）"
+        ]
+      },
+      {
+        "topic": "测试体系建设",
+        "summary": "当前测试人力不足，缺乏测试主管和体系。讨论引入自动化测试、在线测试平台，以及招实习生做基础覆盖。",
+        "participants_mentioned": [
+          "肖红"
+        ],
+        "decisions_or_todos": [
+          "从KPI角度下发新测试要求",
+          "考虑招测试主管或外部引入",
+          "实习生作为补充人力"
+        ]
+      },
+      {
+        "topic": "招聘策略与团队管理",
+        "summary": "讨论小红书招聘渠道效果、学历筛选标准（985/211/双非分档）、实习生薪资（200-300/天），以及办公室软装改善。",
+        "participants_mentioned": [
+          "高律师"
+        ],
+        "decisions_or_todos": [
+          "实习生按学历分档计薪",
+          "办公室预算2000元做软装清理",
+          "管培生合同由高律师准备"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主持早会、参与供应链评估、面试多位候选人（测试、产品经理）、讨论产品设计与团队管理",
+      "others_activity": "测试团队汇报bug进展、供应链同事对接PCB供应商、合伙人参与面试与办公室规划讨论",
+      "mentioned": [
+        {
+          "name_or_alias": "马强",
+          "context": "算法参数调整执行者",
+          "relation_guess": "算法工程师"
+        },
+        {
+          "name_or_alias": "肖红",
+          "context": "测试相关工作",
+          "relation_guess": "测试负责人"
+        },
+        {
+          "name_or_alias": "赵总",
+          "context": "质检认证对接",
+          "relation_guess": "质检/认证负责人"
+        },
+        {
+          "name_or_alias": "刘数波",
+          "context": "FPC软排线跟进",
+          "relation_guess": "硬件工程师"
+        },
+        {
+          "name_or_alias": "盖本",
+          "context": "研发节点对接",
+          "relation_guess": "研发管理"
+        },
+        {
+          "name_or_alias": "高律师",
+          "context": "实习/管培生合同准备",
+          "relation_guess": "法务顾问"
+        },
+        {
+          "name_or_alias": "温德文",
+          "context": "AI产品经理候选人，曼纳斯克背景",
+          "relation_guess": "面试者"
+        },
+        {
+          "name_or_alias": "邓结文",
+          "context": "测试候选人，富士康4年经验",
+          "relation_guess": "面试者"
+        },
+        {
+          "name_or_alias": "张家女",
+          "context": "产品实习生候选人，北邮博士",
+          "relation_guess": "面试者"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "EVT组装目标7月30日完成",
+        "下周周三前确定PCB贴片厂",
+        "8月22日前完成备料（最乐观情况）",
+        "APP发版推送功能上线",
+        "8月初与产品实习生候选人深圳面谈"
+      ],
+      "projects_or_business": [
+        "AI智能硬件（吊坠形态）量产准备",
+        "APP情绪监测与个人画像功能迭代",
+        "身心灵疗愈方向探索（与候选人合作可能性）"
+      ],
+      "risks_or_blockers": [
+        "PCB供应商切换可能导致交期延误",
+        "测试体系不完善，缺乏测试主管",
+        "部分物料（FPC、天线）采购周期不确定",
+        "办公室工位不足，环境杂乱影响招聘印象"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "payment",
+          "detail": "批20万付款有困难，30万以上此前已批",
+          "amount_or_terms": "20万/30万"
+        },
+        {
+          "category": "cost",
+          "detail": "实习生薪资按学历分档，一天200-300元",
+          "amount_or_terms": "200-300元/天"
+        },
+        {
+          "category": "budget",
+          "detail": "办公室软装预算",
+          "amount_or_terms": "2000元"
+        },
+        {
+          "category": "cost",
+          "detail": "PCB贴片厂报价与物料覆概率评估",
+          "amount_or_terms": "未提及具体金额"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "面试AI产品经理温德文，认为偏理论不适合执行岗"
+        },
+        {
+          "category": "hiring",
+          "detail": "面试测试邓结文（富士康4年），可作实习备选"
+        },
+        {
+          "category": "hiring",
+          "detail": "面试产品实习生张家女（北邮博士），计划兼职合作"
+        },
+        {
+          "category": "team",
+          "detail": "测试团队缺主管，现有2-3人不够，需建立测试体系"
+        },
+        {
+          "category": "hiring",
+          "detail": "小红书招聘渠道简历多，考虑B站/公众号等多渠道发布"
+        },
+        {
+          "category": "policy",
+          "detail": "实习生按985/211/双非分档计薪"
+        }
+      ]
+    },
+    "open_questions": [
+      "PCB贴片厂最终选择哪家（三家报价中）",
+      "测试主管岗位是否外招还是内部培养",
+      "产品实习生张家女8月深圳面谈后是否正式合作",
+      "壳料调色方案最终选择（色母颗粒vs喷涂）"
+    ],
+    "keywords": [
+      "EVT",
+      "PCB",
+      "贴片厂",
+      "未佩戴检测",
+      "测试体系",
+      "产品经理面试",
+      "情绪价值",
+      "身心灵疗愈",
+      "小红书招聘",
+      "办公室软装"
+    ]
+  }
+}

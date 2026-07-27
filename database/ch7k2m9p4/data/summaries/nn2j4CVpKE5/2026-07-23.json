@@ -1,0 +1,180 @@
+{
+  "user_id": "nn2j4CVpKE5",
+  "user_name": "苑老师",
+  "date": "2026-07-23",
+  "generated_at": "2026-07-27T11:24:28.166371+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "苑老师",
+    "aliases": [
+      "苑老师",
+      "苑老师"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 522,
+    "char_count": 16641,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "苑老师日常对话纪要",
+    "overview": "苑老师当日主要涉及家庭与子女安排、公司项目讨论、旅游计划及外出就餐。上午与同事讨论创业项目方向及公司未来安排；下午处理孩子点餐与学习事宜；傍晚与家人讨论泰国旅游计划及新公司养老项目；晚间外出就餐并讨论创业产品细节。",
+    "events": [
+      {
+        "time": "12:18",
+        "what_happened": "苑老师为孩子点外卖，讨论台风是否放假",
+        "outcome": "确认周六周日放假，安排孩子用餐"
+      },
+      {
+        "time": "12:28",
+        "what_happened": "苑老师与同事讨论创业项目参与及工资安排",
+        "outcome": "工资固定，由老师安排，项目方向待确定"
+      },
+      {
+        "time": "19:12",
+        "what_happened": "苑老师与家人通话，讨论晚餐安排",
+        "outcome": "决定外出吃瘦肉粥"
+      },
+      {
+        "time": "19:24",
+        "what_happened": "苑老师与家人讨论泰国旅游计划",
+        "outcome": "计划曼谷加苏梅岛七天行程，免签直接出发"
+      },
+      {
+        "time": "19:30",
+        "what_happened": "苑老师提及将参与新公司养老项目",
+        "outcome": "可能两边公司同时参与，自主性更强"
+      },
+      {
+        "time": "19:37",
+        "what_happened": "苑老师与家人外出就餐，排队等位",
+        "outcome": "成功入座，点双人套餐"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "创业项目方向与公司安排",
+        "summary": "讨论创业项目参与可能性，涉及养老产业及服务机器人，公司未来方向待老板决定",
+        "participants_mentioned": [
+          "苑老师",
+          "同事"
+        ],
+        "decisions_or_todos": [
+          "工资固定由老师安排",
+          "项目方向待确定"
+        ]
+      },
+      {
+        "topic": "泰国旅游计划",
+        "summary": "计划曼谷加苏梅岛七天行程，中泰互免签证可直接出发，妈妈负责做攻略",
+        "participants_mentioned": [
+          "苑老师",
+          "家人"
+        ],
+        "decisions_or_todos": [
+          "明天请假",
+          "周五出发",
+          "妈妈做攻略"
+        ]
+      },
+      {
+        "topic": "新公司养老项目",
+        "summary": "苑老师将参与新成立的养老产业公司，涉及自动追踪服务机器人，属于银发产业",
+        "participants_mentioned": [
+          "苑老师"
+        ],
+        "decisions_or_todos": [
+          "两边公司同时参与",
+          "自主性更强"
+        ]
+      },
+      {
+        "topic": "孩子学习与生活",
+        "summary": "苑老师检查孩子数学卷子，表扬书写整洁，建议多用纸张保持清晰",
+        "participants_mentioned": [
+          "苑老师",
+          "孩子"
+        ],
+        "decisions_or_todos": [
+          "继续保持良好的书写习惯"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "苑老师处理孩子点餐、讨论公司项目、规划家庭旅游、外出就餐",
+      "others_activity": "同事讨论创业项目，家人讨论旅游计划，餐厅服务员提供点餐服务",
+      "mentioned": [
+        {
+          "name_or_alias": "同事",
+          "context": "讨论创业项目方向及工资安排",
+          "relation_guess": "工作伙伴"
+        },
+        {
+          "name_or_alias": "家人",
+          "context": "讨论泰国旅游计划及晚餐安排",
+          "relation_guess": "家庭成员"
+        },
+        {
+          "name_or_alias": "孩子",
+          "context": "苑老师为孩子点外卖、检查数学作业",
+          "relation_guess": "子女"
+        },
+        {
+          "name_or_alias": "妈妈",
+          "context": "负责泰国旅游攻略",
+          "relation_guess": "家庭成员"
+        },
+        {
+          "name_or_alias": "老板",
+          "context": "决定公司项目方向",
+          "relation_guess": "上级"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "参与新公司养老项目",
+        "自动追踪服务机器人开发"
+      ],
+      "projects_or_business": [
+        "养老产业",
+        "银发产业",
+        "服务机器人"
+      ],
+      "risks_or_blockers": [
+        "项目方向待确定",
+        "公司未来安排不明确"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "salary",
+          "detail": "创业项目工资固定，由老师安排",
+          "amount_or_terms": "固定工资"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "新公司养老项目具体方向待确定",
+      "两边公司同时参与的时间分配待明确"
+    ],
+    "keywords": [
+      "创业项目",
+      "养老产业",
+      "银发产业",
+      "服务机器人",
+      "泰国旅游",
+      "中泰互免签证",
+      "工资固定"
+    ]
+  }
+}

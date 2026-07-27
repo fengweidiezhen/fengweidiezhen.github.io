@@ -1,0 +1,239 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-07-18",
+  "generated_at": "2026-07-27T10:57:10.611005+08:00",
+  "model": "qwen3.7-max-2026-06-08",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 3294,
+    "char_count": 80000,
+    "es_refreshed": true,
+    "truncated": true
+  },
+  "summary": {
+    "title": "上海WAIC展会参观及业务交流",
+    "overview": "主体用户zhiyuan与同伴从深圳飞抵上海，参观WAIC人工智能大会及西岸展区，体验多家AI及硬件厂商产品，与朋友聚餐交流投资、产品方向及行业趋势，讨论公司展会策略、产品规划及人员招聘等事宜。",
+    "events": [
+      {
+        "time": "06:32",
+        "what_happened": "搭乘航班从深圳飞往上海浦东",
+        "outcome": "约两小时十五分抵达上海"
+      },
+      {
+        "time": "11:15",
+        "what_happened": "讨论新员工询问社保事宜",
+        "outcome": "让周心负责回答"
+      },
+      {
+        "time": "12:09",
+        "what_happened": "餐厅用餐并结账开发票",
+        "outcome": "支付1068元并开具发票"
+      },
+      {
+        "time": "16:00",
+        "what_happened": "抵达WAIC展会现场参观",
+        "outcome": "体验商汤、AI记忆管理软件等多家展位产品"
+      },
+      {
+        "time": "18:37",
+        "what_happened": "与朋友聚餐交流",
+        "outcome": "讨论投资、产品方向、行业趋势等"
+      },
+      {
+        "time": "19:15",
+        "what_happened": "讨论明天继续参观西岸软件应用展区",
+        "outcome": "计划次日前往西岸看软件应用类展位"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "AI知识平权与豆包等工具使用",
+        "summary": "讨论AI工具（如豆包）让新员工快速获取社保等知识，实现知识平权，但也可能被用于应付老板",
+        "participants_mentioned": [
+          "zhiyuan"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "展会参展策略",
+        "summary": "认为大型展会转化率低、曝光有限，除非免费或官方邀请否则不再花钱参展；消博会可免费参加",
+        "participants_mentioned": [
+          "zhiyuan"
+        ],
+        "decisions_or_todos": [
+          "以后不花钱参加大型展会，除非免费或官方邀请"
+        ]
+      },
+      {
+        "topic": "AI记忆管理软件体验",
+        "summary": "体验了一款AI记忆管理工具，支持多模型对比和本地存储记忆，目前内测免费",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "内测阶段去体验测试该产品"
+        ]
+      },
+      {
+        "topic": "产品方向与爆品定义",
+        "summary": "讨论书签等产品的爆品标准（700万销量），以及产品功能设计和市场定位",
+        "participants_mentioned": [],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "美元基金与华人创业融资",
+        "summary": "讨论美国美元基金对华人创业者的投资态度，存在政治因素和歧视问题；AI硬件在美国融资较难，软件和应用更受青睐",
+        "participants_mentioned": [],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "办公室规划",
+        "summary": "计划下一阶段换办公室时为相关人员分别安排独立办公室以提升创造力，考虑使用单向玻璃",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "换办公室时给核心人员安排独立办公室"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "从深圳飞抵上海参观WAIC展会，体验AI及硬件产品，与朋友聚餐交流行业趋势、投资和产品方向，讨论公司展会策略和人员安排",
+      "others_activity": "同伴全程陪同参观展会、用餐、打车、乘地铁，讨论产品、投资、旅行等话题；朋友聚餐时分享育儿、投资、旅行经历",
+      "mentioned": [
+        {
+          "name_or_alias": "周心",
+          "context": "被安排回答新员工社保问题",
+          "relation_guess": "公司HR或行政人员"
+        },
+        {
+          "name_or_alias": "郑杰",
+          "context": "提到其名字已消失在脑海中，讨论人员变动",
+          "relation_guess": "前同事或已离职人员"
+        },
+        {
+          "name_or_alias": "三金",
+          "context": "推荐了一个合作对象",
+          "relation_guess": "业务合作伙伴"
+        },
+        {
+          "name_or_alias": "老杨",
+          "context": "提到给老杨看材料",
+          "relation_guess": "同事或合作伙伴"
+        },
+        {
+          "name_or_alias": "金超",
+          "context": "聚餐时介绍认识",
+          "relation_guess": "朋友"
+        },
+        {
+          "name_or_alias": "谢之渊",
+          "context": "聚餐时介绍认识",
+          "relation_guess": "朋友"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "以后不花钱参加大型展会，除非免费或官方邀请",
+        "消博会可免费参加，官方有资源",
+        "换办公室时为核心人员安排独立办公室",
+        "计划下周二晚返回",
+        "约20号在上海约咖啡见候选人"
+      ],
+      "projects_or_business": [
+        "AI配饰/随身记产品",
+        "书签产品（讨论爆品标准700万销量）",
+        "磁吸调节夹配件（销量6000多）",
+        "与百度、京东等平台合作展位"
+      ],
+      "risks_or_blockers": [
+        "大型展会转化率低、曝光有限、花费高（约5万/次）",
+        "AI硬件在美国融资困难，美元基金更偏好软件应用",
+        "华人创业者在美国融资面临政治因素和歧视"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "cost",
+          "detail": "参加一次展会花费约两三万到五万",
+          "amount_or_terms": "2-5万元/次"
+        },
+        {
+          "category": "payment",
+          "detail": "餐厅用餐结账",
+          "amount_or_terms": "1068元"
+        },
+        {
+          "category": "invoice",
+          "detail": "餐厅开具发票，30天有效期",
+          "amount_or_terms": "1068元"
+        },
+        {
+          "category": "cost",
+          "detail": "碎屏险，内屏维修费用",
+          "amount_or_terms": "五六千元"
+        },
+        {
+          "category": "budget",
+          "detail": "女播客赞助费用讨论",
+          "amount_or_terms": "原要3万，后降至1万"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "配音费用讨论",
+          "amount_or_terms": "一分钟100-250元"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "讨论面试候选人，约20号在上海约咖啡见面，评估其对产品的认知和热爱程度",
+          "category_full": "hiring"
+        },
+        {
+          "category": "team",
+          "detail": "新员工入职询问社保事宜，由周心负责回答",
+          "category_full": "team"
+        },
+        {
+          "category": "resignation",
+          "detail": "提到郑杰名字已消失，讨论人员变动和离职证明",
+          "category_full": "resignation"
+        },
+        {
+          "category": "role_change",
+          "detail": "提到某人将成为上海office的老大",
+          "category_full": "role_change"
+        }
+      ]
+    },
+    "open_questions": [
+      "候选人最终是否确认20号来上海面谈",
+      "下一阶段办公室选址和装修方案",
+      "是否继续参加消博会及具体安排"
+    ],
+    "keywords": [
+      "WAIC",
+      "AI配饰",
+      "展会策略",
+      "豆包",
+      "美元基金",
+      "爆品",
+      "书签",
+      "磁吸调节夹",
+      "办公室",
+      "招聘"
+    ]
+  }
+}

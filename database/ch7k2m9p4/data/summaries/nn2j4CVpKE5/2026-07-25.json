@@ -1,0 +1,67 @@
+{
+  "user_id": "nn2j4CVpKE5",
+  "user_name": "苑老师",
+  "date": "2026-07-25",
+  "generated_at": "2026-07-27T11:26:23.951145+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "苑老师",
+    "aliases": [
+      "苑老师",
+      "苑老师"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 11,
+    "char_count": 146,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-25 苑老师日常对话纪要",
+    "overview": "当日转写内容较为零散，主要为他人之间的简短交流，未涉及明确的工作事项、财务或人事讨论。",
+    "events": [
+      {
+        "time": "00:44",
+        "what_happened": "他人提及休息或睡觉相关话题",
+        "outcome": "无明确结果"
+      },
+      {
+        "time": "00:47",
+        "what_happened": "他人表示某事已完成",
+        "outcome": "无明确结果"
+      },
+      {
+        "time": "00:48",
+        "what_happened": "他人讨论某事未被认可或接收",
+        "outcome": "无明确结果"
+      }
+    ],
+    "discussions": [],
+    "people": {
+      "subject_user_activity": "未提及",
+      "others_activity": "他人之间进行简短日常交流，提及休息、完成事项及某事未被接收等",
+      "mentioned": []
+    },
+    "company": {
+      "plans_and_arrangements": [],
+      "projects_or_business": [],
+      "risks_or_blockers": []
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [],
+    "keywords": [
+      "日常交流",
+      "完成事项"
+    ]
+  }
+}

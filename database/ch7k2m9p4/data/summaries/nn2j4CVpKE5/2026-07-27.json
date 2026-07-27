@@ -1,0 +1,48 @@
+{
+  "user_id": "nn2j4CVpKE5",
+  "user_name": "苑老师",
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T11:26:48.093945+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "苑老师",
+    "aliases": [
+      "苑老师",
+      "苑老师"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 6,
+    "char_count": 81,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-27 苑老师当日纪要",
+    "overview": "当日转写内容极为简短且语义不清，主要为碎片化口语表达，未涉及明确的工作事件、讨论、人员互动或公司、财务、人事相关安排。",
+    "events": [],
+    "discussions": [],
+    "people": {
+      "subject_user_activity": "未明确，仅有碎片化口语输出",
+      "others_activity": "未提及",
+      "mentioned": []
+    },
+    "company": {
+      "plans_and_arrangements": [],
+      "projects_or_business": [],
+      "risks_or_blockers": []
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [],
+    "keywords": []
+  }
+}

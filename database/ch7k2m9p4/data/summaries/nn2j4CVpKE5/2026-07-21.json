@@ -1,0 +1,187 @@
+{
+  "user_id": "nn2j4CVpKE5",
+  "user_name": "苑老师",
+  "date": "2026-07-21",
+  "generated_at": "2026-07-27T11:21:44.467544+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "苑老师",
+    "aliases": [
+      "苑老师",
+      "苑老师"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1443,
+    "char_count": 43861,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "苑老师当日工作与生活纪要",
+    "overview": "当日苑老师主要参与早会讨论项目排期与硬件采购，跟进青春版研发进度、物料与认证事宜，并处理部分日常事务与家庭生活。",
+    "events": [
+      {
+        "time": "09:32",
+        "what_happened": "苑老师主持早会，讨论项目排期、bug修复及青春版研发进度",
+        "outcome": "明确需与谢博重新排期，软件尽量往前赶，硬件采购周期需预警"
+      },
+      {
+        "time": "10:01",
+        "what_happened": "跟进充电板与主板PCB进度",
+        "outcome": "充电板已提前完成，主板预计28号完成"
+      },
+      {
+        "time": "10:17",
+        "what_happened": "讨论顶针物料调拨与需求数量",
+        "outcome": "确认从工厂或供应商调拨，明确四连拼与单板用量"
+      },
+      {
+        "time": "15:23",
+        "what_happened": "讨论蓝牙产品驱动与型号区分方案",
+        "outcome": "决定通过蓝牙model字段区分产品，避免来回切换"
+      },
+      {
+        "time": "17:01",
+        "what_happened": "讨论青春版认证参数填写",
+        "outcome": "需联系认证公司确认历史参数，按上一版本填写"
+      },
+      {
+        "time": "19:20",
+        "what_happened": "讨论APP物模型与设备描述文件方案",
+        "outcome": "决定引入配置文件，由云端下发设备功能描述，避免写死在APP"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "青春版研发排期与量产时间",
+        "summary": "八月底量产、九月初上市时间紧张，研发节奏可能无法完成，需重新排期并预警",
+        "participants_mentioned": [
+          "苑老师",
+          "谢博"
+        ],
+        "decisions_or_todos": [
+          "与谢博重新排期",
+          "软件尽量往前赶",
+          "硬件采购周期需预警"
+        ]
+      },
+      {
+        "topic": "硬件采购与供应商管理",
+        "summary": "讨论由铁面厂代采模式，部分贵价芯片如TI需自行采购，供应商报价阶段需推进",
+        "participants_mentioned": [
+          "苑老师",
+          "谢博"
+        ],
+        "decisions_or_todos": [
+          "推进供应商报价",
+          "确认研发与采购排期分开处理"
+        ]
+      },
+      {
+        "topic": "青春版认证参数填写",
+        "summary": "认证表格需填写额定输入输出、电流等参数，部分参数不明确需联系认证公司确认",
+        "participants_mentioned": [
+          "苑老师"
+        ],
+        "decisions_or_todos": [
+          "联系认证公司确认历史参数",
+          "按上一版本填写"
+        ]
+      },
+      {
+        "topic": "APP物模型与设备配置",
+        "summary": "讨论引入物模型或设备描述文件，由云端下发设备功能，避免APP写死",
+        "participants_mentioned": [
+          "苑老师"
+        ],
+        "decisions_or_todos": [
+          "引入配置文件",
+          "云端下发设备功能描述"
+        ]
+      },
+      {
+        "topic": "蓝牙产品型号区分",
+        "summary": "讨论通过蓝牙广播中的model字段区分不同产品，避免编译切换",
+        "participants_mentioned": [
+          "苑老师"
+        ],
+        "decisions_or_todos": [
+          "通过蓝牙model字段区分产品"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主持早会、跟进研发进度、讨论物料与认证、处理家庭生活",
+      "others_activity": "参与早会讨论、汇报进度、协助物料与认证事宜",
+      "mentioned": [
+        {
+          "name_or_alias": "谢博",
+          "context": "负责硬件采购与供应商对接",
+          "relation_guess": "同事/硬件负责人"
+        },
+        {
+          "name_or_alias": "鼠播",
+          "context": "参与排期讨论",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "张三",
+          "context": "早会未出席",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "姑娘",
+          "context": "苑老师家人，讨论吃饭与作息",
+          "relation_guess": "家人"
+        },
+        {
+          "name_or_alias": "妈妈",
+          "context": "购买水蜜桃、坚果等物品",
+          "relation_guess": "家人"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "青春版八月底量产、九月初上市",
+        "与谢博重新排期研发与采购计划"
+      ],
+      "projects_or_business": [
+        "青春版研发与量产",
+        "蓝牙产品型号区分方案",
+        "APP物模型与设备配置方案"
+      ],
+      "risks_or_blockers": [
+        "研发节奏紧张，可能无法按期完成",
+        "硬件采购周期长，需预警",
+        "认证参数不明确，需联系确认"
+      ]
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "青春版研发排期能否满足八月底量产要求",
+      "硬件采购周期如何压缩",
+      "认证参数如何准确填写"
+    ],
+    "keywords": [
+      "青春版",
+      "排期",
+      "量产",
+      "硬件采购",
+      "认证",
+      "物模型",
+      "蓝牙",
+      "谢博"
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "user_id": "nn2j4CVpKE5",
+  "user_name": "苑老师",
+  "date": "2026-07-16",
+  "generated_at": "2026-07-27T11:11:38.221400+08:00",
+  "model": "qwen3.7-max-2026-06-08",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "苑老师",
+    "aliases": [
+      "苑老师",
+      "苑老师"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 2488,
+    "char_count": 80000,
+    "es_refreshed": true,
+    "truncated": true
+  },
+  "summary": {
+    "title": "前同事聚餐及技术交流纪要",
+    "overview": "苑老师与多位前TCL智能家庭、安克等公司老同事聚餐，回忆过往工作经历与人事变动，交流自动驾驶、AI编程、投资理财等话题，并讨论了硬件充电参数调试及海外发票报销问题。",
+    "events": [
+      {
+        "time": "12:36",
+        "what_happened": "与朋友讨论外卖点餐及美团红包体验",
+        "outcome": "吐槽美团红包需手动勾选的设计体验差"
+      },
+      {
+        "time": "14:40",
+        "what_happened": "讨论国外服务无法开具大陆发票的问题",
+        "outcome": "决定先开收据或凭证，后续再想办法处理税务入账"
+      },
+      {
+        "time": "15:28",
+        "what_happened": "讨论使用工具对APP进行压力测试和内存泄漏检测",
+        "outcome": "计划每个版本都跑一遍压测"
+      },
+      {
+        "time": "16:02",
+        "what_happened": "调试硬件充电参数，修改充电电流和电压阈值",
+        "outcome": "调整充电电流至240mA，电压阈值至4.35V以解决复充问题"
+      },
+      {
+        "time": "18:50",
+        "what_happened": "与九位前同事在海鲜餐厅聚餐",
+        "outcome": "点菜就餐，回忆TCL智能家庭、安克等公司往事"
+      },
+      {
+        "time": "19:51",
+        "what_happened": "逐一介绍聚餐同事的背景和现状",
+        "outcome": "了解到各位同事目前在小米、安克、初创公司等任职"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "自动驾驶与网约车行业趋势",
+        "summary": "讨论萝卜快跑在深圳的运营情况，认为自动驾驶将逐步替代网约车司机、重卡司机等岗位，滴滴高德等平台有天然优势",
+        "participants_mentioned": [
+          "苑老师"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "AI编程工具的使用",
+        "summary": "讨论AI编程工具（如Cursor）在代码生成和重构中的应用，认为AI可辅助但需人工对比审核，涉及人类审美的设计工作难以被替代",
+        "participants_mentioned": [
+          "苑老师",
+          "福燕",
+          "文涛"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "TCL智能家庭往事",
+        "summary": "回忆在TCL智能家庭部门的工作经历，讨论周博、胡博、王博等领导的管理风格，以及吴雷的人品问题和职场斗争",
+        "participants_mentioned": [
+          "苑老师",
+          "刘娜",
+          "胡博",
+          "王博",
+          "周博",
+          "吴雷",
+          "安工",
+          "胡鑫"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "投资理财建议",
+        "summary": "苑老师分享理财经验，建议配置美债等全球资产以跑赢通胀，强调持续投入和长期持有",
+        "participants_mentioned": [
+          "苑老师",
+          "周微"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "硬件充电逻辑调试",
+        "summary": "讨论设备充电完成判断逻辑，芯片检测与自研算法存在差异导致电量显示问题，需调整电压阈值参数",
+        "participants_mentioned": [
+          "苑老师"
+        ],
+        "decisions_or_todos": [
+          "调整充电电压阈值至4.35V并测试复充逻辑"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "与朋友聚餐交流，调试硬件充电参数，讨论投资理财和AI工具使用",
+      "others_activity": "前同事们分享各自在安克、小米、初创公司等的工作近况，回忆TCL智能家庭时期的经历",
+      "mentioned": [
+        {
+          "name_or_alias": "刘娜",
+          "context": "前TCL智能家庭HR，配合苑老师处理过员工辞退事宜",
+          "relation_guess": "前同事"
+        },
+        {
+          "name_or_alias": "福燕",
+          "context": "前安克工程师，现在初创公司",
+          "relation_guess": "前同事"
+        },
+        {
+          "name_or_alias": "周微",
+          "context": "在小米工作，获得公司股票，已买房",
+          "relation_guess": "前同事"
+        },
+        {
+          "name_or_alias": "文涛",
+          "context": "架构师，技术全面",
+          "relation_guess": "前同事"
+        },
+        {
+          "name_or_alias": "吴雷",
+          "context": "前TCL同事，人品有问题，骚扰女下属，报销违规",
+          "relation_guess": "前同事"
+        },
+        {
+          "name_or_alias": "周博",
+          "context": "前TCL智能家庭领导，管理风格强势，有私德问题",
+          "relation_guess": "前领导"
+        },
+        {
+          "name_or_alias": "胡博",
+          "context": "前TCL智能家庭领导，素质较高，现做投资",
+          "relation_guess": "前领导"
+        },
+        {
+          "name_or_alias": "安工",
+          "context": "已退休，被返聘做顾问，仍爱写代码",
+          "relation_guess": "前同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "苑老师所在初创公司计划上市，但认为概率较低",
+        "考虑搬到光明居住以降低生活成本"
+      ],
+      "projects_or_business": [
+        "硬件设备充电逻辑优化",
+        "APP压力测试和内存泄漏检测",
+        "穿戴设备开发"
+      ],
+      "risks_or_blockers": [
+        "国外服务无法开具大陆发票，影响财务入账",
+        "AI技术落地存在不确定性，老板难以接受概率性结果"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "invoice",
+          "detail": "国外服务无法开具大陆增值税发票，只有收据",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "tax",
+          "detail": "国外服务税点加收不合理，无进项发票抵扣",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "吴雷在TCL时报销金额过高，单次报销数万元",
+          "amount_or_terms": "数万元/次"
+        },
+        {
+          "category": "other",
+          "detail": "美债20-30年期到期收益约5%年化",
+          "amount_or_terms": "年化5%"
+        },
+        {
+          "category": "other",
+          "detail": "周微获小米股票约300万，已部分卖出买房",
+          "amount_or_terms": "约300万"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "resignation",
+          "detail": "福燕已离开安克，现加入初创公司"
+        },
+        {
+          "category": "resignation",
+          "detail": "刘娜早已离开安克，与朋友创业"
+        },
+        {
+          "category": "team",
+          "detail": "TCL智能家庭研发最多时约80人（深圳），加北京共200多人"
+        },
+        {
+          "category": "hiring",
+          "detail": "安克招聘比例约100:1，招人非常慢"
+        },
+        {
+          "category": "other",
+          "detail": "吴雷因报销违规被公司发公告处理"
+        },
+        {
+          "category": "other",
+          "detail": "周博被刘娜开除，拿了赔偿离开"
+        }
+      ]
+    },
+    "open_questions": [
+      "国外服务发票问题如何解决税务合规",
+      "光明房产是否出售或出租"
+    ],
+    "keywords": [
+      "聚餐",
+      "TCL智能家庭",
+      "安克",
+      "自动驾驶",
+      "AI编程",
+      "投资理财",
+      "美债",
+      "充电调试",
+      "职场回忆"
+    ]
+  }
+}

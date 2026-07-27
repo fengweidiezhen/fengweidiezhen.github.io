@@ -1,0 +1,167 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-07-24",
+  "generated_at": "2026-07-27T12:03:54.386625+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 427,
+    "char_count": 8950,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-24 日常对话纪要",
+    "overview": "当日对话主要涉及办公区域改造方案讨论、库存盘点表填写规范调整、财务结算方式变更确认，以及差旅费整理等事务。同时穿插了同事间关于午餐、结婚等日常闲聊。",
+    "events": [
+      {
+        "time": "09:18",
+        "what_happened": "讨论办公区域墙体拆除方案",
+        "outcome": "确定将某组墙敲掉并重新布置"
+      },
+      {
+        "time": "16:49",
+        "what_happened": "处理库存盘点表盖章事宜",
+        "outcome": "确认需加盖公司公章"
+      },
+      {
+        "time": "17:12",
+        "what_happened": "调整库存盘点表签字人员字段",
+        "outcome": "将审计师改为财务人员签字"
+      },
+      {
+        "time": "18:32",
+        "what_happened": "确认财务结算方式变更",
+        "outcome": "完成周结改月结操作，计划一个月后再调整回周结"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "办公区域改造",
+        "summary": "讨论拆除部分墙体并重新布置的方案",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": [
+          "敲掉指定墙体",
+          "重新布置空间"
+        ]
+      },
+      {
+        "topic": "库存盘点表规范",
+        "summary": "调整盘点表签字栏，将审计师改为财务人员，日期需修改为12月31日",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "修改签字人为财务人员",
+          "更正盘点日期",
+          "重新打印盘点表"
+        ]
+      },
+      {
+        "topic": "结算方式变更",
+        "summary": "确认将结算周期从周结改为月结，后续需再改回周结",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "完成月结变更确认",
+          "一个月后改回周结"
+        ]
+      },
+      {
+        "topic": "差旅费整理",
+        "summary": "需按对方提供的Excel模板重新整理差旅费数据",
+        "participants_mentioned": [
+          "user"
+        ],
+        "decisions_or_todos": [
+          "重新整理差旅费表格"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与库存盘点表修改、结算方式变更确认、差旅费整理讨论",
+      "others_activity": "参与办公改造讨论、盘点表填写、结算操作、日常闲聊",
+      "mentioned": [
+        {
+          "name_or_alias": "张美",
+          "context": "被询问某事但未回复",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "张刚哥",
+          "context": "提到他最近在说某事",
+          "relation_guess": "同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "办公区域墙体拆除改造",
+        "库存盘点表规范化"
+      ],
+      "projects_or_business": [
+        "库存盘点",
+        "财务结算方式调整"
+      ],
+      "risks_or_blockers": [
+        "盘点表日期和签字人需反复修改",
+        "结算方式变更有次数限制"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "other",
+          "detail": "库存盘点表需加盖公司公章",
+          "amount_or_terms": "无"
+        },
+        {
+          "category": "other",
+          "detail": "结算方式从周结改为月结，一个月后改回周结",
+          "amount_or_terms": "无"
+        },
+        {
+          "category": "other",
+          "detail": "整理差旅费数据，按Excel模板重新提交",
+          "amount_or_terms": "无"
+        },
+        {
+          "category": "other",
+          "detail": "批发销售收入与服务费分列，非重复出账",
+          "amount_or_terms": "无"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "库存盘点表日期需改为12月31日，具体原因待确认",
+      "结算方式一个月后改回周结需设置提醒"
+    ],
+    "keywords": [
+      "库存盘点",
+      "结算方式",
+      "差旅费",
+      "办公改造",
+      "公章",
+      "盘点表"
+    ]
+  }
+}

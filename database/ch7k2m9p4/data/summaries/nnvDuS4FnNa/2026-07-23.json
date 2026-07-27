@@ -1,0 +1,138 @@
+{
+  "user_id": "nnvDuS4FnNa",
+  "user_name": "cc",
+  "date": "2026-07-23",
+  "generated_at": "2026-07-27T11:48:34.713331+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "cc",
+    "aliases": [
+      "cc",
+      "cc"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 96,
+    "char_count": 2139,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "佩戴检测与固件问题排查讨论",
+    "overview": "用户与同事围绕设备佩戴检测逻辑、弹窗延迟及数值异常等问题进行测试与排查，涉及固件版本、延时判断机制及数据异常定位，后续需进一步排查弹窗不消失及数据错误问题。",
+    "events": [
+      {
+        "time": "15:15",
+        "what_happened": "用户测试设备佩戴检测，发现数值变化快且未升级版本可能存在异常。",
+        "outcome": "决定直接升级更新固件。"
+      },
+      {
+        "time": "15:18",
+        "what_happened": "讨论佩戴检测数值下降逻辑及未佩戴判断延时机制。",
+        "outcome": "确认有一分钟延时判断逻辑，需等待再次检测确认是否未佩戴。"
+      },
+      {
+        "time": "15:22",
+        "what_happened": "用户反馈未佩戴弹窗出现后数值很大且长时间不消失，已佩戴后弹窗仍不消失。",
+        "outcome": "需排查是弹窗问题还是固件问题。"
+      },
+      {
+        "time": "16:50",
+        "what_happened": "others 提到数据错误问题，涉及国外库数据。",
+        "outcome": "需查询数据所在位置并通知相关人员不要使用。"
+      },
+      {
+        "time": "17:54",
+        "what_happened": "others 提到案件相关问题及配合检测无效情况。",
+        "outcome": "需进一步确认修改方案。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "佩戴检测逻辑与弹窗问题",
+        "summary": "讨论设备从未佩戴到佩戴状态切换时数值变化及弹窗延迟问题，确认存在一分钟延时判断机制，但弹窗在已佩戴后仍长时间不消失。",
+        "participants_mentioned": [
+          "cc",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "排查弹窗不消失是弹窗问题还是固件问题",
+          "确认延时判断逻辑是否正常"
+        ]
+      },
+      {
+        "topic": "数据异常与国外库问题",
+        "summary": "others 提到数据错误，可能存在于国外库中，需定位并通知相关人员停止使用。",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": [
+          "查询错误数据所在位置",
+          "通知相关人员不要使用该数据"
+        ]
+      },
+      {
+        "topic": "固件升级与版本问题",
+        "summary": "用户发现设备可能为旧版本，决定直接升级更新。",
+        "participants_mentioned": [
+          "cc"
+        ],
+        "decisions_or_todos": [
+          "升级设备固件"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "测试设备佩戴检测逻辑，发现数值变化异常及弹窗不消失问题，决定升级固件。",
+      "others_activity": "参与佩戴检测逻辑讨论，确认延时机制，提出数据错误问题并建议排查国外库数据。",
+      "mentioned": [
+        {
+          "name_or_alias": "cc",
+          "context": "测试佩戴检测、发现弹窗不消失问题",
+          "relation_guess": "设备测试人员"
+        },
+        {
+          "name_or_alias": "others",
+          "context": "参与佩戴检测讨论、提出数据错误问题",
+          "relation_guess": "开发或测试同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "排查弹窗不消失问题",
+        "定位国外库数据错误并通知相关人员"
+      ],
+      "projects_or_business": [
+        "设备佩戴检测功能优化",
+        "固件版本升级"
+      ],
+      "risks_or_blockers": [
+        "弹窗在已佩戴后仍不消失，影响用户体验",
+        "国外库数据错误可能导致业务异常"
+      ]
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "弹窗在已佩戴后仍不消失是弹窗问题还是固件问题？",
+      "国外库数据错误的具体位置及影响范围？"
+    ],
+    "keywords": [
+      "佩戴检测",
+      "弹窗",
+      "固件升级",
+      "数据错误",
+      "国外库",
+      "延时判断"
+    ]
+  }
+}

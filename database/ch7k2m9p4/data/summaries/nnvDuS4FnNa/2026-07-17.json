@@ -1,0 +1,92 @@
+{
+  "user_id": "nnvDuS4FnNa",
+  "user_name": "cc",
+  "date": "2026-07-17",
+  "generated_at": "2026-07-27T11:45:46.836569+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "cc",
+    "aliases": [
+      "cc",
+      "cc"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 134,
+    "char_count": 1889,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-17 日常对话纪要",
+    "overview": "当日转写内容较为零散，主要涉及他人讨论时间安排偏差、感冒用药及流感情况，主体用户 cc 参与了关于感冒用药的简短交流。未涉及明确的财务、人事或公司项目安排。",
+    "events": [
+      {
+        "time": "10:52",
+        "what_happened": "他人指出某事项标的为九点到十点，但显示为十点，存在时间偏差。",
+        "outcome": "未明确后续处理。"
+      },
+      {
+        "time": "18:29",
+        "what_happened": "他人提到最近流感叠加新冠，自己感到难受。",
+        "outcome": "无。"
+      },
+      {
+        "time": "18:30",
+        "what_happened": "主体用户 cc 与他人交流感冒用药，提到阿奇霉素等药物，他人表示药效较猛且家人也感冒发烧。",
+        "outcome": "无。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "时间安排偏差",
+        "summary": "他人指出某事项标的为九点到十点，但显示为十点，存在时间延后问题。",
+        "participants_mentioned": [],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "感冒与用药",
+        "summary": "他人提到流感叠加新冠，自己难受；cc 提到阿奇霉素等药物，他人表示药效猛，家人也感冒发烧。",
+        "participants_mentioned": [
+          "cc"
+        ],
+        "decisions_or_todos": []
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与感冒用药的简短交流，提到阿奇霉素等药物。",
+      "others_activity": "讨论时间安排偏差；提及流感、新冠及家人感冒发烧情况。",
+      "mentioned": [
+        {
+          "name_or_alias": "cc",
+          "context": "参与感冒用药讨论",
+          "relation_guess": "主体用户"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [],
+      "projects_or_business": [],
+      "risks_or_blockers": []
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [],
+    "keywords": [
+      "时间偏差",
+      "感冒",
+      "流感",
+      "新冠",
+      "阿奇霉素",
+      "用药"
+    ]
+  }
+}

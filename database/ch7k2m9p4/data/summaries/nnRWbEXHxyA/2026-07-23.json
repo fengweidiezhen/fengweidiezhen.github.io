@@ -1,0 +1,233 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-07-23",
+  "generated_at": "2026-07-27T11:04:56.843458+08:00",
+  "model": "qwen3.7-max-2026-06-08",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1751,
+    "char_count": 66143,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-23 工作纪要",
+    "overview": "当日主要围绕产品迭代进展、UI/UX设计讨论、供应商NRE费用谈判、投资人接待及产品路演、面试候选人等展开。涉及固件功耗优化、记忆球与会议记录功能设计、声纹录制交互、青春版产品规划、与连刚供应商的NRE费用结算沟通，以及向清创投等投资人介绍产品与融资情况。",
+    "events": [
+      {
+        "time": "09:31",
+        "what_happened": "团队晨会，各端汇报本周工作进展与卡点",
+        "outcome": "前后端及固件进展平稳，当天计划释放UI相关功能"
+      },
+      {
+        "time": "10:02",
+        "what_happened": "讨论APP UI/UX设计，包括记忆球展示、设备改名入口、个人资料页ID显示、日期选择交互等",
+        "outcome": "确定设备改名需简化路径，ID隐藏或弱化显示，日期选择保持简洁"
+      },
+      {
+        "time": "10:35",
+        "what_happened": "讨论声纹录制功能的匹配度打分机制与UI呈现",
+        "outcome": "确定低于80分提示重录，声纹波动UI需柔和过渡，暂不根据声音大小动态变化"
+      },
+      {
+        "time": "10:45",
+        "what_happened": "讨论会议纪要导出与分享功能的形式与优先级",
+        "outcome": "优先支持单条文本导出，多会议合并导出复杂度高暂缓，编辑功能权重需提高"
+      },
+      {
+        "time": "11:07",
+        "what_happened": "接待连刚供应商孔总，沟通NRE费用结算及后续合作",
+        "outcome": "NRE费用从8.5万降至约3万多，待对方老板确认后回复；探讨生态产品合作可能性"
+      },
+      {
+        "time": "15:54",
+        "what_happened": "向投资人/合作方介绍产品APP功能、技术路线、商业模式及融资情况",
+        "outcome": "展示情绪监测、记忆球、端侧AI等核心功能，说明青春版9月初发布，二代明年Q1推出"
+      },
+      {
+        "time": "17:26",
+        "what_happened": "面试产品经理候选人，讨论用户运营岗位安排",
+        "outcome": "候选人期望薪资10-12K，三观正，拟安排先轮岗用户运营一个月"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "固件功耗与佩戴检测优化",
+        "summary": "当前功耗约100多微安，目标降至几十微安；3.0版本佩戴检测取消后弹窗问题需进一步观察安卓与iOS表现",
+        "participants_mentioned": [
+          "顾建",
+          "小红"
+        ],
+        "decisions_or_todos": [
+          "继续观察佩戴检测弹窗问题",
+          "功耗优化目标几十微安"
+        ]
+      },
+      {
+        "topic": "用户画像与地理天气接口接入",
+        "summary": "用户画像功能本周必须上线；地理信息与天气接口已跑通，计划本周接入记忆球和蓝图生成，并用于AB test",
+        "participants_mentioned": [
+          "浩林"
+        ],
+        "decisions_or_todos": [
+          "用户画像本周上线",
+          "天气地理数据接入记忆球生成",
+          "尝试小范围AB test"
+        ]
+      },
+      {
+        "topic": "产品UI交互细节",
+        "summary": "讨论设备改名路径过深、ID显示规则、会议纪要编辑入口、声纹录制UI动效等",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "设备改名入口需简化，避免长按",
+          "ID仅用于技术排查，对用户隐藏或弱化",
+          "声纹波动UI采用柔和过渡"
+        ]
+      },
+      {
+        "topic": "NRE费用与供应链合作",
+        "summary": "与连刚供应商协商NRE费用从8.5万降至3万多；讨论青春版及生态产品（智能灯、香薰）合作可能",
+        "participants_mentioned": [
+          "孔总",
+          "谢总"
+        ],
+        "decisions_or_todos": [
+          "NRE费用待对方老板确认",
+          "生态产品可探索ODM合作"
+        ]
+      },
+      {
+        "topic": "产品定位与融资路演",
+        "summary": "向投资人介绍产品作为个人连续记忆入口的定位，端侧AI保护隐私，青春版定价更低以扩大用户基数",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "青春版9月初发布",
+          "二代产品明年Q1推出，体积缩小、模块化设计"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主持晨会、参与UI讨论、接待供应商、向投资人路演产品、面试候选人",
+      "others_activity": "汇报各端进展、参与UI/UX设计讨论、反馈声纹与佩戴检测问题、协助接待与面试",
+      "mentioned": [
+        {
+          "name_or_alias": "小红",
+          "context": "负责测试与P端工作，汇报Oppo优化可close",
+          "relation_guess": "测试/前端同事"
+        },
+        {
+          "name_or_alias": "顾建",
+          "context": "负责固件，视备青春版",
+          "relation_guess": "固件工程师"
+        },
+        {
+          "name_or_alias": "浩林",
+          "context": "对接地理信息与天气接口",
+          "relation_guess": "后端/算法同事"
+        },
+        {
+          "name_or_alias": "孔总",
+          "context": "连刚供应商代表，来公司协商NRE费用",
+          "relation_guess": "供应商负责人"
+        },
+        {
+          "name_or_alias": "谢总",
+          "context": "连刚供应商上级，需确认NRE让步幅度",
+          "relation_guess": "供应商高管"
+        },
+        {
+          "name_or_alias": "Terry",
+          "context": "去年11月曾接触的投资方相关人员",
+          "relation_guess": "投资人/FA"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "青春版产品9月初发布，定价更低、颜色更丰富",
+        "二代产品预计明年Q1发布，体积缩小、支持模块化佩戴",
+        "用户画像功能本周上线",
+        "天气与地理信息接口本周接入记忆球生成",
+        "今天释放功能提醒拉至首页及群聊相关UI更新"
+      ],
+      "projects_or_business": [
+        "AI吊坠（标准版/青春版）",
+        "端侧AI处理与隐私保护方案",
+        "生态产品（智能灯、香薰、陪伴机器人）联动",
+        "宠物项圈生理监测合作咨询"
+      ],
+      "risks_or_blockers": [
+        "供应商NRE费用结算待对方老板确认",
+        "多会议纪要合并导出功能复杂度高，近期无法上线",
+        "国内安卓机型适配及鸿蒙系统兼容需持续打磨",
+        "团队规模小（约20人），研发资源紧张"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "cost",
+          "detail": "连刚供应商NRE费用原报价8.5万，协商后降至约3万多",
+          "amount_or_terms": "85600元 → 约30000+元"
+        },
+        {
+          "category": "payment",
+          "detail": "一代产品已生产3000多台，剩余约750台库存，无仓储费用",
+          "amount_or_terms": "750台库存"
+        },
+        {
+          "category": "budget",
+          "detail": "当前融资轮总额300万美元，投前估值2000万美元",
+          "amount_or_terms": "300万美元融资额"
+        },
+        {
+          "category": "cost",
+          "detail": "生产组装报价26-28元/台（量产价），DVT/PVT阶段更高",
+          "amount_or_terms": "26-28元/台"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "面试产品经理候选人，期望薪资11-12K，三观正，拟先轮岗用户运营一个月"
+        },
+        {
+          "category": "team",
+          "detail": "公司约20人，研发十几人，市场几人；软件工程师新增两位（供应商侧）"
+        }
+      ]
+    },
+    "open_questions": [
+      "连刚供应商NRE费用最终让步幅度待确认",
+      "多会议纪要合并导出的技术方案与优先级",
+      "青春版具体定价与颜色方案",
+      "二代产品模块化佩戴形态（胸针、手链、耳坠等）可行性"
+    ],
+    "keywords": [
+      "青春版",
+      "NRE费用",
+      "端侧AI",
+      "记忆球",
+      "声纹录制",
+      "用户画像",
+      "模块化",
+      "毫米波雷达",
+      "隐私保护",
+      "融资路演"
+    ]
+  }
+}

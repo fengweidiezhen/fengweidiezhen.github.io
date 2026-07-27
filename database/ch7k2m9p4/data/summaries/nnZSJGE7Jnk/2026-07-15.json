@@ -1,0 +1,191 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-07-15",
+  "generated_at": "2026-07-27T11:57:45.640047+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 545,
+    "char_count": 11848,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-15 日常对话纪要",
+    "overview": "当日主体用户（财务）与同事在通勤及办公期间闲聊，涉及地铁乘车、体育赛事、报销流程核对、发票截图、付款金额计算差异、快递寄送物品清点、UI界面调整讨论、日常饮食与家庭话题等。财务相关主要围绕报销审批、发票、付款金额核对展开。",
+    "events": [
+      {
+        "time": "09:18",
+        "what_happened": "乘坐地铁，途经科院站（可换乘二号线）、越海门站（可换乘九号线）",
+        "outcome": "正常通勤"
+      },
+      {
+        "time": "10:14",
+        "what_happened": "与同事聊足球赛事，讨论英格兰 vs 荷兰比赛",
+        "outcome": "闲聊，无结论"
+      },
+      {
+        "time": "10:33",
+        "what_happened": "核对银行账户及发票截图，要求对方提供对应发票截图",
+        "outcome": "要求对方尽快截图"
+      },
+      {
+        "time": "15:30",
+        "what_happened": "讨论报销流程进度，报销已提交上线",
+        "outcome": "等待审批"
+      },
+      {
+        "time": "16:21",
+        "what_happened": "清点寄出物品，共寄出四套，A游商店三套、WC一套，每套含两个共八个",
+        "outcome": "确认数量，考虑补寄"
+      },
+      {
+        "time": "16:42",
+        "what_happened": "讨论付款与发票问题，十二块钱对方不开具发票",
+        "outcome": "放弃索要发票"
+      },
+      {
+        "time": "16:47",
+        "what_happened": "核对付款金额，发现149.86与149.89存在0.03差异",
+        "outcome": "确认正确数字为149.89，要求撤回修改后重新提交"
+      },
+      {
+        "time": "19:07",
+        "what_happened": "讨论晚餐菜品，涉及浙江菜、梅干菜等话题",
+        "outcome": "闲聊"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "报销流程与发票",
+        "summary": "同事提交报销，财务要求提供发票截图；部分小额发票对方不开具；报销已上线等待审批",
+        "participants_mentioned": [
+          "财务",
+          "同事"
+        ],
+        "decisions_or_todos": [
+          "要求提供发票截图",
+          "十二元无发票放弃索要",
+          "报销等待审批"
+        ]
+      },
+      {
+        "topic": "付款金额核对",
+        "summary": "核对付款金额时发现149.86与149.89存在0.03差异，要求撤回修改后重新提交",
+        "participants_mentioned": [
+          "财务",
+          "同事",
+          "谢总"
+        ],
+        "decisions_or_todos": [
+          "撤回修改金额后重新提交",
+          "确认正确金额为149.89"
+        ]
+      },
+      {
+        "topic": "寄送物品清点",
+        "summary": "清点寄出的物品数量，共四套八个，发现箱子里少了一套，考虑补买",
+        "participants_mentioned": [
+          "财务",
+          "同事"
+        ],
+        "decisions_or_todos": [
+          "确认寄送数量",
+          "考虑补寄"
+        ]
+      },
+      {
+        "topic": "UI界面调整",
+        "summary": "讨论在图片后加一层、背景处理、中间点显示等技术细节",
+        "participants_mentioned": [
+          "同事"
+        ],
+        "decisions_or_todos": [
+          "尝试调整背景与图层"
+        ]
+      },
+      {
+        "topic": "体育赛事闲聊",
+        "summary": "讨论英格兰与荷兰足球比赛，对比赛结果持开放态度",
+        "participants_mentioned": [
+          "财务",
+          "同事"
+        ],
+        "decisions_or_todos": []
+      }
+    ],
+    "people": {
+      "subject_user_activity": "核对报销发票截图、审批付款金额、清点寄送物品、与同事闲聊",
+      "others_activity": "提交报销、讨论付款金额差异、寄送物品、讨论UI界面、闲聊",
+      "mentioned": [
+        {
+          "name_or_alias": "谢总",
+          "context": "付款金额差异时提到可能告知谢总",
+          "relation_guess": "上级或审批人"
+        },
+        {
+          "name_or_alias": "玛/M娜",
+          "context": "提到如果M娜不批则明天再打款",
+          "relation_guess": "审批人"
+        },
+        {
+          "name_or_alias": "同事",
+          "context": "全天多次对话，涉及报销、付款、寄送物品等",
+          "relation_guess": "同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [],
+      "projects_or_business": [],
+      "risks_or_blockers": []
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "reimbursement",
+          "detail": "同事提交报销，已上线等待审批",
+          "amount_or_terms": "未明确"
+        },
+        {
+          "category": "invoice",
+          "detail": "要求同事提供对应发票截图；十二元小额发票对方不开具",
+          "amount_or_terms": "12元无发票"
+        },
+        {
+          "category": "payment",
+          "detail": "核对付款金额，发现149.86与149.89差异0.03元，要求撤回修改后重新提交",
+          "amount_or_terms": "149.89元（正确）"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "寄送物品少了一套是否需要补买补寄",
+      "报销审批进度待确认"
+    ],
+    "keywords": [
+      "报销",
+      "发票",
+      "付款",
+      "金额核对",
+      "截图",
+      "审批",
+      "寄送",
+      "UI调整"
+    ]
+  }
+}

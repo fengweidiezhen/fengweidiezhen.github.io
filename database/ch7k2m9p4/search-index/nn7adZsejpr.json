@@ -1,0 +1,53 @@
+{
+  "user_id": "nn7adZsejpr",
+  "entries": [
+    {
+      "id": "rec:nn7adZsejpr:2026-07-09:0",
+      "type": "record",
+      "user_id": "nn7adZsejpr",
+      "user_name": "stella",
+      "date": "2026-07-09",
+      "speaker": "others",
+      "timestamp": "2026-07-09 17:26:21",
+      "text": "在线能的十分",
+      "snippet": "在线能的十分",
+      "path": "data/records/nn7adZsejpr/2026-07-09.json",
+      "item_index": 0
+    },
+    {
+      "id": "rec:nn7adZsejpr:2026-07-09:2",
+      "type": "record",
+      "user_id": "nn7adZsejpr",
+      "user_name": "stella",
+      "date": "2026-07-09",
+      "speaker": "others",
+      "timestamp": "2026-07-09 17:27:21",
+      "text": "可是",
+      "snippet": "可是",
+      "path": "data/records/nn7adZsejpr/2026-07-09.json",
+      "item_index": 2
+    },
+    {
+      "user_id": "nn7adZsejpr",
+      "user_name": "stella",
+      "date": "2026-07-09",
+      "path": "data/summaries/nn7adZsejpr/2026-07-09.json",
+      "id": "sum:nn7adZsejpr:2026-07-09:title",
+      "type": "summary",
+      "category": "title",
+      "text": "2026-07-09 日常对话纪要",
+      "snippet": "2026-07-09 日常对话纪要"
+    },
+    {
+      "user_id": "nn7adZsejpr",
+      "user_name": "stella",
+      "date": "2026-07-09",
+      "path": "data/summaries/nn7adZsejpr/2026-07-09.json",
+      "id": "sum:nn7adZsejpr:2026-07-09:overview",
+      "type": "summary",
+      "category": "overview",
+      "text": "当日转写内容极少，仅包含他人简短的在线状态相关话语，无实质性业务讨论或决策。",
+      "snippet": "当日转写内容极少，仅包含他人简短的在线状态相关话语，无实质性业务讨论或决策。"
+    }
+  ]
+}

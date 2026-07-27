@@ -1,0 +1,38 @@
+{
+  "format_version": "1",
+  "user_id": "nn7adZsejpr",
+  "date": "2026-07-09",
+  "saved_at": "2026-07-27T11:05:09.050940+08:00",
+  "item_count": 4,
+  "items": [
+    {
+      "timestamp": "2026-07-09 17:26:21",
+      "time_ms": 1783589181800,
+      "speaker": "others",
+      "text": "在线能的十分"
+    },
+    {
+      "timestamp": "2026-07-09 17:26:21",
+      "time_ms": 1783589181800,
+      "speaker": "marker",
+      "text": "--- Time: 17:26:21 ---"
+    },
+    {
+      "timestamp": "2026-07-09 17:27:21",
+      "time_ms": 1783589241820,
+      "speaker": "others",
+      "text": "可是"
+    },
+    {
+      "timestamp": "2026-07-09 17:27:21",
+      "time_ms": 1783589241820,
+      "speaker": "marker",
+      "text": "--- Time: 17:27:21 ---"
+    }
+  ],
+  "source": {
+    "type": "elasticsearch",
+    "environment": "baidu_release",
+    "fetched_at": "2026-07-27T11:05:09.050940+08:00"
+  }
+}

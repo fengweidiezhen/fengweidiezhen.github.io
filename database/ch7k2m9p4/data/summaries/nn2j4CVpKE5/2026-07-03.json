@@ -1,0 +1,158 @@
+{
+  "user_id": "nn2j4CVpKE5",
+  "user_name": "苑老师",
+  "date": "2026-07-03",
+  "generated_at": "2026-07-27T11:10:52.817979+08:00",
+  "model": "qwen3.7-max-2026-06-08",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "苑老师",
+    "aliases": [
+      "苑老师",
+      "苑老师"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 479,
+    "char_count": 12444,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "苑老师日常对话纪要",
+    "overview": "苑老师与女儿沟通作业安排与作息，下午参与技术讨论涉及音频文件更新、防静电措施及知识库访问问题，晚间回家督促女儿完成作业并处理生活琐事。",
+    "events": [
+      {
+        "time": "00:03",
+        "what_happened": "与女儿沟通作业完成情况，约定明天上午十点五十到下午六点前完成作业",
+        "outcome": "确定作业时间计划，提醒女儿先完成作业再玩游戏"
+      },
+      {
+        "time": "16:48",
+        "what_happened": "参与技术讨论，排查音频文件拉取异常问题，发现视频相关文件数量从每小时一万多骤降至几百",
+        "outcome": "确认是声纹文件未更新导致，已重新拉取并更新文件"
+      },
+      {
+        "time": "17:38",
+        "what_happened": "讨论音频时间戳问题，与李成沟通后决定暂时关闭通道，下个版本取消订阅",
+        "outcome": "确定临时方案：先关闭通道，后续版本再考虑加入"
+      },
+      {
+        "time": "17:54",
+        "what_happened": "讨论防静电措施，确认焊接及接触主板岗位需佩戴防静电手环并接地",
+        "outcome": "明确所有接触主板的操作人员必须佩戴防静电手环，烙铁需测试接地"
+      },
+      {
+        "time": "18:40",
+        "what_happened": "尝试访问知识库文档，遇到网络问题，切换5G和VPN均无法访问",
+        "outcome": "网络访问问题未解决，需进一步排查"
+      },
+      {
+        "time": "19:37",
+        "what_happened": "回家与女儿沟通晚饭安排，督促其完成作业",
+        "outcome": "女儿开始写作业，约定八点四十五前完成"
+      },
+      {
+        "time": "22:02",
+        "what_happened": "出门购买电池，确认女儿当天未出门活动",
+        "outcome": "买回电池，提醒女儿适当活动、有节制地玩游戏"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "音频文件拉取异常排查",
+        "summary": "发现视频相关文件数量骤降，排查后确认是声纹文件长期未更新导致，已重新拉取更新",
+        "participants_mentioned": [
+          "李成"
+        ],
+        "decisions_or_todos": [
+          "更新声纹文件并对比验证"
+        ]
+      },
+      {
+        "topic": "音频时间戳问题处理",
+        "summary": "音频时间戳存在复杂问题，暂无良好解决方案",
+        "participants_mentioned": [
+          "李成"
+        ],
+        "decisions_or_todos": [
+          "暂时关闭通道，下个版本取消订阅，后续再考虑加入"
+        ]
+      },
+      {
+        "topic": "防静电措施规范",
+        "summary": "确认生产现场防静电要求，焊接及接触主板岗位需佩戴防静电手环",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "所有接触主板人员佩戴防静电手环",
+          "烙铁需测试接地情况"
+        ]
+      },
+      {
+        "topic": "女儿作业与作息安排",
+        "summary": "与女儿沟通作业完成时间，限制游戏时间，督促专心学习",
+        "participants_mentioned": [
+          "女儿"
+        ],
+        "decisions_or_todos": [
+          "明天上午十点五十到下午六点完成作业",
+          "八点四十五前完成当天作业"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "上午与女儿沟通作业安排，下午参与技术讨论排查音频文件问题及防静电措施，晚间回家督促女儿作业并处理生活琐事",
+      "others_activity": "女儿在家写作业、玩游戏；同事参与技术讨论排查问题",
+      "mentioned": [
+        {
+          "name_or_alias": "女儿",
+          "context": "苑老师与其沟通作业安排、作息时间及游戏限制",
+          "relation_guess": "亲属-子女"
+        },
+        {
+          "name_or_alias": "李成",
+          "context": "与苑老师讨论音频时间戳问题",
+          "relation_guess": "同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "下个版本取消音频通道订阅",
+        "所有接触主板岗位落实防静电手环佩戴"
+      ],
+      "projects_or_business": [
+        "音频文件拉取与声纹更新",
+        "生产现场防静电规范"
+      ],
+      "risks_or_blockers": [
+        "音频时间戳问题暂无良好解决方案",
+        "知识库网络访问异常"
+      ]
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "音频时间戳问题的长期解决方案是什么",
+      "知识库网络访问问题如何修复"
+    ],
+    "keywords": [
+      "作业",
+      "音频",
+      "声纹",
+      "防静电",
+      "知识库",
+      "通道",
+      "订阅",
+      "手环",
+      "接地"
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T10:46:05.195299+08:00",
+  "model": "qwen3.7-max-2026-06-08",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 277,
+    "char_count": 10781,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "早会与产品需求讨论",
+    "overview": "团队召开周一早会，安排新测试同事入职、本周发版计划及算法任务；随后讨论离线数据提示、一键分享、情绪分类新增、声纹录制逻辑及会议纪要生成等产品需求，并协调会议室与工位问题。",
+    "events": [
+      {
+        "time": "09:10",
+        "what_happened": "新同事入职，安排临时工位",
+        "outcome": "新测试同事合欢入职，暂坐空位，后续向玉君汇报"
+      },
+      {
+        "time": "09:33",
+        "what_happened": "召开团队早会，介绍新同事并布置本周任务",
+        "outcome": "明确本周发版四大模块、算法收尾任务及工程冲刺安排"
+      },
+      {
+        "time": "09:45",
+        "what_happened": "安排新测试同事熟悉产品与测试流程",
+        "outcome": "分配退货设备供测试使用，优先覆盖APP机型测试"
+      },
+      {
+        "time": "09:51",
+        "what_happened": "讨论离线数据提示、一键分享、情绪分类等产品需求",
+        "outcome": "确定增加离线数据时间段提示、一键分享功能，情绪新增需产品定义先行"
+      },
+      {
+        "time": "10:28",
+        "what_happened": "协调会议室与工位不足问题",
+        "outcome": "计划与物业沟通增加工位，小房间腾出作杂物间"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "本周发版计划",
+        "summary": "计划周三至周四完成四大模块开发，周六前发版：首页无心提示、声纹界面改造、离线数据提示、学名过网第一版",
+        "participants_mentioned": [
+          "zhiyuan",
+          "尤进",
+          "理程"
+        ],
+        "decisions_or_todos": [
+          "周三至周四完成开发",
+          "周六前发版",
+          "固件点检后当天发版"
+        ]
+      },
+      {
+        "topic": "算法任务分工",
+        "summary": "MN模块本周收尾，配待检测周二前完成，新增情绪分类需讨论稳妥方案",
+        "participants_mentioned": [
+          "zhiyuan",
+          "楚楚",
+          "春昊",
+          "提庭"
+        ],
+        "decisions_or_todos": [
+          "MN本周收尾",
+          "配待检测周二前完成",
+          "下午算法会议讨论情绪分类"
+        ]
+      },
+      {
+        "topic": "离线数据提示设计",
+        "summary": "用户无法感知离线数据是否被缓存和处理，需在界面增加时间段提示",
+        "participants_mentioned": [
+          "zhiyuan",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "在记忆球或界面增加离线数据时间段提示"
+        ]
+      },
+      {
+        "topic": "一键分享功能",
+        "summary": "需支持记忆卡片、声纹、金球等内容一键分享至微信",
+        "participants_mentioned": [
+          "zhiyuan",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "设计一键分享功能，支持微信分享"
+        ]
+      },
+      {
+        "topic": "新增情绪分类",
+        "summary": "计划新增anger等情绪，但需产品定义先行，避免与现有情绪冲突",
+        "participants_mentioned": [
+          "zhiyuan",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "产品定义先行，确定新增哪两个情绪后再开发"
+        ]
+      },
+      {
+        "topic": "声纹录制逻辑",
+        "summary": "讨论声纹录制分数阈值、多条记录保留及选择逻辑",
+        "participants_mentioned": [
+          "zhiyuan",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "80分以上通过，保留多条记录并标注日期，用户可手动选择"
+        ]
+      },
+      {
+        "topic": "会议纪要智能生成",
+        "summary": "希望在记忆球中一键生成会议纪要，或系统智能识别会议并推送生成提示",
+        "participants_mentioned": [
+          "zhiyuan",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "优化UX，系统识别会议后主动推送生成提示"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主持早会，分配本周开发与算法任务，讨论产品需求细节，安排新测试同事工作，协调工位与会议室",
+      "others_activity": "汇报上周bug修复与后端优化进展，参与产品需求讨论，提出UX建议，协调会议室使用",
+      "mentioned": [
+        {
+          "name_or_alias": "合欢",
+          "context": "新入职测试同事，负责APP机型覆盖测试",
+          "relation_guess": "下属/团队成员"
+        },
+        {
+          "name_or_alias": "玉君",
+          "context": "合欢的汇报对象",
+          "relation_guess": "团队成员/测试负责人"
+        },
+        {
+          "name_or_alias": "尤进",
+          "context": "参与学名过网算法实现讨论",
+          "relation_guess": "算法团队成员"
+        },
+        {
+          "name_or_alias": "理程",
+          "context": "参与学名过网算法实现讨论",
+          "relation_guess": "算法团队成员"
+        },
+        {
+          "name_or_alias": "楚楚",
+          "context": "负责配待检测模块，周二前完成",
+          "relation_guess": "算法团队成员"
+        },
+        {
+          "name_or_alias": "春昊",
+          "context": "负责新情绪分类研究",
+          "relation_guess": "算法团队成员"
+        },
+        {
+          "name_or_alias": "提庭",
+          "context": "负责MN模块本周收尾",
+          "relation_guess": "算法团队成员"
+        },
+        {
+          "name_or_alias": "肖红玉娟",
+          "context": "测试团队成员",
+          "relation_guess": "测试同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "本周三至周四完成四大模块开发，周六前发版",
+        "算法团队分研究轨与集成轨，集成轨并入工程冲刺",
+        "早会控制在10-15分钟内，提高效率",
+        "与物业协调增加2-4个工位"
+      ],
+      "projects_or_business": [
+        "APP首页无心提示板块",
+        "声纹界面改造（分数、原因展示、多声纹）",
+        "离线数据提示模块",
+        "学名过网功能第一版",
+        "固件版本更新",
+        "情绪分类新增",
+        "一键分享功能",
+        "会议纪要智能生成"
+      ],
+      "risks_or_blockers": [
+        "机型覆盖率不足，需新测试同事协助",
+        "情绪分类新增需产品定义先行，避免算法与产品冲突",
+        "会议室资源紧张，需协调物业"
+      ]
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "新测试同事合欢入职，负责APP机型覆盖测试"
+        },
+        {
+          "category": "team",
+          "detail": "合欢向玉君汇报，三人测试团队协作分工"
+        }
+      ]
+    },
+    "open_questions": [
+      "新增哪两个情绪分类需产品定义确认",
+      "离线数据提示具体UI形式（弹窗还是列表）",
+      "会议纪要智能推送的触发条件与准确度"
+    ],
+    "keywords": [
+      "发版",
+      "离线数据",
+      "声纹",
+      "情绪分类",
+      "一键分享",
+      "会议纪要",
+      "机型覆盖",
+      "算法冲刺",
+      "工位协调"
+    ]
+  }
+}

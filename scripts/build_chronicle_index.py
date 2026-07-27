@@ -220,11 +220,16 @@ def index_summaries(summaries_dir: Path, root: Path, users: dict[str, dict]) -> 
                     )
 
             for fin in (summary.get("finance") or {}).get("items") or []:
-                text = _join_parts(
-                    fin.get("category", ""),
-                    fin.get("detail", ""),
-                    fin.get("amount_or_terms", ""),
-                )
+                if isinstance(fin, str):
+                    text = fin.strip()
+                elif isinstance(fin, dict):
+                    text = _join_parts(
+                        fin.get("category", ""),
+                        fin.get("detail", ""),
+                        fin.get("amount_or_terms", ""),
+                    )
+                else:
+                    continue
                 if text:
                     entries.append(
                         {
@@ -238,7 +243,12 @@ def index_summaries(summaries_dir: Path, root: Path, users: dict[str, dict]) -> 
                     )
 
             for per in (summary.get("personnel") or {}).get("items") or []:
-                text = _join_parts(per.get("category", ""), per.get("detail", ""))
+                if isinstance(per, str):
+                    text = per.strip()
+                elif isinstance(per, dict):
+                    text = _join_parts(per.get("category", ""), per.get("detail", ""))
+                else:
+                    continue
                 if text:
                     entries.append(
                         {

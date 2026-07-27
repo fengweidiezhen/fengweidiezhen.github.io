@@ -1,0 +1,112 @@
+{
+  "user_id": "nnvDuS4FnNa",
+  "user_name": "cc",
+  "date": "2026-07-24",
+  "generated_at": "2026-07-27T11:49:31.087123+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "cc",
+    "aliases": [
+      "cc",
+      "cc"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 125,
+    "char_count": 2628,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "设备佩戴检测算法调试与优化讨论",
+    "overview": "当日主要围绕设备佩戴检测算法的弹窗延迟、数据连续性及判定阈值进行测试与讨论。发现弹窗消失延迟约1-2分钟，疑似与数据条数阈值（原16条）有关，建议调整为10条以加快响应。确认佩戴检测速度较快且准确，满足需求。",
+    "events": [
+      {
+        "time": "11:27",
+        "what_happened": "测试设备佩戴检测弹窗消失延迟",
+        "outcome": "发现弹窗消失延迟约1-2分钟，怀疑与数据条数阈值有关"
+      },
+      {
+        "time": "12:08",
+        "what_happened": "讨论弹窗消失的数据条数阈值",
+        "outcome": "确认实际需20多条才消失，建议将阈值从16条改为10条"
+      },
+      {
+        "time": "14:07",
+        "what_happened": "验证佩戴检测逻辑",
+        "outcome": "确认小于10条且小于0.2即判定为未佩戴，检测速度十几秒内完成"
+      },
+      {
+        "time": "15:02",
+        "what_happened": "评估佩戴检测准确性与速度",
+        "outcome": "确认佩戴检测速度快且准确，满足需求"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "弹窗消失延迟问题",
+        "summary": "弹窗消失延迟1-2分钟，疑似数据条数阈值过高导致",
+        "participants_mentioned": [
+          "cc",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "将数据条数阈值从16条调整为10条"
+        ]
+      },
+      {
+        "topic": "佩戴检测算法优化",
+        "summary": "确认佩戴检测速度快、准确，重点保证佩戴响应及时",
+        "participants_mentioned": [
+          "cc",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "保持当前检测逻辑，确保佩戴快速响应"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与设备佩戴检测算法测试，分析弹窗延迟原因，验证检测逻辑",
+      "others_activity": "协助测试设备，讨论算法阈值调整，确认检测效果",
+      "mentioned": [
+        {
+          "name_or_alias": "cc",
+          "context": "参与算法调试与测试",
+          "relation_guess": "设备研发或测试人员"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "优化设备佩戴检测算法阈值"
+      ],
+      "projects_or_business": [
+        "设备佩戴检测功能开发"
+      ],
+      "risks_or_blockers": [
+        "弹窗消失延迟可能影响用户体验"
+      ]
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "弹窗延迟是否完全由数据条数阈值引起"
+    ],
+    "keywords": [
+      "佩戴检测",
+      "弹窗延迟",
+      "数据阈值",
+      "算法优化",
+      "设备测试"
+    ]
+  }
+}

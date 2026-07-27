@@ -1,0 +1,269 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-07-13",
+  "generated_at": "2026-07-14T15:37:00.732989+08:00",
+  "model": "qwen3.7-max-2026-06-08",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 2054,
+    "char_count": 73882,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "产品研发与测试优化及投资人产品体验反馈",
+    "overview": "当日主要围绕APP测试方案、硬件物料确认、日志系统与多进程优化展开内部讨论；下午接待投资人体验AI穿戴产品并收集深度反馈；晚间处理安卓端内存优化及期权行权窗口调整事宜。",
+    "events": [
+      {
+        "time": "09:30",
+        "what_happened": "团队讨论日志系统落地、测试方案及多进程优化",
+        "outcome": "确认测试需覆盖更多机型，采用二八原则重点测试；安卓端考虑加进程解决内存问题"
+      },
+      {
+        "time": "10:22",
+        "what_happened": "讨论香港公司账务审计问题",
+        "outcome": "发现香港账目遗漏严重，需重新做账，要求提供资料配合审计"
+      },
+      {
+        "time": "10:24",
+        "what_happened": "讨论硬件产品3C认证及电池标识问题",
+        "outcome": "确认整机无需3C备案，但电池需紧急补贴3C标识"
+      },
+      {
+        "time": "14:00",
+        "what_happened": "投资人（徐新/附新创富）来访体验AI穿戴产品",
+        "outcome": "投资人深度体验并提出产品价值转化、社交分享、情绪模型等大量优化建议"
+      },
+      {
+        "time": "15:37",
+        "what_happened": "内部周会讨论情绪分类扩展与心率检测",
+        "outcome": "决定新增两类情绪分类，8月底前完成；心率检测规范制定完成"
+      },
+      {
+        "time": "22:03",
+        "what_happened": "讨论安卓端内存泄漏及OPPO/一加适配问题",
+        "outcome": "决定优先实现推理引擎重启清内存策略，验证后再决定是否拆多线程"
+      },
+      {
+        "time": "22:18",
+        "what_happened": "讨论期权行权窗口期调整",
+        "outcome": "决定将行权窗口从2028年4月提前至2027年12月"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "APP测试覆盖与Bug管理",
+        "summary": "测试力量不足但机型多，需重点覆盖核心机型；Bug粒度粗，需加强测试覆盖面，防止问题流入用户端",
+        "participants_mentioned": [
+          "zhiyuan"
+        ],
+        "decisions_or_todos": [
+          "拉长测试时间确保充分测试",
+          "采用二八原则重点测试重要机型",
+          "全员参与测试补充力量"
+        ]
+      },
+      {
+        "topic": "安卓端多进程与内存优化",
+        "summary": "AI音频解析占用内存达1.3-1.5G导致进程被杀，OPPO/一加限制严格；讨论加进程或内存自释放策略",
+        "participants_mentioned": [
+          "陈刚",
+          "一婷"
+        ],
+        "decisions_or_todos": [
+          "优先实现推理引擎重启清内存策略",
+          "验证效果后再决定是否拆多线程",
+          "子进程内存超限时自杀重启"
+        ]
+      },
+      {
+        "topic": "产品外观设计与调性方向",
+        "summary": "讨论第二代产品外观设计，认为当前过于3C风格，需向奢侈品调性靠拢，参考香奈儿、爱马仕等设计语言",
+        "participants_mentioned": [
+          "zhiyuan"
+        ],
+        "decisions_or_todos": [
+          "出香奈儿风格设计稿",
+          "颜色重点调整，多出几版配色",
+          "考虑贝母、陶瓷等材质"
+        ]
+      },
+      {
+        "topic": "投资人产品体验反馈",
+        "summary": "投资人深度体验AI穿戴产品，建议将记录内容转化为可分享的社交价值，增强用户粘性与传播性",
+        "participants_mentioned": [
+          "徐新"
+        ],
+        "decisions_or_todos": [
+          "增加一键分享到朋友圈功能",
+          "支持将时段转化为会议纪要/公众号文章",
+          "丰富情绪模型标签与心理模型建设"
+        ]
+      },
+      {
+        "topic": "情绪分类扩展与基线建立",
+        "summary": "现有情绪分类需扩展两类，同时建立用户情绪基线，根据基线动态调整正负面情绪判定阈值",
+        "participants_mentioned": [
+          "zhiyuan",
+          "浩林"
+        ],
+        "decisions_or_todos": [
+          "8月底前完成两类新情绪分类",
+          "建立情绪基线动态调整机制",
+          "情绪波动与事件关联展示"
+        ]
+      },
+      {
+        "topic": "期权行权窗口期调整",
+        "summary": "讨论期权行权窗口期设置，原2028年4月对新加入人员不友好，需提前",
+        "participants_mentioned": [
+          "zhiyuan"
+        ],
+        "decisions_or_todos": [
+          "行权窗口期调整为2027年12月",
+          "与律师确认合规性"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主导产品测试策略、硬件物料确认、情绪算法优化讨论；接待投资人并展示产品；处理安卓端技术问题及期权方案调整",
+      "others_activity": "团队成员汇报测试方案、多进程技术调研、硬件供应商确认；投资人深度体验产品并提供战略建议",
+      "mentioned": [
+        {
+          "name_or_alias": "陈刚",
+          "context": "安卓端开发，负责推送逻辑及多进程优化",
+          "relation_guess": "开发工程师"
+        },
+        {
+          "name_or_alias": "一婷",
+          "context": "算法相关，处理内存优化及心率检测",
+          "relation_guess": "算法工程师"
+        },
+        {
+          "name_or_alias": "浩林",
+          "context": "负责天气、地理位置及事件关联功能",
+          "relation_guess": "开发工程师"
+        },
+        {
+          "name_or_alias": "周星",
+          "context": "与zhiyuan对接项目时间轴排期",
+          "relation_guess": "项目经理"
+        },
+        {
+          "name_or_alias": "谢城",
+          "context": "营销副总裁，被讨论工作边界与态度问题",
+          "relation_guess": "营销负责人"
+        },
+        {
+          "name_or_alias": "徐新",
+          "context": "附新创富投资人，来访体验产品",
+          "relation_guess": "投资人"
+        },
+        {
+          "name_or_alias": "张菜",
+          "context": "日志系统开发计划",
+          "relation_guess": "开发工程师"
+        },
+        {
+          "name_or_alias": "连林",
+          "context": "提供香港审计所需资料",
+          "relation_guess": "财务/行政"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "7月18-19日参加上海WAIC展会，有四个展位",
+        "轻量化版本时间轴紧张，以落地为优先",
+        "8月底前完成情绪分类扩展并推送软件版本",
+        "本周确认所有硬件物料供应商",
+        "京东线下馆8-9月份开业"
+      ],
+      "projects_or_business": [
+        "AI穿戴产品（吊坠形态）已上线销售",
+        "第二代产品外观设计（奢侈品调性方向）",
+        "日志系统与中间平台开发",
+        "情绪识别算法优化与基线建立",
+        "安卓端多进程内存优化"
+      ],
+      "risks_or_blockers": [
+        "测试力量不足，Bug流入用户端",
+        "OPPO/一加安卓系统内存限制严格",
+        "香港公司账目遗漏严重需重新审计",
+        "电池缺少3C标识需紧急处理",
+        "硬件成本居高不下影响定价"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "tax",
+          "detail": "香港公司2025年账务审计，账目遗漏严重（差旅费一半未记），需重新做账",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "cost",
+          "detail": "硬件成本主要受电子元器件价格波动影响，量未上去导致成本难降",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "payment",
+          "detail": "WAIC展会媒体合作费用",
+          "amount_or_terms": "1.8万元（最便宜档位）"
+        },
+        {
+          "category": "other",
+          "detail": "期权行权窗口期从2028年4月调整至2027年12月",
+          "amount_or_terms": "未提及具体金额"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "performance",
+          "detail": "谢城工作态度与边界感问题被讨论，被认为增加组织工作量"
+        },
+        {
+          "category": "hiring",
+          "detail": "讨论新入职员工（苗总介绍）试用期标准设定与能力评估"
+        },
+        {
+          "category": "team",
+          "detail": "团队目前约20人，人手一个产品进行内部测试"
+        }
+      ]
+    },
+    "open_questions": [
+      "如何在保护隐私前提下实现云端AI处理与本地处理的平衡",
+      "如何将产品记录内容转化为用户愿意分享的社交价值",
+      "第二代产品外观如何突破3C风格实现奢侈品调性",
+      "情绪基线建立后如何与事件关联展示波动原因"
+    ],
+    "keywords": [
+      "测试方案",
+      "多进程优化",
+      "内存泄漏",
+      "情绪分类",
+      "3C认证",
+      "WAIC展会",
+      "期权行权",
+      "香港审计",
+      "奢侈品调性",
+      "社交分享",
+      "用户画像",
+      "心率检测"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "user_id": "nn7adZsejpr",
+  "user_name": "stella",
+  "date": "2026-07-09",
+  "generated_at": "2026-07-27T11:05:26.102802+08:00",
+  "model": "qwen3.7-max-2026-06-08",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "stella",
+    "aliases": [
+      "stella",
+      "stella"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 4,
+    "char_count": 47,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-09 日常对话纪要",
+    "overview": "当日转写内容极少，仅包含他人简短的在线状态相关话语，无实质性业务讨论或决策。",
+    "events": [],
+    "discussions": [],
+    "people": {
+      "subject_user_activity": "未提及",
+      "others_activity": "提及在线状态，内容不完整",
+      "mentioned": []
+    },
+    "company": {
+      "plans_and_arrangements": [],
+      "projects_or_business": [],
+      "risks_or_blockers": []
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [],
+    "keywords": []
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-07-23",
+  "generated_at": "2026-07-27T12:02:06.396825+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 462,
+    "char_count": 12211,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-23 日常对话纪要",
+    "overview": "当日主要涉及HR岗位面试沟通、公司过往业务纠纷复盘、招聘渠道讨论、产品样品确认及办公环境布置等事务。",
+    "events": [
+      {
+        "time": "10:42",
+        "what_happened": "用户确认隔壁会议室预约时间为11点",
+        "outcome": "已确认预约安排"
+      },
+      {
+        "time": "11:14",
+        "what_happened": "others讲述某网红博主组建公司的经历及因合伙人纠纷导致产品下架、团队解散的过程",
+        "outcome": "了解该公司历史业务风险"
+      },
+      {
+        "time": "15:59",
+        "what_happened": "候选人沙秀姨参加HR岗位面试，介绍7年人事工作经验",
+        "outcome": "完成初步面试沟通"
+      },
+      {
+        "time": "19:15",
+        "what_happened": "用户催促某人反馈缺漏物品清单但未获回复",
+        "outcome": "等待对方反馈"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "HR岗位候选人面试",
+        "summary": "候选人沙秀姨有7年人事经验，涵盖招聘、绩效、员工关系等模块，期望深耕人事领域，汇报对象为创始人",
+        "participants_mentioned": [
+          "沙秀姨"
+        ],
+        "decisions_or_todos": [
+          "评估是否推进下一轮面试"
+        ]
+      },
+      {
+        "topic": "公司过往业务纠纷",
+        "summary": "某网红博主公司因前合伙人辣椒酱产品侵权被起诉，产品下架导致收入中断，深圳团队解散",
+        "participants_mentioned": [],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "招聘渠道与入职时间",
+        "summary": "讨论使用BOSS、智联等渠道招聘，某候选人因个人事务申请延后一周入职",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "确认候选人最终入职时间"
+        ]
+      },
+      {
+        "topic": "产品样品确认",
+        "summary": "讨论以成品方式制作样品，涉及配方及包装细节",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "确认样品方案"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与面试安排、确认会议室预约、催促物品反馈",
+      "others_activity": "讲述公司历史业务情况、进行HR候选人面试、讨论产品样品及办公布置",
+      "mentioned": [
+        {
+          "name_or_alias": "沙秀姨",
+          "context": "HR岗位候选人，7年人事经验",
+          "relation_guess": "面试候选人"
+        },
+        {
+          "name_or_alias": "城西",
+          "context": "下周一有面试安排",
+          "relation_guess": "候选人或面试官"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "推进HR岗位招聘",
+        "确认产品样品方案"
+      ],
+      "projects_or_business": [
+        "网红博主公司历史纠纷复盘",
+        "辣椒酱产品侵权案件"
+      ],
+      "risks_or_blockers": [
+        "前合伙人知识产权纠纷导致产品下架",
+        "团队解散后收入中断"
+      ]
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "HR岗位候选人沙秀姨面试，7年人事经验"
+        },
+        {
+          "category": "hiring",
+          "detail": "城西下周一有面试安排"
+        },
+        {
+          "category": "role_change",
+          "detail": "某候选人申请延后一周入职"
+        }
+      ]
+    },
+    "open_questions": [
+      "沙秀姨是否推进下一轮面试",
+      "候选人最终入职时间确认",
+      "样品方案最终确认"
+    ],
+    "keywords": [
+      "HR面试",
+      "招聘",
+      "员工关系",
+      "绩效",
+      "产品纠纷",
+      "样品",
+      "入职"
+    ]
+  }
+}

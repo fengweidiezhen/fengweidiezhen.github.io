@@ -1,0 +1,211 @@
+{
+  "user_id": "nnMxvzQSdSL",
+  "user_name": "amanda2",
+  "date": "2026-07-20",
+  "generated_at": "2026-07-27T11:33:18.596963+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda2",
+    "aliases": [
+      "amanda2",
+      "amanda2"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1303,
+    "char_count": 37662,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-20 上海出差及公司事务讨论纪要",
+    "overview": "当日主体用户 amanda2 在上海出差，上午与同事讨论次日产品活动（party 形式）准备、产品经理招聘标准、HR 离职交接风波等事务；下午入住酒店、逛街、吃饭，期间处理天猫入驻特批、专利归属等公司事务，并聊到投资、换车、展会等话题。",
+    "events": [
+      {
+        "time": "11:51",
+        "what_happened": "amanda2 与同事讨论次日产品活动安排，确认需准备物料、零食及确认参与人数",
+        "outcome": "确定活动以 party 形式进行，非正式发布会"
+      },
+      {
+        "time": "12:32",
+        "what_happened": "讨论当天面试的产品经理候选人，认为方法论可以但缺乏推动力",
+        "outcome": "决定继续面试更多候选人，要求具备强执行力和影响力"
+      },
+      {
+        "time": "19:18",
+        "what_happened": "同事周星来电同步 HR 开利 last day 交接问题，开利拒绝交出培训 PPT 并在办公室大喊扣工资",
+        "outcome": "交接单未签，需谢总判断后续处理，计划与研发团队安抚沟通"
+      },
+      {
+        "time": "20:39",
+        "what_happened": "amanda2 收到天猫特批入驻通知，此前因拒绝提供融资金额和流水被拒",
+        "outcome": "天猫老板特批通过，计划后续有新品时入驻"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "次日产品活动安排",
+        "summary": "讨论明天下午两点在吉克公园举办的产品聚会，定位为 party 而非发布会，约 20 人参加，需准备餐饮和小礼物",
+        "participants_mentioned": [
+          "amanda2",
+          "花花",
+          "唐一泉",
+          "唐博"
+        ],
+        "decisions_or_todos": [
+          "明早 9 点到场地布置",
+          "采购餐饮和零食",
+          "准备 8 个护手霜作为互动礼物"
+        ]
+      },
+      {
+        "topic": "产品经理招聘标准",
+        "summary": "认为当天面试的候选人方法论可以但缺乏 man 的气质和推动力，需要思维敏捷、注重细节的执行者",
+        "participants_mentioned": [
+          "amanda2"
+        ],
+        "decisions_or_todos": [
+          "继续面试更多产品经理候选人",
+          "要求候选人具备强影响力和执行力"
+        ]
+      },
+      {
+        "topic": "HR 开利离职交接风波",
+        "summary": "开利 last day 拒绝交出新人培训 PPT，在办公室大喊扣工资，交接单未签；此前 HR 在处理员工离职时不专业导致公司多赔 3 万",
+        "participants_mentioned": [
+          "amanda2",
+          "周星",
+          "开利",
+          "谢总"
+        ],
+        "decisions_or_todos": [
+          "23 号后与研发团队逐一沟通安抚",
+          "确认开利离职证明是否已开具",
+          "评估培训材料重要性"
+        ]
+      },
+      {
+        "topic": "天猫入驻特批",
+        "summary": "天猫初审因拒绝提供融资金额和流水被拒，后天猫老板特批通过",
+        "participants_mentioned": [
+          "amanda2"
+        ],
+        "decisions_or_todos": [
+          "等有新品时再入驻天猫"
+        ]
+      },
+      {
+        "topic": "公司专利归属问题",
+        "summary": "amanda2 发现公司专利误申请在个人名下，转让需花钱，决定暂不处理",
+        "participants_mentioned": [
+          "amanda2"
+        ],
+        "decisions_or_todos": [
+          "暂不转让专利，维持现状"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "在上海出差，上午讨论公司事务，下午入住酒店、逛街吃饭，处理天猫入驻和专利问题",
+      "others_activity": "同事周星处理 HR 交接，花花协助活动筹备，谢总参与决策",
+      "mentioned": [
+        {
+          "name_or_alias": "周星",
+          "context": "负责 HR 开利的离职交接工作",
+          "relation_guess": "公司同事/行政人事"
+        },
+        {
+          "name_or_alias": "开利",
+          "context": "当天 last day 的 HR，拒绝交出培训材料并在办公室闹事",
+          "relation_guess": "前公司员工/HR"
+        },
+        {
+          "name_or_alias": "谢总",
+          "context": "需审批开利离职证明及判断培训材料重要性",
+          "relation_guess": "公司高管/决策者"
+        },
+        {
+          "name_or_alias": "花花",
+          "context": "协助筹备次日产品活动",
+          "relation_guess": "公司同事"
+        },
+        {
+          "name_or_alias": "唐一泉",
+          "context": "受邀参加次日产品聚会",
+          "relation_guess": "外部嘉宾/合作方"
+        },
+        {
+          "name_or_alias": "唐博",
+          "context": "受邀参加次日产品聚会",
+          "relation_guess": "外部嘉宾/合作方"
+        },
+        {
+          "name_or_alias": "rad",
+          "context": "计划请吃饭的对象",
+          "relation_guess": "外部合作方"
+        },
+        {
+          "name_or_alias": "韩",
+          "context": "计划请吃饭的对象",
+          "relation_guess": "外部合作方"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "7 月 21 日下午 2 点在吉克公园举办产品 party，约 20 人参加",
+        "计划请 rad 和韩吃饭",
+        "天猫特批通过后，等有新品时入驻",
+        "23 号后与研发团队逐一沟通安抚开利离职事件影响"
+      ],
+      "projects_or_business": [
+        "产品聚会定位为 party 形式，分享 AI 行业人文科技话题",
+        "青春版产品预计 9 月发售，定价 700 多元",
+        "天猫入驻特批通过，等待合适时机上线"
+      ],
+      "risks_or_blockers": [
+        "HR 开利离职交接不规范，部分员工保密协议和员工手册未签",
+        "公司专利误申请在个人名下，转让需额外费用",
+        "产品经理候选人缺乏推动力，招聘标准需调整"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "salary",
+          "detail": "开利称公司扣了其工资，实际因自身原因导致晚发",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "payment",
+          "detail": "此前 HR 处理员工离职不专业，最终赔偿 3 万元",
+          "amount_or_terms": "3 万元"
+        },
+        {
+          "category": "cost",
+          "detail": "公司专利误申请在个人名下，转让需花钱",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "other",
+          "detail": "烧立二级市场投资 700 万",
+          "amount_or_terms": "700 万元"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "role_change",
+          "detail": "新招财务一练接手流程，原 HR 和财务被替换"
+        }
+      ]
+    },
+    "open_questions": [],
+    "keywords": []
+  }
+}

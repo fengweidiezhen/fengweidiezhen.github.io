@@ -1,0 +1,137 @@
+{
+  "user_id": "nnvDuS4FnNa",
+  "user_name": "cc",
+  "date": "2026-07-16",
+  "generated_at": "2026-07-27T11:44:57.121154+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "cc",
+    "aliases": [
+      "cc",
+      "cc"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 230,
+    "char_count": 4467,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-16 工作沟通纪要",
+    "overview": "当日主要围绕设备佩戴检测逻辑优化、心率监测稳定性、生产环境数据下载及情绪功能测试等展开讨论，并确认了相关参数调整方案。",
+    "events": [
+      {
+        "time": "09:49",
+        "what_happened": "讨论设备佩戴状态误判问题，涉及时间窗口设置。",
+        "outcome": "初步确定将检测时间窗口从30秒缩短至15秒以提高准确性。"
+      },
+      {
+        "time": "10:42",
+        "what_happened": "讨论生产环境雷达数据下载问题，涉及安卓系统兼容性。",
+        "outcome": "确认需使用特定版本或环境进行数据下载测试。"
+      },
+      {
+        "time": "11:18",
+        "what_happened": "测试情绪功能模块，发现存在卡顿现象。",
+        "outcome": "计划进一步优化情绪识别算法。"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "佩戴检测逻辑优化",
+        "summary": "讨论佩戴状态检测的时间窗口设置，避免误判。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "将检测时间窗口从30秒缩短至15秒",
+          "通知马强调整相关参数"
+        ]
+      },
+      {
+        "topic": "心率监测稳定性",
+        "summary": "评估当前心率监测算法的稳定性，探讨进一步优化方向。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "继续监测并记录数据",
+          "评估优化效果"
+        ]
+      },
+      {
+        "topic": "生产环境数据下载",
+        "summary": "讨论安卓系统下生产环境雷达数据下载问题。",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "寻找兼容的旧版安装包",
+          "进行数据下载测试"
+        ]
+      },
+      {
+        "topic": "情绪功能测试",
+        "summary": "测试情绪识别功能，发现存在卡顿问题。",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": [
+          "优化情绪识别算法",
+          "解决卡顿问题"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与佩戴检测逻辑优化、心率监测评估及生产环境数据下载讨论",
+      "others_activity": "参与技术讨论，协助测试情绪功能模块",
+      "mentioned": [
+        {
+          "name_or_alias": "马强",
+          "context": "负责调整佩戴检测时间窗口参数",
+          "relation_guess": "技术团队成员"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "优化设备佩戴检测逻辑",
+        "提升心率监测稳定性",
+        "完善情绪识别功能"
+      ],
+      "projects_or_business": [
+        "智能穿戴设备研发",
+        "健康监测功能开发"
+      ],
+      "risks_or_blockers": [
+        "生产环境数据下载兼容性问题",
+        "情绪识别功能卡顿"
+      ]
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "如何进一步优化心率监测算法？",
+      "情绪识别功能卡顿的具体原因是什么？"
+    ],
+    "keywords": [
+      "佩戴检测",
+      "心率监测",
+      "生产环境",
+      "情绪识别",
+      "数据下载"
+    ]
+  }
+}

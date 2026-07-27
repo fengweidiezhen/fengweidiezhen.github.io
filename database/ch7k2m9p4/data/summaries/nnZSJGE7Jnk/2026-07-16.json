@@ -1,0 +1,164 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-07-16",
+  "generated_at": "2026-07-27T11:58:04.561217+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 700,
+    "char_count": 19405,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-07-16 日常对话纪要",
+    "overview": "当日主要涉及行政/HR岗位候选人面试沟通、审计费用资料核对、零星物料采购流程讨论，以及部分日常闲聊。面试中讨论了候选人从事业单位转向初创公司的职业规划、对HR方向的偏好及招聘经验；财务方面涉及审计所需差旅费用资料查找及发票报销事宜。",
+    "events": [
+      {
+        "time": "14:56",
+        "what_happened": "讨论审计需要的差旅费用资料，确认相关资料是否齐全",
+        "outcome": "资料基本齐全，部分细节需进一步核对"
+      },
+      {
+        "time": "15:12",
+        "what_happened": "讨论文发物料采购流程，确认小批量采购的申请与报销方式",
+        "outcome": "确定先提采购申请再报销的流程"
+      },
+      {
+        "time": "16:01",
+        "what_happened": "进行行政/HR岗位候选人视频面试",
+        "outcome": "完成面试，后续将内部讨论反馈"
+      },
+      {
+        "time": "19:47",
+        "what_happened": "讨论酒店发票金额及报销事宜",
+        "outcome": "确认发票金额约1600元，涉及酒店费用"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "行政/HR岗位候选人面试",
+        "summary": "候选人有事业单位行政助理经验，倾向转向初创公司HR方向，有招聘流程经验，偏好从零到一的团队建设",
+        "participants_mentioned": [
+          "Marllo",
+          "M娜"
+        ],
+        "decisions_or_todos": [
+          "内部讨论面试反馈",
+          "综合评估候选人匹配度"
+        ]
+      },
+      {
+        "topic": "审计差旅费用资料",
+        "summary": "审计需要差旅费用明细，确认资料基本齐全，部分需补充",
+        "participants_mentioned": [
+          "财务"
+        ],
+        "decisions_or_todos": [
+          "核对并补充缺失资料"
+        ]
+      },
+      {
+        "topic": "文发物料采购流程",
+        "summary": "小批量文发物料采购，讨论先采购后报销还是先申请后采购",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "先提采购申请，附链接清单，再走报销流程"
+        ]
+      },
+      {
+        "topic": "酒店发票报销",
+        "summary": "讨论酒店发票金额及报销处理",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "确认发票金额并处理报销"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与面试讨论、审计资料核对、采购流程沟通及日常闲聊",
+      "others_activity": "进行候选人面试、讨论采购流程、核对审计资料、处理发票报销",
+      "mentioned": [
+        {
+          "name_or_alias": "Marllo",
+          "context": "行政/HR岗位候选人，有事业单位行政助理经验，倾向HR方向",
+          "relation_guess": "面试候选人"
+        },
+        {
+          "name_or_alias": "M娜",
+          "context": "面试中提及的同事或相关负责人",
+          "relation_guess": "同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "公司总部在香港，大部分人在深圳，下半年计划在上海开设办公室",
+        "团队约20人，计划快速扩张"
+      ],
+      "projects_or_business": [
+        "围绕AI情绪价值产品方向开展业务",
+        "行政/HR岗位招聘以支持团队扩张"
+      ],
+      "risks_or_blockers": []
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "reimbursement",
+          "detail": "审计所需差旅费用资料核对",
+          "amount_or_terms": "未明确"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "酒店发票报销",
+          "amount_or_terms": "约1600元"
+        },
+        {
+          "category": "budget",
+          "detail": "文发物料小批量采购申请",
+          "amount_or_terms": "未明确"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "行政/HR岗位候选人面试，倾向HR方向，有招聘流程经验"
+        },
+        {
+          "category": "team",
+          "detail": "团队约20人，计划快速扩张，下半年上海开设办公室"
+        }
+      ]
+    },
+    "open_questions": [
+      "审计差旅费用部分资料需补充确认",
+      "候选人面试反馈待内部讨论"
+    ],
+    "keywords": [
+      "面试",
+      "行政",
+      "HR",
+      "审计",
+      "差旅费",
+      "采购",
+      "发票",
+      "报销",
+      "招聘",
+      "初创公司"
+    ]
+  }
+}

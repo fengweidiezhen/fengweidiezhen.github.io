@@ -1,0 +1,121 @@
+{
+  "user_id": "nnvDuS4FnNa",
+  "user_name": "cc",
+  "date": "2026-07-14",
+  "generated_at": "2026-07-27T11:43:39.713570+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "cc",
+    "aliases": [
+      "cc",
+      "cc"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 154,
+    "char_count": 2238,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "日常办公与技术讨论纪要",
+    "overview": "当日主要涉及压测频率确认、自动化流程验证功能讨论、点外卖及公司缺水等日常事务，无明确财务与人事议题。",
+    "events": [
+      {
+        "time": "10:03",
+        "what_happened": "讨论压测频率",
+        "outcome": "确认压测频率为每分钟一次"
+      },
+      {
+        "time": "12:06",
+        "what_happened": "讨论自动化流程用途",
+        "outcome": "明确自动化流程主要用于验证功能，对数据要求不高"
+      },
+      {
+        "time": "15:15",
+        "what_happened": "点外卖和奶茶",
+        "outcome": "有人点外卖和奶茶，准备吃饭"
+      },
+      {
+        "time": "15:20",
+        "what_happened": "发现公司没水",
+        "outcome": "确认公司饮用水已用完"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "压测频率",
+        "summary": "确认压测执行频率为每分钟一次",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": [
+          "维持当前压测频率"
+        ]
+      },
+      {
+        "topic": "自动化流程定位",
+        "summary": "讨论自动化流程主要用于功能验证，非以数据为主",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": [
+          "明确自动化流程用途为功能验证"
+        ]
+      },
+      {
+        "topic": "办公后勤",
+        "summary": "提及点外卖、奶茶及公司缺水问题",
+        "participants_mentioned": [
+          "others"
+        ],
+        "decisions_or_todos": [
+          "需补充公司饮用水"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "未明确记录cc本人发言内容",
+      "others_activity": "参与压测、自动化流程讨论，点外卖，提及公司缺水",
+      "mentioned": [
+        {
+          "name_or_alias": "others",
+          "context": "参与技术讨论与日常办公交流",
+          "relation_guess": "同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "补充公司饮用水"
+      ],
+      "projects_or_business": [
+        "压测任务执行",
+        "自动化流程功能验证"
+      ],
+      "risks_or_blockers": [
+        "公司饮用水短缺"
+      ]
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "公司饮用水如何补充"
+    ],
+    "keywords": [
+      "压测",
+      "自动化流程",
+      "功能验证",
+      "外卖",
+      "缺水"
+    ]
+  }
+}

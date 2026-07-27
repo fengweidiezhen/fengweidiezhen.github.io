@@ -1,0 +1,75 @@
+{
+  "user_id": "nnMxvzQSdSL",
+  "user_name": "amanda2",
+  "date": "2026-07-22",
+  "generated_at": "2026-07-27T11:35:26.941510+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda2",
+    "aliases": [
+      "amanda2",
+      "amanda2"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 34,
+    "char_count": 1053,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "航班飞行及抵达深圳记录",
+    "overview": "当日转写内容主要为航班飞行过程中的客舱广播及服务录音，包括安全须知、按摩仪推销、起飞准备、降落及抵达深圳后的下机提示。主体用户amanda2疑似乘坐该航班，无实质性业务讨论。",
+    "events": [
+      {
+        "time": "00:05",
+        "what_happened": "播放航班安全须知及应急设备介绍广播",
+        "outcome": "乘客了解安全信息"
+      },
+      {
+        "time": "00:10",
+        "what_happened": "乘务员推销便携式按摩仪产品",
+        "outcome": "旅客可联系乘务员试用选购"
+      },
+      {
+        "time": "00:16",
+        "what_happened": "飞机起飞，乘务员完成客舱安全检查",
+        "outcome": "航班正常起飞"
+      },
+      {
+        "time": "02:53",
+        "what_happened": "飞机抵达深圳，播报下机提示",
+        "outcome": "旅客从前登机门下机"
+      }
+    ],
+    "discussions": [],
+    "people": {
+      "subject_user_activity": "amanda2疑似乘坐航班，从出发地飞往深圳",
+      "others_activity": "乘务员进行安全广播、产品推销及下机引导",
+      "mentioned": []
+    },
+    "company": {
+      "plans_and_arrangements": [],
+      "projects_or_business": [],
+      "risks_or_blockers": []
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [],
+    "keywords": [
+      "航班",
+      "深圳",
+      "安全须知",
+      "按摩仪",
+      "下机"
+    ]
+  }
+}

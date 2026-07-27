@@ -1,0 +1,26 @@
+{
+  "format_version": "1",
+  "user_id": "nnZSJGE7Jnk",
+  "date": "2026-07-27",
+  "saved_at": "2026-07-27T12:03:57.998913+08:00",
+  "item_count": 2,
+  "items": [
+    {
+      "timestamp": "2026-07-27 09:58:14",
+      "time_ms": 1785117494290,
+      "speaker": "others",
+      "text": "想"
+    },
+    {
+      "timestamp": "2026-07-27 09:58:14",
+      "time_ms": 1785117494290,
+      "speaker": "marker",
+      "text": "--- Time: 09:58:14 ---"
+    }
+  ],
+  "source": {
+    "type": "elasticsearch",
+    "environment": "prod",
+    "fetched_at": "2026-07-27T12:03:57.998913+08:00"
+  }
+}

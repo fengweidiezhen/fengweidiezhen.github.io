@@ -1,0 +1,298 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-07-15",
+  "generated_at": "2026-07-27T10:52:18.456502+08:00",
+  "model": "qwen3.7-max-2026-06-08",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1110,
+    "char_count": 32834,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "研发晨会、产品测试与日常交流纪要",
+    "overview": "当日主要围绕晨会同步Bug修复与固件测试、安卓端数据上报问题排查、提示词与用户画像结构化方案讨论、客户报价沟通、样品柜采购及发货登记流程、AI算法分布调整方案、以及大量日常闲聊（健身、手机评测、CV/NLP技术科普、朋友情感话题等）展开。",
+    "events": [
+      {
+        "time": "08:58",
+        "what_happened": "召开晨会，同步昨日Bug修复进展、VP测试情况及界面脚本调整问题",
+        "outcome": "确认需继续测试验证，界面改动需同步更新脚本"
+      },
+      {
+        "time": "09:00",
+        "what_happened": "user要求团队记录Bug并关闭一月份遗留Bug，强调需在产道/代码平台留痕",
+        "outcome": "提出两项要求：补写Bug记录、关闭历史未关闭Bug"
+      },
+      {
+        "time": "09:52",
+        "what_happened": "讨论坏件换货出库流程，确认寄回坏件并登记",
+        "outcome": "安排出库换货，要求做好登记"
+      },
+      {
+        "time": "09:55",
+        "what_happened": "排查安卓手机夜间数据未实时上报、早上统一上传的问题",
+        "outcome": "确认数据未丢失但时间戳异常，需进一步排查安卓后台保活机制"
+      },
+      {
+        "time": "10:46",
+        "what_happened": "讨论提示词复用方案，涉及用户画像text/json文件存储与结构化注入",
+        "outcome": "决定新建用户画像表单，内容结构化后注入提示词"
+      },
+      {
+        "time": "12:57",
+        "what_happened": "user与李先生电话沟通产品报价，单价169美金，40台现货",
+        "outcome": "报价维持不变，将重新发送报价单，加微信后续沟通"
+      },
+      {
+        "time": "15:13",
+        "what_happened": "讨论科技园办公室注册地址与审计相关材料",
+        "outcome": "确认注册地址信息，需补充金额等审计所需内容"
+      },
+      {
+        "time": "15:25",
+        "what_happened": "讨论购买样品柜及发货登记流程",
+        "outcome": "同意购买样品柜，发货需经user处登记出库"
+      },
+      {
+        "time": "16:09",
+        "what_happened": "讨论用户记录分布调整方案，涉及前后端改动及大模型输出逻辑",
+        "outcome": "先画出中文用户记录分布图评估差异，再决定改动方案；大模型输出分数与softmax两种方式并行测试"
+      },
+      {
+        "time": "19:20",
+        "what_happened": "确认OPPO手机蓝牙断开后APP会被杀掉的机制",
+        "outcome": "明确OPPO与苹果类似，蓝牙断开即杀进程，需考虑安卓端兼容方案"
+      },
+      {
+        "time": "21:28",
+        "what_happened": "排查服务器连接失败问题（fail to connect my server）",
+        "outcome": "需进一步检查服务端连接状态"
+      },
+      {
+        "time": "21:32",
+        "what_happened": "讨论候选人简历：利用开源工具实现视频智能配音并部署服务端",
+        "outcome": "认为候选人具备场景发现与工具整合能力，架构难度不高但实用"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "Bug管理与记录规范",
+        "summary": "user强调七月以来Bug记录不足，要求团队在产道或代码平台留痕，关闭一月份遗留Bug",
+        "participants_mentioned": [
+          "user",
+          "肖红"
+        ],
+        "decisions_or_todos": [
+          "补写Bug记录",
+          "关闭一月份未关闭Bug",
+          "通过产道/代码平台追踪工作产出"
+        ]
+      },
+      {
+        "topic": "安卓端数据上报异常",
+        "summary": "安卓手机夜间数据不实时上报，早上统一上传；部分设备后台被杀导致数据断连",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "排查安卓后台保活与开屏动画判断逻辑",
+          "确认数据是否丢失及时间戳异常原因"
+        ]
+      },
+      {
+        "topic": "提示词与用户画像结构化",
+        "summary": "讨论将用户画像从text文件转为结构化表单，注入提示词实现复用",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "新建用户画像表单",
+          "将aggregate结果的key-value结构化注入",
+          "确认注入内容与更新机制"
+        ]
+      },
+      {
+        "topic": "用户记录分布调整",
+        "summary": "讨论将用户情绪/记录分布强制调整到预设分布，涉及前后端改动及大模型输出方式",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "先画出现有中文用户记录分布图",
+          "评估显著性差异后再改",
+          "大模型输出分数与softmax两种方式并行测试"
+        ]
+      },
+      {
+        "topic": "样品柜采购与发货登记",
+        "summary": "讨论购买样品柜存放货物，发货需经user登记出库",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "购买样品柜",
+          "发货必须经user处登记",
+          "考虑写流程说明方便新人入职了解"
+        ]
+      },
+      {
+        "topic": "CV与NLP技术科普",
+        "summary": "user向others解释CV（计算机视觉）与NLP（自然语言处理）的区别，卷积神经网络与token向量化的原理，以及大模型涌现智能的本质",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "招聘候选人评估",
+        "summary": "others分享通过小红书招到的候选人简历，科大/中大背景，香港工作，做过AI项目及端到端音频相关工作",
+        "participants_mentioned": [
+          "others",
+          "user"
+        ],
+        "decisions_or_todos": [
+          "评估候选人简历",
+          "user分析候选人项目为场景发现+工具整合能力"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主持晨会、排查Bug与数据上报问题、讨论技术方案（提示词结构化、分布调整）、与客户李先生电话报价、参与健身训练、向others科普CV/NLP技术",
+      "others_activity": "参与晨会汇报、排查固件与数据问题、讨论采购样品柜、分享招聘候选人简历、与user闲聊手机评测、健身训练、聊朋友情感话题",
+      "mentioned": [
+        {
+          "name_or_alias": "肖红",
+          "context": "user提到与肖红同步Bug情况，肖红主要负责P端",
+          "relation_guess": "同事/项目成员"
+        },
+        {
+          "name_or_alias": "李先生",
+          "context": "user与李先生电话沟通产品报价，单价169美金，40台现货",
+          "relation_guess": "客户"
+        },
+        {
+          "name_or_alias": "韩玉/韩艺",
+          "context": "others与user讨论朋友韩玉的感情问题，涉及原生家庭、经济独立等",
+          "relation_guess": "others的朋友"
+        },
+        {
+          "name_or_alias": "台/泰",
+          "context": "韩玉的伴侣，被讨论其经济能力与原生家庭问题",
+          "relation_guess": "韩玉的伴侣"
+        },
+        {
+          "name_or_alias": "郑医生",
+          "context": "推荐某品牌保健品，others提到按郑医生建议服用",
+          "relation_guess": "医生/健康顾问"
+        },
+        {
+          "name_or_alias": "杨东学/亮同学/李想同学",
+          "context": "智能眼镜语音助手唤醒词，others测试智能眼镜交互功能",
+          "relation_guess": "智能眼镜AI助手名称"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "新建用户画像结构化表单，替代原有text文件方式",
+        "购买样品柜并建立发货登记流程",
+        "先绘制中文用户记录分布图，评估后再调整分布方案",
+        "大模型输出分数与softmax两种方式并行测试",
+        "关闭一月份遗留Bug，规范Bug记录流程"
+      ],
+      "projects_or_business": [
+        "固件测试与Bug修复（VP测试、界面脚本调整）",
+        "安卓端数据上报与后台保活问题排查",
+        "提示词复用与用户画像结构化",
+        "用户情绪/记录分布调整算法",
+        "产品海外销售（169美金/台，40台现货）",
+        "AI视频智能配音项目（候选人简历相关）"
+      ],
+      "risks_or_blockers": [
+        "安卓手机蓝牙断开后APP被杀（OPPO等品牌），影响数据连续性",
+        "界面位置调整导致脚本需重新编写，增加测试成本",
+        "夜间数据不实时上报，可能存在后台被杀问题",
+        "服务器连接失败（fail to connect my server）需排查"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "payment",
+          "detail": "与客户李先生确认产品报价",
+          "amount_or_terms": "单价169美金，40台现货"
+        },
+        {
+          "category": "cost",
+          "detail": "购买样品柜用于货物存放",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "other",
+          "detail": "审计需要办公室注册地址及金额信息",
+          "amount_or_terms": "未提及具体金额"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "通过小红书招聘到候选人，科大/中大背景，香港工作，做过AI项目及端到端音频工作",
+          "category_full": "hiring"
+        },
+        {
+          "category": "team",
+          "detail": "user强调团队需在产道/代码平台留痕，方便追踪工作产出",
+          "category_full": "team"
+        }
+      ]
+    },
+    "open_questions": [
+      "安卓端夜间数据不实时上报的根本原因是什么？",
+      "用户画像结构化表单如何设计更新机制？",
+      "大模型输出分数与softmax哪种方式更优？",
+      "OPPO等安卓品牌蓝牙断开杀进程的问题如何解决？",
+      "服务器连接失败的具体原因？"
+    ],
+    "keywords": [
+      "Bug管理",
+      "固件测试",
+      "安卓保活",
+      "数据上报",
+      "提示词复用",
+      "用户画像",
+      "结构化",
+      "分布调整",
+      "softmax",
+      "样品柜",
+      "发货登记",
+      "报价",
+      "169美金",
+      "CV",
+      "NLP",
+      "大模型",
+      "招聘",
+      "蓝牙断开",
+      "OPPO",
+      "服务器连接"
+    ]
+  }
+}

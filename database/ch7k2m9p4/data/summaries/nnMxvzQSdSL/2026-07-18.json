@@ -1,0 +1,249 @@
+{
+  "user_id": "nnMxvzQSdSL",
+  "user_name": "amanda2",
+  "date": "2026-07-18",
+  "generated_at": "2026-07-27T11:30:31.265725+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda2",
+    "aliases": [
+      "amanda2",
+      "amanda2"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 4668,
+    "char_count": 80000,
+    "es_refreshed": true,
+    "truncated": true
+  },
+  "summary": {
+    "title": "上海WAIC展会出差及社交纪要",
+    "overview": "amanda2与同伴从深圳飞抵上海，参加世界人工智能大会（WAIC）并参观世博及西岸展区。期间讨论了行业竞品、展会策略、产品文案、团队人事及实习生安排，晚间与高中同学（张宇惠等）聚餐社交。",
+    "events": [
+      {
+        "time": "04:30",
+        "what_happened": "凌晨出发前往机场，办理登机及行李托运",
+        "outcome": "搭乘春秋航空航班飞往上海浦东"
+      },
+      {
+        "time": "09:00",
+        "what_happened": "抵达上海浦东机场，乘专车前往市区",
+        "outcome": "到达酒店附近，放行李后前往展馆"
+      },
+      {
+        "time": "11:30",
+        "what_happened": "到达世博展览馆WAIC主会场，参观H1/H2/H3等展区",
+        "outcome": "查看自家珑娜展位及竞品（minMax、百度等）展台"
+      },
+      {
+        "time": "12:00",
+        "what_happened": "午餐在展馆附近餐厅吃松鼠桂鱼等上海菜",
+        "outcome": "用餐后继续逛展"
+      },
+      {
+        "time": "16:00",
+        "what_happened": "离开主会场，乘地铁前往西岸梦中心",
+        "outcome": "抵达西岸区域，前往晚餐地点"
+      },
+      {
+        "time": "19:00",
+        "what_happened": "与高中同学张宇惠、陈南等聚餐",
+        "outcome": "社交叙旧，讨论育儿及近况"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "WAIC展会策略",
+        "summary": "认为国内大型展会人太多、性价比低，决定2027年转向海外小众展会（如法国展），只参加媒体日，控制预算",
+        "participants_mentioned": [
+          "amanda2",
+          "同伴"
+        ],
+        "decisions_or_todos": [
+          "2027年国际展选择小众展会",
+          "只参加媒体日，减少展位投入"
+        ]
+      },
+      {
+        "topic": "竞品分析",
+        "summary": "讨论minMax海外APP体验差、某竞品刷单嫌疑（回头客数据不合理）、Ull在广告上投入巨大",
+        "participants_mentioned": [
+          "amanda2",
+          "同伴"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "产品文案与PR",
+        "summary": "撰写公众号/视频文案，定位'端侧隐私AI智能随身终端'，讨论瑞评风格及理论包装",
+        "participants_mentioned": [
+          "amanda2",
+          "同伴"
+        ],
+        "decisions_or_todos": [
+          "完成公众号文案发布"
+        ]
+      },
+      {
+        "topic": "实习生与人事",
+        "summary": "新来港中文实习生；讨论面试安排（周三6个面试+二代设计）；提到前员工离职证明及社保问题",
+        "participants_mentioned": [
+          "amanda2",
+          "周星",
+          "何花"
+        ],
+        "decisions_or_todos": [
+          "周三安排面试",
+          "按最低标准处理社保问题"
+        ]
+      },
+      {
+        "topic": "办公室风水与选址",
+        "summary": "讨论深圳办公室买铁柜子/调风水，提及在北京或上海设办公室的可能性",
+        "participants_mentioned": [
+          "amanda2",
+          "同伴"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "晚宴社交",
+        "summary": "为张宇惠相亲对象组局，与高中同学聚餐，聊育儿、天气、近况",
+        "participants_mentioned": [
+          "amanda2",
+          "张宇惠",
+          "陈南",
+          "谢总"
+        ],
+        "decisions_or_todos": []
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参加WAIC展会、撰写产品文案、安排面试、与同学聚餐",
+      "others_activity": "同伴全程参与逛展、讨论竞品与策略、写文案P图；张宇惠等同学参加晚宴",
+      "mentioned": [
+        {
+          "name_or_alias": "同伴",
+          "context": "全程同行出差、逛展、聚餐",
+          "relation_guess": "同事/合伙人"
+        },
+        {
+          "name_or_alias": "周星",
+          "context": "处理实习生社保问题",
+          "relation_guess": "公司HR或行政"
+        },
+        {
+          "name_or_alias": "何花",
+          "context": "询问社保事宜",
+          "relation_guess": "员工或候选人"
+        },
+        {
+          "name_or_alias": "张宇惠",
+          "context": "高中同学，晚宴参与者",
+          "relation_guess": "朋友/同学"
+        },
+        {
+          "name_or_alias": "陈南",
+          "context": "高中同学，晚宴参与者",
+          "relation_guess": "朋友/同学"
+        },
+        {
+          "name_or_alias": "谢总",
+          "context": "晚宴中介绍认识",
+          "relation_guess": "业界人士/朋友"
+        },
+        {
+          "name_or_alias": "林远方",
+          "context": "询问行业聚会",
+          "relation_guess": "业界联系人"
+        },
+        {
+          "name_or_alias": "梁总",
+          "context": "明天要见的人",
+          "relation_guess": "潜在合作方/投资人"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "2027年参加海外小众展会（法国等），只参加媒体日",
+        "周三安排6个面试及二代设计会议",
+        "发布公众号/视频文案宣传产品",
+        "考虑在深圳找仓库做物料管理",
+        "与招商局保持沟通，考察上海办公室"
+      ],
+      "projects_or_business": [
+        "珑娜产品参展WAIC，获行业关注",
+        "讨论端侧隐私AI智能随身终端定位",
+        "评估竞品（minMax、Ull等）市场表现"
+      ],
+      "risks_or_blockers": [
+        "国内大型展会人多、性价比低",
+        "上海天气炎热、交通拥堵",
+        "部分竞品刷单或营销过度扰乱市场"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "budget",
+          "detail": "国际展预算估算：展位装修约1.5万、差旅人均3万，总计约15万",
+          "amount_or_terms": "约15万"
+        },
+        {
+          "category": "cost",
+          "detail": "春秋航空行李超重费20元/公斤",
+          "amount_or_terms": "20元/公斤"
+        },
+        {
+          "category": "payment",
+          "detail": "午餐消费1068元",
+          "amount_or_terms": "1068元"
+        },
+        {
+          "category": "cost",
+          "detail": "女极客赞助费讨论，对方报价1万-3万，决定不赞助",
+          "amount_or_terms": "1-3万"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "周三安排6个面试（含视频面及管培生）"
+        },
+        {
+          "category": "policy",
+          "detail": "前员工找开离职证明"
+        },
+        {
+          "category": "team",
+          "detail": "讨论线下 vs 视频面试，决定后续实习生需线下面试"
+        }
+      ]
+    },
+    "open_questions": [
+      "上海办公室选址是否推进",
+      "2027年海外展会具体选择哪个",
+      "公众号文案最终版本确认"
+    ],
+    "keywords": [
+      "WAIC",
+      "世界人工智能大会",
+      "珑娜",
+      "端侧隐私AI",
+      "展会策略",
+      "竞品分析",
+      "面试",
+      "实习生",
+      "社保",
+      "上海出差"
+    ]
+  }
+}

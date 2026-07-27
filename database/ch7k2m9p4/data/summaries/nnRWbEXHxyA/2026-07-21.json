@@ -1,0 +1,248 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-07-21",
+  "generated_at": "2026-07-27T11:01:07.077815+08:00",
+  "model": "qwen3.7-max-2026-06-08",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 2951,
+    "char_count": 80000,
+    "es_refreshed": true,
+    "truncated": true
+  },
+  "summary": {
+    "title": "Plaud NotePin上海用户交流会及后续行程",
+    "overview": "zhiyuan在上海主持Plaud NotePin（AI可穿戴设备）小型用户交流会，介绍产品理念、新功能及青春版规划，与飞利浦照明、律师、媒体及投资人等嘉宾互动。会后与同事前往机场，讨论产品定价、设计方向、市场策略及行政事务。",
+    "events": [
+      {
+        "time": "09:14",
+        "what_happened": "zhiyuan到达中央会议室准备活动场地",
+        "outcome": "确认场地并开始布置"
+      },
+      {
+        "time": "12:49",
+        "what_happened": "摄影师到达，拍摄会场空镜",
+        "outcome": "完成会场环境拍摄"
+      },
+      {
+        "time": "14:28",
+        "what_happened": "zhiyuan进行产品演讲，介绍Plaud NotePin理念与功能",
+        "outcome": "系统阐述了从记录到理解到共生的产品路线"
+      },
+      {
+        "time": "14:46",
+        "what_happened": "互动问答环节，涉及WA展会、传感器技术、青春版颜色与定价",
+        "outcome": "用户参与抢答，青春版定价约699-899元"
+      },
+      {
+        "time": "15:36",
+        "what_happened": "活动结束，自由交流与合影",
+        "outcome": "嘉宾与团队深入交流产品体验与合作意向"
+      },
+      {
+        "time": "18:40",
+        "what_happened": "zhiyuan与同事到达机场，办理快递寄送物料",
+        "outcome": "将活动物料打包寄回深圳"
+      },
+      {
+        "time": "20:08",
+        "what_happened": "在机场卫星厅用餐",
+        "outcome": "点蟹粉蛋面等餐食，花费约170元"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "Plaud NotePin产品定位与功能",
+        "summary": "zhiyuan介绍产品定位为随身外挂记忆库，强调端侧计算保护隐私、毫米波雷达测心率、无感记录、续航50小时以上。即将推出青春版（马卡龙色系，699-899元）及第二代产品。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "花花博士"
+        ],
+        "decisions_or_todos": [
+          "青春版8月底9月初上线",
+          "第二代产品明年一季度推出，体积缩小50%",
+          "开放APP生态供极客用户定制功能"
+        ]
+      },
+      {
+        "topic": "产品形态与首饰化设计方向",
+        "summary": "嘉宾建议将NotePin做成耳饰、发饰等更多佩戴形态，团队讨论科技属性与首饰属性的平衡，倾向于模块化设计让用户自定义外观。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "花花博士",
+          "高律"
+        ],
+        "decisions_or_todos": [
+          "二代考虑模块化配件（手环、耳饰等）",
+          "科技属性隐藏在后，装饰属性放在前面"
+        ]
+      },
+      {
+        "topic": "隐私与准确度的权衡",
+        "summary": "用户讨论AI可穿戴设备中隐私保护与数据准确度哪个更重要，多数认为两者同等重要，zhiyuan强调端侧计算不上云端的设计路线。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "现场用户"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "市场策略与品牌传播",
+        "summary": "讨论竞品抄袭问题，决定青春版不做预热直接上渠道；强调输出价值观而非单纯产品参数；计划通过故事线（如创始人初心）进行品牌传播。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "同事",
+          "媒体朋友"
+        ],
+        "decisions_or_todos": [
+          "青春版不预热直接上线防抄袭",
+          "加强公众号/小红书价值观内容输出",
+          "后续组织AI情绪专场活动"
+        ]
+      },
+      {
+        "topic": "睡眠与健康硬件生态",
+        "summary": "讨论睡眠监测与干预市场，涉及毫米波雷达床头灯、智能床垫、香氛系统等生态产品合作方向。",
+        "participants_mentioned": [
+          "zhiyuan",
+          "花花博士",
+          "郭总"
+        ],
+        "decisions_or_todos": [
+          "探索与智能床垫、香氛系统的生态联动"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "zhiyuan主持上海用户交流会，进行产品演讲与互动问答；会后与同事前往机场，讨论产品策略、行政事务及行程安排。",
+      "others_activity": "嘉宾参与产品体验与讨论；摄影师拍摄活动；同事协助场地布置、物料寄送及行程陪同。",
+      "mentioned": [
+        {
+          "name_or_alias": "花花博士",
+          "context": "飞利浦照明创新负责人，分享灯光与情绪联动demo",
+          "relation_guess": "合作伙伴"
+        },
+        {
+          "name_or_alias": "高律",
+          "context": "律师合伙人，参与交流活动",
+          "relation_guess": "嘉宾/朋友"
+        },
+        {
+          "name_or_alias": "曼娜/Al玛",
+          "context": "活动组织者，介绍嘉宾与流程",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "谢总",
+          "context": "被多次提及，参与深圳活动组织",
+          "relation_guess": "同事/合伙人"
+        },
+        {
+          "name_or_alias": "赵欣",
+          "context": "活动中获得奖品",
+          "relation_guess": "嘉宾"
+        },
+        {
+          "name_or_alias": "周心",
+          "context": "被提及清点海外版库存",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "郭总",
+          "context": "智能床垫供应商，合作酒店项目",
+          "relation_guess": "供应链合作伙伴"
+        },
+        {
+          "name_or_alias": "张宇惠/Kim",
+          "context": "同行同事，讨论人际关系与性格",
+          "relation_guess": "同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "青春版NotePin 8月底9月初上线，定价699-899元",
+        "第二代产品明年一季度推出，体积缩小50%，模块化设计",
+        "开放APP生态，支持极客用户定制功能",
+        "探索智能床垫、香氛、灯光等生态产品联动",
+        "后续组织AI情绪专场活动"
+      ],
+      "projects_or_business": [
+        "Plaud NotePin AI可穿戴设备",
+        "端侧隐私计算技术",
+        "毫米波雷达心率/呼吸监测",
+        "情绪识别与记忆球功能",
+        "会议纪要自动生成功能"
+      ],
+      "risks_or_blockers": [
+        "竞品抄袭产品理念与价值观",
+        "端侧计算精度与稳定性仍有优化空间",
+        "嘈杂环境下声纹匹配准确率下降",
+        "产品体积较大影响佩戴多样性",
+        "防水等级仅IP65，无法满足洗澡场景"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "cost",
+          "detail": "活动场地布置成本（鲜花、灯光等）",
+          "amount_or_terms": "约7000元，其中床/花艺5000元"
+        },
+        {
+          "category": "payment",
+          "detail": "机场卫星厅用餐",
+          "amount_or_terms": "约170元（蟹粉蛋面+饮料）"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "同事提及行政报销流程",
+          "amount_or_terms": "未明确金额，涉及离职人员文件交接"
+        },
+        {
+          "category": "budget",
+          "detail": "出差酒店标准讨论",
+          "amount_or_terms": "最高标准不超过全季，可接受周记等连锁"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "resignation",
+          "detail": "某行政人员已提离职，涉及文件交接与报销处理",
+          "context": "同事确认其自行离职，预计不会对公司造成负面影响"
+        }
+      ]
+    },
+    "open_questions": [
+      "青春版具体上线日期与渠道策略",
+      "第二代产品最终形态（耳饰/手环/发饰等）",
+      "如何平衡科技属性与首饰属性的品牌定位",
+      "端侧计算在嘈杂环境下的准确率优化方案"
+    ],
+    "keywords": [
+      "Plaud NotePin",
+      "青春版",
+      "端侧计算",
+      "隐私保护",
+      "毫米波雷达",
+      "情绪识别",
+      "模块化设计",
+      "WA展会",
+      "生态联动",
+      "价值观传播"
+    ]
+  }
+}
