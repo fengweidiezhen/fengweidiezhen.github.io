@@ -627,11 +627,23 @@
     }
   }
 
+  function renderListSection(title, lines) {
+    if (!lines || !lines.length) return "";
+    var html = '<div class="detail-section"><h5>' + esc(title) + "</h5><ul>";
+    lines.forEach(function (line) {
+      if (line && String(line).trim()) html += "<li>" + esc(String(line)) + "</li>";
+    });
+    html += "</ul></div>";
+    return html;
+  }
+
   function renderSummaryDetail(entry, doc) {
     var s = doc.summary || {};
     var html = '<div class="detail-header">';
     html += "<h4>" + esc(entry.user_name) + " · " + esc(entry.date) + "</h4>";
-    html += '<div class="detail-sub">日总结 · ' + esc(doc.model || "") + " · 可用 Ctrl+F 搜索</div></div>";
+    html += '<div class="detail-sub">日总结 · ' + esc(doc.model || "") +
+      (doc.prompt_version ? " · " + esc(doc.prompt_version) : "") +
+      " · 可用 Ctrl+F 搜索</div></div>";
 
     html += "<p><strong>" + esc(s.title || "日总结") + "</strong></p>";
     if (s.overview) html += "<p>" + esc(s.overview) + "</p>";
@@ -644,7 +656,7 @@
     if (s.events && s.events.length) {
       html += '<div class="detail-section"><h5>事件</h5>';
       s.events.forEach(function (ev) {
-        html += "<p><em>" + esc(ev.time) + "</em> " + esc(ev.what_happened);
+        html += "<p><em>" + esc(ev.time || "") + "</em> " + esc(ev.what_happened || "");
         if (ev.outcome) html += " → " + esc(ev.outcome);
         html += "</p>";
       });
@@ -654,9 +666,99 @@
     if (s.discussions && s.discussions.length) {
       html += '<div class="detail-section"><h5>讨论</h5>';
       s.discussions.forEach(function (d) {
-        html += "<p><strong>" + esc(d.topic) + ":</strong> " + esc(d.summary) + "</p>";
+        html += "<p><strong>" + esc(d.topic || "") + ":</strong> " + esc(d.summary || "") + "</p>";
+        if (d.participants_mentioned && d.participants_mentioned.length) {
+          html += '<p style="opacity:0.8;font-size:0.9rem;margin:0.25rem 0;">参与人：' +
+            d.participants_mentioned.map(function (p) { return esc(p); }).join("、") + "</p>";
+        }
+        if (d.decisions_or_todos && d.decisions_or_todos.length) {
+          html += "<ul>";
+          d.decisions_or_todos.forEach(function (t) {
+            html += "<li>" + esc(t) + "</li>";
+          });
+          html += "</ul>";
+        }
       });
       html += "</div>";
+    }
+
+    var people = s.people || {};
+    if (people.subject_user_activity || people.others_activity ||
+        (people.mentioned && people.mentioned.length)) {
+      html += '<div class="detail-section"><h5>人物</h5>';
+      if (people.subject_user_activity) {
+        html += "<p><strong>主体活动：</strong>" + esc(people.subject_user_activity) + "</p>";
+      }
+      if (people.others_activity) {
+        html += "<p><strong>他人活动：</strong>" + esc(people.others_activity) + "</p>";
+      }
+      if (people.mentioned && people.mentioned.length) {
+        html += "<ul>";
+        people.mentioned.forEach(function (p) {
+          if (typeof p === "string") {
+            html += "<li>" + esc(p) + "</li>";
+            return;
+          }
+          html += "<li><strong>" + esc(p.name_or_alias || "") + "</strong>";
+          if (p.relation_guess) html += "（" + esc(p.relation_guess) + "）";
+          if (p.context) html += "：" + esc(p.context);
+          html += "</li>";
+        });
+        html += "</ul>";
+      }
+      html += "</div>";
+    }
+
+    var company = s.company || {};
+    html += renderListSection("计划与安排", company.plans_and_arrangements);
+    html += renderListSection("项目 / 业务", company.projects_or_business);
+    html += renderListSection("风险 / 阻塞", company.risks_or_blockers);
+
+    var finance = s.finance || {};
+    if (finance.mentioned || (finance.items && finance.items.length)) {
+      html += '<div class="detail-section"><h5>财务</h5>';
+      if (finance.items && finance.items.length) {
+        html += "<ul>";
+        finance.items.forEach(function (fin) {
+          if (typeof fin === "string") {
+            html += "<li>" + esc(fin) + "</li>";
+            return;
+          }
+          var parts = [fin.category, fin.detail, fin.amount_or_terms].filter(Boolean);
+          html += "<li>" + esc(parts.join(" · ")) + "</li>";
+        });
+        html += "</ul>";
+      } else {
+        html += "<p>有提及</p>";
+      }
+      html += "</div>";
+    }
+
+    var personnel = s.personnel || {};
+    if (personnel.mentioned || (personnel.items && personnel.items.length)) {
+      html += '<div class="detail-section"><h5>人事</h5>';
+      if (personnel.items && personnel.items.length) {
+        html += "<ul>";
+        personnel.items.forEach(function (per) {
+          if (typeof per === "string") {
+            html += "<li>" + esc(per) + "</li>";
+            return;
+          }
+          var parts = [per.category, per.detail].filter(Boolean);
+          html += "<li>" + esc(parts.join(" · ")) + "</li>";
+        });
+        html += "</ul>";
+      } else {
+        html += "<p>有提及</p>";
+      }
+      html += "</div>";
+    }
+
+    html += renderListSection("待确认事项", s.open_questions);
+
+    if (s.raw_markdown) {
+      html += '<div class="detail-section"><h5>原始输出</h5><pre style="white-space:pre-wrap;font:inherit;">' +
+        esc(s.raw_markdown) + "</pre></div>";
     }
 
     html += '<p style="opacity:0.65;font-size:0.85rem;margin-top:1rem;">' +

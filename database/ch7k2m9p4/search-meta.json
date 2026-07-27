@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "built_at": "2026-07-27T12:18:53+08:00",
+  "built_at": "2026-07-27T13:42:38+08:00",
   "stats": {
-    "entries": 145642,
+    "entries": 146608,
     "records": 140830,
-    "summaries": 4812,
+    "summaries": 5778,
     "users": 7,
     "dates": 60
   },
@@ -74,9 +74,9 @@
     {
       "user_id": "nn2j4CVpKE5",
       "user_name": "苑老师",
-      "entries": 22578,
+      "entries": 22737,
       "records": 21791,
-      "summaries": 787,
+      "summaries": 946,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -111,9 +111,9 @@
     {
       "user_id": "nn7adZsejpr",
       "user_name": "stella",
-      "entries": 4,
+      "entries": 6,
       "records": 2,
-      "summaries": 2,
+      "summaries": 4,
       "dates": [
         "2026-07-09"
       ]
@@ -121,9 +121,9 @@
     {
       "user_id": "nnMxvzQSdSL",
       "user_name": "amanda2",
-      "entries": 23175,
+      "entries": 23337,
       "records": 22427,
-      "summaries": 748,
+      "summaries": 910,
       "dates": [
         "2026-05-25",
         "2026-05-26",
@@ -151,9 +151,9 @@
     {
       "user_id": "nnRWbEXHxyA",
       "user_name": "zhiyuan",
-      "entries": 75873,
+      "entries": 76311,
       "records": 73703,
-      "summaries": 2170,
+      "summaries": 2608,
       "dates": [
         "2026-05-25",
         "2026-05-26",
@@ -216,9 +216,9 @@
     {
       "user_id": "nnZSJGE7Jnk",
       "user_name": "财务",
-      "entries": 20885,
+      "entries": 21042,
       "records": 20007,
-      "summaries": 878,
+      "summaries": 1035,
       "dates": [
         "2026-06-05",
         "2026-06-06",
@@ -262,9 +262,9 @@
     {
       "user_id": "nnqELYDZDwQ",
       "user_name": "Teacher",
-      "entries": 2395,
+      "entries": 2418,
       "records": 2309,
-      "summaries": 86,
+      "summaries": 109,
       "dates": [
         "2026-06-28",
         "2026-06-29",
@@ -275,9 +275,9 @@
     {
       "user_id": "nnvDuS4FnNa",
       "user_name": "cc",
-      "entries": 732,
+      "entries": 757,
       "records": 591,
-      "summaries": 141,
+      "summaries": 166,
       "dates": [
         "2026-07-14",
         "2026-07-16",

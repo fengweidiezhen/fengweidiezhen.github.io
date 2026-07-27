@@ -7847,6 +7847,39 @@
       "user_name": "cc",
       "date": "2026-07-14",
       "path": "data/summaries/nnvDuS4FnNa/2026-07-14.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-14:people:subject_user_activity",
+      "type": "summary",
+      "category": "subject_user_activity",
+      "text": "未明确记录cc本人发言内容",
+      "snippet": "未明确记录cc本人发言内容"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-14",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-14.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-14:people:others_activity",
+      "type": "summary",
+      "category": "others_activity",
+      "text": "参与压测、自动化流程讨论，点外卖，提及公司缺水",
+      "snippet": "参与压测、自动化流程讨论，点外卖，提及公司缺水"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-14",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-14.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-14:people:mentioned:0",
+      "type": "summary",
+      "category": "people",
+      "text": "others 同事 参与技术讨论与日常办公交流",
+      "snippet": "others 同事 参与技术讨论与日常办公交流"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-14",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-14.json",
       "id": "sum:nnvDuS4FnNa:2026-07-14:company:plans_and_arrangements:0",
       "type": "summary",
       "category": "plans_and_arrangements",
@@ -8053,6 +8086,39 @@
       "category": "discussion",
       "text": "情绪功能测试 测试情绪识别功能，发现存在卡顿问题。 others 优化情绪识别算法; 解决卡顿问题",
       "snippet": "情绪功能测试 测试情绪识别功能，发现存在卡顿问题。 others 优化情绪识别算法; 解决卡顿问题"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-16",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-16.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-16:people:subject_user_activity",
+      "type": "summary",
+      "category": "subject_user_activity",
+      "text": "参与佩戴检测逻辑优化、心率监测评估及生产环境数据下载讨论",
+      "snippet": "参与佩戴检测逻辑优化、心率监测评估及生产环境数据下载讨论"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-16",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-16.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-16:people:others_activity",
+      "type": "summary",
+      "category": "others_activity",
+      "text": "参与技术讨论，协助测试情绪功能模块",
+      "snippet": "参与技术讨论，协助测试情绪功能模块"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-16",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-16.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-16:people:mentioned:0",
+      "type": "summary",
+      "category": "people",
+      "text": "马强 技术团队成员 负责调整佩戴检测时间窗口参数",
+      "snippet": "马强 技术团队成员 负责调整佩戴检测时间窗口参数"
     },
     {
       "user_id": "nnvDuS4FnNa",
@@ -8302,6 +8368,39 @@
     {
       "user_id": "nnvDuS4FnNa",
       "user_name": "cc",
+      "date": "2026-07-17",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-17.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-17:people:subject_user_activity",
+      "type": "summary",
+      "category": "subject_user_activity",
+      "text": "参与感冒用药的简短交流，提到阿奇霉素等药物。",
+      "snippet": "参与感冒用药的简短交流，提到阿奇霉素等药物。"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-17",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-17.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-17:people:others_activity",
+      "type": "summary",
+      "category": "others_activity",
+      "text": "讨论时间安排偏差；提及流感、新冠及家人感冒发烧情况。",
+      "snippet": "讨论时间安排偏差；提及流感、新冠及家人感冒发烧情况。"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-17",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-17.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-17:people:mentioned:0",
+      "type": "summary",
+      "category": "people",
+      "text": "cc 主体用户 参与感冒用药讨论",
+      "snippet": "cc 主体用户 参与感冒用药讨论"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
       "date": "2026-07-21",
       "path": "data/summaries/nnvDuS4FnNa/2026-07-21.json",
       "id": "sum:nnvDuS4FnNa:2026-07-21:title",
@@ -8520,6 +8619,50 @@
       "user_name": "cc",
       "date": "2026-07-21",
       "path": "data/summaries/nnvDuS4FnNa/2026-07-21.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-21:people:subject_user_activity",
+      "type": "summary",
+      "category": "subject_user_activity",
+      "text": "cc 参与了外出买咖啡，吐槽公司管理混乱，表示不想干研发，担忧公司前景。",
+      "snippet": "cc 参与了外出买咖啡，吐槽公司管理混乱，表示不想干研发，担忧公司前景。"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-21",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-21.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-21:people:others_activity",
+      "type": "summary",
+      "category": "others_activity",
+      "text": "同事抱怨领导不懂技术，分享了自己曾被优化的经历，表示面试困难。",
+      "snippet": "同事抱怨领导不懂技术，分享了自己曾被优化的经历，表示面试困难。"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-21",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-21.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-21:people:mentioned:0",
+      "type": "summary",
+      "category": "people",
+      "text": "K 领导或同事 同事提到‘更K’，可能是指领导或某位同事。",
+      "snippet": "K 领导或同事 同事提到‘更K’，可能是指领导或某位同事。"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-21",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-21.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-21:people:mentioned:1",
+      "type": "summary",
+      "category": "people",
+      "text": "吴瑞 公司员工 同事提到‘好像有一个什么吴瑞’，可能是公司某位员工。",
+      "snippet": "吴瑞 公司员工 同事提到‘好像有一个什么吴瑞’，可能是公司某位员工。"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-21",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-21.json",
       "id": "sum:nnvDuS4FnNa:2026-07-21:company:plans_and_arrangements:0",
       "type": "summary",
       "category": "plans_and_arrangements",
@@ -8575,7 +8718,7 @@
       "user_name": "cc",
       "date": "2026-07-21",
       "path": "data/summaries/nnvDuS4FnNa/2026-07-21.json",
-      "id": "sum:nnvDuS4FnNa:2026-07-21:per:3872",
+      "id": "sum:nnvDuS4FnNa:2026-07-21:per:4669",
       "type": "summary",
       "category": "personnel",
       "text": "performance 公司缺乏绩效考核，员工‘什么都没干’也未被指责。",
@@ -8586,7 +8729,7 @@
       "user_name": "cc",
       "date": "2026-07-21",
       "path": "data/summaries/nnvDuS4FnNa/2026-07-21.json",
-      "id": "sum:nnvDuS4FnNa:2026-07-21:per:3873",
+      "id": "sum:nnvDuS4FnNa:2026-07-21:per:4670",
       "type": "summary",
       "category": "personnel",
       "text": "resignation cc 表示不想干研发，同事曾经历过被优化。",
@@ -8635,6 +8778,28 @@
       "category": "overview",
       "text": "当日转写内容较为零散，主要为他人（others）的简短语音片段，未涉及明确的工作讨论、决策或具体事件。主体用户（cc）在转写中未出现发言记录。",
       "snippet": "当日转写内容较为零散，主要为他人（others）的简短语音片段，未涉及明确的工作讨论、决策或具体事件。主体用户（cc）在转写中未出现发言记录。"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-22",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-22.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-22:people:subject_user_activity",
+      "type": "summary",
+      "category": "subject_user_activity",
+      "text": "未提及",
+      "snippet": "未提及"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-22",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-22.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-22:people:others_activity",
+      "type": "summary",
+      "category": "others_activity",
+      "text": "有零散语音片段，内容不连贯，未形成明确对话或讨论。",
+      "snippet": "有零散语音片段，内容不连贯，未形成明确对话或讨论。"
     },
     {
       "user_id": "nnvDuS4FnNa",
@@ -8816,6 +8981,50 @@
       "category": "discussion",
       "text": "固件升级与版本问题 用户发现设备可能为旧版本，决定直接升级更新。 cc 升级设备固件",
       "snippet": "固件升级与版本问题 用户发现设备可能为旧版本，决定直接升级更新。 cc 升级设备固件"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-23",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-23.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-23:people:subject_user_activity",
+      "type": "summary",
+      "category": "subject_user_activity",
+      "text": "测试设备佩戴检测逻辑，发现数值变化异常及弹窗不消失问题，决定升级固件。",
+      "snippet": "测试设备佩戴检测逻辑，发现数值变化异常及弹窗不消失问题，决定升级固件。"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-23",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-23.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-23:people:others_activity",
+      "type": "summary",
+      "category": "others_activity",
+      "text": "参与佩戴检测逻辑讨论，确认延时机制，提出数据错误问题并建议排查国外库数据。",
+      "snippet": "参与佩戴检测逻辑讨论，确认延时机制，提出数据错误问题并建议排查国外库数据。"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-23",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-23.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-23:people:mentioned:0",
+      "type": "summary",
+      "category": "people",
+      "text": "cc 设备测试人员 测试佩戴检测、发现弹窗不消失问题",
+      "snippet": "cc 设备测试人员 测试佩戴检测、发现弹窗不消失问题"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-23",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-23.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-23:people:mentioned:1",
+      "type": "summary",
+      "category": "people",
+      "text": "others 开发或测试同事 参与佩戴检测讨论、提出数据错误问题",
+      "snippet": "others 开发或测试同事 参与佩戴检测讨论、提出数据错误问题"
     },
     {
       "user_id": "nnvDuS4FnNa",
@@ -9057,6 +9266,39 @@
       "user_name": "cc",
       "date": "2026-07-24",
       "path": "data/summaries/nnvDuS4FnNa/2026-07-24.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-24:people:subject_user_activity",
+      "type": "summary",
+      "category": "subject_user_activity",
+      "text": "参与设备佩戴检测算法测试，分析弹窗延迟原因，验证检测逻辑",
+      "snippet": "参与设备佩戴检测算法测试，分析弹窗延迟原因，验证检测逻辑"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-24",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-24.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-24:people:others_activity",
+      "type": "summary",
+      "category": "others_activity",
+      "text": "协助测试设备，讨论算法阈值调整，确认检测效果",
+      "snippet": "协助测试设备，讨论算法阈值调整，确认检测效果"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-24",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-24.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-24:people:mentioned:0",
+      "type": "summary",
+      "category": "people",
+      "text": "cc 设备研发或测试人员 参与算法调试与测试",
+      "snippet": "cc 设备研发或测试人员 参与算法调试与测试"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-24",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-24.json",
       "id": "sum:nnvDuS4FnNa:2026-07-24:company:plans_and_arrangements:0",
       "type": "summary",
       "category": "plans_and_arrangements",
@@ -9219,6 +9461,39 @@
       "category": "discussion",
       "text": "样品测试参数调整 讨论样品测试中连续测试次数和时间间隔的调整方案，避免风险并确保测试效果。 cc, others 先修改参数并测试; 将测试次数改为连续两次或三次; 去掉一分钟的时间间隔限制",
       "snippet": "样品测试参数调整 讨论样品测试中连续测试次数和时间间隔的调整方案，避免风险并确保测试效果。 cc, others 先修改参数并测试; 将测试次数改为连续两次或三次; 去掉一分钟的时间间隔限制"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-27",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-27.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-27:people:subject_user_activity",
+      "type": "summary",
+      "category": "subject_user_activity",
+      "text": "参与样品测试参数调整讨论，提出修改方案并确认测试细节",
+      "snippet": "参与样品测试参数调整讨论，提出修改方案并确认测试细节"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-27",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-27.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-27:people:others_activity",
+      "type": "summary",
+      "category": "others_activity",
+      "text": "提出样品测试中的问题并参与讨论",
+      "snippet": "提出样品测试中的问题并参与讨论"
+    },
+    {
+      "user_id": "nnvDuS4FnNa",
+      "user_name": "cc",
+      "date": "2026-07-27",
+      "path": "data/summaries/nnvDuS4FnNa/2026-07-27.json",
+      "id": "sum:nnvDuS4FnNa:2026-07-27:people:mentioned:0",
+      "type": "summary",
+      "category": "people",
+      "text": "cc 主体用户 参与样品测试参数调整讨论",
+      "snippet": "cc 主体用户 参与样品测试参数调整讨论"
     },
     {
       "user_id": "nnvDuS4FnNa",

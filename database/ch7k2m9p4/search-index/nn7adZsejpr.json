@@ -48,6 +48,28 @@
       "category": "overview",
       "text": "当日转写内容极少，仅包含他人简短的在线状态相关话语，无实质性业务讨论或决策。",
       "snippet": "当日转写内容极少，仅包含他人简短的在线状态相关话语，无实质性业务讨论或决策。"
+    },
+    {
+      "user_id": "nn7adZsejpr",
+      "user_name": "stella",
+      "date": "2026-07-09",
+      "path": "data/summaries/nn7adZsejpr/2026-07-09.json",
+      "id": "sum:nn7adZsejpr:2026-07-09:people:subject_user_activity",
+      "type": "summary",
+      "category": "subject_user_activity",
+      "text": "未提及",
+      "snippet": "未提及"
+    },
+    {
+      "user_id": "nn7adZsejpr",
+      "user_name": "stella",
+      "date": "2026-07-09",
+      "path": "data/summaries/nn7adZsejpr/2026-07-09.json",
+      "id": "sum:nn7adZsejpr:2026-07-09:people:others_activity",
+      "type": "summary",
+      "category": "others_activity",
+      "text": "提及在线状态，内容不完整",
+      "snippet": "提及在线状态，内容不完整"
     }
   ]
 }

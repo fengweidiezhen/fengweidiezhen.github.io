@@ -198,6 +198,45 @@ def index_summaries(summaries_dir: Path, root: Path, users: dict[str, dict]) -> 
                     }
                 )
 
+            people = summary.get("people") or {}
+            for key in ("subject_user_activity", "others_activity"):
+                text = (people.get(key) or "").strip()
+                if not text:
+                    continue
+                entries.append(
+                    {
+                        **base,
+                        "id": f"sum:{user_id}:{date}:people:{key}",
+                        "type": "summary",
+                        "category": key,
+                        "text": text,
+                        "snippet": text[:240],
+                    }
+                )
+            for mi, person in enumerate(people.get("mentioned") or []):
+                if isinstance(person, str):
+                    text = person.strip()
+                elif isinstance(person, dict):
+                    text = _join_parts(
+                        person.get("name_or_alias", ""),
+                        person.get("relation_guess", ""),
+                        person.get("context", ""),
+                    )
+                else:
+                    continue
+                if not text:
+                    continue
+                entries.append(
+                    {
+                        **base,
+                        "id": f"sum:{user_id}:{date}:people:mentioned:{mi}",
+                        "type": "summary",
+                        "category": "people",
+                        "text": text,
+                        "snippet": text[:240],
+                    }
+                )
+
             for section, key in (
                 ("company", "plans_and_arrangements"),
                 ("company", "projects_or_business"),
