@@ -1,0 +1,44 @@
+{
+  "format_version": "1",
+  "user_id": "nn6WYcKyPnN",
+  "date": "2026-07-14",
+  "saved_at": "2026-07-27T18:29:57.756280+08:00",
+  "item_count": 5,
+  "items": [
+    {
+      "timestamp": "2026-07-14 20:57:07",
+      "time_ms": 1784033827320,
+      "speaker": "others",
+      "text": "我分，"
+    },
+    {
+      "timestamp": "2026-07-14 20:57:07",
+      "time_ms": 1784033827320,
+      "speaker": "others",
+      "text": "这样你反他有电带下，"
+    },
+    {
+      "timestamp": "2026-07-14 20:57:07",
+      "time_ms": 1784033827320,
+      "speaker": "others",
+      "text": "你确定你确认他去百分一百可以，"
+    },
+    {
+      "timestamp": "2026-07-14 20:57:07",
+      "time_ms": 1784033827320,
+      "speaker": "others",
+      "text": "你刚开始充着就百分之百。"
+    },
+    {
+      "timestamp": "2026-07-14 20:57:07",
+      "time_ms": 1784033827320,
+      "speaker": "marker",
+      "text": "--- Time: 20:57:07 ---"
+    }
+  ],
+  "source": {
+    "type": "elasticsearch",
+    "environment": "baidu_release",
+    "fetched_at": "2026-07-27T18:29:57.756280+08:00"
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "user_id": "nn6WYcKyPnN",
+  "user_name": "amanda4",
+  "date": "2026-06-30",
+  "generated_at": "2026-07-27T18:21:24.526859+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda4",
+    "aliases": [
+      "amanda4",
+      "amanda4"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 2115,
+    "char_count": 64948,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "AI情绪吊坠产品讨论与日常事务",
+    "overview": "当日主要围绕AI情绪吊坠产品（珑娜/OC100）的国内外市场策略、产品定义调整、竞品分析、隐私保护、商业模式等展开深入讨论。同时涉及财务数据核对、天猫店铺注册、产品发布会筹备、团队管理及日常琐事。",
+    "events": [
+      {
+        "time": "09:08",
+        "what_happened": "驾车途中，导航播报路线",
+        "outcome": "正常行驶"
+      },
+      {
+        "time": "10:06",
+        "what_happened": "讨论体重变化，user提到上次称重重了四斤",
+        "outcome": "others表示晚上不吃饭"
+      },
+      {
+        "time": "10:08",
+        "what_happened": "与吴总、谢总通话，讨论OC100发布会及国内外市场情况",
+        "outcome": "确认国内京东首发，美国独立站+渠道推广"
+      },
+      {
+        "time": "14:00",
+        "what_happened": "接受媒体采访，介绍珑娜产品诞生背景、情绪感知功能、吊坠形态设计原因",
+        "outcome": "完成采访录制"
+      },
+      {
+        "time": "15:26",
+        "what_happened": "前往银行办理业务，更换手机号",
+        "outcome": "完成手机号变更"
+      },
+      {
+        "time": "16:25",
+        "what_happened": "讨论产品UI设计，情绪球颜色与动效优化",
+        "outcome": "决定增加情绪文字标识，优化动效表现"
+      },
+      {
+        "time": "20:05",
+        "what_happened": "注册天猫店铺，使用公司手机号",
+        "outcome": "完成天猫注册"
+      },
+      {
+        "time": "20:08",
+        "what_happened": "讨论排期至九月份，准备做预算",
+        "outcome": "安排周姐梳理节点"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "国内外市场差异",
+        "summary": "国内市场增速快但获客竞争激烈，产品文案和品牌定位被抄袭；美国用户更偏意识流，国内用户更务实，偏好会议记录等实用功能",
+        "participants_mentioned": [
+          "user",
+          "others",
+          "吴总"
+        ],
+        "decisions_or_todos": [
+          "国内产品定义做调整，增加实用功能"
+        ]
+      },
+      {
+        "topic": "产品定义调整",
+        "summary": "从最初面向心理焦虑人群扩大到泛消费人群，不做严肃医疗工具，强调帮助用户了解自己",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "国内上线时间较慢，所有内容从头梳理"
+        ]
+      },
+      {
+        "topic": "隐私保护策略",
+        "summary": "端侧AI处理，不上传原始音频到云端，不用于大模型训练，确保数据主权在用户",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "保持端侧处理方案"
+        ]
+      },
+      {
+        "topic": "商业模式",
+        "summary": "国内订阅习惯不如美国，竞品多不收订阅费；收入来自硬件销售，未来考虑增值服务",
+        "participants_mentioned": [
+          "user",
+          "others",
+          "吴总"
+        ],
+        "decisions_or_todos": [
+          "暂不推订阅，以硬件销售为主"
+        ]
+      },
+      {
+        "topic": "竞品分析",
+        "summary": "讨论Oura戒指、Friend、Luna等竞品，Oura市场教育好但续航和舒适度有争议；视觉多模态产品识别准确率低",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "暂不加摄像头，等待技术成熟"
+        ]
+      },
+      {
+        "topic": "生态合作",
+        "summary": "七月份举办黑客松，开放部分算法给极客开发者；与智能家居品牌洽谈联名合作",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "七月举办黑客松",
+          "推进品牌联名"
+        ]
+      },
+      {
+        "topic": "财务数据核对",
+        "summary": "发现管理费用和营业收入数据异常，需与财务沟通调整",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "核对管理费用和营业收入数据",
+          "统一口径"
+        ]
+      },
+      {
+        "topic": "团队管理",
+        "summary": "讨论工程落地速度慢，考虑换人；提到HR招聘和期权激励",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "让艾well处理人员问题",
+          "HR招不到人则让周星兼理"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与产品讨论、接受采访、核对财务数据、注册天猫、讨论UI设计",
+      "others_activity": "与user讨论产品策略、接受采访、处理日常事务",
+      "mentioned": [
+        {
+          "name_or_alias": "吴总",
+          "context": "投资人/行业前辈，来访交流AI智能硬件赛道",
+          "relation_guess": "投资人或行业顾问"
+        },
+        {
+          "name_or_alias": "谢总",
+          "context": "与user一起接受采访，讨论产品技术",
+          "relation_guess": "联合创始人或技术负责人"
+        },
+        {
+          "name_or_alias": "潘潘",
+          "context": "采访者，媒体记者",
+          "relation_guess": "媒体记者"
+        },
+        {
+          "name_or_alias": "周姐",
+          "context": "负责梳理项目节点和排期",
+          "relation_guess": "项目经理或运营负责人"
+        },
+        {
+          "name_or_alias": "周星",
+          "context": "团队成员，可能兼管HR",
+          "relation_guess": "团队成员"
+        },
+        {
+          "name_or_alias": "艾well",
+          "context": "被指派处理人员问题",
+          "relation_guess": "管理层或HR"
+        },
+        {
+          "name_or_alias": "翰娜",
+          "context": "OC100活动运营，帮助做各种包装",
+          "relation_guess": "活动运营合作方"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "七月二十一日上海发布会",
+        "七月份举办黑客松，开放部分算法",
+        "九月份第二代产品发布",
+        "陆续入驻各电商平台",
+        "推进品牌联名合作"
+      ],
+      "projects_or_business": [
+        "珑娜/OC100 AI情绪吊坠",
+        "国内京东首发，美国独立站+渠道",
+        "第二代产品开发中",
+        "天猫店铺注册完成"
+      ],
+      "risks_or_blockers": [
+        "国内市场竞争激烈，产品文案和品牌定位被抄袭",
+        "工程落地速度慢",
+        "订阅模式在国内接受度低",
+        "视觉多模态技术准确率不足"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "cost",
+          "detail": "管理费用数据异常，需核对调整",
+          "amount_or_terms": "合计六十七万，其中六十万四千四百九十六"
+        },
+        {
+          "category": "other",
+          "detail": "营业收入数据需确认来源",
+          "amount_or_terms": "六十多万"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "讨论报销事宜",
+          "amount_or_terms": "估计二三十万"
+        },
+        {
+          "category": "budget",
+          "detail": "排期到九月份后做预算",
+          "amount_or_terms": "待确定"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "team",
+          "detail": "团队约二十人，不打算快速扩张",
+          "context": "希望专注产品打磨"
+        },
+        {
+          "category": "role_change",
+          "detail": "考虑让周星兼管HR",
+          "context": "招不到合适HR"
+        },
+        {
+          "category": "performance",
+          "detail": "工程落地速度慢，考虑换人",
+          "context": "部分人员帮倒忙"
+        },
+        {
+          "category": "other",
+          "detail": "期权激励讨论",
+          "context": "让员工知道期权会变化，新一轮融资在即"
+        }
+      ]
+    },
+    "open_questions": [
+      "管理费用和营业收入数据异常原因待确认",
+      "第二代产品具体形态待定",
+      "黑客松算法开放范围待确定"
+    ],
+    "keywords": [
+      "AI情绪吊坠",
+      "珑娜",
+      "OC100",
+      "端侧AI",
+      "隐私保护",
+      "订阅模式",
+      "黑客松",
+      "发布会",
+      "竞品分析",
+      "产品定义"
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "user_id": "nn6WYcKyPnN",
+  "user_name": "amanda4",
+  "date": "2026-06-19",
+  "generated_at": "2026-07-27T18:07:00.205682+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda4",
+    "aliases": [
+      "amanda4",
+      "amanda4"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 2798,
+    "char_count": 80000,
+    "es_refreshed": true,
+    "truncated": true
+  },
+  "summary": {
+    "title": "卢娜AI智能吊坠新品发布会筹备与现场布置",
+    "overview": "团队围绕卢娜AI智能吊坠新品发布会进行全流程彩排与现场布置，包括主持人串词打磨、嘉宾互动设计、物料搬运与陈列、刷单运营策略讨论，以及VIP接待安排等。",
+    "events": [
+      {
+        "time": "23:59",
+        "what_happened": "讨论微信公众号登录与认证问题，涉及绑定手机号及企业认证流程",
+        "outcome": "需补充营业执照等信息完成认证"
+      },
+      {
+        "time": "10:59",
+        "what_happened": "主持人串词逐段打磨，包括开场欢迎词、嘉宾介绍、用户分享环节过渡语",
+        "outcome": "确定年轻化对话式风格，增加引导鼓掌等互动设计"
+      },
+      {
+        "time": "11:02",
+        "what_happened": "讨论001号用户Knight及湖北钱先生的背景故事与介绍措辞",
+        "outcome": "调整用户标签描述，避免过度定义，补充来自北京等信息"
+      },
+      {
+        "time": "11:24",
+        "what_happened": "确认Q&A环节预埋问题及托儿安排，讨论线上直播是否存在",
+        "outcome": "决定安排家属做托提问，准备5-6个预埋问题"
+      },
+      {
+        "time": "15:02",
+        "what_happened": "搬运发布会物料至印力中心1号店，包括花牌、手机支架、托盘等",
+        "outcome": "物料分批运送，部分花材未到需后续确认"
+      },
+      {
+        "time": "15:14",
+        "what_happened": "讨论刷单策略，计划先刷10单，发布会当天破百",
+        "outcome": "安排备用金打款，通过亲友及员工执行刷单"
+      },
+      {
+        "time": "21:00",
+        "what_happened": "现场布置收尾，确认茶歇区、产品体验区、签到区布局",
+        "outcome": "基本完成软装，次日补充托盘及价格牌"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "主持人串词与流程设计",
+        "summary": "逐段打磨开场、嘉宾介绍、用户分享、Q&A及收尾环节，强调年轻化语气，避免官方腔调",
+        "participants_mentioned": [
+          "尼可",
+          "谢之渊",
+          "amanda4"
+        ],
+        "decisions_or_todos": [
+          "主持人自行调整口语化表达",
+          "准备5-6个预埋问题",
+          "安排家属做托提问"
+        ]
+      },
+      {
+        "topic": "用户证言环节设计",
+        "summary": "讨论001号用户Knight（北京，常年爬山）和钱先生（湖北专程赶来）的分享内容与过渡语",
+        "participants_mentioned": [
+          "Knight",
+          "钱先生",
+          "amanda4"
+        ],
+        "decisions_or_todos": [
+          "避免过度定义用户标签",
+          "补充用户来源地信息",
+          "控制每人分享5-6分钟"
+        ]
+      },
+      {
+        "topic": "刷单运营策略",
+        "summary": "讨论通过亲友及员工刷单提升销量，单成本约500元，计划发布会当天破百",
+        "participants_mentioned": [
+          "amanda4",
+          "一恋"
+        ],
+        "decisions_or_todos": [
+          "先刷10单测试",
+          "安排备用金打款",
+          "确保订单能上屏展示"
+        ]
+      },
+      {
+        "topic": "现场物料与布置",
+        "summary": "确认花牌、手机支架、托盘、茶歇等物料到位情况，讨论陈列方案",
+        "participants_mentioned": [
+          "amanda4",
+          "谢之渊",
+          "一恋"
+        ],
+        "decisions_or_todos": [
+          "次日补充托盘及价格牌",
+          "确认鲜花到货时间",
+          "安排茶歇采购"
+        ]
+      },
+      {
+        "topic": "VIP接待安排",
+        "summary": "确认身价百亿VIP嘉宾接待分工，安排玉玉负责VIP、网红及媒体对接",
+        "participants_mentioned": [
+          "玉玉",
+          "小叶",
+          "amanda4"
+        ],
+        "decisions_or_todos": [
+          "玉玉1:30到场负责VIP接待",
+          "第一排座位留给VIP",
+          "准备专属伴手礼"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "全程参与发布会流程彩排、串词打磨、物料搬运与现场布置，讨论刷单策略及VIP接待安排",
+      "others_activity": "谢之渊参与PPT修改与停车安排；主持人尼可打磨串词；一恋负责采购与现场执行；玉玉负责VIP接待",
+      "mentioned": [
+        {
+          "name_or_alias": "谢之渊",
+          "context": "物启科技COO，发布会演讲嘉宾，参与PPT修改",
+          "relation_guess": "联合创始人"
+        },
+        {
+          "name_or_alias": "尼可",
+          "context": "发布会主持人，打磨串词与流程",
+          "relation_guess": "外部合作主持人"
+        },
+        {
+          "name_or_alias": "Knight",
+          "context": "001号用户，来自北京，常年爬山，参与用户分享环节",
+          "relation_guess": "种子用户"
+        },
+        {
+          "name_or_alias": "钱先生",
+          "context": "湖北专程赶来的忠实用户，原计划海外出差协调时间参加",
+          "relation_guess": "种子用户"
+        },
+        {
+          "name_or_alias": "一恋",
+          "context": "负责采购鲜花、茶歇及现场执行",
+          "relation_guess": "团队成员"
+        },
+        {
+          "name_or_alias": "玉玉",
+          "context": "负责VIP、网红及媒体接待",
+          "relation_guess": "团队成员"
+        },
+        {
+          "name_or_alias": "小叶",
+          "context": "身价百亿VIP嘉宾",
+          "relation_guess": "重要客户"
+        },
+        {
+          "name_or_alias": "张梦哥",
+          "context": "微信公众号原绑定人",
+          "relation_guess": "前员工或关联人"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "7月份在上海开设3-4人工位",
+        "发布会当天安排VIP接待与媒体对接",
+        "计划通过刷单提升销量至破百"
+      ],
+      "projects_or_business": [
+        "卢娜AI智能吊坠新品发布会",
+        "中免渠道合作洽谈",
+        "京东运营及刷单计划"
+      ],
+      "risks_or_blockers": [
+        "部分物料（鲜花）未按时到货",
+        "现场环境较吵需提前清场",
+        "APP后台运行及声纹识别需用户培训"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "cost",
+          "detail": "刷单成本约500元/单（零售价1499元，返现后）",
+          "amount_or_terms": "500元/单"
+        },
+        {
+          "category": "payment",
+          "detail": "安排备用金10万元用于刷单打款",
+          "amount_or_terms": "10万元"
+        },
+        {
+          "category": "budget",
+          "detail": "发布会物料预算有限，软装花费数百元",
+          "amount_or_terms": "数百元"
+        },
+        {
+          "category": "payment",
+          "detail": "给温庆姨成本价购买3个吊坠，后续退差价",
+          "amount_or_terms": "成本价"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "team",
+          "detail": "11名工作人员参与发布会执行，含6名公司员工及4-5名帮忙亲友"
+        },
+        {
+          "category": "role_change",
+          "detail": "玉玉负责VIP、网红及媒体接待"
+        },
+        {
+          "category": "hiring",
+          "detail": "讨论是否继续招聘算法工程师"
+        }
+      ]
+    },
+    "open_questions": [
+      "鲜花是否能在发布会前到货",
+      "线上直播是否由博主执行",
+      "中免渠道合作具体进展"
+    ],
+    "keywords": [
+      "卢娜",
+      "AI智能吊坠",
+      "新品发布会",
+      "刷单",
+      "VIP接待",
+      "物启科技",
+      "印力中心",
+      "主持人串词",
+      "用户证言",
+      "茶歇布置"
+    ]
+  }
+}

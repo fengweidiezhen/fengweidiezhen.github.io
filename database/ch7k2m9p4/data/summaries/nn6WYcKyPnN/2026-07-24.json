@@ -1,0 +1,290 @@
+{
+  "user_id": "nn6WYcKyPnN",
+  "user_name": "amanda4",
+  "date": "2026-07-24",
+  "generated_at": "2026-07-27T18:28:53.512109+08:00",
+  "model": "qwen3.7-max-2026-05-20",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda4",
+    "aliases": [
+      "amanda4",
+      "amanda4"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 2909,
+    "char_count": 80000,
+    "es_refreshed": true,
+    "truncated": true
+  },
+  "summary": {
+    "title": "日常办公与面试纪要",
+    "overview": "主体用户amanda4当天主要进行了驾车通勤、与同事/合伙人讨论产品设计（智能项链/穿戴设备外观与交互）、面试电商运营及用户研究实习生、面试产品经理候选人，并处理了公司审计文件签署、办公室软装及固定资产盘点等行政事务。",
+    "events": [
+      {
+        "time": "09:00",
+        "what_happened": "驾车通勤，导航前往公司/办公地点",
+        "outcome": "约09:27到达目的地"
+      },
+      {
+        "time": "10:27",
+        "what_happened": "与李总进行会议沟通",
+        "outcome": "讨论合作及艺术相关事项"
+      },
+      {
+        "time": "10:45",
+        "what_happened": "与设计师/团队讨论智能项链产品外观、材质拼接、3D打印及佩戴效果",
+        "outcome": "决定主体设计更简约，下周五前提交文件再碰头，赶8-9月设计奖申报"
+      },
+      {
+        "time": "14:17",
+        "what_happened": "面试京东电商运营候选人",
+        "outcome": "了解候选人过往店铺运营经验，介绍公司京东及天猫渠道规划"
+      },
+      {
+        "time": "16:01",
+        "what_happened": "面试用户研究/GTM实习岗位候选人（黄业文）",
+        "outcome": "候选人港中文在读，期望日薪250元，8月中旬可到岗，实习3个月以上"
+      },
+      {
+        "time": "18:01",
+        "what_happened": "面试产品经理候选人（Sarah）",
+        "outcome": "候选人展示自研疗愈App原型，提出内容生态与冥想方向建议，计划8月1-3日赴深圳线下见面"
+      },
+      {
+        "time": "18:53",
+        "what_happened": "处理审计文件签署及固定资产盘点表",
+        "outcome": "讨论签字角色冲突及日期修改问题"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "智能项链产品设计与材质",
+        "summary": "讨论产品主体造型（避免像鸡蛋/水滴）、金属拼接工艺、贝母与陶瓷材质、3D打印验证、横向佩戴效果及与手链/项链配件的简约搭配",
+        "participants_mentioned": [
+          "amanda4",
+          "李总",
+          "谢总"
+        ],
+        "decisions_or_todos": [
+          "主体设计更简约，减少拼接复杂度",
+          "下周五前提交设计文件再开会",
+          "赶8-9月申报设计创新奖"
+        ]
+      },
+      {
+        "topic": "展会与Meeting Room参展策略",
+        "summary": "讨论AI展会太多，考虑以meeting room形式参展而非传统展位，认为更划算且可邀请媒体深入交流",
+        "participants_mentioned": [
+          "amanda4"
+        ],
+        "decisions_or_todos": [
+          "让同事帮忙询问Central Hall或North House最小meeting room价格"
+        ]
+      },
+      {
+        "topic": "公司软装布置",
+        "summary": "amanda4提议找姐姐（软装设计师）重新布置公司，预算5000元以内，计划加照片墙",
+        "participants_mentioned": [
+          "amanda4"
+        ],
+        "decisions_or_todos": [
+          "周末安排软装布置（视台风情况）"
+        ]
+      },
+      {
+        "topic": "招聘标准对齐",
+        "summary": "amanda4与合伙人就候选人（温/Sy/Saturday）评价产生分歧，讨论'油腻'与'说废话'的容忍度，强调招人需有责任心、能闭环、够聪明",
+        "participants_mentioned": [
+          "amanda4",
+          "温",
+          "Sy",
+          "Saturday"
+        ],
+        "decisions_or_todos": [
+          "对齐招人标准：不油腻、不说废话、有实际输出"
+        ]
+      },
+      {
+        "topic": "产品经理候选人疗愈方向探讨",
+        "summary": "候选人Sarah展示自研疗愈App，建议Luna产品构建内容护城河，结合冥想、声音工坊、真人疗愈师连线等；amanda4认同方向但强调不做'AI改命'等玄学功能",
+        "participants_mentioned": [
+          "amanda4",
+          "Sarah"
+        ],
+        "decisions_or_todos": [
+          "Sarah计划8月1-3日赴深圳线下见面",
+          "后续与谢总讨论内容向产品经理合作可能性"
+        ]
+      },
+      {
+        "topic": "审计文件与固定资产盘点",
+        "summary": "处理2025年审计所需文件，包括固定资产合同、库存发票、盘点表签字；讨论签字角色冲突（amanda4同时是盘点人和HR负责人）",
+        "participants_mentioned": [
+          "amanda4"
+        ],
+        "decisions_or_todos": [
+          "修改盘点表签字人信息",
+          "补充库存invoice",
+          "删除审计师名字并调整日期"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "驾车通勤、主持/参与产品设计会议、面试电商运营/用户研究实习/产品经理候选人、处理审计文件、讨论公司软装及招聘标准",
+      "others_activity": "同事/合伙人参与设计讨论、面试反馈、审计文件处理；候选人进行自我介绍及产品展示",
+      "mentioned": [
+        {
+          "name_or_alias": "李总",
+          "context": "10:27会议沟通，讨论香港艺术合作",
+          "relation_guess": "外部合作伙伴或客户"
+        },
+        {
+          "name_or_alias": "谢总/谢志渊",
+          "context": "产品设计讨论、招聘决策、合伙人",
+          "relation_guess": "公司联合创始人/合伙人"
+        },
+        {
+          "name_or_alias": "周星/周心",
+          "context": "试用期事务、办公室物品清理沟通",
+          "relation_guess": "公司员工"
+        },
+        {
+          "name_or_alias": "黄业文",
+          "context": "面试GTM实习岗位，港中文在读",
+          "relation_guess": "面试候选人"
+        },
+        {
+          "name_or_alias": "Sarah",
+          "context": "面试产品经理，展示自研疗愈App",
+          "relation_guess": "面试候选人"
+        },
+        {
+          "name_or_alias": "温",
+          "context": "产品经理候选人，被评价'油腻'",
+          "relation_guess": "面试候选人"
+        },
+        {
+          "name_or_alias": "邓玉学长",
+          "context": "被提及'非常抽象'",
+          "relation_guess": "外部关联人物"
+        },
+        {
+          "name_or_alias": "燃姐",
+          "context": "上海发布会后有人约见",
+          "relation_guess": "外部人脉"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "8月上线天猫渠道，需运营同学cover京东+天猫",
+        "8-9月申报多个设计创新奖（如Red Dot等）",
+        "下周安排公司软装布置（照片墙等）",
+        "下周五产品设计文件交付后再开会",
+        "考虑以meeting room形式参加AI展会",
+        "计划年底在上海设办公室"
+      ],
+      "projects_or_business": [
+        "智能项链（Luna）：端侧算法+毫米波心率+麦克风阵列，情绪捕捉与AI总结",
+        "AI数字人/素描人入口",
+        "疗愈/冥想内容生态方向探索",
+        "京东自营（官方代投广告）+ 天猫（8月上线）",
+        "线下合作：OCNBA、ZZ等AI智能硬件商店"
+      ],
+      "risks_or_blockers": [
+        "产品设计需避免全圆形（竞品多为圆形）",
+        "AI心理疗愈功能存在合规敏感性，暂不上线",
+        "审计文件签字角色冲突需调整",
+        "台风可能影响周末软装施工"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "cost",
+          "detail": "公司软装预算",
+          "amount_or_terms": "5000元以内"
+        },
+        {
+          "category": "cost",
+          "detail": "员工储物柜采购",
+          "amount_or_terms": "约200元/个"
+        },
+        {
+          "category": "invoice",
+          "detail": "审计要求提供库存采购发票，拟用香港认可invoice替代",
+          "amount_or_terms": "未提及"
+        },
+        {
+          "category": "cost",
+          "detail": "京东广告费由官方承担（含在采购价让利中）",
+          "amount_or_terms": "未提及"
+        },
+        {
+          "category": "other",
+          "detail": "2025年审计所需固定资产合同及折旧文件",
+          "amount_or_terms": "未提及"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "招聘京东+天猫电商运营（1人cover双平台）"
+        },
+        {
+          "category": "hiring",
+          "detail": "面试GTM/用户研究实习生（黄业文，港中文，日薪250元）"
+        },
+        {
+          "category": "hiring",
+          "detail": "面试产品经理候选人Sarah（疗愈方向，期望月薪4万，remote+定期赴深）"
+        },
+        {
+          "category": "hiring",
+          "detail": "评估候选人温/Sy/Saturday，讨论'油腻'与'废话'容忍度"
+        },
+        {
+          "category": "resignation",
+          "detail": "提及'三也要离职'，算法团队需盯紧并签竞业协议"
+        },
+        {
+          "category": "team",
+          "detail": "公司约20人，算法研发14-15人，营销3-4人，其余财务HR行政"
+        },
+        {
+          "category": "policy",
+          "detail": "离职算法人员需签竞业保密协议并拿补偿"
+        }
+      ]
+    },
+    "open_questions": [
+      "Meeting room参展具体价格及场地确认",
+      "产品经理候选人Sarah是否以合伙人/实习身份加入及薪资方案",
+      "审计文件签字角色冲突如何合规处理",
+      "疗愈内容生态是否作为Luna第二代或生态产品方向"
+    ],
+    "keywords": [
+      "智能项链",
+      "Luna",
+      "产品设计",
+      "疗愈",
+      "冥想",
+      "京东运营",
+      "天猫",
+      "审计",
+      "盘点",
+      "招聘",
+      "产品经理",
+      "展会",
+      "软装",
+      "竞业协议"
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "user_id": "nn6WYcKyPnN",
+  "user_name": "amanda4",
+  "date": "2026-07-02",
+  "generated_at": "2026-07-27T18:25:05.057033+08:00",
+  "model": "qwen3.7-max-2026-05-20",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda4",
+    "aliases": [
+      "amanda4",
+      "amanda4"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1035,
+    "char_count": 34270,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "产品包装与稳定性问题复盘及财务审计推进",
+    "overview": "当日主要围绕产品包装质量缺陷（漏胶、质感差）讨论更换供应商，严厉批评产品稳定性问题并设定下周五为修复死线，否则全渠道停售。同时推进香港及大陆账目审计与报销整理，抱怨天猫入驻审核失败及个别员工报销与工作态度问题。",
+    "events": [
+      {
+        "time": "19:12",
+        "what_happened": "讨论产品包装漏胶、质感差及京东退货问题",
+        "outcome": "决定更换包装供应商，重新设计方案"
+      },
+      {
+        "time": "19:24",
+        "what_happened": "布置WAIC与36氪合作视频编辑任务",
+        "outcome": "要求15号左右完成，偏技术与AI行业关联"
+      },
+      {
+        "time": "19:35",
+        "what_happened": "天猫入驻审核因品牌影响力弱被拒",
+        "outcome": "决定暂不入驻天猫，拒绝提供专利及融资信息"
+      },
+      {
+        "time": "20:51",
+        "what_happened": "设定产品稳定性修复死线",
+        "outcome": "下周五前不解决蓝牙、数据、语音识别等问题则全渠道停售"
+      },
+      {
+        "time": "21:47",
+        "what_happened": "安排次日调账与3D打印工作分工",
+        "outcome": "次日下午集中调账，上午处理3D文件"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "包装质量与供应商更换",
+        "summary": "当前包装存在漏胶、质感低、不高级等问题，售价1499元不匹配。京东发货五六百个，仓库两三百个。决定更换供应商，重新设计包装，增加售后联系方式卡片。",
+        "participants_mentioned": [
+          "amanda4",
+          "周心"
+        ],
+        "decisions_or_todos": [
+          "更换包装供应商",
+          "重新设计包装方案",
+          "增加醒目的售后联系卡片",
+          "周心负责询价"
+        ]
+      },
+      {
+        "topic": "产品稳定性与停售警告",
+        "summary": "产品存在蓝牙连不上、无数据、语音识别不准、功耗高等大量问题，上线已久稳定性仍差。用户好评多为内部刷单。若下周五前不解决核心问题，将全渠道停售并公告。",
+        "participants_mentioned": [
+          "amanda4",
+          "谢总"
+        ],
+        "decisions_or_todos": [
+          "下周五为稳定性修复死线",
+          "否则全渠道停售一个月",
+          "考虑裁减一半人员"
+        ]
+      },
+      {
+        "topic": "财务审计与报销整理",
+        "summary": "推进香港和大陆账目审计，要求7月30日前完成。整理差旅费、展会费、租赁费等发票和流水，部分invoice缺失需补制。讨论研发费用与管理费用中工资拆分问题，确认部分人员为咨询合同。",
+        "participants_mentioned": [
+          "amanda4",
+          "谢总",
+          "赵之赫"
+        ],
+        "decisions_or_todos": [
+          "7月30日前完成审计",
+          "补制缺失invoice",
+          "核实香港账户流水",
+          "拆分研发与管理费用"
+        ]
+      },
+      {
+        "topic": "天猫入驻失败",
+        "summary": "天猫审核以品牌影响力弱为由拒绝入驻，并要求提供专利号、融资信息等敏感资料。对比京东全力支持，决定暂不入驻天猫。",
+        "participants_mentioned": [
+          "amanda4"
+        ],
+        "decisions_or_todos": [
+          "暂不入驻天猫",
+          "不对外提供专利及融资信息"
+        ]
+      },
+      {
+        "topic": "青春版产品与绳子选型",
+        "summary": "使用AI生成青春版产品图，确定加州风、冰淇淋色调。联系绳子厂下周寄送不打蜡彩色绳子样品，考虑裸膜工艺替代喷涂。",
+        "participants_mentioned": [
+          "amanda4"
+        ],
+        "decisions_or_todos": [
+          "下周接收绳子样品",
+          "考虑裸膜+finishing工艺",
+          "绳子可单卖"
+        ]
+      },
+      {
+        "topic": "员工管理与工作态度",
+        "summary": "批评某员工去香港办事虚报一天工时、报销通勤费等小聪明行为，警告其做懂事的同学。HR收简历慢，用户运营岗位表现不佳考虑替换。",
+        "participants_mentioned": [
+          "amanda4",
+          "谢总",
+          "小刘"
+        ],
+        "decisions_or_todos": [
+          "警告相关员工",
+          "考虑替换用户运营人员"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主导产品包装、稳定性、财务审计等多项讨论，批评研发与运营问题，布置WAIC视频任务，联系绳子厂，处理天猫入驻事宜",
+      "others_activity": "参与包装讨论、3D打印、账目核对、报销整理，反馈技术问题和测试情况",
+      "mentioned": [
+        {
+          "name_or_alias": "谢总",
+          "context": "参与报销、调账、产品决策讨论，被提及签字及出差管理",
+          "relation_guess": "公司高管/合伙人"
+        },
+        {
+          "name_or_alias": "周心",
+          "context": "负责包装供应商询价",
+          "relation_guess": "采购或项目相关同事"
+        },
+        {
+          "name_or_alias": "赵之赫",
+          "context": "涉及大额报销无详细信息",
+          "relation_guess": "前员工或合作方"
+        },
+        {
+          "name_or_alias": "小刘",
+          "context": "被批评虚报外出工时和报销通勤费",
+          "relation_guess": "下属员工"
+        },
+        {
+          "name_or_alias": "开莉",
+          "context": "处理售后问题，去香港办事",
+          "relation_guess": "运营或行政同事"
+        },
+        {
+          "name_or_alias": "龙总",
+          "context": "京东总裁部女老板，关注并支持公司产品",
+          "relation_guess": "京东合作方"
+        },
+        {
+          "name_or_alias": "小叶",
+          "context": "前同事C姐姐要来指导工作，有KOL和2B资源",
+          "relation_guess": "外部顾问/前同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "WAIC与36氪合作视频15号左右完成",
+        "下周五前解决产品稳定性问题否则停售",
+        "7月30日前完成香港及大陆账目审计",
+        "更换包装供应商并重新设计",
+        "小红书店铺已开好次日上传产品",
+        "青春版产品绳子样品下周到货"
+      ],
+      "projects_or_business": [
+        "AI硬件产品（售价1499元）",
+        "青春版产品（低成本版，彩色绳子搭配）",
+        "京东渠道销售（发货五六百个）",
+        "小红书店铺运营",
+        "WAIC世界人工智能大会参展",
+        "36氪媒体合作曝光"
+      ],
+      "risks_or_blockers": [
+        "产品稳定性差：蓝牙断连、无数据、语音识别不准、功耗高",
+        "包装质量差导致退货和差评风险",
+        "天猫入驻审核失败",
+        "研发解决问题速度慢、态度推诿",
+        "历史账目混乱需审计整理",
+        "好评多为内部刷单，自然口碑堪忧"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "other",
+          "detail": "香港及大陆账目审计，要求7月30日前完成",
+          "amount_or_terms": "7月30日截止"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "整理差旅费、展会费、租赁费等报销，部分invoice缺失需补制",
+          "amount_or_terms": "展会费约3850.79元，配送费约400美元"
+        },
+        {
+          "category": "cost",
+          "detail": "研发费用与管理费用中工资拆分，部分人员为美金咨询合同",
+          "amount_or_terms": "咨询合同乘以12个月"
+        },
+        {
+          "category": "payment",
+          "detail": "红人合作金额核对，按金额反查合作记录",
+          "amount_or_terms": "NST agency 8350元"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "批评员工报销通勤费等灰色地带费用",
+          "amount_or_terms": "几十块钱小额"
+        },
+        {
+          "category": "other",
+          "detail": "香港账户流水核对，发现三个账户均未收到某笔款项",
+          "amount_or_terms": "待核实"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "performance",
+          "detail": "批评某员工去香港办事虚报一天工时，警告做懂事的同学"
+        },
+        {
+          "category": "hiring",
+          "detail": "HR收简历太慢，助理岗位尚未安排面试"
+        },
+        {
+          "category": "performance",
+          "detail": "用户运营岗位表现不佳，考虑替换"
+        },
+        {
+          "category": "team",
+          "detail": "研发解决问题速度慢、推诿，考虑裁减一半人员"
+        },
+        {
+          "category": "other",
+          "detail": "测试人员不足，建议再招两人"
+        }
+      ]
+    },
+    "open_questions": [
+      "香港账户某笔款项为何三个账户均未收到",
+      "赵之赫大额报销缺少详细信息如何补制",
+      "新包装供应商能否在一个月内完成替换",
+      "下周五前产品稳定性问题能否彻底解决"
+    ],
+    "keywords": [
+      "包装漏胶",
+      "供应商更换",
+      "产品稳定性",
+      "全渠道停售",
+      "WAIC",
+      "36氪",
+      "天猫审核",
+      "审计",
+      "报销",
+      "青春版",
+      "绳子样品",
+      "研发推诿",
+      "京东支持"
+    ]
+  }
+}

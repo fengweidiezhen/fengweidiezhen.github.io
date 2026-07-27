@@ -1,0 +1,239 @@
+{
+  "user_id": "nn6WYcKyPnN",
+  "user_name": "amanda4",
+  "date": "2026-06-23",
+  "generated_at": "2026-07-27T18:12:34.303462+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda4",
+    "aliases": [
+      "amanda4",
+      "amanda4"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 3552,
+    "char_count": 80000,
+    "es_refreshed": true,
+    "truncated": true
+  },
+  "summary": {
+    "title": "amanda4 杭州游学及商务交流纪要",
+    "overview": "amanda4 从深圳飞抵杭州，参加由分众传媒、亿邦动力等联合举办的 AI 时代中国品牌破局闭门游学活动，参访乐奇（Rokid）并体验 AI 眼镜产品。期间与分众合作伙伴、AI 硬件创业者等多方交流。晚间与朋友聚餐，讨论公司管理、员工问题、产品被抄袭及搬迁上海计划等。",
+    "events": [
+      {
+        "time": "06:40",
+        "what_happened": "amanda4 起床赶飞机，闹钟未响导致迟到，谢知渊接机也迟到。",
+        "outcome": "顺利登机飞往杭州"
+      },
+      {
+        "time": "12:17",
+        "what_happened": "抵达杭州，打车前往奥克斯中心皇冠假日酒店，车费 257 元。",
+        "outcome": "到达酒店办理入住"
+      },
+      {
+        "time": "12:19",
+        "what_happened": "在酒店遇到分众传媒合作伙伴，对方介绍乐奇产品及游学安排。",
+        "outcome": "了解下午参访流程"
+      },
+      {
+        "time": "13:40",
+        "what_happened": "前往 Rokid 梦想小镇参加游学活动。",
+        "outcome": "到达活动场地"
+      },
+      {
+        "time": "14:23",
+        "what_happened": "游学活动正式开始，主办方介绍行程安排及嘉宾。",
+        "outcome": "了解全天及次日议程"
+      },
+      {
+        "time": "14:53",
+        "what_happened": "Rokid 产品经理介绍 AI 眼镜产品功能及技术细节。",
+        "outcome": "体验 AI 眼镜拍照、导航、翻译等功能"
+      },
+      {
+        "time": "17:40",
+        "what_happened": "amanda4 与朋友抵达餐厅用餐。",
+        "outcome": "享用融合菜晚餐"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "AI 眼镜产品体验与交流",
+        "summary": "Rokid 产品经理介绍 AI 眼镜的拍照、导航、翻译、AI 大模型接入等功能，amanda4 作为产品经理详细询问技术细节、用户画像、离线地图支持等问题。",
+        "participants_mentioned": [
+          "Rokid 产品经理",
+          "amanda4"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "分众传媒合作对接",
+        "summary": "分众合作伙伴表示对 amanda4 公司的 AI 智能吊坠产品感兴趣，希望后期建立工作联系，探讨广告投放合作可能性。",
+        "participants_mentioned": [
+          "分众合作伙伴",
+          "amanda4"
+        ],
+        "decisions_or_todos": [
+          "后续通过邮件对接分众报备系统"
+        ]
+      },
+      {
+        "topic": "创业公司规模化与品牌定位",
+        "summary": "游学嘉宾分享创业公司规模化路径、线上线下渠道定价策略、品牌标签打造等经验。",
+        "participants_mentioned": [
+          "游学嘉宾",
+          "amanda4"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "公司员工管理问题",
+        "summary": "amanda4 向朋友吐槽公司某老员工倚老卖老、在 CTO 面前邀功、搞小团体、不服管理等问题，表示已强硬要求管理层处理。",
+        "participants_mentioned": [
+          "amanda4",
+          "朋友",
+          "老员工",
+          "谢知渊"
+        ],
+        "decisions_or_todos": [
+          "要求管理层解决该员工问题"
+        ]
+      },
+      {
+        "topic": "产品被抄袭与恶意竞争",
+        "summary": "amanda4 反映公司产品概念、UI、文案被杭州多家公司抄袭，用户群中有人恶意询问技术细节、质疑隐私合规等。",
+        "participants_mentioned": [
+          "amanda4",
+          "朋友"
+        ],
+        "decisions_or_todos": [
+          "安排好评应对差评",
+          "线下技术交流沙龙应对线上质疑"
+        ]
+      },
+      {
+        "topic": "公司搬迁上海计划",
+        "summary": "amanda4 因深圳发布会遭遇恶意竞争及用户素质问题，决定八月份前将公司搬迁至上海。",
+        "participants_mentioned": [
+          "amanda4",
+          "朋友",
+          "谢知渊"
+        ],
+        "decisions_or_todos": [
+          "八月份前搬迁至上海"
+        ]
+      },
+      {
+        "topic": "感情生活交流",
+        "summary": "amanda4 与朋友讨论感情问题，分析对方性格、相处模式，计划七月份在上海见面。",
+        "participants_mentioned": [
+          "amanda4",
+          "朋友"
+        ],
+        "decisions_or_todos": [
+          "七月份上海见面"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参加杭州 AI 品牌游学活动，体验 Rokid AI 眼镜，与分众合作伙伴及创业者交流，晚间与朋友聚餐讨论公司管理及搬迁计划。",
+      "others_activity": "Rokid 产品经理讲解产品；分众合作伙伴对接合作意向；朋友倾听并分析感情及管理问题。",
+      "mentioned": [
+        {
+          "name_or_alias": "谢知渊",
+          "context": "amanda4 的合伙人/CTO，负责接机、修 bug、管理研发",
+          "relation_guess": "合伙人/CTO"
+        },
+        {
+          "name_or_alias": "分众合作伙伴",
+          "context": "分众传媒邀请的合作伙伴，对 AI 智能吊坠感兴趣",
+          "relation_guess": "潜在合作方"
+        },
+        {
+          "name_or_alias": "Rokid 产品经理",
+          "context": "介绍 AI 眼镜产品功能",
+          "relation_guess": "活动讲解人员"
+        },
+        {
+          "name_or_alias": "老员工",
+          "context": "公司老员工，倚老卖老、搞小团体、不服管理",
+          "relation_guess": "公司员工"
+        },
+        {
+          "name_or_alias": "朋友",
+          "context": "与 amanda4 聚餐，讨论感情及管理问题",
+          "relation_guess": "朋友"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "八月份前将公司从深圳搬迁至上海",
+        "举办线下技术交流沙龙应对线上质疑",
+        "七月份参加上海世界人工智能大会"
+      ],
+      "projects_or_business": [
+        "AI 智能吊坠产品刚发售",
+        "与分众传媒探讨广告投放合作",
+        "产品申请专利中，技术保密期 18 个月"
+      ],
+      "risks_or_blockers": [
+        "产品概念、UI、文案被多家公司抄袭",
+        "用户群中有人恶意询问技术细节、质疑隐私合规",
+        "老员工管理问题导致内耗",
+        "深圳发布会遭遇用户素质问题"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "other",
+          "detail": "杭州打车费用",
+          "amount_or_terms": "257 元"
+        },
+        {
+          "category": "cost",
+          "detail": "发布会下午茶采购（山姆蛋糕、水等）",
+          "amount_or_terms": "约 1000 元"
+        },
+        {
+          "category": "other",
+          "detail": "分众合作伙伴提及合作企业需营收过亿",
+          "amount_or_terms": "营收过亿"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "team",
+          "detail": "调整管理风格，与员工保持距离感和边界感"
+        },
+        {
+          "category": "policy",
+          "detail": "六月二十号后管理层不能内耗只能外耗"
+        }
+      ]
+    },
+    "open_questions": [
+      "老员工问题如何解决",
+      "如何应对产品被抄袭",
+      "搬迁上海的具体安排"
+    ],
+    "keywords": [
+      "AI 眼镜",
+      "Rokid",
+      "分众传媒",
+      "游学",
+      "产品抄袭",
+      "搬迁上海",
+      "员工管理",
+      "智能吊坠"
+    ]
+  }
+}

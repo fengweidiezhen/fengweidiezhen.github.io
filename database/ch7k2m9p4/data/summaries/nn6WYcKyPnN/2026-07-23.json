@@ -1,0 +1,280 @@
+{
+  "user_id": "nn6WYcKyPnN",
+  "user_name": "amanda4",
+  "date": "2026-07-23",
+  "generated_at": "2026-07-27T18:27:05.239231+08:00",
+  "model": "qwen3.7-max-2026-05-20",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda4",
+    "aliases": [
+      "amanda4",
+      "amanda4"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 2332,
+    "char_count": 80000,
+    "es_refreshed": true,
+    "truncated": true
+  },
+  "summary": {
+    "title": "产品UI评审与多岗位面试纪要",
+    "overview": "amanda4 全天主要进行产品UI/UX细节评审（日历、声纹、会议导出、包装等），并密集面试HR、营销管培生、产品助理/经理等候选人，同时处理新品包装打样、实习生安排及内部人员违规离职事宜。",
+    "events": [
+      {
+        "time": "09:38",
+        "what_happened": "与同事确认邮件安排及上海到深圳包裹物流",
+        "outcome": "需跟进确认包裹状态"
+      },
+      {
+        "time": "10:02",
+        "what_happened": "产品UI评审：健康分、日历交互、声纹录制、设备改名、会议导出等",
+        "outcome": "梳理多项UI优化需求并分配修改任务"
+      },
+      {
+        "time": "11:12",
+        "what_happened": "面试HR候选人张效丽（初创公司全盘人事经验）",
+        "outcome": "候选人适合基础行政+HR岗，安排下周一二面"
+      },
+      {
+        "time": "12:06",
+        "what_happened": "讨论新品包装打样、胶带设计及配件文件",
+        "outcome": "要求供应商重新打样确认后再制大货"
+      },
+      {
+        "time": "14:58",
+        "what_happened": "面试营销管培生（悉尼大学海归，海外社媒/展会经验）",
+        "outcome": "候选人气场干净，考虑约二面"
+      },
+      {
+        "time": "16:00",
+        "what_happened": "面试HR候选人沙秀怡（7年经验，本末动力HRBP）",
+        "outcome": "期望薪资16-18K偏高，团队认为性价比不足"
+      },
+      {
+        "time": "16:59",
+        "what_happened": "面试产品助理杜卓言（西南政法法学本科，AI标注经历）",
+        "outcome": "候选人逻辑清晰，考虑直接发offer（8-10K）"
+      },
+      {
+        "time": "17:31",
+        "what_happened": "面试产品经理水星（斯坦福传播学硕士，多Agent系统项目）",
+        "outcome": "候选人深度思考能力强，高度认可品牌理念"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "产品UI/UX优化",
+        "summary": "评审日历时间流交互（去掉多余箭头、左右滑动切换）、声纹录制匹配度展示逻辑（低于80%标红提示重录）、会议记录导出格式（文本批量导出+对话式修改）、设备命名规则（避免乱码，加设备号后四位）",
+        "participants_mentioned": [
+          "amanda4",
+          "UI设计团队"
+        ],
+        "decisions_or_todos": [
+          "日历交互参考苹果原生习惯简化箭头",
+          "声纹匹配度低于80%标红并建议重录",
+          "会议记录支持对话式修改而非手动编辑",
+          "设备默认名改为昵称+设备号后四位"
+        ]
+      },
+      {
+        "topic": "新品包装与配件设计",
+        "summary": "确认包装最终版需打样验证，胶带尺寸过大需加印刷logo，K二层配件设计文件需同步",
+        "participants_mentioned": [
+          "amanda4",
+          "刘总",
+          "思他"
+        ],
+        "decisions_or_todos": [
+          "包装必须打样确认后才可制大货",
+          "胶带加印logo并重新打样",
+          "配件设计文件同步给供应商"
+        ]
+      },
+      {
+        "topic": "HR岗位招聘标准",
+        "summary": "公司约20人快速扩张期，需HR兼顾招聘、行政、员工手册及组织文化建设；候选人需价值观正、能处理员工关系、有研发岗招聘经验更佳",
+        "participants_mentioned": [
+          "amanda4",
+          "张效丽",
+          "沙秀怡"
+        ],
+        "decisions_or_todos": [
+          "张效丽进入二面（下周一）",
+          "沙秀怡因薪资期望偏高暂不推进"
+        ]
+      },
+      {
+        "topic": "产品助理/经理招聘标准",
+        "summary": "产品岗需先轮岗用户运营1个月了解用户反馈，再转产品定义；重视逻辑性、数据深度思考能力及品牌理念认同",
+        "participants_mentioned": [
+          "amanda4",
+          "杜卓言",
+          "水星"
+        ],
+        "decisions_or_todos": [
+          "杜卓言考虑直接发offer（8-10K）",
+          "水星待团队讨论后反馈"
+        ]
+      },
+      {
+        "topic": "内部员工违规处理",
+        "summary": "某员工因违规（收受礼品未申报）被高律师处理，员工不承认违规并提离职；公司决定仍需公告违规行为",
+        "participants_mentioned": [
+          "amanda4",
+          "高律师",
+          "凯丽"
+        ],
+        "decisions_or_todos": [
+          "违规行为必须公告",
+          "交接质量由amanda4亲自把控"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主导产品UI评审、新品包装确认、密集面试（HR/营销/产品岗）、处理员工违规事件、规划团队扩张",
+      "others_activity": "设计团队跟进UI修改、供应商配合包装打样、候选人参加面试",
+      "mentioned": [
+        {
+          "name_or_alias": "张效丽",
+          "context": "HR候选人，初创公司全盘人事+行政+财务经验",
+          "relation_guess": "求职者"
+        },
+        {
+          "name_or_alias": "沙秀怡",
+          "context": "HR候选人，7年经验，本末动力HRBP，期望16-18K",
+          "relation_guess": "求职者"
+        },
+        {
+          "name_or_alias": "杜卓言",
+          "context": "产品助理候选人，西南政法法学本科，AI标注经历，期望8-10K",
+          "relation_guess": "求职者"
+        },
+        {
+          "name_or_alias": "水星",
+          "context": "产品经理候选人，斯坦福传播学硕士，多Agent系统项目经验",
+          "relation_guess": "求职者"
+        },
+        {
+          "name_or_alias": "高律师",
+          "context": "公司法务，处理员工违规事件",
+          "relation_guess": "外部法务"
+        },
+        {
+          "name_or_alias": "刘总",
+          "context": "包装供应商负责人",
+          "relation_guess": "供应商"
+        },
+        {
+          "name_or_alias": "凯丽",
+          "context": "即将离职员工，因违规被处理",
+          "relation_guess": "离职员工"
+        },
+        {
+          "name_or_alias": "周金",
+          "context": "现HR同事，工作将交接给新人",
+          "relation_guess": "同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "9月发布青春版新品（冰淇淋马卡龙色，性价比更高）",
+        "明年推出第二代产品及智能家居生态产品",
+        "下半年开设上海办公室",
+        "明年团队扩张至40-50人规模",
+        "8月七夕营销活动、9月开学季营销"
+      ],
+      "projects_or_business": [
+        "智能吊坠（情绪追踪，4色在售）",
+        "青春版吊坠（粉色系，针对年轻用户）",
+        "第二代产品（降低手机依赖性）",
+        "智能家居生态探索（灯具、香氛企业合作）"
+      ],
+      "risks_or_blockers": [
+        "研发端招聘压力大，中高阶工程师缺口明显",
+        "HR岗位空缺影响组织管理和招聘效率",
+        "包装打样若不合格将影响新品上市节奏",
+        "员工违规事件需妥善处理以维护团队风气"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "salary",
+          "detail": "HR候选人沙秀怡期望薪资16-18K（兼任行政）",
+          "amount_or_terms": "16-18K/月"
+        },
+        {
+          "category": "salary",
+          "detail": "产品助理杜卓言期望薪资",
+          "amount_or_terms": "8-10K/月"
+        },
+        {
+          "category": "salary",
+          "detail": "实习生工资标准",
+          "amount_or_terms": "5-8K/月"
+        },
+        {
+          "category": "salary",
+          "detail": "营销管培生候选人期望薪资",
+          "amount_or_terms": "11-12K/月"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "招聘HR岗（综合行政+人力+合规），需能搭建管理制度"
+        },
+        {
+          "category": "hiring",
+          "detail": "招聘营销管培生，负责用户沟通、社媒运营、展会对接"
+        },
+        {
+          "category": "hiring",
+          "detail": "招聘产品助理/经理，需先轮岗用户运营1个月"
+        },
+        {
+          "category": "hiring",
+          "detail": "暑期招实习生分担基础工作，招管培生辅助研发"
+        },
+        {
+          "category": "resignation",
+          "detail": "员工凯丽因违规（收受礼品未申报）被处理后提离职"
+        },
+        {
+          "category": "team",
+          "detail": "当前公司约20人，营销团队4人，计划明年扩至40-50人"
+        },
+        {
+          "category": "policy",
+          "detail": "员工手册执行需严格，违规行为必须公告以正风气"
+        }
+      ]
+    },
+    "open_questions": [
+      "张效丽二面是否由创始人团队参与",
+      "杜卓言产品助理offer是否直接发放",
+      "水星产品经理岗位是否进入下一轮",
+      "包装打样何时完成并确认"
+    ],
+    "keywords": [
+      "UI评审",
+      "声纹匹配度",
+      "会议导出",
+      "包装打样",
+      "HR招聘",
+      "管培生",
+      "产品助理",
+      "员工违规",
+      "青春版新品",
+      "上海办公室"
+    ]
+  }
+}

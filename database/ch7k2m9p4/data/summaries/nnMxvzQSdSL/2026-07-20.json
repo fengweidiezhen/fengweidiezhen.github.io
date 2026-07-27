@@ -202,10 +202,9 @@
         {
           "category": "role_change",
           "detail": "新招财务一练接手流程，原 HR 和财务被替换"
-        }
+        },
+        "open_questions: [    ]}  ,   "
       ]
-    },
-    "open_questions": [],
-    "keywords": []
+    }
   }
 }

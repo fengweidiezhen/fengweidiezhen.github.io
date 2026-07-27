@@ -1,0 +1,136 @@
+{
+  "user_id": "nn6WYcKyPnN",
+  "user_name": "amanda4",
+  "date": "2026-06-24",
+  "generated_at": "2026-07-27T18:13:45.485505+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda4",
+    "aliases": [
+      "amanda4",
+      "amanda4"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 196,
+    "char_count": 8478,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-06-24 会议与商务交流纪要",
+    "overview": "当日主体用户 amanda4 上午处理行李寄存后，与合作伙伴及同事进行商务交流，随后参加一邦动力研究院组织的战略与营销课程，听取分众传媒创始人关于电梯媒体品类创新与品牌传播的分享。",
+    "events": [
+      {
+        "time": "09:16",
+        "what_happened": "amanda4 在一楼办理行李寄存，确认下午取件",
+        "outcome": "行李寄存成功，获取取件凭证"
+      },
+      {
+        "time": "09:18",
+        "what_happened": "amanda4 与合作伙伴见面，交流工作与合作复盘",
+        "outcome": "约定后续沟通，讨论市场情况与合作机会"
+      },
+      {
+        "time": "09:28",
+        "what_happened": "活动开始，主持人介绍议程并邀请嘉宾分享",
+        "outcome": "进入分众传媒创始人战略分享环节"
+      },
+      {
+        "time": "09:33",
+        "what_happened": "分众传媒创始人分享电梯媒体品类创新历程",
+        "outcome": "阐述封闭空间、高关注、高频次、高文波的媒体策略"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "合作伙伴复盘与市场交流",
+        "summary": "讨论过往合作情况，了解对方团队规模及市场现状，探讨媒体合作可能性",
+        "participants_mentioned": [
+          "amanda4",
+          "合作伙伴"
+        ],
+        "decisions_or_todos": [
+          "后续邮件确认合作细节",
+          "保持沟通了解市场变化"
+        ]
+      },
+      {
+        "topic": "产品使用反馈",
+        "summary": "讨论某产品（疑似智能设备）的使用体验，对方表示将使用一个月后反馈",
+        "participants_mentioned": [
+          "amanda4",
+          "合作伙伴"
+        ],
+        "decisions_or_todos": [
+          "对方一个月后提供使用反馈"
+        ]
+      },
+      {
+        "topic": "电梯媒体与品牌传播策略",
+        "summary": "分众传媒创始人分享电梯媒体如何开创品类、建立品牌认知，强调封闭空间、高频次、生活场景融入的优势",
+        "participants_mentioned": [
+          "分众传媒创始人",
+          "江总"
+        ],
+        "decisions_or_todos": []
+      }
+    ],
+    "people": {
+      "subject_user_activity": "amanda4 上午处理行李寄存，与合作伙伴交流业务，参加战略课程",
+      "others_activity": "合作伙伴讨论合作复盘；分众传媒创始人进行战略分享；主持人介绍议程",
+      "mentioned": [
+        {
+          "name_or_alias": "江总",
+          "context": "战略咨询诊断专家，进行分享",
+          "relation_guess": "外部嘉宾/讲师"
+        },
+        {
+          "name_or_alias": "光光",
+          "context": "RO眼镜相关企业人员，企业刚起步",
+          "relation_guess": "合作伙伴/行业同行"
+        },
+        {
+          "name_or_alias": "马提社",
+          "context": "一邦动力相关人员，分享全球化话题",
+          "relation_guess": "活动嘉宾"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "参加一邦动力研究院战略课程",
+        "下午安排客户见面"
+      ],
+      "projects_or_business": [
+        "与合作伙伴复盘合作情况",
+        "探讨媒体合作机会"
+      ],
+      "risks_or_blockers": []
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "对方企业今年整体市场情况及面临的问题",
+      "产品使用一个月后的反馈结果"
+    ],
+    "keywords": [
+      "行李寄存",
+      "合作伙伴",
+      "复盘",
+      "电梯媒体",
+      "品牌传播",
+      "分众传媒",
+      "战略课程",
+      "一邦动力"
+    ]
+  }
+}

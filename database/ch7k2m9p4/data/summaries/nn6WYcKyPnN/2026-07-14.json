@@ -1,0 +1,54 @@
+{
+  "user_id": "nn6WYcKyPnN",
+  "user_name": "amanda4",
+  "date": "2026-07-14",
+  "generated_at": "2026-07-27T18:25:29.613624+08:00",
+  "model": "qwen3.7-max-2026-05-20",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda4",
+    "aliases": [
+      "amanda4",
+      "amanda4"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 5,
+    "char_count": 119,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "日常对话纪要",
+    "overview": "当日转写内容较少，主要为他人关于设备充电状态的简短交流，未涉及公司业务、财务或人事等实质性讨论。",
+    "events": [
+      {
+        "time": "20:57",
+        "what_happened": "他人讨论设备充电状态，确认电量是否达到百分之百",
+        "outcome": "未提及"
+      }
+    ],
+    "discussions": [],
+    "people": {
+      "subject_user_activity": "未提及",
+      "others_activity": "讨论设备充电情况，确认电量百分比",
+      "mentioned": []
+    },
+    "company": {
+      "plans_and_arrangements": [],
+      "projects_or_business": [],
+      "risks_or_blockers": []
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [],
+    "keywords": []
+  }
+}

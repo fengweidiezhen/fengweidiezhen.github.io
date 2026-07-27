@@ -1,0 +1,320 @@
+{
+  "user_id": "nn6WYcKyPnN",
+  "user_name": "amanda4",
+  "date": "2026-06-25",
+  "generated_at": "2026-07-27T18:15:33.344894+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda4",
+    "aliases": [
+      "amanda4",
+      "amanda4"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1861,
+    "char_count": 56844,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-06-25 工作讨论与日常对话纪要",
+    "overview": "当日主要围绕香港公司审计、报关、发票与税务、备用金等财务事项展开讨论，并涉及产品测试流程优化、研发代码质量、人员绩效沟通、招聘与岗位分工等人事话题。此外还讨论了上海新办公室选址、营销稿件撰写、3D打印耗材及相亲等日常话题。",
+    "events": [
+      {
+        "time": "14:31",
+        "what_happened": "讨论某工厂地址及集团名称",
+        "outcome": "确认地址为深大六零"
+      },
+      {
+        "time": "14:54",
+        "what_happened": "讨论账号登录及功能交接问题",
+        "outcome": "user 表示可集中处理登录困难"
+      },
+      {
+        "time": "16:03",
+        "what_happened": "讨论财务审计及 agency 合作事宜",
+        "outcome": "决定不理会 agency，自行处理审计"
+      },
+      {
+        "time": "16:08",
+        "what_happened": "讨论报关单及货物送至香港中文大学事宜",
+        "outcome": "需准备报关单，下月完成"
+      },
+      {
+        "time": "16:11",
+        "what_happened": "讨论发票清单及采购开票",
+        "outcome": "需列出需发票清单，区分采购与 agency"
+      },
+      {
+        "time": "16:16",
+        "what_happened": "讨论香港审计遗留问题及库存核对",
+        "outcome": "需列出任务清单并排优先级"
+      },
+      {
+        "time": "16:38",
+        "what_happened": "与测试人员沟通入职半年感受及建议",
+        "outcome": "建议完善 PRD 及测试计划"
+      },
+      {
+        "time": "17:08",
+        "what_happened": "与后端人员沟通代码质量及上线口碑",
+        "outcome": "要求减少 bug，聚焦工作质量"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "香港公司审计",
+        "summary": "讨论审计中研发费用拆分、工资重复、价格过高等问题，需与审计方沟通确认",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "确认工资与研发工资是否重复",
+          "与审计方沟通收款主体归属",
+          "尽快完成审计任务"
+        ]
+      },
+      {
+        "topic": "报关与货物出口",
+        "summary": "讨论报关单准备及货物送至香港中文大学事宜，需排计划时间表",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "下月内完成报关相关事项",
+          "制定报关计划时间表"
+        ]
+      },
+      {
+        "topic": "发票与税务",
+        "summary": "讨论一般纳税人进项发票需求，需补已付款未开发票的清单",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "列出需发票清单",
+          "与记账公司沟通本月进项需求",
+          "6月30日前补齐发票"
+        ]
+      },
+      {
+        "topic": "产品测试流程",
+        "summary": "测试人员建议完善 PRD 及测试计划，减少突发需求",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "测试人员撰写测试 pipeline 计划"
+        ]
+      },
+      {
+        "topic": "后端代码质量",
+        "summary": "要求后端人员聚焦工作，减少 bug，重视上线口碑",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "减少后端 bug",
+          "自己先体验产品再输出"
+        ]
+      },
+      {
+        "topic": "人员绩效与沟通",
+        "summary": "讨论某员工请假流程及 HR 漏风问题，对 HR 表现不满",
+        "participants_mentioned": [
+          "user",
+          "others",
+          "马强",
+          "韩",
+          "HR"
+        ],
+        "decisions_or_todos": [
+          "考虑更换 HR",
+          "规范请假流程"
+        ]
+      },
+      {
+        "topic": "上海办公室选址",
+        "summary": "讨论谢总提供的南京西路办公室，考虑面积与政府补贴",
+        "participants_mentioned": [
+          "user",
+          "others",
+          "谢总"
+        ],
+        "decisions_or_todos": [
+          "确认办公室面积需求",
+          "了解政府补贴政策"
+        ]
+      },
+      {
+        "topic": "营销稿件撰写",
+        "summary": "讨论晚点 AI 采访稿件撰写，需突出用户与格局",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "完成稿件并突出用户故事",
+          "准备九月份新品发布预告"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主导讨论审计、报关、发票、税务等财务事项，与测试及后端人员沟通工作质量，参与相亲话题讨论",
+      "others_activity": "协助处理审计数据、报关单、发票清单，参与测试与后端工作沟通，讨论相亲对象",
+      "mentioned": [
+        {
+          "name_or_alias": "谢总",
+          "context": "提供上海办公室资源，参与相亲讨论",
+          "relation_guess": "公司高层或资源方"
+        },
+        {
+          "name_or_alias": "马强",
+          "context": "请假流程引发讨论",
+          "relation_guess": "公司员工"
+        },
+        {
+          "name_or_alias": "韩",
+          "context": "与马强请假事件相关",
+          "relation_guess": "公司 HR 或管理人员"
+        },
+        {
+          "name_or_alias": "周姐",
+          "context": "讨论其项目经理能力及定位",
+          "relation_guess": "公司管理人员"
+        },
+        {
+          "name_or_alias": "谢瑞寒",
+          "context": "相亲讨论对象",
+          "relation_guess": "实验室人员"
+        },
+        {
+          "name_or_alias": "波罗",
+          "context": "相亲讨论对象，博学有女朋友",
+          "relation_guess": "实验室人员"
+        },
+        {
+          "name_or_alias": "四帆",
+          "context": "被要求作图",
+          "relation_guess": "设计或运营人员"
+        },
+        {
+          "name_or_alias": "曹先生",
+          "context": "苏州四大船王，当校长",
+          "relation_guess": "外部人士"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "下月完成报关相关事项",
+        "6月30日前补齐发票",
+        "撰写晚点 AI 采访稿件",
+        "九月份发布新品",
+        "考虑上海南京西路办公室"
+      ],
+      "projects_or_business": [
+        "香港公司审计",
+        "产品测试流程优化",
+        "后端代码质量提升",
+        "3D打印耗材讨论"
+      ],
+      "risks_or_blockers": [
+        "审计中研发费用拆分存在争议",
+        "HR 漏风及请假流程不规范",
+        "后端 bug 影响上线口碑",
+        "测试需求突发缺乏计划性"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "tax",
+          "detail": "一般纳税人进项发票需求，需与记账公司沟通本月进项",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "invoice",
+          "detail": "列出需发票清单，区分采购与 agency，6月30日前补齐",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "谢总报销差旅费十万块钱需提供发票",
+          "amount_or_terms": "十万"
+        },
+        {
+          "category": "cost",
+          "detail": "3D打印耗材成本讨论，一公斤约四十元，毛利百分之五十",
+          "amount_or_terms": "一公斤约四十元"
+        },
+        {
+          "category": "budget",
+          "detail": "讨论上海办公室面积需求及政府补贴",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "payment",
+          "detail": "已付款但未开发票的需补齐",
+          "amount_or_terms": "未提及具体金额"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "performance",
+          "detail": "与测试人员沟通入职半年感受，建议完善测试计划"
+        },
+        {
+          "category": "performance",
+          "detail": "与后端人员沟通代码质量，要求减少 bug"
+        },
+        {
+          "category": "policy",
+          "detail": "讨论马强请假流程及 HR 漏风问题，考虑更换 HR"
+        },
+        {
+          "category": "role_change",
+          "detail": "讨论周姐定位为项目经理，暂不赋予全权"
+        },
+        {
+          "category": "hiring",
+          "detail": "讨论招聘算法简历，薪资要求三十五到五十万"
+        },
+        {
+          "category": "team",
+          "detail": "讨论隐林需要助理做账，考虑短期招聘"
+        }
+      ]
+    },
+    "open_questions": [
+      "审计中研发费用与工资是否重复需确认",
+      "报关计划时间表需制定",
+      "上海办公室面积及补贴政策需确认",
+      "HR 是否更换需决策"
+    ],
+    "keywords": [
+      "审计",
+      "报关",
+      "发票",
+      "税务",
+      "测试",
+      "后端",
+      "HR",
+      "上海办公室",
+      "相亲",
+      "3D打印"
+    ]
+  }
+}

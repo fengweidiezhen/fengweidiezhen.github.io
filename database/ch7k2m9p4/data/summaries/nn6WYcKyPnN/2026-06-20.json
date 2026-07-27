@@ -1,0 +1,260 @@
+{
+  "user_id": "nn6WYcKyPnN",
+  "user_name": "amanda4",
+  "date": "2026-06-20",
+  "generated_at": "2026-07-27T18:08:22.787839+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda4",
+    "aliases": [
+      "amanda4",
+      "amanda4"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 5170,
+    "char_count": 80000,
+    "es_refreshed": true,
+    "truncated": true
+  },
+  "summary": {
+    "title": "珑娜智能吊坠产品发布会及内测用户交流活动",
+    "overview": "2026年6月20日，主体用户amanda4与团队在深圳万象城门店举办珑娜(Uloop)智能吊坠产品发布会。上午进行场地布置、物料准备、茶歇安排及VIP接待分工；中午与两位内测用户(深圳001号用户杨先生、武汉用户刘先生)聚餐交流产品体验；下午两点半正式开始发布会，创始人谢总上台演讲介绍产品理念与功能，随后内测用户分享使用感受。活动涉及签到送花、小红书打卡引导、茶歇甜点布置等环节。",
+    "events": [
+      {
+        "time": "08:55",
+        "what_happened": "团队驾车前往活动场地",
+        "outcome": "到达万象城附近"
+      },
+      {
+        "time": "09:19",
+        "what_happened": "到达办公室搬运设备及物料",
+        "outcome": "发现设备挂链无备用，讨论解决方案"
+      },
+      {
+        "time": "09:20",
+        "what_happened": "分发活动统一服装(公服)",
+        "outcome": "团队成员试穿不同尺码"
+      },
+      {
+        "time": "09:46",
+        "what_happened": "搬运设备、茶歇物料、鲜花等下楼装车",
+        "outcome": "准备前往活动场地"
+      },
+      {
+        "time": "10:00",
+        "what_happened": "讨论谢总过往演讲经历及企业介绍视频制作计划",
+        "outcome": "计划明年重新拍摄企业介绍视频"
+      },
+      {
+        "time": "10:30",
+        "what_happened": "购买鲜花、茶歇甜点、饮料等物料",
+        "outcome": "采购蝴蝶酥、可颂、提拉米苏、布丁杯等"
+      },
+      {
+        "time": "11:00",
+        "what_happened": "安排内测用户午餐及转款刷单事宜",
+        "outcome": "为京东刷单破百目标安排转账"
+      },
+      {
+        "time": "11:55",
+        "what_happened": "与内测用户杨先生、刘先生在餐厅聚餐",
+        "outcome": "交流产品使用体验及生活话题"
+      },
+      {
+        "time": "13:30",
+        "what_happened": "返回场地进行最后布置",
+        "outcome": "摆放茶歇、鲜花、签到台、礼物等"
+      },
+      {
+        "time": "14:30",
+        "what_happened": "发布会正式开始",
+        "outcome": "谢总上台演讲，内测用户分享体验"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "设备挂链备用问题",
+        "summary": "发现设备挂链没有备份，13台设备只有13条链子，测试机需要4条，讨论是否有备用链子",
+        "participants_mentioned": [
+          "amanda4",
+          "肖红"
+        ],
+        "decisions_or_todos": [
+          "确认公司是否有备用链子",
+          "测试机单独安排"
+        ]
+      },
+      {
+        "topic": "活动场地布置与物料",
+        "summary": "讨论鲜花摆放、茶歇甜点摆盘、签到台设置、VIP座位安排、礼物分发等细节",
+        "participants_mentioned": [
+          "amanda4",
+          "肖红",
+          "依恋"
+        ],
+        "decisions_or_todos": [
+          "买100朵花用于签到赠送",
+          "准备茶歇甜点并摆盘",
+          "第一排预留VIP座位",
+          "引导小红书打卡送钥匙扣"
+        ]
+      },
+      {
+        "topic": "京东刷单破百计划",
+        "summary": "为发布会数据好看，安排给刷单用户转账，通过支付宝或微信转账",
+        "participants_mentioned": [
+          "amanda4"
+        ],
+        "decisions_or_todos": [
+          "拉群安排转账",
+          "确认订单截图后转账"
+        ]
+      },
+      {
+        "topic": "谢总演讲准备",
+        "summary": "讨论谢总演讲风格偏学术像教授讲课，需要准备讲稿，要求powerful一些",
+        "participants_mentioned": [
+          "amanda4",
+          "谢总"
+        ],
+        "decisions_or_todos": [
+          "谢总准备演讲稿",
+          "控制演讲节奏"
+        ]
+      },
+      {
+        "topic": "内测用户产品体验反馈",
+        "summary": "杨先生(001号用户)分享产品外观扁平化、页面简洁、情绪记录功能帮助自我觉察；提到产品像养成系、情绪捕捉准确",
+        "participants_mentioned": [
+          "杨先生",
+          "刘先生",
+          "谢总"
+        ],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "VIP接待分工",
+        "summary": "安排玉语、amanda4闺蜜等接待VIP，谢总亲自接待特别VIP，第一排预留座位",
+        "participants_mentioned": [
+          "amanda4",
+          "玉语",
+          "谢总"
+        ],
+        "decisions_or_todos": [
+          "玉语负责接待VIP",
+          "第一排留2-3个空位给重要嘉宾"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "全程统筹活动，包括场地布置、物料采购、茶歇安排、VIP接待分工、与内测用户聚餐交流、现场把控",
+      "others_activity": "谢总准备演讲稿并上台发言；肖红协助搬运设备布置场地；依恋负责采购鲜花茶歇；玉语接待VIP；内测用户杨先生和刘先生分享产品体验",
+      "mentioned": [
+        {
+          "name_or_alias": "谢总",
+          "context": "珑娜创始人兼CEO，北大本科、香港中文大学博士，负责技术背景，低调不爱表现，上台演讲介绍产品",
+          "relation_guess": "公司创始人/CEO，主体用户的上级或合伙人"
+        },
+        {
+          "name_or_alias": "肖红",
+          "context": "协助搬运设备、布置场地、拆包装",
+          "relation_guess": "团队成员/同事"
+        },
+        {
+          "name_or_alias": "依恋",
+          "context": "负责采购鲜花、茶歇甜点等物料",
+          "relation_guess": "团队成员/同事"
+        },
+        {
+          "name_or_alias": "玉语",
+          "context": "负责接待VIP客户",
+          "relation_guess": "团队成员/同事"
+        },
+        {
+          "name_or_alias": "杨先生",
+          "context": "深圳001号内测用户，做用户运营工作，爱爬雪山，分享产品体验",
+          "relation_guess": "内测用户/产品体验者"
+        },
+        {
+          "name_or_alias": "刘先生",
+          "context": "武汉内测用户，超级E人，能讲能分享",
+          "relation_guess": "内测用户/产品体验者"
+        },
+        {
+          "name_or_alias": "小叶",
+          "context": "董事长，经常迟到，需要预留座位",
+          "relation_guess": "公司高管/投资人"
+        },
+        {
+          "name_or_alias": "amanda4闺蜜",
+          "context": "从新加坡回来，协助接待VIP",
+          "relation_guess": "朋友/志愿者"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "在深圳万象城门店举办珑娜智能吊坠产品发布会",
+        "计划明年重新拍摄企业介绍视频，拆除其他品牌logo",
+        "京东刷单破百目标以提升reputation数据",
+        "引导用户小红书打卡扩大品牌曝光"
+      ],
+      "projects_or_business": [
+        "珑娜(Uloop)智能吊坠产品发布，主打情绪监测与Personal AI",
+        "产品定位：随身情绪急救库，从生理监测延伸到身心状态感知",
+        "技术特点：本地算法计算、端侧AI、无使用门槛、续航长",
+        "功能包括：情绪日报、情绪趋势曲线、状态异常提醒、情绪安抚"
+      ],
+      "risks_or_blockers": [
+        "设备挂链无备用，可能影响设备展示",
+        "活动现场较吵闹，需要多次引导观众安静",
+        "茶歇甜点被快速消耗，准备不足",
+        "部分物料(如蝴蝶装饰)未找到"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "payment",
+          "detail": "京东刷单转账，为内测用户下单后转账报销",
+          "amount_or_terms": "杨先生闺蜜订单：2916.86减800后转2116.86；另有1399订单需转款"
+        },
+        {
+          "category": "cost",
+          "detail": "活动物料采购费用，包括鲜花、茶歇甜点、饮料、钥匙扣礼物等",
+          "amount_or_terms": "鲜花100朵、甜点一百多份、钥匙扣300个"
+        },
+        {
+          "category": "other",
+          "detail": "产品折扣，现场购买有优惠",
+          "amount_or_terms": "1139元产品有约200元折扣"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "设备挂链备用问题如何解决",
+      "企业介绍视频何时重新拍摄",
+      "产品后续功能迭代计划"
+    ],
+    "keywords": [
+      "珑娜",
+      "Uloop",
+      "智能吊坠",
+      "情绪监测",
+      "Personal AI",
+      "发布会",
+      "内测用户",
+      "万象城",
+      "谢总",
+      "刷单"
+    ]
+  }
+}

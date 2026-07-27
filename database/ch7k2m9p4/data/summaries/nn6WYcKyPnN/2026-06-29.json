@@ -1,0 +1,201 @@
+{
+  "user_id": "nn6WYcKyPnN",
+  "user_name": "amanda4",
+  "date": "2026-06-29",
+  "generated_at": "2026-07-27T18:19:42.074103+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda4",
+    "aliases": [
+      "amanda4",
+      "amanda4"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1152,
+    "char_count": 36280,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-06-29 工作纪要",
+    "overview": "当日主要围绕产品推广、发布会筹备、财务填报及3D打印测试展开。上午讨论AI生成视频上热搜及开箱视频重做；下午与外部团队洽谈合作，探讨产品造型与联名模式；随后处理工信部年报统计填报，核对收入、研发费用等数据；晚间筹备上海发布会邀请，并进行3D打印材料测试。",
+    "events": [
+      {
+        "time": "11:58",
+        "what_happened": "讨论AI生成视频上热搜，热度达462万，多个APP首页展示",
+        "outcome": "决定重新制作开箱视频"
+      },
+      {
+        "time": "15:46",
+        "what_happened": "与外部团队洽谈产品合作，介绍APP功能模块及情绪感知技术",
+        "outcome": "对方提出造型优化需求，计划后续沟通设计方案"
+      },
+      {
+        "time": "17:07",
+        "what_happened": "填报工信部2026年上半年年报统计，核对总收入、研发费用等数据",
+        "outcome": "修正收入数据，确认研发费用分类，完成表格填报"
+      },
+      {
+        "time": "19:46",
+        "what_happened": "筹备上海发布会，邀请媒体、投资人及网红，确认场地及嘉宾名单",
+        "outcome": "已邀请约30人，场地为高端场所，计划7月举办"
+      },
+      {
+        "time": "21:20",
+        "what_happened": "测试3D打印材料，发现PETG材料收缩导致无法固定",
+        "outcome": "需更换材料或调整打印参数"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "产品推广与开箱视频",
+        "summary": "AI生成视频上热搜，但测评信息需优化，决定重做开箱视频",
+        "participants_mentioned": [
+          "温亲一"
+        ],
+        "decisions_or_todos": [
+          "重新制作开箱视频"
+        ]
+      },
+      {
+        "topic": "外部合作洽谈",
+        "summary": "与外部团队讨论产品联名、造型设计及合作模式，对方强调颜值与情绪价值",
+        "participants_mentioned": [
+          "谢总"
+        ],
+        "decisions_or_todos": [
+          "优化产品造型设计",
+          "探讨联名合作模式"
+        ]
+      },
+      {
+        "topic": "工信部年报填报",
+        "summary": "核对总收入、研发费用、知识产权等数据，修正收入统计口径",
+        "participants_mentioned": [
+          "花花"
+        ],
+        "decisions_or_todos": [
+          "完成年报填报",
+          "整理研发费用明细"
+        ]
+      },
+      {
+        "topic": "上海发布会筹备",
+        "summary": "确认发布会场地、嘉宾名单及媒体邀请，计划7月举办",
+        "participants_mentioned": [
+          "梁总",
+          "吴总",
+          "陈总"
+        ],
+        "decisions_or_todos": [
+          "确认嘉宾名单",
+          "安排发布会流程"
+        ]
+      },
+      {
+        "topic": "3D打印测试",
+        "summary": "测试PETG材料打印效果，发现收缩问题导致无法固定",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "更换打印材料",
+          "调整打印参数"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与产品推广讨论、外部合作洽谈、财务填报及发布会筹备，主导3D打印测试",
+      "others_activity": "协助财务数据核对、参与合作洽谈、提供3D打印技术支持",
+      "mentioned": [
+        {
+          "name_or_alias": "温亲一",
+          "context": "提及多个APP首页展示产品视频",
+          "relation_guess": "同事或合作伙伴"
+        },
+        {
+          "name_or_alias": "谢总",
+          "context": "外部团队负责人，参与产品合作洽谈",
+          "relation_guess": "潜在合作方"
+        },
+        {
+          "name_or_alias": "花花",
+          "context": "协助财务填报，沟通研发费用分类",
+          "relation_guess": "财务或行政人员"
+        },
+        {
+          "name_or_alias": "梁总",
+          "context": "36氪负责人，受邀参加发布会",
+          "relation_guess": "媒体合作方"
+        },
+        {
+          "name_or_alias": "吴总",
+          "context": "受邀参加发布会并安排采访",
+          "relation_guess": "媒体或投资人"
+        },
+        {
+          "name_or_alias": "陈总",
+          "context": "AI应用商店负责人，受邀参加发布会",
+          "relation_guess": "行业合作方"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "7月在上海举办产品发布会",
+        "入驻天猫、小红书及微店",
+        "9月推出青春版产品",
+        "明年推出第二代AI产品"
+      ],
+      "projects_or_business": [
+        "产品联名合作洽谈",
+        "开箱视频重制",
+        "3D打印材料测试"
+      ],
+      "risks_or_blockers": [
+        "PETG材料收缩导致打印失败",
+        "产品造型优化需时间"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "other",
+          "detail": "工信部年报填报，核对总收入及研发费用",
+          "amount_or_terms": "总收入需扣除680万借款"
+        },
+        {
+          "category": "reimbursement",
+          "detail": "报销7200元费用",
+          "amount_or_terms": "7200元"
+        },
+        {
+          "category": "other",
+          "detail": "政府补贴1000元（应届生就业补贴）",
+          "amount_or_terms": "1000元"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "3D打印材料收缩问题如何解决",
+      "产品造型优化方案如何落地",
+      "发布会具体流程及嘉宾确认"
+    ],
+    "keywords": [
+      "发布会",
+      "工信部年报",
+      "3D打印",
+      "联名合作",
+      "天猫入驻",
+      "开箱视频",
+      "研发费用",
+      "PETG材料"
+    ]
+  }
+}

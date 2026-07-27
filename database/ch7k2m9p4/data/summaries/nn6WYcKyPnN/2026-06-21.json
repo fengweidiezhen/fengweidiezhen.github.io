@@ -1,0 +1,277 @@
+{
+  "user_id": "nn6WYcKyPnN",
+  "user_name": "amanda4",
+  "date": "2026-06-21",
+  "generated_at": "2026-07-27T18:09:56.694482+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda4",
+    "aliases": [
+      "amanda4",
+      "amanda4"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1429,
+    "char_count": 50898,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "智能吊坠产品展会推广与团队管理讨论",
+    "overview": "2026-06-21，主体用户amanda4在展会现场推广公司智能吊坠产品，向客户介绍情绪追踪、记忆库、隐私保护等功能。期间与同事讨论团队管理问题、研发人员表现、供应链风险及后续上海发布会安排。产品已在美国和中国同步销售，国内首发期在京东和iOC100门店有优惠活动。",
+    "events": [
+      {
+        "time": "14:34",
+        "what_happened": "展会现场开始接待客户，介绍智能吊坠产品功能",
+        "outcome": "多位客户了解产品并关注小红书"
+      },
+      {
+        "time": "15:04",
+        "what_happened": "讨论昨日展会活动组织混乱问题，品牌方甩锅",
+        "outcome": "决定不再与该品牌方合作"
+      },
+      {
+        "time": "15:20",
+        "what_happened": "讨论研发管理问题及周姐工作状态",
+        "outcome": "计划去上海清静并重新梳理团队管理"
+      },
+      {
+        "time": "15:36",
+        "what_happened": "向客户演示吊坠情绪追踪和记忆球功能",
+        "outcome": "客户对产品隐私保护机制表示认可"
+      },
+      {
+        "time": "16:00",
+        "what_happened": "讨论产品定价及首发期优惠政策",
+        "outcome": "金属款1499元，首发期有200元折扣"
+      },
+      {
+        "time": "16:36",
+        "what_happened": "讨论硬件量产性和供应链风险",
+        "outcome": "需在上海前找多家合作工厂并准备二供方案"
+      },
+      {
+        "time": "17:00",
+        "what_happened": "向英文客户介绍产品功能",
+        "outcome": "客户对产品表示兴趣"
+      },
+      {
+        "time": "18:00",
+        "what_happened": "继续接待客户并演示产品",
+        "outcome": "引导客户关注小红书和公众号"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "产品功能与隐私保护",
+        "summary": "智能吊坠通过毫米波雷达和麦克风多模态算法追踪情绪状态，数据在端侧处理后丢弃，不上传云端，使用自研模型保护隐私",
+        "participants_mentioned": [
+          "amanda4"
+        ],
+        "decisions_or_todos": [
+          "继续强调隐私优先卖点"
+        ]
+      },
+      {
+        "topic": "昨日展会活动复盘",
+        "summary": "品牌方组织混乱，现场甩锅，VIP客户体验差，小朋友抢礼品",
+        "participants_mentioned": [
+          "amanda4",
+          "文汉"
+        ],
+        "decisions_or_todos": [
+          "不再与该品牌方合作",
+          "下次活动限流"
+        ]
+      },
+      {
+        "topic": "团队管理与研发问题",
+        "summary": "研发人员问题严重，周姐工作状态混乱，需要重新梳理管理体系",
+        "participants_mentioned": [
+          "amanda4",
+          "周姐",
+          "丹妮斯"
+        ],
+        "decisions_or_todos": [
+          "去上海处理团队问题",
+          "给下属明确红线反馈"
+        ]
+      },
+      {
+        "topic": "供应链与量产风险",
+        "summary": "出货仓促，细节未完善，担心量产性和合作工厂能力",
+        "participants_mentioned": [
+          "amanda4"
+        ],
+        "decisions_or_todos": [
+          "上海前找多家工厂",
+          "元器件和包装准备二供方案"
+        ]
+      },
+      {
+        "topic": "产品定价与销售策略",
+        "summary": "金属款1499元，首发期优惠200元，美国售价299美金",
+        "participants_mentioned": [
+          "amanda4"
+        ],
+        "decisions_or_todos": [
+          "七月份抽奖送Tiffany钻石项链"
+        ]
+      },
+      {
+        "topic": "后续产品规划",
+        "summary": "七月份支持黑客松共创，与智能灯品牌联名，释放个人Agent功能",
+        "participants_mentioned": [
+          "amanda4"
+        ],
+        "decisions_or_todos": [
+          "七月份上海开发布会",
+          "对接智能灯品牌合作"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "在展会现场向客户介绍智能吊坠产品功能，演示情绪追踪和记忆库功能，处理客户咨询，与同事讨论团队管理和供应链问题",
+      "others_activity": "同事协助接待客户、处理刷单和库存盘点、讨论产品研发和团队管理问题",
+      "mentioned": [
+        {
+          "name_or_alias": "周姐",
+          "context": "工作状态混乱，容易做错事，脑子不清醒",
+          "relation_guess": "下属/团队成员"
+        },
+        {
+          "name_or_alias": "文汉",
+          "context": "昨日展会活动相关，被评价为人品问题",
+          "relation_guess": "合作方/品牌方人员"
+        },
+        {
+          "name_or_alias": "丹妮斯",
+          "context": "研发管理问题相关人员",
+          "relation_guess": "下属/团队成员"
+        },
+        {
+          "name_or_alias": "老师",
+          "context": "从美国回来，需要约见讨论研发管理问题",
+          "relation_guess": "上级/顾问"
+        },
+        {
+          "name_or_alias": "谢总",
+          "context": "与amanda4一起处理工作",
+          "relation_guess": "同事/合伙人"
+        },
+        {
+          "name_or_alias": "小可爱/小叶",
+          "context": "被评价工作态度较好，提前来帮忙",
+          "relation_guess": "下属/团队成员"
+        },
+        {
+          "name_or_alias": "高陆",
+          "context": "在展会现场唠家常展示优越感",
+          "relation_guess": "同事/合作方"
+        },
+        {
+          "name_or_alias": "百万网红学弟",
+          "context": "在洛杉矶好莱坞，女朋友喜欢产品，可能出素材",
+          "relation_guess": "朋友/KOL"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "七月份在上海开产品发布会",
+        "七月份支持黑客松共创活动",
+        "与智能灯品牌联名合作",
+        "释放个人Agent功能",
+        "开通微店、小红书等线上渠道",
+        "上海深圳两地跑处理供应链问题"
+      ],
+      "projects_or_business": [
+        "智能吊坠产品国内首发，在京东和iOC100门店销售",
+        "产品已在美国销售半年，月销过万",
+        "产品获多个国际设计奖",
+        "公司总部在香港，深圳有办公室"
+      ],
+      "risks_or_blockers": [
+        "硬件量产性担忧，出货仓促细节未完善",
+        "合作工厂能力存疑，需找多家工厂备选",
+        "研发管理问题严重，团队需要重新梳理",
+        "昨日展会活动组织混乱影响品牌形象"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "payment",
+          "detail": "给店员发提成2500元",
+          "amount_or_terms": "2500元"
+        },
+        {
+          "category": "cost",
+          "detail": "产品毛利可以cover提成成本",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "payment",
+          "detail": "产品售价金属款1499元，首发期优惠200元",
+          "amount_or_terms": "1499元/1299元"
+        },
+        {
+          "category": "payment",
+          "detail": "美国售价299美金",
+          "amount_or_terms": "299美金"
+        },
+        {
+          "category": "payment",
+          "detail": "给品牌方转1000元过生日",
+          "amount_or_terms": "1000元"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "performance",
+          "detail": "周姐工作状态混乱，容易做错事，脑子不清醒"
+        },
+        {
+          "category": "team",
+          "detail": "研发管理问题严重，需要重新梳理团队"
+        },
+        {
+          "category": "performance",
+          "detail": "小可爱/小叶工作态度好，提前来帮忙"
+        },
+        {
+          "category": "policy",
+          "detail": "需要给下属明确红线反馈，不能依赖某一个人"
+        }
+      ]
+    },
+    "open_questions": [
+      "供应链合作工厂能力如何保障",
+      "二代产品何时推出及改进方向",
+      "团队管理问题如何解决",
+      "七月份发布会具体安排"
+    ],
+    "keywords": [
+      "智能吊坠",
+      "情绪追踪",
+      "记忆库",
+      "隐私保护",
+      "端侧处理",
+      "毫米波雷达",
+      "iOC100",
+      "京东",
+      "黑客松",
+      "供应链",
+      "量产",
+      "团队管理",
+      "发布会"
+    ]
+  }
+}

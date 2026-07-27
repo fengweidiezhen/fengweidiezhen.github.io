@@ -1,0 +1,157 @@
+{
+  "user_id": "nn6WYcKyPnN",
+  "user_name": "amanda4",
+  "date": "2026-06-22",
+  "generated_at": "2026-07-27T18:11:07.440217+08:00",
+  "model": "qwen3.7-plus-2026-05-26",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "amanda4",
+    "aliases": [
+      "amanda4",
+      "amanda4"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 133,
+    "char_count": 3118,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "2026-06-22 工作沟通与出差准备纪要",
+    "overview": "当日主要围绕电子签、库存盘点表修改、海外仓库存导出及出差准备展开沟通，涉及合同签署方式、盘点人员调整、财务与人事相关表格处理，以及后续行程安排。",
+    "events": [
+      {
+        "time": "19:08",
+        "what_happened": "讨论带饭及水果相关日常事务",
+        "outcome": "无明确结论"
+      },
+      {
+        "time": "21:31",
+        "what_happened": "确认是否存在服务费",
+        "outcome": "待进一步核实"
+      },
+      {
+        "time": "21:34",
+        "what_happened": "讨论合同是否可使用电子签及电子章",
+        "outcome": "确认使用电子签方式"
+      },
+      {
+        "time": "21:35",
+        "what_happened": "提及原盘点人员已离职，需调整盘点表",
+        "outcome": "决定修改盘点人信息"
+      },
+      {
+        "time": "21:42",
+        "what_happened": "修改海外仓库存盘点表，将盘点人改为指定人员",
+        "outcome": "完成表格修改并准备出差物品"
+      },
+      {
+        "time": "21:49",
+        "what_happened": "导航语音提示行驶路线",
+        "outcome": "前往目的地"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "合同签署方式",
+        "summary": "讨论合同是否可使用电子签及电子章，确认采用电子签方式",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "使用电子签完成合同签署"
+        ]
+      },
+      {
+        "topic": "库存盘点表修改",
+        "summary": "原盘点人员已离职，需将盘点人信息更改为其他人员，并调整海外仓库存导出内容",
+        "participants_mentioned": [
+          "user",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "修改盘点人信息",
+          "导出海外仓库存数据"
+        ]
+      },
+      {
+        "topic": "服务费确认",
+        "summary": "确认是否存在相关服务费用",
+        "participants_mentioned": [
+          "user"
+        ],
+        "decisions_or_todos": [
+          "进一步核实服务费情况"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与合同签署方式讨论，修改库存盘点表，准备出差物品",
+      "others_activity": "协助确认电子签、盘点人变更及表格修改",
+      "mentioned": [
+        {
+          "name_or_alias": "三营",
+          "context": "提及带饭相关事务",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "他弟",
+          "context": "提及介绍认识以便沟通",
+          "relation_guess": "他人亲属"
+        },
+        {
+          "name_or_alias": "原盘点人",
+          "context": "已离职，需更换盘点表人员",
+          "relation_guess": "前同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "准备出差物品，安排后续行程"
+      ],
+      "projects_or_business": [
+        "海外仓库存盘点与导出",
+        "合同电子签流程推进"
+      ],
+      "risks_or_blockers": [
+        "原盘点人员已离职，需调整盘点表信息"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "cost",
+          "detail": "确认是否存在服务费",
+          "amount_or_terms": "待核实"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "resignation",
+          "detail": "原盘点人员已离职，需更换盘点表人员"
+        }
+      ]
+    },
+    "open_questions": [
+      "服务费是否存在需进一步确认",
+      "电子签流程是否需要额外审批"
+    ],
+    "keywords": [
+      "电子签",
+      "库存盘点",
+      "海外仓",
+      "服务费",
+      "出差准备",
+      "盘点人变更"
+    ]
+  }
+}
