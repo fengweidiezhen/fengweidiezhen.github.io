@@ -1,0 +1,302 @@
+{
+  "user_id": "nnqELYDZDwQ",
+  "user_name": "Teacher",
+  "date": "2026-07-27",
+  "generated_at": "2026-07-29T12:36:43.637936+08:00",
+  "model": "qwen3.7-max-2026-05-20",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "Teacher",
+    "aliases": [
+      "Teacher",
+      "Teacher"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 906,
+    "char_count": 58106,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "学术报告修改与系务招聘计划讨论",
+    "overview": "当日主要围绕学术报告（research report）修改意见、系内招聘计划（hiring plan）制定、DPC流程优化、非教学人员管理、学生事务处理及课程项目设置等进行了多轮讨论，并涉及日常出行与家庭事务。",
+    "events": [
+      {
+        "time": "15:36",
+        "what_happened": "他人对research report提出修改意见，指出SS之间关系不明显、模块递进关系不明确、Chat but需改英文等问题",
+        "outcome": "user要求波罗和李阳先讨论修改，计划五点半左右再碰面或线上过一遍"
+      },
+      {
+        "time": "15:44",
+        "what_happened": "讨论系内hiring plan，涉及faculty opening数量、ten percent increase政策、周三前提交plan给院里",
+        "outcome": "决定先提交包含四个opening的计划，不一定全部获批，先打广告看情况"
+      },
+      {
+        "time": "16:01",
+        "what_happened": "user提出DPC招聘流程优化想法，包括screening、interview、feedback沟通机制",
+        "outcome": "计划形成内部沟通机制，让系内同事有更多参与感，后续整理成文档"
+      },
+      {
+        "time": "16:31",
+        "what_happened": "讨论技术团队人员变动、non-teaching staff绩效review、software team lead安排",
+        "outcome": "团队目前趋于稳定，Peter负责software team，计划增加人手避免single point of failure"
+      },
+      {
+        "time": "16:44",
+        "what_happened": "讨论学生心理危机事件处理经验，包括faculty board汇报要求",
+        "outcome": "user了解需认真对待学生危机事件，需与academic advisor协作处理"
+      },
+      {
+        "time": "17:10",
+        "what_happened": "讨论是否开设新program（如security方向），认为AI时代专业边界模糊",
+        "outcome": "倾向于不单独开设security program，保持现有项目稳定"
+      },
+      {
+        "time": "17:52",
+        "what_happened": "user提醒他人需与系里record核对论文署名信息，确认通讯作者安排",
+        "outcome": "要求尽快向康里获取完整record列表"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "Research Report修改",
+        "summary": "报告逻辑性不强，工程性内容过多，模块间递进关系不明确，部分界面需改英文",
+        "participants_mentioned": [
+          "波罗",
+          "李阳"
+        ],
+        "decisions_or_todos": [
+          "波罗和李阳先讨论修改",
+          "五点半左右碰面或线上过一遍"
+        ]
+      },
+      {
+        "topic": "Hiring Plan制定",
+        "summary": "院里允许在现有faculty基础上增加10%（约2个opening），共4个opening需周三前提交plan",
+        "participants_mentioned": [
+          "Kevin",
+          "An",
+          "Pore",
+          "卓安"
+        ],
+        "decisions_or_todos": [
+          "周三前提交hiring plan",
+          "先打广告再根据批准情况调整",
+          "八月一号上任后再细化各area"
+        ]
+      },
+      {
+        "topic": "DPC招聘流程优化",
+        "summary": "现有流程参与感不足，feedback机制不透明，需增加内部沟通和讨论环节",
+        "participants_mentioned": [
+          "Peter",
+          "Clara"
+        ],
+        "decisions_or_todos": [
+          "建立内部沟通机制",
+          "允许评审人修改意见后再提交",
+          "按领域安排search committee成员全程参与"
+        ]
+      },
+      {
+        "topic": "Non-teaching Staff管理",
+        "summary": "技术团队经历人员变动后趋于稳定，需避免single point of failure，考虑增加人手",
+        "participants_mentioned": [
+          "Peter",
+          "Mac",
+          "Con"
+        ],
+        "decisions_or_todos": [
+          "申请增加project coordinator岗位",
+          "考虑将部分工作offload到cloud"
+        ]
+      },
+      {
+        "topic": "学生心理危机处理",
+        "summary": "分享过往学生自杀及心理问题案例，强调需认真对待并在faculty board汇报",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "遇到严重case需联系academic advisor",
+          "准备充分材料应对faculty board质询"
+        ]
+      },
+      {
+        "topic": "课程设置与Program方向",
+        "summary": "讨论是否开设security等细分方向program，认为AI时代专业边界变薄，不宜过度细分",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "暂不开设security program",
+          "保持现有项目稳定"
+        ]
+      },
+      {
+        "topic": "招生配额与录取分数",
+        "summary": "讨论非本地生比例从20%提高到50%的政策变化，以及录取分数线的广告效应",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "关注招生配额目标",
+          "适当调整公布分数线以维护品牌形象"
+        ]
+      },
+      {
+        "topic": "办公室空间分配",
+        "summary": "讨论将两人办公室改为独立办公室的方案，涉及soft wall隔断和space申请",
+        "participants_mentioned": [
+          "Clara"
+        ],
+        "decisions_or_todos": [
+          "Clara发送hiring plan",
+          "继续跟进space分配问题"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与research report修改讨论、主导hiring plan和DPC流程优化讨论、指导论文署名规范、处理日常家庭事务（送孩子、找停车场等）",
+      "others_activity": "提出报告修改意见、分享系务管理经验（人员变动、学生危机处理、招生政策）、讨论技术团队管理和课程设置",
+      "mentioned": [
+        {
+          "name_or_alias": "波罗",
+          "context": "参与research report修改",
+          "relation_guess": "同事或下属"
+        },
+        {
+          "name_or_alias": "李阳",
+          "context": "参与research report修改",
+          "relation_guess": "同事或下属"
+        },
+        {
+          "name_or_alias": "Kevin",
+          "context": "讨论hiring plan细节",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "An",
+          "context": "参与hiring plan讨论",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "Pore",
+          "context": "参与five year plan撰写",
+          "relation_guess": "同事"
+        },
+        {
+          "name_or_alias": "Peter",
+          "context": "负责software team和non-teaching staff review",
+          "relation_guess": "技术团队负责人"
+        },
+        {
+          "name_or_alias": "Clara",
+          "context": "负责发送hiring plan和space申请",
+          "relation_guess": "行政人员"
+        },
+        {
+          "name_or_alias": "卓安",
+          "context": "回复关于plan提交时间的邮件",
+          "relation_guess": "院里管理人员"
+        },
+        {
+          "name_or_alias": "Mac",
+          "context": "技术团队成员",
+          "relation_guess": "技术人员"
+        },
+        {
+          "name_or_alias": "康里",
+          "context": "持有完整论文record列表",
+          "relation_guess": "系行政人员"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "周三前向院里提交hiring plan（含4个opening）",
+        "八月一号上任后细化各area招聘方向",
+        "八月二十八号召开retreat讨论整体strategy",
+        "建立DPC内部沟通与feedback机制",
+        "申请增加project coordinator岗位"
+      ],
+      "projects_or_business": [
+        "Research report修改与完善",
+        "Five year plan撰写",
+        "Faculty hiring plan制定",
+        "Non-teaching staff绩效review",
+        "招生配额与录取管理"
+      ],
+      "risks_or_blockers": [
+        "招聘流程过长（SP一个月开一次会），可能miss优秀candidate",
+        "技术团队存在single point of failure风险",
+        "办公室空间不足，申请未获批",
+        "学生心理危机事件处理压力大"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "budget",
+          "detail": "院里允许faculty增加10%（约2个opening），涉及cost sharing",
+          "amount_or_terms": "10% increase"
+        },
+        {
+          "category": "cost",
+          "detail": "讨论faculty hiring的cost sharing机制，院里可能要求系里承担部分费用",
+          "amount_or_terms": "未明确"
+        },
+        {
+          "category": "budget",
+          "detail": "以前有未花完的经费",
+          "amount_or_terms": "未明确"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "计划招聘4个faculty opening，其中2个为carry forward，2个为新增"
+        },
+        {
+          "category": "hiring",
+          "detail": "讨论fast track招聘机制，针对特别优秀的candidate可加速流程"
+        },
+        {
+          "category": "role_change",
+          "detail": "技术团队job title从technician改为assistant computer officer以便招聘"
+        },
+        {
+          "category": "performance",
+          "detail": "Peter负责non-teaching staff的performance review"
+        },
+        {
+          "category": "team",
+          "detail": "技术团队经历多人退休后趋于稳定，software team和hardware team各有lead"
+        },
+        {
+          "category": "hiring",
+          "detail": "讨论招聘AI方向人才，各系竞争激烈"
+        }
+      ]
+    },
+    "open_questions": [
+      "院里最终会批准几个faculty opening",
+      "Cost sharing比例如何确定",
+      "Space分配申请是否能获批",
+      "DPC流程优化方案如何具体落地",
+      "非本地生比例提高后对招生质量的影响"
+    ],
+    "keywords": [
+      "hiring plan",
+      "DPC",
+      "faculty opening",
+      "research report",
+      "non-teaching staff",
+      "cost sharing",
+      "space allocation",
+      "student crisis",
+      "recruitment",
+      "AI"
+    ]
+  }
+}

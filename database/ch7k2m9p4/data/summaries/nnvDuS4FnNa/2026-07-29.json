@@ -1,0 +1,110 @@
+{
+  "user_id": "nnvDuS4FnNa",
+  "user_name": "cc",
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T13:30:14.672121+08:00",
+  "model": "qwen3.7-max-2026-05-20",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "cc",
+    "aliases": [
+      "cc",
+      "cc"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 201,
+    "char_count": 3298,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "硬件测试与代理商沟通纪要",
+    "overview": "当日主要围绕硬件（充电板、主板、C组合）测试确认、市场代理商周期及供货问题展开讨论，涉及产品测试异常排查与代理商合作沟通。",
+    "events": [
+      {
+        "time": "09:42",
+        "what_happened": "确认充电板加主板与C组合的硬件测试情况，排查存电灯及主板地压波分问题",
+        "outcome": "两个问题已解决，账位机确认OK"
+      },
+      {
+        "time": "11:08",
+        "what_happened": "讨论市场代理商供货周期问题，对比天面厂出货量",
+        "outcome": "确认代理商周期较长，需进一步沟通优化"
+      },
+      {
+        "time": "11:42",
+        "what_happened": "进行硬件批次测试，记录成功率数据",
+        "outcome": "测试八十六十四半，成功十次，继续排查问题"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "硬件测试异常排查",
+        "summary": "针对充电板、主板及C组合进行测试，确认存电灯和主板地压波分两个问题已解决",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "继续跟进硬件测试，确保无异常"
+        ]
+      },
+      {
+        "topic": "代理商供货周期",
+        "summary": "讨论市场代理商供货周期较长的问题，对比天面厂出货量，分析代理商到货时间",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "与几家大代理商进一步沟通周期问题"
+        ]
+      },
+      {
+        "topic": "批次测试成功率",
+        "summary": "进行硬件批次测试，成功率偏低，需排查原因",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "分析测试失败原因并反馈"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "未明确记录cc的具体发言，可能参与旁听或讨论",
+      "others_activity": "多人参与硬件测试确认、代理商周期讨论及批次测试排查",
+      "mentioned": []
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "继续跟进硬件测试确保无异常",
+        "与代理商沟通优化供货周期"
+      ],
+      "projects_or_business": [
+        "充电板、主板、C组合硬件项目",
+        "市场代理商供货合作"
+      ],
+      "risks_or_blockers": [
+        "代理商供货周期较长影响出货",
+        "批次测试成功率偏低需排查"
+      ]
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "代理商供货周期能否缩短",
+      "批次测试成功率偏低的具体原因"
+    ],
+    "keywords": [
+      "充电板",
+      "主板",
+      "C组合",
+      "代理商",
+      "供货周期",
+      "批次测试",
+      "存电灯",
+      "地压波分"
+    ]
+  }
+}

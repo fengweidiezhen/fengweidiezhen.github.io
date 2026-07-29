@@ -1,0 +1,202 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T12:34:24.267755+08:00",
+  "model": "qwen3.7-max-2026-05-20",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 215,
+    "char_count": 9726,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "上海选址与融资沟通及研发晨会纪要",
+    "overview": "上午与外部人员沟通上海办公选址（徐汇滨江优先）、融资进展及人才公寓安排；随后召开研发晨会，同步昨日开发测试进度，讨论电量显示、日志补回、搜索功能等产品技术问题。",
+    "events": [
+      {
+        "time": "09:00",
+        "what_happened": "与外部人员电话沟通上海办公选址、融资对接及人才公寓事宜",
+        "outcome": "确认选址优先徐汇滨江，融资材料整理中，人才公寓预计12月投入市场"
+      },
+      {
+        "time": "09:32",
+        "what_happened": "召开研发晨会，通报昨日各模块开发与测试完成情况",
+        "outcome": "确认佩戴检测无问题，电量显示、日志补回等问题需专项处理"
+      },
+      {
+        "time": "09:44",
+        "what_happened": "与产品/设计人员讨论搜索功能与离线缓存展示方案",
+        "outcome": "明确第一版采用精确关键词搜索，需解决结果过多展示及离线数据占位问题"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "上海办公选址",
+        "summary": "计划八九月在上海设立办公点，优先考虑徐汇滨江区域，因年轻人聚集且契合公司定位；红果场地为短期合作；张江偏硬件实验，不太适合当前业务",
+        "participants_mentioned": [
+          "zhiyuan",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "选址节奏可能延至九月，配合新品发布与外滩大会",
+          "如需提前申请可配合推进"
+        ]
+      },
+      {
+        "topic": "融资进展",
+        "summary": "上一轮融资因战线过长受阻，当前正基于战略与产品变化重新整理融资材料，尚未正式对外沟通",
+        "participants_mentioned": [
+          "zhiyuan",
+          "others",
+          "杨津丁总"
+        ],
+        "decisions_or_todos": [
+          "整理完成后将同步给对接人，由其协助对接高瓴、蓝驰等机构"
+        ]
+      },
+      {
+        "topic": "人才公寓安排",
+        "summary": "公司自建人才公寓预计12月投入市场，9月可看样板间；建亚总需长期驻沪，初期可能采用港和生面方式解决住宿",
+        "participants_mentioned": [
+          "zhiyuan",
+          "others",
+          "建亚总"
+        ],
+        "decisions_or_todos": [
+          "九月后根据实际需求协调住宿方案"
+        ]
+      },
+      {
+        "topic": "电量显示与充电曲线问题",
+        "summary": "设备离开充电底座后电量显示快速下降，因充电时电压偏高导致虚电；当前续航整体达标，但显示逻辑需优化",
+        "participants_mentioned": [
+          "zhiyuan",
+          "俊国",
+          "马强"
+        ],
+        "decisions_or_todos": [
+          "暂不处理，后续作为专项集中攻关"
+        ]
+      },
+      {
+        "topic": "日志与时间流数据补回",
+        "summary": "P平台被杀后记球数据可补回，但时间流数据无补回逻辑，导致历史离线数据无法关联",
+        "participants_mentioned": [
+          "zhiyuan",
+          "刚子"
+        ],
+        "decisions_or_todos": [
+          "需补充时间流补回逻辑，今日提交修复"
+        ]
+      },
+      {
+        "topic": "搜索功能第一版设计",
+        "summary": "第一版采用精确关键词匹配，需解决无结果提示与结果过多展示问题；离线数据需占位标识提示用户后续将生成记球",
+        "participants_mentioned": [
+          "zhiyuan",
+          "others"
+        ],
+        "decisions_or_todos": [
+          "先提供搜索框并提示用户输入关键词",
+          "设计离线数据占位展示方案"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "主导研发晨会，通报进度、分配任务、协调产品技术细节；参与选址与融资沟通，说明公司节奏与需求",
+      "others_activity": "外部人员提供选址建议、融资资源对接及人才公寓信息；内部成员汇报开发与测试进展",
+      "mentioned": [
+        {
+          "name_or_alias": "杨津丁总",
+          "context": "曾到访公司，与科产公司有接触",
+          "relation_guess": "合作方或投资方相关人员"
+        },
+        {
+          "name_or_alias": "建亚总",
+          "context": "需长期驻沪，关注人才公寓安排",
+          "relation_guess": "公司高管或核心成员"
+        },
+        {
+          "name_or_alias": "俊国",
+          "context": "负责模型SDK更新、录制页样式等开发任务",
+          "relation_guess": "研发工程师"
+        },
+        {
+          "name_or_alias": "马强",
+          "context": "验证青春版充电版及功耗分析",
+          "relation_guess": "硬件或测试工程师"
+        },
+        {
+          "name_or_alias": "刚子",
+          "context": "处理日志库清理、时间流补回逻辑",
+          "relation_guess": "后端开发工程师"
+        },
+        {
+          "name_or_alias": "浩林",
+          "context": "算法任务负责人，参与基重分布测试评估",
+          "relation_guess": "算法工程师"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "八九月在上海设立办公点，优先徐汇滨江",
+        "九月参加外滩大会",
+        "近期发布新品",
+        "融资材料整理完成后启动新一轮对接"
+      ],
+      "projects_or_business": [
+        "新品研发与发布",
+        "大模型交互与记球功能",
+        "青春版/充电版硬件验证",
+        "搜索与离线缓存功能开发"
+      ],
+      "risks_or_blockers": [
+        "上海选址若延迟至九月底可能受区域政策影响",
+        "融资战线过长易导致热度下降",
+        "电量显示虚电问题影响用户体验",
+        "时间流数据无补回逻辑导致离线数据断层"
+      ]
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "team",
+          "detail": "建亚总需长期驻沪，初期住宿通过港和生面方式解决，人才公寓12月可用"
+        }
+      ]
+    },
+    "open_questions": [
+      "搜索结果为空或过多时的UI展示方案尚未确定",
+      "电量显示虚电问题是否需增加BOM模块优化",
+      "基重分布与天气地理信息功能的测试通过标准待明确"
+    ],
+    "keywords": [
+      "徐汇滨江",
+      "融资",
+      "新品发布",
+      "外滩大会",
+      "人才公寓",
+      "电量显示",
+      "时间流补回",
+      "精确搜索",
+      "离线缓存",
+      "基重分布"
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "user_id": "nnRWbEXHxyA",
+  "user_name": "zhiyuan",
+  "date": "2026-07-28",
+  "generated_at": "2026-07-29T12:32:55.656748+08:00",
+  "model": "qwen3.7-max-2026-05-20",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "zhiyuan",
+    "aliases": [
+      "zhiyuan",
+      "zhiyuan"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 1821,
+    "char_count": 67030,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "项目答辩、投资人沟通与团队面试纪要",
+    "overview": "主体用户上午参加深圳人才园项目答辩，下午与投资人深入沟通融资策略与BP优化方向，期间进行两场技术面试（后端开发与算法工程师），并讨论团队招聘、人事纠纷及产品迭代规划。",
+    "events": [
+      {
+        "time": "08:20",
+        "what_happened": "到达深圳人才园地下停车场，准备参加项目答辩",
+        "outcome": "顺利签到并进入第二等候室"
+      },
+      {
+        "time": "09:42",
+        "what_happened": "进行物企科技CX项目答辩，介绍可穿戴智能体产品诺娜",
+        "outcome": "完成10分钟路演及问答，专家对毫米波雷达应用及隐私保护提问"
+      },
+      {
+        "time": "14:28",
+        "what_happened": "面试后端开发候选人，考察Java/SpringBoot及流式输出技术",
+        "outcome": "候选人技术基础扎实，计划推进后续流程"
+      },
+      {
+        "time": "16:34",
+        "what_happened": "与投资人会面，展示产品并讨论融资策略",
+        "outcome": "投资人建议优化BP叙事逻辑，一周内更新后推给红杉等头部机构"
+      },
+      {
+        "time": "19:00",
+        "what_happened": "面试算法工程师候选人，考察RAG架构及大模型微调经验",
+        "outcome": "怀疑候选人使用AI辅助面试，需进一步评估"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "产品技术壁垒与竞争优势",
+        "summary": "讨论毫米波雷达在可穿戴设备上的首创应用、端侧AI计算优势及隐私保护策略，承认技术壁垒有限但强调工程积累与数据资产价值",
+        "participants_mentioned": [
+          "zhiyuan",
+          "投资人"
+        ],
+        "decisions_or_todos": [
+          "在BP中突出1-2个独特技术点，结合痛点叙事"
+        ]
+      },
+      {
+        "topic": "融资策略与BP优化",
+        "summary": "投资人指出当前BP过于技术化、抽象，建议强化商业化路径、销售预期及产品迭代规划，针对头部基金调整叙事逻辑",
+        "participants_mentioned": [
+          "zhiyuan",
+          "投资人"
+        ],
+        "decisions_or_todos": [
+          "一周内更新BP，补充财务预测与时间节点规划",
+          "优先接触头部投资机构，避免接受不知名资金"
+        ]
+      },
+      {
+        "topic": "团队招聘与人事管理",
+        "summary": "讨论客服、算法、产品经理等岗位招聘进展，处理前员工工资纠纷及竞业协议问题",
+        "participants_mentioned": [
+          "zhiyuan",
+          "同事"
+        ],
+        "decisions_or_todos": [
+          "紧急招聘京东客服提升转化率",
+          "跟进前员工多发工资追回事宜"
+        ]
+      },
+      {
+        "topic": "产品迭代与市场策略",
+        "summary": "规划青春版降价策略、第二代产品模块化设计及明星代言合作，强调颜值驱动购买与数据资产长期价值",
+        "participants_mentioned": [
+          "zhiyuan",
+          "投资人"
+        ],
+        "decisions_or_ids": [
+          "一个月内推出青春版，价格减半功能精简",
+          "联系杨幂经纪人探讨代言合作"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参加项目答辩、面试候选人、与投资人沟通融资、讨论产品与团队管理",
+      "others_activity": "投资人提供融资建议、同事协助招聘与人事处理、候选人参与面试",
+      "mentioned": [
+        {
+          "name_or_alias": "投资人",
+          "context": "下午会面讨论BP优化与融资策略，建议强化商业化叙事并推给红杉等机构",
+          "relation_guess": "潜在投资方代表"
+        },
+        {
+          "name_or_alias": "梁志杰",
+          "context": "答辩现场第二位出场者",
+          "relation_guess": "同场答辩创业者"
+        },
+        {
+          "name_or_alias": "黄家怡",
+          "context": "上午面试候选人之一",
+          "relation_guess": "求职者"
+        },
+        {
+          "name_or_alias": "黄君山",
+          "context": "上午面试候选人之一",
+          "relation_guess": "求职者"
+        },
+        {
+          "name_or_alias": "李惠敏",
+          "context": "提及的面试候选人",
+          "relation_guess": "求职者"
+        },
+        {
+          "name_or_alias": "紫奇",
+          "context": "晚间面试的算法工程师候选人，曾在平安工作",
+          "relation_guess": "求职者"
+        },
+        {
+          "name_or_alias": "boss",
+          "context": "前CEO，因管理冲突与竞业问题离开，现创业做情感手环",
+          "relation_guess": "前公司高管"
+        },
+        {
+          "name_or_alias": "导师",
+          "context": "香港中文大学教授，公司联合创始人，持股较多",
+          "relation_guess": "学术导师兼合伙人"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "一个月内推出青春版产品，价格降至700元左右",
+        "2026年Q4或2027年Q1发布第二代模块化产品",
+        "一周内更新BP并推给头部投资机构",
+        "紧急招聘京东客服提升线上转化率",
+        "探索与飞利浦合作实现场景联动"
+      ],
+      "projects_or_business": [
+        "诺娜可穿戴智能体：集成麦克风阵列与毫米波雷达的吊坠设备",
+        "端侧AI计算平台：隐私优先的本地数据处理",
+        "个人记忆资产系统：连续记录与结构化沉淀",
+        "Agent接口开放：支持第三方调用用户数据资产"
+      ],
+      "risks_or_blockers": [
+        "技术壁垒有限，竞品可在半年内模仿",
+        "客服缺失严重影响京东转化率",
+        "前CEO违反竞业协议，存在法律与融资风险",
+        "投资人对CEO消费品运营能力存疑"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "payment",
+          "detail": "前员工工资多发五千余元，需追回",
+          "amount_or_terms": "5000+元"
+        },
+        {
+          "category": "budget",
+          "detail": "硬件研发成本六百多万元，单台BOM成本两百多元",
+          "amount_or_terms": "600万+ / 200+元/台"
+        },
+        {
+          "category": "payment",
+          "detail": "产品销售额四百多万人民币，出货两三千台",
+          "amount_or_terms": "400万+ / 2000-3000台"
+        },
+        {
+          "category": "other",
+          "detail": "国内定价1399-1499元，北美299美金",
+          "amount_or_terms": "1399-1499元 / 299 USD"
+        },
+        {
+          "category": "other",
+          "detail": "上轮融资1200万人民币，投后估值约2300万美金",
+          "amount_or_terms": "1200万 / 2300万USD"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "hiring",
+          "detail": "招聘京东客服、算法工程师、产品经理，团队现约20人"
+        },
+        {
+          "category": "resignation",
+          "detail": "前CEO于2025年6月离职，创办竞品公司"
+        },
+        {
+          "category": "team",
+          "detail": "算法团队4人，后端仅1名资深工程师"
+        },
+        {
+          "category": "other",
+          "detail": "处理前员工工资纠纷，存在未签离职证明风险"
+        }
+      ]
+    },
+    "open_questions": [
+      "如何构建可持续的技术与品牌壁垒应对竞品模仿",
+      "如何平衡硬件销售与数据资产长期商业模式",
+      "如何提升CEO在消费品领域的运营与营销能力",
+      "如何有效追回前员工多发工资并防范法律风险"
+    ],
+    "keywords": [
+      "可穿戴设备",
+      "毫米波雷达",
+      "端侧AI",
+      "隐私保护",
+      "记忆资产",
+      "青春版",
+      "融资BP",
+      "红杉",
+      "京东",
+      "竞业协议"
+    ]
+  }
+}

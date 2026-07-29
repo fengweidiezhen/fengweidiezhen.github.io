@@ -1,0 +1,173 @@
+{
+  "user_id": "nnqELYDZDwQ",
+  "user_name": "Teacher",
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T12:39:25.513446+08:00",
+  "model": "qwen3.7-max-2026-05-20",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "Teacher",
+    "aliases": [
+      "Teacher",
+      "Teacher"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 64,
+    "char_count": 3268,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "端侧智能与芯片项目讨论",
+    "overview": "参与者讨论了端侧大模型推理芯片项目的技术路线、投资规划及落地场景，并交流了个人学术与职业背景。",
+    "events": [
+      {
+        "time": "12:26",
+        "what_happened": "回顾过往投资经历，提及曾为金控赚取数十亿收益及五千万、二十亿等投资细节",
+        "outcome": "未提及"
+      },
+      {
+        "time": "12:28",
+        "what_happened": "讨论端侧推理芯片项目，提及龙港十几万订单及赵营局长相关背景",
+        "outcome": "认可该方案方向"
+      },
+      {
+        "time": "12:29",
+        "what_happened": "阐述端侧大模型技术突破，说明已做两三年基础研究，1.3B模型已在实验室验证",
+        "outcome": "计划分两步走：先做端侧模型，再做芯片"
+      },
+      {
+        "time": "12:32",
+        "what_happened": "介绍端侧大模型应用场景，包括穿戴设备、个人健康、机器人、AI玩具等",
+        "outcome": "认为生态前景良好"
+      },
+      {
+        "time": "12:33",
+        "what_happened": "新参与者凯城到达，众人交流个人背景，包括来深圳时间、学历经历等",
+        "outcome": "未提及"
+      },
+      {
+        "time": "12:34",
+        "what_happened": "user 分享个人经历：九八年保送研究生，零一年赴美，零六年城市大学任教，密歇根大学四年，一八年回中大",
+        "outcome": "未提及"
+      },
+      {
+        "time": "12:35",
+        "what_happened": "讨论香港与深圳在供应链、工程落地方面的差异，提及张林在深圳做科窗围",
+        "outcome": "认为深圳产业链更完善"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "端侧推理芯片项目规划",
+        "summary": "讨论端侧大模型推理的技术路线，建议先训练端侧模型再推进芯片开发，因芯片链条长、投资大",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "分两步走：先做端侧模型，再做芯片",
+          "主要投资用于算力投入训练端侧模型"
+        ]
+      },
+      {
+        "topic": "端侧大模型应用场景",
+        "summary": "端侧模型可应用于穿戴设备、个人健康、机器人、AI玩具等，实验室有四十位博士可围绕该方向展开研究",
+        "participants_mentioned": [],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "香港与深圳产业环境对比",
+        "summary": "香港适合算法研发，但供应链和工程落地困难；深圳产业链完善，适合产品落地",
+        "participants_mentioned": [
+          "张林"
+        ],
+        "decisions_or_todos": []
+      }
+    ],
+    "people": {
+      "subject_user_activity": "分享个人学术与职业经历，包括保送研究生、赴美留学、城市大学任教、密歇根大学工作、回中大等",
+      "others_activity": "讨论端侧智能项目技术路线与投资规划，回顾过往投资经历，交流个人背景",
+      "mentioned": [
+        {
+          "name_or_alias": "赵营局长",
+          "context": "提及端侧推理芯片项目早期订单相关人物",
+          "relation_guess": "政府或合作方人员"
+        },
+        {
+          "name_or_alias": "张林",
+          "context": "在深圳做科窗围，与user曾是同一领域并有合作",
+          "relation_guess": "同行或合作伙伴"
+        },
+        {
+          "name_or_alias": "凯城",
+          "context": "会议中途到达的参与者",
+          "relation_guess": "项目相关人员"
+        },
+        {
+          "name_or_alias": "卫军",
+          "context": "提及投资相关讨论中的人物",
+          "relation_guess": "投资合伙人或同事"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "分两步推进端侧智能项目：先训练端侧模型，再开发芯片",
+        "算力投入用于训练端侧模型"
+      ],
+      "projects_or_business": [
+        "端侧大模型推理芯片项目",
+        "端侧大模型在穿戴设备、健康设备、机器人、AI玩具等场景的应用"
+      ],
+      "risks_or_blockers": [
+        "芯片开发链条长、投资体量大",
+        "香港供应链和工程落地生态不完善"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "other",
+          "detail": "回顾过往投资，提及为金控赚取数十亿收益",
+          "amount_or_terms": "数十亿"
+        },
+        {
+          "category": "other",
+          "detail": "提及五千万投资相关讨论",
+          "amount_or_terms": "五千万"
+        },
+        {
+          "category": "other",
+          "detail": "提及二十亿投资追入",
+          "amount_or_terms": "二十亿"
+        },
+        {
+          "category": "other",
+          "detail": "龙港早期订单金额",
+          "amount_or_terms": "十几万"
+        },
+        {
+          "category": "budget",
+          "detail": "端侧模型训练需要算力投入",
+          "amount_or_terms": "未提及具体金额"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [],
+    "keywords": [
+      "端侧大模型",
+      "推理芯片",
+      "算力投入",
+      "穿戴设备",
+      "机器人",
+      "AI玩具",
+      "深圳产业链",
+      "国科微"
+    ]
+  }
+}

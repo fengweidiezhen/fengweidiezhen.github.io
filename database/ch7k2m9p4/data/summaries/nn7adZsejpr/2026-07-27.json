@@ -1,0 +1,76 @@
+{
+  "user_id": "nn7adZsejpr",
+  "user_name": "stella",
+  "date": "2026-07-27",
+  "generated_at": "2026-07-29T12:34:56.254279+08:00",
+  "model": "qwen3.7-max-2026-05-20",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "stella",
+    "aliases": [
+      "stella",
+      "stella"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 12,
+    "char_count": 232,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "日常对话纪要",
+    "overview": "当日转写内容较少且语义不完整，主要为他人零散对话，涉及搜索工具使用及某项时间指标讨论，未形成明确结论或安排。",
+    "events": [
+      {
+        "time": "17:44",
+        "what_happened": "他人讨论使用某搜索工具（疑似‘搜了克’）进行搜索，并提及修改别名或配置",
+        "outcome": "未提及"
+      },
+      {
+        "time": "17:45",
+        "what_happened": "他人提及某项指标从十毫秒变化",
+        "outcome": "未提及"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "搜索工具使用",
+        "summary": "他人讨论使用某搜索工具进行搜索，并提及修改别名或配置的可能性",
+        "participants_mentioned": [],
+        "decisions_or_todos": []
+      },
+      {
+        "topic": "时间指标变化",
+        "summary": "他人提及某项指标从十毫秒发生变化，具体内容不完整",
+        "participants_mentioned": [],
+        "decisions_or_todos": []
+      }
+    ],
+    "people": {
+      "subject_user_activity": "未提及",
+      "others_activity": "他人进行零散对话，讨论搜索工具使用及时间指标变化",
+      "mentioned": []
+    },
+    "company": {
+      "plans_and_arrangements": [],
+      "projects_or_business": [],
+      "risks_or_blockers": []
+    },
+    "finance": {
+      "mentioned": false,
+      "items": []
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [],
+    "keywords": [
+      "搜索工具",
+      "别名",
+      "十毫秒"
+    ]
+  }
+}

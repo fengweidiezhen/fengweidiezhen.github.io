@@ -1,0 +1,164 @@
+{
+  "user_id": "nnZSJGE7Jnk",
+  "user_name": "财务",
+  "date": "2026-07-28",
+  "generated_at": "2026-07-29T13:32:46.375500+08:00",
+  "model": "qwen3.7-max-2026-05-20",
+  "prompt_version": "v2",
+  "user_profile_snapshot": {
+    "display_name": "财务",
+    "aliases": [
+      "财务",
+      "财务"
+    ],
+    "how_others_call": []
+  },
+  "source": {
+    "item_count": 436,
+    "char_count": 9385,
+    "es_refreshed": true,
+    "truncated": false
+  },
+  "summary": {
+    "title": "财务日常对话纪要",
+    "overview": "当日主要围绕财务报表核对、申报数据计算、设备采购讨论及合同流程处理展开，涉及四五六月份报表数据异常排查、营业收入测算、场景评估填报及合同寄送等事务。",
+    "events": [
+      {
+        "time": "10:07",
+        "what_happened": "讨论设备或软件界面操作，涉及颜色、灯定义及排件通讯等调试工作",
+        "outcome": "确认部分设置并继续调试"
+      },
+      {
+        "time": "17:37",
+        "what_happened": "讨论电脑及显示屏采购价格，比较电脑与衣服的价值",
+        "outcome": "认为电脑比衣服更值得投资，提及一万五的价格"
+      },
+      {
+        "time": "19:10",
+        "what_happened": "核对四五六月份财务报表，发现申报总额与报表数据不一致，五月份利润表及四月份资产负债表存在异常",
+        "outcome": "标记问题数据，需进一步排查原因"
+      },
+      {
+        "time": "20:16",
+        "what_happened": "测算营业收入，讨论均价计算方式，涉及九十多乘以零点三的计算",
+        "outcome": "确认计算结果约九十四万"
+      },
+      {
+        "time": "20:27",
+        "what_happened": "进行场景评估填报，勾选深度改造重点场景，共十二个选项",
+        "outcome": "完成填报并截图保存至桌面"
+      },
+      {
+        "time": "20:34",
+        "what_happened": "处理合同流程，确认十五天前提交的合同已寄出，讨论合同一式两份及修改内容",
+        "outcome": "确认合同已处理，需跟进后续"
+      }
+    ],
+    "discussions": [
+      {
+        "topic": "财务报表数据异常",
+        "summary": "四五六月份报表数据与申报总额不一致，五月份利润表金额有误，四月份资产负债表出现负数，需排查原因",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "标记异常数据",
+          "七月底前提交报表"
+        ]
+      },
+      {
+        "topic": "营业收入测算",
+        "summary": "讨论营业收入计算方式，涉及均价与数量的乘积，确认最终营业收入约九十四万",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "按均价重新计算"
+        ]
+      },
+      {
+        "topic": "场景评估填报",
+        "summary": "完成深度改造重点场景评估，勾选十二个场景，涉及电子产品、水电表等",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "截图保存至桌面",
+          "下载填报结果"
+        ]
+      },
+      {
+        "topic": "合同处理",
+        "summary": "确认十五天前提交的合同已寄出，讨论合同修改内容及一式两份的要求",
+        "participants_mentioned": [],
+        "decisions_or_todos": [
+          "确认合同已寄出",
+          "跟进合同后续"
+        ]
+      }
+    ],
+    "people": {
+      "subject_user_activity": "参与财务报表核对、营业收入测算、场景评估填报及合同处理，提出数据异常问题并确认计算结果",
+      "others_activity": "协助调试设备、讨论采购价格、参与报表排查、完成场景填报及合同寄送",
+      "mentioned": [
+        {
+          "name_or_alias": "Nson",
+          "context": "告知文件找到，询问是否需要重新寄送",
+          "relation_guess": "同事或合作方"
+        }
+      ]
+    },
+    "company": {
+      "plans_and_arrangements": [
+        "七月底前提交二季度报表",
+        "完成场景评估填报并保存结果"
+      ],
+      "projects_or_business": [
+        "财务报表核对与申报",
+        "深度改造重点场景评估",
+        "合同寄送与流程处理"
+      ],
+      "risks_or_blockers": [
+        "四五六月份报表数据与申报总额不一致",
+        "四月份资产负债表出现负数异常"
+      ]
+    },
+    "finance": {
+      "mentioned": true,
+      "items": [
+        {
+          "category": "other",
+          "detail": "四五六月份报表数据与申报总额不一致，五月份利润表金额有误",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "other",
+          "detail": "四月份资产负债表出现负数",
+          "amount_or_terms": "未提及具体金额"
+        },
+        {
+          "category": "other",
+          "detail": "营业收入测算，均价乘以数量",
+          "amount_or_terms": "约九十四万"
+        },
+        {
+          "category": "cost",
+          "detail": "讨论电脑及显示屏采购价格",
+          "amount_or_terms": "一万五"
+        }
+      ]
+    },
+    "personnel": {
+      "mentioned": false,
+      "items": []
+    },
+    "open_questions": [
+      "四五六月份报表数据与申报总额不一致的原因",
+      "四月份资产负债表负数异常的原因"
+    ],
+    "keywords": [
+      "报表",
+      "申报",
+      "营业收入",
+      "资产负债表",
+      "利润表",
+      "场景评估",
+      "合同",
+      "电脑采购"
+    ]
+  }
+}
