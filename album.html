@@ -53,14 +53,39 @@
     .workflow-box {
       width: min(900px, calc(100% - 3rem));
       margin: 0 auto 2rem;
-      padding: 1.25rem 1.5rem;
+      padding: 1.5rem 1.75rem;
       background: rgba(0,0,0,0.03);
       border-left: 3px solid rgba(0,0,0,0.2);
       box-sizing: border-box;
     }
+    .workflow-box header {
+      margin-bottom: 1rem;
+    }
+    .workflow-box header p {
+      margin: 0 0 0.35rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      font-size: 0.8rem;
+      opacity: 0.7;
+    }
+    .workflow-box header h2 {
+      margin: 0;
+      font-size: 1.6rem;
+    }
+    .workflow-box code {
+      font-size: 0.9em;
+      padding: 0.1em 0.35em;
+      background: rgba(0,0,0,0.06);
+      border-radius: 4px;
+    }
+    .workflow-box .workflow-stack {
+      margin: 1rem 0 0;
+      opacity: 0.75;
+      font-size: 0.9rem;
+    }
     .workflow-box h4 { margin: 0 0 0.6rem; }
-    .workflow-box ol { margin: 0.5rem 0 0 1.25rem; padding: 0; }
-    .workflow-box li { margin: 0.3rem 0; }
+    .workflow-box ol { margin: 0.75rem 0 0 1.25rem; padding: 0; }
+    .workflow-box li { margin: 0.55rem 0; }
 
     /*
       Center each row in the browser:
@@ -350,20 +375,39 @@
         </header>
 
         <div class="workflow-box">
-          <h4>Workflow</h4>
+          <header class="align-center">
+            <p>ComfyUI · Anima · Wan</p>
+            <h2>Workflow</h2>
+          </header>
           <p>
-            I use a ComfyUI-based pipeline for stills and motion: text-to-image for keyframes,
-            then image-to-video / live-wallpaper nodes for short loops. Some wallpaper frames
-            come from Anima-style workflows; motion clips use FLF2V-style video generation.
+            Still frames and live wallpapers in this album are generated locally with
+            <strong>ComfyUI</strong>. Keyframes come from an Anima text-to-image graph;
+            short motion loops are built with Wan-style first–last-frame video generation.
           </p>
           <ol>
-            <li>Prompt + reference → text / image to image stills</li>
-            <li>Select keyframes → refine composition and lighting</li>
-            <li>Feed stills into video / live-wallpaper nodes for short loops</li>
-            <li>Export curated frames and clips for this gallery</li>
+            <li>
+              <strong>Text-to-image (Anima Aesthetic v1.1)</strong> —
+              prompt in Danbooru / natural-language style with Qwen3 text encoder +
+              Qwen-Image VAE. Base pass at <code>1344×768</code>
+              (30 steps, CFG 4.5, <code>er_sde</code>).
+            </li>
+            <li>
+              <strong>Hi-res fix</strong> —
+              latent upscale to <code>1920×1080</code>, then a second sampler pass
+              (≈20 steps, denoise ~0.45–0.50) to recover linework instead of naive resize.
+            </li>
+            <li>
+              <strong>Live wallpaper (Wan FLF2V / I2V)</strong> —
+              use a selected still as start (and often end) frame for a seamless loop:
+              subtle breathing, hair / fabric motion, light shifts; keep camera locked.
+            </li>
+            <li>
+              <strong>Curate &amp; export</strong> —
+              keep the best stills for the gallery grid; export short loops as live-wallpaper clips.
+            </li>
           </ol>
-          <p style="margin:0.75rem 0 0;opacity:0.75;font-size:0.9rem;">
-            Tip: replace this paragraph later with your exact node graph, model names, or a workflow screenshot.
+          <p class="workflow-stack">
+            Stack: ComfyUI · Anima Aesthetic v1.1 · Qwen3 0.6B · Qwen-Image VAE · Wan 2.x video nodes.
           </p>
         </div>
 
