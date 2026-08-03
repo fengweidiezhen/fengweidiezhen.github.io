@@ -1,2 +1,15 @@
 # Legacy monolithic index (use search-meta.json + search-index/*.json instead)
 database/**/search-index.json
+
+# Album / AI art originals stay local; site serves images_watermark/
+# (Re-run: python scripts/watermark_album_images.py)
+# Site chrome images (profile, logos, slides, unity…) stay in images/ and ARE uploaded.
+images/ai-art/
+images/makima.jpeg
+images/kafka.jpeg
+images/ganyu.jpeg
+images/octopus.jpeg
+images/amiya.jpeg
+images/kamado.jpeg
+images/kuromi.jpeg
+images/illori.jpg
