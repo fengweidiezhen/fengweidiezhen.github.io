@@ -1,5 +1,4 @@
 User-agent: *
 Disallow: /database/
-Disallow: /album.html
 Disallow: /post.html
 Disallow: /posts/

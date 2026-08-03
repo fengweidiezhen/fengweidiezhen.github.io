@@ -1,28 +1,125 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-  <title>My Art Album</title>
+  <title>Album - fengweidiezhen</title>
   <meta charset="utf-8">
-  <meta name="robots" content="noindex, nofollow">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="assets/css/main.css">
   <style>
-    .gallery {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      justify-items: center;
-      gap: 2rem;
-      padding: 2rem;
+    /* Kill template fixed-width .inner so nothing shifts left */
+    .wrapper > .inner {
+      width: 100% !important;
+      max-width: 100% !important;
+      margin: 0 !important;
+      padding: 0 0 2rem !important;
+      box-sizing: border-box;
     }
+    .wrapper.style3 > .inner {
+      width: min(1480px, calc(100% - 3rem)) !important;
+      max-width: 1480px !important;
+      margin: 0 auto !important;
+      padding: 0 1.5rem !important;
+    }
+    .album-nav {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+      margin: 0 auto 2rem;
+      padding: 0 1.5rem;
+    }
+    .album-nav a {
+      text-decoration: none;
+      border: 1px solid rgba(0,0,0,0.15);
+      padding: 0.45rem 1rem;
+      border-radius: 999px;
+      color: inherit;
+      font-size: 0.9rem;
+    }
+    .album-nav a:hover {
+      background: rgba(0,0,0,0.06);
+    }
+    .album-section {
+      margin-bottom: 3.5rem;
+    }
+    .album-section > header {
+      text-align: center;
+      margin: 0 auto 1.5rem;
+      padding: 0 1.5rem;
+    }
+    .album-section > header h3 {
+      margin-bottom: 0.4rem;
+    }
+    .workflow-box {
+      width: min(900px, calc(100% - 3rem));
+      margin: 0 auto 2rem;
+      padding: 1.25rem 1.5rem;
+      background: rgba(0,0,0,0.03);
+      border-left: 3px solid rgba(0,0,0,0.2);
+      box-sizing: border-box;
+    }
+    .workflow-box h4 { margin: 0 0 0.6rem; }
+    .workflow-box ol { margin: 0.5rem 0 0 1.25rem; padding: 0; }
+    .workflow-box li { margin: 0.3rem 0; }
+
+    /*
+      Center each row in the browser:
+      full-width shell + flex wrap + justify-content:center
+      so the middle card of a 3-card row sits on the viewport midline.
+    */
+    .gallery-shell {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      box-sizing: border-box;
+      padding: 0 1.5rem;
+    }
+    .gallery,
+    .video-grid {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      gap: 1.5rem;
+      width: 100%;
+      max-width: 1480px;
+      margin: 0;
+      padding: 0.5rem 0 1rem;
+      box-sizing: border-box;
+    }
+    .video-grid { margin-top: 0.5rem; }
+
+    .gallery-item,
+    .video-card {
+      /* exactly 3 per row inside max-width shell */
+      flex: 0 0 calc((100% - 3rem) / 3);
+      width: calc((100% - 3rem) / 3);
+      max-width: calc((100% - 3rem) / 3);
+      box-sizing: border-box;
+    }
+    @media (max-width: 980px) {
+      .gallery-item,
+      .video-card {
+        flex-basis: calc((100% - 1.5rem) / 2);
+        width: calc((100% - 1.5rem) / 2);
+        max-width: calc((100% - 1.5rem) / 2);
+      }
+    }
+    @media (max-width: 640px) {
+      .gallery-item,
+      .video-card {
+        flex-basis: 100%;
+        width: 100%;
+        max-width: 100%;
+      }
+    }
+
     .gallery-item {
-      width: 300px;
       border-radius: 12px;
       overflow: hidden;
       box-shadow: 0 2px 10px rgba(0,0,0,0.2);
       background: #fff;
       display: flex;
       flex-direction: column;
-      align-items: center;
       padding: 0;
       cursor: pointer;
       transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -33,23 +130,25 @@
     }
     .gallery-item-image-container {
       width: 100%;
-      height: 400px;
+      aspect-ratio: 16 / 9;
       overflow: hidden;
       display: flex;
       align-items: center;
       justify-content: center;
-      background: #f5f5f5;
+      background: #111;
+    }
+    #hand-drawn .gallery-item-image-container {
+      aspect-ratio: 4 / 3;
+      background: #f0f0f0;
     }
     .gallery-item img {
       width: 100%;
       height: 100%;
-      object-fit: cover;
+      object-fit: contain;
       display: block;
       transition: transform 0.3s ease;
     }
-    .gallery-item:hover img {
-      transform: scale(1.05);
-    }
+    .gallery-item:hover img { transform: scale(1.03); }
     .gallery-item-caption {
       padding: 0.5rem 1rem;
       background: #f2f2f2;
@@ -57,9 +156,27 @@
       color: #333;
       text-align: center;
       width: 100%;
+      box-sizing: border-box;
     }
-
-    /* Modal styles */
+    .video-card {
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+      background: #111;
+    }
+    .video-card video {
+      width: 100%;
+      display: block;
+      aspect-ratio: 16 / 9;
+      object-fit: cover;
+    }
+    .video-card .caption {
+      padding: 0.6rem 1rem;
+      background: #f2f2f2;
+      color: #333;
+      text-align: center;
+      font-size: 0.9rem;
+    }
     .modal {
       display: none;
       position: fixed;
@@ -83,9 +200,6 @@
       pointer-events: none;
     }
     .modal-container > * {
-      pointer-events: auto;
-    }
-    .modal-content, .modal-info {
       pointer-events: auto;
     }
     .modal-content {
@@ -141,70 +255,145 @@
     <a href="#menu">Menu</a>
   </header>
 
-  <!-- Nav -->
-   <nav id="menu"><ul class="links"><li><a href="index.html">Home</a></li>
-  </ul></nav>
+  <nav id="menu">
+    <ul class="links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="resume.html">Resume</a></li>
+      <li><a href="research.html">Research</a></li>
+      <li><a href="project.html">Projects</a></li>
+      <li><a href="album.html">Album</a></li>
+    </ul>
+  </nav>
+
+  <section class="wrapper style3">
+    <div class="inner">
+      <header class="align-center">
+        <p>Hand-drawn sketches &amp; AI generative work</p>
+        <h2>Album</h2>
+      </header>
+    </div>
+  </section>
 
   <section class="wrapper style2">
     <div class="inner">
-      <header class="align-center">
-        <h2>My Art Album</h2>
-        <p>A collection of drawings and creative pieces</p>
-      </header>
-      <div class="gallery">
-        <div class="gallery-item" onclick="openModal(this)" data-title="Makima" data-date="" data-description="">
-          <div class="gallery-item-image-container">
-            <img src="images/makima.jpeg" alt="Makima">
+      <div class="album-nav">
+        <a href="#hand-drawn">Hand-drawn</a>
+        <a href="#ai-art">AI Art</a>
+      </div>
+
+      <!-- Hand-drawn -->
+      <div class="album-section" id="hand-drawn">
+        <header>
+          <h3>Hand-drawn</h3>
+          <p>Line drawings and character sketches on paper</p>
+        </header>
+        <div class="gallery-shell">
+        <div class="gallery">
+          <div class="gallery-item" onclick="openModal(this)" data-title="Makima" data-date="" data-description="Hand-drawn character study">
+            <div class="gallery-item-image-container">
+              <img src="images/makima.jpeg" alt="Makima">
+            </div>
+            <div class="gallery-item-caption">Makima</div>
           </div>
-          <div class="gallery-item-caption">Makima</div>
+          <div class="gallery-item" onclick="openModal(this)" data-title="Kafka" data-date="" data-description="Hand-drawn character study">
+            <div class="gallery-item-image-container">
+              <img src="images/kafka.jpeg" alt="Kafka">
+            </div>
+            <div class="gallery-item-caption">Kafka</div>
+          </div>
+          <div class="gallery-item" onclick="openModal(this)" data-title="Ganyu" data-date="" data-description="Hand-drawn character study">
+            <div class="gallery-item-image-container">
+              <img src="images/ganyu.jpeg" alt="Ganyu">
+            </div>
+            <div class="gallery-item-caption">Ganyu</div>
+          </div>
+          <div class="gallery-item" onclick="openModal(this)" data-title="Octopus" data-date="" data-description="Hand-drawn illustration">
+            <div class="gallery-item-image-container">
+              <img src="images/octopus.jpeg" alt="Octopus">
+            </div>
+            <div class="gallery-item-caption">Octopus</div>
+          </div>
+          <div class="gallery-item" onclick="openModal(this)" data-title="Amiya" data-date="" data-description="Hand-drawn character study">
+            <div class="gallery-item-image-container">
+              <img src="images/amiya.jpeg" alt="Amiya">
+            </div>
+            <div class="gallery-item-caption">Amiya</div>
+          </div>
+          <div class="gallery-item" onclick="openModal(this)" data-title="Kamado" data-date="" data-description="Hand-drawn character study">
+            <div class="gallery-item-image-container">
+              <img src="images/kamado.jpeg" alt="Kamado">
+            </div>
+            <div class="gallery-item-caption">Kamado</div>
+          </div>
+          <div class="gallery-item" onclick="openModal(this)" data-title="Kuromi" data-date="" data-description="Hand-drawn character study">
+            <div class="gallery-item-image-container">
+              <img src="images/kuromi.jpeg" alt="Kuromi">
+            </div>
+            <div class="gallery-item-caption">Kuromi</div>
+          </div>
+          <div class="gallery-item" onclick="openModal(this)" data-title="Illori" data-date="" data-description="Hand-drawn character study">
+            <div class="gallery-item-image-container">
+              <img src="images/illori.jpg" alt="Illori">
+            </div>
+            <div class="gallery-item-caption">Illori</div>
+          </div>
         </div>
-        <div class="gallery-item" onclick="openModal(this)" data-title="Kafka" data-date="" data-description="">
-          <div class="gallery-item-image-container">
-            <img src="images/kafka.jpeg" alt="Kafka">
-          </div>
-          <div class="gallery-item-caption">Kafka</div>
         </div>
-        <div class="gallery-item" onclick="openModal(this)" data-title="Ganyu" data-date="" data-description="">
-          <div class="gallery-item-image-container">
-            <img src="images/ganyu.jpeg" alt="Ganyu">
-          </div>
-          <div class="gallery-item-caption">Ganyu</div>
+      </div>
+
+      <!-- AI Art -->
+      <div class="album-section" id="ai-art">
+        <header>
+          <h3>AI Art</h3>
+          <p>Generative stills and short live-wallpaper loops</p>
+        </header>
+
+        <div class="workflow-box">
+          <h4>Workflow</h4>
+          <p>
+            I use a ComfyUI-based pipeline for stills and motion: text-to-image for keyframes,
+            then image-to-video / live-wallpaper nodes for short loops. Some wallpaper frames
+            come from Anima-style workflows; motion clips use FLF2V-style video generation.
+          </p>
+          <ol>
+            <li>Prompt + reference → text / image to image stills</li>
+            <li>Select keyframes → refine composition and lighting</li>
+            <li>Feed stills into video / live-wallpaper nodes for short loops</li>
+            <li>Export curated frames and clips for this gallery</li>
+          </ol>
+          <p style="margin:0.75rem 0 0;opacity:0.75;font-size:0.9rem;">
+            Tip: replace this paragraph later with your exact node graph, model names, or a workflow screenshot.
+          </p>
         </div>
-        <div class="gallery-item" onclick="openModal(this)" data-title="Octopus" data-date="" data-description="">
-          <div class="gallery-item-image-container">
-            <img src="images/octopus.jpeg" alt="Octopus">
-          </div>
-          <div class="gallery-item-caption">Octopus</div>
+
+        <div class="gallery-shell">
+          <div class="gallery" id="ai-gallery"></div>
         </div>
-        <div class="gallery-item" onclick="openModal(this)" data-title="Amiya" data-date="" data-description="">
-          <div class="gallery-item-image-container">
-            <img src="images/amiya.jpeg" alt="Amiya">
+
+        <header style="margin-top:2rem;">
+          <h3 style="font-size:1.25rem;">Live loops</h3>
+        </header>
+        <div class="gallery-shell">
+        <div class="video-grid">
+          <div class="video-card">
+            <video src="images/ai-art/videos/live-01.mp4" muted loop playsinline autoplay></video>
+            <div class="caption">Live wallpaper 01</div>
           </div>
-          <div class="gallery-item-caption">Amiya</div>
+          <div class="video-card">
+            <video src="images/ai-art/videos/live-02.mp4" muted loop playsinline autoplay></video>
+            <div class="caption">Live wallpaper 02</div>
+          </div>
+          <div class="video-card">
+            <video src="images/ai-art/videos/live-03.mp4" muted loop playsinline autoplay></video>
+            <div class="caption">Live wallpaper 03</div>
+          </div>
         </div>
-        <div class="gallery-item" onclick="openModal(this)" data-title="Kamado" data-date="" data-description="">
-          <div class="gallery-item-image-container">
-            <img src="images/kamado.jpeg" alt="Kamado">
-          </div>
-          <div class="gallery-item-caption">Kamado</div>
-        </div>
-        <div class="gallery-item" onclick="openModal(this)" data-title="Kuromi" data-date="" data-description="">
-          <div class="gallery-item-image-container">
-            <img src="images/kuromi.jpeg" alt="Kuromi">
-          </div>
-          <div class="gallery-item-caption">Kuromi</div>
-        </div>
-        <div class="gallery-item" onclick="openModal(this)" data-title="Illori" data-date="" data-description="">
-          <div class="gallery-item-image-container">
-            <img src="images/illori.jpg" alt="Illori">
-          </div>
-          <div class="gallery-item-caption">Illori</div>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Modal -->
   <div id="imageModal" class="modal" onclick="closeModal()">
     <span class="close" onclick="closeModal()">&times;</span>
     <div class="modal-container">
@@ -233,51 +422,64 @@
   </div>
 
   <script>
+    var aiImages = [
+      "ai-01.png","ai-02.png","ai-03.png","ai-04.png","ai-05.png","ai-06.png","ai-07.png","ai-08.png",
+      "ai-11.png","ai-12.png","ai-13.png","ai-14.png","ai-15.png","ai-16.png","ai-17.png","ai-18.png","ai-19.png",
+      "Anima-wallpaper-00002.png","Anima-wallpaper-00007.png","Anima-wallpaper-00044.png",
+      "Anima-wallpaper-00073.png","Anima-wallpaper-00075.png"
+    ];
+
+    (function renderAiGallery() {
+      var root = document.getElementById("ai-gallery");
+      if (!root) return;
+      aiImages.forEach(function (name, idx) {
+        var title = name.indexOf("Anima") === 0 ? "Anima wallpaper" : ("AI still " + String(idx + 1).padStart(2, "0"));
+        var item = document.createElement("div");
+        item.className = "gallery-item";
+        item.setAttribute("data-title", title);
+        item.setAttribute("data-date", "");
+        item.setAttribute("data-description", "AI generative artwork");
+        item.onclick = function () { openModal(item); };
+        item.innerHTML =
+          '<div class="gallery-item-image-container">' +
+            '<img src="images/ai-art/' + name + '" alt="' + title + '">' +
+          "</div>" +
+          '<div class="gallery-item-caption">' + title + "</div>";
+        root.appendChild(item);
+      });
+    })();
+
     function openModal(el) {
-      const modal = document.getElementById("imageModal");
-      const modalImg = document.getElementById("modalImage");
-      const modalTitle = document.getElementById("modalTitle");
-      const modalDate = document.getElementById("modalDate");
-      const modalDescription = document.getElementById("modalDescription");
-      
+      var modal = document.getElementById("imageModal");
+      var modalImg = document.getElementById("modalImage");
+      var modalTitle = document.getElementById("modalTitle");
+      var modalDate = document.getElementById("modalDate");
+      var modalDescription = document.getElementById("modalDescription");
+
       modal.style.display = "block";
-      // Get image from the image container
-      const imgElement = el.querySelector(".gallery-item-image-container img") || el.querySelector("img");
+      var imgElement = el.querySelector(".gallery-item-image-container img") || el.querySelector("img");
       modalImg.src = imgElement.src;
       modalImg.alt = imgElement.alt;
-      
-      // Get data attributes
-      const title = el.getAttribute("data-title") || el.querySelector(".gallery-item-caption").innerText;
-      const date = el.getAttribute("data-date") || "";
-      const description = el.getAttribute("data-description") || "";
-      
-      modalTitle.innerText = title;
-      modalDate.innerText = date;
-      modalDescription.innerText = description;
-      
-      // Prevent body scroll when modal is open
+
+      modalTitle.innerText = el.getAttribute("data-title") || el.querySelector(".gallery-item-caption").innerText;
+      modalDate.innerText = el.getAttribute("data-date") || "";
+      modalDescription.innerText = el.getAttribute("data-description") || "";
       document.body.style.overflow = "hidden";
     }
-    
+
     function closeModal() {
       document.getElementById("imageModal").style.display = "none";
-      // Restore body scroll
       document.body.style.overflow = "auto";
     }
-    
-    // Also close with Escape key
-    document.addEventListener('keydown', function(event) {
-      if (event.key === "Escape") {
-        closeModal();
-      }
+
+    document.addEventListener("keydown", function (event) {
+      if (event.key === "Escape") closeModal();
     });
   </script>
-  <!-- Scripts -->
   <script src="assets/js/jquery.min.js"></script>
   <script src="assets/js/jquery.scrollex.min.js"></script>
   <script src="assets/js/skel.min.js"></script>
   <script src="assets/js/util.js"></script>
   <script src="assets/js/main.js"></script>
-
 </body>
 </html>

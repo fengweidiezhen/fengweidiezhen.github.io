@@ -15,6 +15,7 @@
       display: grid;
       grid-template-columns: repeat(2, minmax(0, 1fr));
       gap: 2rem;
+      margin-bottom: 2.5rem;
     }
     @media (max-width: 980px) {
       .projects-grid {
@@ -57,17 +58,117 @@
       padding: 0 1.75rem 1.75rem 1.75rem;
       text-align: right;
     }
+    .unity-block {
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      overflow: hidden;
+      margin-bottom: 2rem;
+    }
+    .unity-hero {
+      display: grid;
+      grid-template-columns: 1.2fr 1fr;
+      gap: 0;
+    }
+    @media (max-width: 980px) {
+      .unity-hero {
+        grid-template-columns: 1fr;
+      }
+    }
+    .unity-hero-media {
+      background: #111;
+      min-height: 280px;
+    }
+    .unity-hero-media img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      min-height: 280px;
+    }
+    .unity-hero-copy {
+      padding: 1.75rem;
+    }
+    .unity-hero-copy h3 {
+      margin: 0 0 0.5rem;
+    }
+    .unity-hero-copy .tagline {
+      color: #777;
+      font-size: 0.95rem;
+      margin-bottom: 1rem;
+    }
+    .unity-thumbs {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+      gap: 0.75rem;
+      padding: 0 1.75rem 1.5rem;
+    }
+    .unity-thumbs img {
+      width: 100%;
+      height: 120px;
+      object-fit: cover;
+      border-radius: 8px;
+      background: #f2f2f2;
+      cursor: pointer;
+      transition: transform 0.2s ease;
+    }
+    .unity-thumbs img:hover {
+      transform: scale(1.03);
+    }
+    .unity-icons {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+      padding: 0 1.75rem 1.75rem;
+      align-items: center;
+    }
+    .unity-icons img {
+      width: 48px;
+      height: 48px;
+      object-fit: contain;
+      background: #f5f5f5;
+      border-radius: 8px;
+      padding: 4px;
+    }
+    .unity-icons span {
+      font-size: 0.85rem;
+      color: #777;
+      margin-right: 0.5rem;
+    }
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 999;
+      inset: 0;
+      background: rgba(0,0,0,0.9);
+      cursor: pointer;
+    }
+    .modal img {
+      max-width: 90%;
+      max-height: 85vh;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      object-fit: contain;
+    }
+    .modal .close {
+      position: fixed;
+      top: 20px;
+      right: 40px;
+      color: #fff;
+      font-size: 40px;
+      font-weight: bold;
+    }
   </style>
 </head>
 <body>
 
-  <!-- Header -->
   <header id="header">
     <div class="logo"><a href="index.html">fengweidiezhen</a></div>
     <a href="#menu">Menu</a>
   </header>
 
-  <!-- Nav -->
   <nav id="menu">
     <ul class="links">
       <li><a href="index.html">Home</a></li>
@@ -75,43 +176,81 @@
       <li><a href="resume.html">Resume</a></li>
       <li><a href="research.html">Research</a></li>
       <li><a href="project.html">Projects</a></li>
+      <li><a href="album.html">Album</a></li>
     </ul>
   </nav>
 
-  <!-- Projects Header -->
   <section id="one" class="wrapper style3">
     <div class="inner">
       <header class="align-center">
-        <p>Code, games and experiments I have been working on</p>
+        <p>Engineering, games and creative experiments</p>
         <h2>Projects</h2>
       </header>
     </div>
   </section>
 
-  <!-- Projects Content -->
   <section id="two" class="wrapper style2">
     <div class="inner">
       <div class="projects-intro">
         <p>
-          Applied ML systems and engineering projects — from industrial deployment to research prototypes.
-          Details and links will be added here soon.
+          Applied ML systems, open-source experiments, and a Unity combat prototype.
+          Drawings and AI art live in the <a href="album.html">Album</a>.
         </p>
       </div>
 
+      <!-- Unity featured project -->
+      <div class="unity-block" id="unity">
+        <div class="unity-hero">
+          <div class="unity-hero-media">
+            <img src="images/unity/concept-01.png" alt="Unity game concept art" onclick="openImg(this.src)">
+          </div>
+          <div class="unity-hero-copy">
+            <h3>Unity Arena Prototype</h3>
+            <p class="tagline">A LoL-inspired skill combat sandbox built in Unity</p>
+            <p>
+              Personal game project exploring character kits, skill VFX, and arena combat.
+              Current roster includes custom takes on Lucian, Sivir-style fighters, and original
+              character Nashi — with walk cycles, skill icons, and projectile FX.
+            </p>
+            <ul>
+              <li>Engine: Unity</li>
+              <li>Focus: character abilities, animation sheets, combat feel</li>
+              <li>Status: prototype / in progress (WebGL build coming later)</li>
+            </ul>
+          </div>
+        </div>
+        <div class="unity-thumbs">
+          <img src="images/unity/cover-all.png" alt="Roster overview" onclick="openImg(this.src)">
+          <img src="images/unity/character-nashi.png" alt="Nashi" onclick="openImg(this.src)">
+          <img src="images/unity/character-nashi-walk.png" alt="Nashi walk" onclick="openImg(this.src)">
+          <img src="images/unity/character-lucian.png" alt="Lucian" onclick="openImg(this.src)">
+          <img src="images/unity/character-lucian-fire.png" alt="Lucian fire" onclick="openImg(this.src)">
+          <img src="images/unity/concept-02.png" alt="Concept 2" onclick="openImg(this.src)">
+          <img src="images/unity/concept-03.png" alt="Concept 3" onclick="openImg(this.src)">
+          <img src="images/unity/concept-04.png" alt="Concept 4" onclick="openImg(this.src)">
+        </div>
+        <div class="unity-icons">
+          <span>Skill icons</span>
+          <img src="images/unity/icon-lucian_e.png" alt="Lucian E">
+          <img src="images/unity/icon-lucian_q_bullet.png" alt="Lucian Q">
+          <img src="images/unity/icon-nashi_q.png" alt="Nashi Q">
+          <img src="images/unity/icon-nashi_w.png" alt="Nashi W">
+          <img src="images/unity/icon-nashi_e.png" alt="Nashi E">
+        </div>
+      </div>
+
       <div class="projects-grid">
-        <!-- GitHub Repositories -->
         <div class="project-card">
           <div class="project-card-header">
             <h3>GitHub Repositories</h3>
-            <p>Main hub for my open-source work and experiments.</p>
+            <p>Open-source work and experiments.</p>
           </div>
           <div class="project-card-body">
-            <p>You can find my latest code, experiments and side-projects on GitHub:</p>
+            <p>Latest code and side projects:</p>
             <ul>
               <li><strong>Main profile:</strong> github.com/fengweidiezhen</li>
               <li>(Placeholder) Featured repo 1</li>
               <li>(Placeholder) Featured repo 2</li>
-              <li>(Placeholder) Featured repo 3</li>
             </ul>
           </div>
           <div class="project-card-footer">
@@ -119,32 +258,30 @@
           </div>
         </div>
 
-        <!-- Games & Interactive Projects -->
         <div class="project-card">
           <div class="project-card-header">
-            <h3>Games & Interactive Projects</h3>
-            <p>Prototypes and small games built with engines and custom tools.</p>
+            <h3>Art &amp; AI Gallery</h3>
+            <p>Hand-drawn sketches and generative art.</p>
           </div>
           <div class="project-card-body">
             <p>
-              This section is for listing my game and interactive projects. We can later add thumbnails,
-              links to builds, and short descriptions for each project.
+              The Album page collects paper drawings and AI stills / live-wallpaper loops,
+              including a short note on the ComfyUI workflow.
             </p>
-            <ul>
-              <li>(Placeholder) Unity / RPGMaker game project</li>
-              <li>(Placeholder) Small web-based game or toy</li>
-              <li>(Placeholder) Experimental AI-powered interactive demo</li>
-            </ul>
           </div>
           <div class="project-card-footer">
-            <a href="#" class="button alt">More Details (coming soon)</a>
+            <a href="album.html" class="button alt">View Album</a>
           </div>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Footer -->
+  <div id="imgModal" class="modal" onclick="closeImg()">
+    <span class="close" onclick="closeImg()">&times;</span>
+    <img id="imgModalPic" alt="Preview">
+  </div>
+
   <footer id="footer">
     <div class="container">
       <ul class="icons">
@@ -160,7 +297,20 @@
     Made with <a href="https://templated.co/">Templated</a>.
   </div>
 
-  <!-- Scripts -->
+  <script>
+    function openImg(src) {
+      document.getElementById("imgModalPic").src = src;
+      document.getElementById("imgModal").style.display = "block";
+      document.body.style.overflow = "hidden";
+    }
+    function closeImg() {
+      document.getElementById("imgModal").style.display = "none";
+      document.body.style.overflow = "auto";
+    }
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") closeImg();
+    });
+  </script>
   <script src="assets/js/jquery.min.js"></script>
   <script src="assets/js/jquery.scrollex.min.js"></script>
   <script src="assets/js/skel.min.js"></script>
@@ -169,5 +319,3 @@
 
 </body>
 </html>
-
-
