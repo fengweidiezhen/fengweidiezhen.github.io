@@ -3,8 +3,16 @@
 	Hielo by TEMPLATED
 	templated.co @templatedco
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
---><html><head><link rel="icon" href="./favicon.ico" type="image/x-icon"><title>fengweidiezhen</title><meta charset="utf-8"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="assets/css/main.css"><style>
+--><html><head><link rel="icon" href="./favicon.ico" type="image/x-icon"><title>fengweidiezhen</title><meta charset="utf-8"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="assets/css/main.css">	<style>
+		#one .grid-style {
+			display: grid;
+			grid-template-columns: repeat(2, minmax(0, 1fr));
+			gap: 2rem;
+			align-items: stretch;
+		}
 		#one .grid-style > * {
+			width: 100% !important;
+			padding: 0 !important;
 			display: flex;
 		}
 		#one .grid-style .box {
@@ -14,21 +22,17 @@
 			height: 100%;
 		}
 		#one .grid-style .box .image.fit {
-			height: 240px;
+			height: 220px;
 			overflow: hidden;
 			margin: 0;
 			flex-shrink: 0;
-			background: #fff;
-			display: flex;
-			align-items: center;
-			justify-content: center;
+			background: #111;
+			display: block;
 		}
 		#one .grid-style .box .image.fit img {
-			width: auto;
-			height: auto;
-			max-width: 100%;
-			max-height: 100%;
-			object-fit: contain;
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
 			object-position: center;
 			display: block;
 		}
@@ -36,14 +40,28 @@
 			flex: 1;
 			display: flex;
 			flex-direction: column;
-			padding: 2.5rem 2rem;
+			padding: 2rem 1.75rem;
+		}
+		#one .grid-style .box .content header {
+			min-height: 5.5rem;
 		}
 		#one .grid-style .box .content > p {
 			flex: 1;
-			margin-bottom: 1.5rem;
+			margin-bottom: 1.25rem;
+			min-height: 4.5em;
 		}
 		#one .grid-style .box footer {
 			margin-top: auto;
+		}
+		@media screen and (max-width: 980px) {
+			#one .grid-style {
+				grid-template-columns: 1fr;
+				gap: 1.25rem;
+			}
+			#one .grid-style .box .content header,
+			#one .grid-style .box .content > p {
+				min-height: 0;
+			}
 		}
 	</style></head><body>
 		<!-- Header -->
@@ -89,7 +107,7 @@
 								<div class="content">
 									<header class="align-center"><p>Who I am</p>
 										<h2>About</h2>
-									</header><p> Background, current work in AI, research at CUHK, and how to get in touch.</p>
+									</header><p>Background, current AI work, CUHK research, and how to get in touch.</p>
 									<footer class="align-center"><a href="about.html" class="button alt">View About</a>
 									</footer></div>
 							</div>
@@ -100,9 +118,9 @@
 								<div class="image fit">
 									<img src="images/me.jpg" alt="Resume" width="600" height="300"></div>
 								<div class="content">
-									<header class="align-center"><p>Experience & Education</p>
+									<header class="align-center"><p>Experience &amp; Education</p>
 										<h2>Resume</h2>
-									</header><p> AI engineering experience, education at CUHK & Berkeley, publications and skills. PDF available for download.</p>
+									</header><p>AI engineering experience, CUHK &amp; Berkeley education, and a downloadable PDF.</p>
 									<footer class="align-center"><a href="resume.html" class="button alt">View Resume</a>
 									</footer></div>
 							</div>
@@ -115,7 +133,7 @@
 								<div class="content">
 									<header class="align-center"><p>ThermiKit · ContriCare</p>
 										<h2>Research</h2>
-									</header><p> Publications and research projects on edge thermal analytics and human-centered eldercare systems at CUHK.</p>
+									</header><p>Edge thermal analytics and human-centered eldercare systems at CUHK.</p>
 									<footer class="align-center"><a href="research.html" class="button alt">View Research</a>
 									</footer></div>
 							</div>
@@ -126,9 +144,9 @@
 								<div class="image fit">
 									<img src="images/slide05.jpg" alt="Projects" width="600" height="300"></div>
 								<div class="content">
-									<header class="align-center"><p>ML, Unity &amp; prototypes</p>
+									<header class="align-center"><p>ML &amp; Unity</p>
 										<h2>Projects</h2>
-									</header><p> Industrial AI systems, a playable Unity survivor demo, and other engineering experiments.</p>
+									</header><p>Industrial AI systems, a playable Unity survivor demo, and prototypes.</p>
 									<footer class="align-center"><a href="project.html" class="button alt">View Projects</a>
 									</footer></div>
 							</div>
@@ -139,9 +157,9 @@
 								<div class="image fit">
 									<img src="images_watermark/amiya.jpeg" alt="Album" width="600" height="300"></div>
 								<div class="content">
-									<header class="align-center"><p>Hand-drawn &amp; generative</p>
+									<header class="align-center"><p>Hand-drawn &amp; AI</p>
 										<h2>Album</h2>
-									</header><p> Character studies on paper and AI stills / live wallpapers, with notes on the ComfyUI workflow.</p>
+									</header><p>Character studies, AI stills and live wallpapers, plus ComfyUI notes.</p>
 									<footer class="align-center"><a href="album.html" class="button alt">View Album</a>
 									</footer></div>
 							</div>
