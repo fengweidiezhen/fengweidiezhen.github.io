@@ -135,6 +135,12 @@
       color: #777;
       margin-right: 0.5rem;
     }
+    .unity-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      margin-top: 1.25rem;
+    }
     .modal {
       display: none;
       position: fixed;
@@ -193,30 +199,35 @@
     <div class="inner">
       <div class="projects-intro">
         <p>
-          Applied ML systems, open-source experiments, and a Unity combat prototype.
+          Applied ML systems, open-source experiments, and a playable Unity survivor demo.
           Drawings and AI art live in the <a href="album.html">Album</a>.
         </p>
       </div>
 
-      <!-- Unity featured project -->
-      <div class="unity-block" id="unity">
+      <!-- Survivor Demo (Unity) -->
+      <div class="unity-block" id="survivor-demo">
         <div class="unity-hero">
           <div class="unity-hero-media">
-            <img src="images/unity/concept-01.png" alt="Unity game concept art" onclick="openImg(this.src)">
+            <img src="images/unity/concept-01.png" alt="Survivor Demo concept art" onclick="openImg(this.src)">
           </div>
           <div class="unity-hero-copy">
-            <h3>Unity Arena Prototype</h3>
-            <p class="tagline">A LoL-inspired skill combat sandbox built in Unity</p>
+            <h3>Survivor Demo</h3>
+            <p class="tagline">A LoL-themed 2D survivor game built in Unity</p>
             <p>
-              Personal game project exploring character kits, skill VFX, and arena combat.
-              Current roster includes custom takes on Lucian, Sivir-style fighters, and original
-              character Nashi — with walk cycles, skill icons, and projectile FX.
+              Pick a champion and a difficulty, clear waves while leveling up and buying gear,
+              then face Baron Nashor. Clear the run to unlock endless mode.
+              Playable Windows build is on GitHub Releases (source not public).
             </p>
             <ul>
-              <li>Engine: Unity</li>
-              <li>Focus: character abilities, animation sheets, combat feel</li>
-              <li>Status: prototype / in progress (WebGL build coming later)</li>
+              <li>Engine: Unity · Platform: Windows 10 / 11 (64-bit)</li>
+              <li>Roster: Sivir &amp; Lucian (+ custom kits / VFX work)</li>
+              <li>Features: upgrades, shop, Boss fight, endless mode, gamepad support</li>
+              <li>Status: v1.0.0 downloadable demo</li>
             </ul>
+            <div class="unity-actions">
+              <a href="https://github.com/fengweidiezhen/Survivor-Demo/releases" class="button special" target="_blank" rel="noopener">Download (Windows)</a>
+              <a href="https://github.com/fengweidiezhen/Survivor-Demo" class="button alt" target="_blank" rel="noopener">GitHub Repo</a>
+            </div>
           </div>
         </div>
         <div class="unity-thumbs">
@@ -246,15 +257,17 @@
             <p>Open-source work and experiments.</p>
           </div>
           <div class="project-card-body">
-            <p>Latest code and side projects:</p>
+            <p>Featured repos:</p>
             <ul>
-              <li><strong>Main profile:</strong> github.com/fengweidiezhen</li>
-              <li>(Placeholder) Featured repo 1</li>
-              <li>(Placeholder) Featured repo 2</li>
+              <li>
+                <strong><a href="https://github.com/fengweidiezhen/Survivor-Demo" target="_blank" rel="noopener">Survivor-Demo</a></strong>
+                — Windows build of the Unity survivor game
+              </li>
+              <li><strong>Profile:</strong> <a href="https://github.com/fengweidiezhen" target="_blank" rel="noopener">github.com/fengweidiezhen</a></li>
             </ul>
           </div>
           <div class="project-card-footer">
-            <a href="https://github.com/fengweidiezhen" class="button alt" target="_blank">View GitHub</a>
+            <a href="https://github.com/fengweidiezhen" class="button alt" target="_blank" rel="noopener">View GitHub</a>
           </div>
         </div>
 
