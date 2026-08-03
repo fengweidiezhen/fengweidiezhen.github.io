@@ -23,11 +23,64 @@
     .about-info p {
       margin: 0.5rem 0;
     }
-    .about-links {
-      margin-top: 1.5rem;
+    .about-actions {
+      margin-top: 1.75rem;
+      padding-top: 1.25rem;
+      border-top: 1px solid rgba(0, 0, 0, 0.1);
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 1rem 1.5rem;
     }
-    .about-links a {
-      margin-right: 1rem;
+    .about-page-links {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.35rem 0;
+    }
+    .about-page-links a {
+      color: #333 !important;
+      text-decoration: none;
+      font-size: 0.95rem;
+      letter-spacing: 0.02em;
+      padding: 0.15rem 0.55rem;
+      border-radius: 2px;
+      transition: color 0.15s ease, background-color 0.15s ease;
+    }
+    .about-page-links a:hover {
+      color: #111 !important;
+      background-color: rgba(0, 0, 0, 0.06);
+    }
+    .about-page-links a + a::before {
+      content: "·";
+      margin-right: 0.55rem;
+      color: #bbb;
+      pointer-events: none;
+    }
+    .about-actions .button,
+    .wrapper.style2 .about-actions .button {
+      width: auto;
+      padding: 0 1.25rem;
+      height: 2.5rem;
+      line-height: 2.5rem;
+      font-size: 0.8rem;
+      background-color: #111 !important;
+      color: #fff !important;
+      box-shadow: none;
+    }
+    .about-actions .button:hover,
+    .wrapper.style2 .about-actions .button:hover {
+      background-color: #333 !important;
+    }
+    .about-actions .button:active,
+    .wrapper.style2 .about-actions .button:active {
+      background-color: #000 !important;
+    }
+    @media screen and (max-width: 480px) {
+      .about-actions .button {
+        width: auto;
+        padding: 0 1.25rem;
+      }
     }
   </style>
 </head>
@@ -75,10 +128,13 @@
                 on edge hardware to human-centered platforms for ageing communities. I am currently
                 looking for AI engineering opportunities in Hong Kong.
               </p>
-              <div class="about-links">
-                <a href="research.html" class="button alt">Research</a>
-                <a href="resume.html" class="button">Resume</a>
-                <a href="album.html" class="button">Album</a>
+              <div class="about-actions">
+                <nav class="about-page-links" aria-label="Related pages">
+                  <a href="research.html">Research</a>
+                  <a href="resume.html">Resume</a>
+                  <a href="project.html">Projects</a>
+                  <a href="album.html">Album</a>
+                </nav>
                 <a href="assets/resume.pdf" class="button" download>Download CV</a>
               </div>
             </div>
