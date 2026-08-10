@@ -372,7 +372,7 @@
       <div class="album-section" id="ai-art">
         <header>
           <h3>AI Art</h3>
-          <p>Generative stills and short live-wallpaper loops</p>
+          <p>A curated selection of generative stills and live-wallpaper loops</p>
         </header>
 
         <div class="workflow-box">
@@ -472,11 +472,17 @@
   </div>
 
   <script>
+    // Curated picks only — keep the gallery short and high-signal
     var aiImages = [
-      "ai-01.png","ai-02.png","ai-03.png","ai-04.png","ai-05.png","ai-06.png","ai-07.png","ai-08.png",
-      "ai-11.png","ai-12.png","ai-13.png","ai-14.png","ai-15.png","ai-16.png","ai-17.png","ai-18.png","ai-19.png",
-      "Anima-wallpaper-00002.png","Anima-wallpaper-00007.png","Anima-wallpaper-00044.png",
-      "Anima-wallpaper-00073.png","Anima-wallpaper-00075.png"
+      "ai-18.png",
+      "ai-01.png",
+      "ai-03.png",
+      "ai-07.png",
+      "ai-12.png",
+      "ai-15.png",
+      "Anima-wallpaper-00002.png",
+      "Anima-wallpaper-00044.png",
+      "Anima-wallpaper-00075.png"
     ];
 
     (function renderAiGallery() {
@@ -492,7 +498,7 @@
         item.onclick = function () { openModal(item); };
         item.innerHTML =
           '<div class="gallery-item-image-container">' +
-            '<img src="images_watermark/ai-art/' + name + '" alt="' + title + '">' +
+            '<img src="images_watermark/ai-art/' + name + '" alt="' + title + '" loading="lazy" width="960" height="540">' +
           "</div>" +
           '<div class="gallery-item-caption">' + title + "</div>";
         root.appendChild(item);
